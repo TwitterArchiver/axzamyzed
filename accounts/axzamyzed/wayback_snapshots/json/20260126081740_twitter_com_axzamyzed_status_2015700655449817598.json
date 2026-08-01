@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015685154484949089",
+    "created_at": "2026-01-26T08:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T09:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015700655449817598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618557658163970049",
+          "start": 0,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015700655449817598",
+    "in_reply_to_user_id": "1618557658163970049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015685154484949089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf5 图灵的诅咒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2015685146092171264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_km9ffa8AAmZBQ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015685154484949089",
+        "created_at": "2026-01-26T08:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015700655449817598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015700655449817598",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015685154484949089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 图灵的诅咒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015685146092171264"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "2015685154484949089",
+        "created_at": "2026-01-26T07:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015685154484949089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gPjPKVnKWV",
+              "end": 23,
+              "expanded_url": "https://x.com/qqqqqf5/status/2015685154484949089/photo/1",
+              "media_key": "3_2015685146092171264",
+              "start": 0,
+              "url": "https://t.co/gPjPKVnKWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015685154484949089",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gPjPKVnKWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 250,
+          "like_count": 1745,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手不恶俗\n爱发梗图和生活日常 ｜ 偶尔爆照\n欢迎私信投稿内容\nPython/Rust/JS后端个人开发者 | 学生\nAI | 量化 | 交易\nGithub求follow\n逃生舱:@qqqqqf_\n个人网站(博客):https://t.co/FF4XPq1mIy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 97,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 138,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 115,
+                "url": "https://t.co/FF4XPq1mIy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2013835813071790433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6567,
+          "following_count": 2043,
+          "like_count": 12382,
+          "listed_count": 15,
+          "media_count": 1660,
+          "tweet_count": 4219
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

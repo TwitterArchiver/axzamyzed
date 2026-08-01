@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2033042554019872828",
+    "created_at": "2026-03-15T05:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T06:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033050822158987518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "54232411",
+          "start": 0,
+          "username": "RealCoolShen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033050822158987518",
+    "in_reply_to_user_id": "54232411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033050272386429154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealCoolShen 应该是可以成功的（你发起一次争议stripe会收推特20刀😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2033042554019872828",
+        "created_at": "2026-03-15T05:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T06:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033050822158987518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "54232411",
+              "start": 0,
+              "username": "RealCoolShen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033050822158987518",
+        "in_reply_to_user_id": "54232411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033050272386429154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealCoolShen 应该是可以成功的（你发起一次争议stripe会收推特20刀😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "54232411",
+        "conversation_id": "2033042554019872828",
+        "created_at": "2026-03-15T05:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T06:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033050272386429154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033050272386429154",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033049260091125792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 银行说只有扣费完成才行，但是扣费完成了发起正义追不回款还是要自己承担的，等于明知道会扣钱，但是只能看着它扣完钱才告诉你不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜小号 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2032383173796204591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 906,
+          "like_count": 6584,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 3915
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-06T15:21:15.000Z",
+        "description": "#货币化收益",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "货币化收益"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CreatorParty",
+                "end": 23,
+                "expanded_url": "https://t.me/CreatorParty",
+                "start": 0,
+                "url": "https://t.co/R52qkenlaF"
+              }
+            ]
+          }
+        },
+        "id": "54232411",
+        "location": "TG:@RealCoolShen",
+        "name": "CooL神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031409644812607488/islq30ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3740,
+          "following_count": 1996,
+          "like_count": 7383,
+          "listed_count": 7,
+          "media_count": 134,
+          "tweet_count": 1842
+        },
+        "url": "https://t.co/R52qkenlaF",
+        "username": "RealCoolShen",
+        "verified": false
+      }
+    ]
+  }
+}

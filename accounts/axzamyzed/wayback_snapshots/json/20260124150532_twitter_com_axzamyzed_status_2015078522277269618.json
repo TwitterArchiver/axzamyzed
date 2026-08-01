@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015077140816171504",
+    "created_at": "2026-01-24T15:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015078522277269618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015078522277269618",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015077140816171504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 学校已经成敛财的了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 236588,
+        "height": 720,
+        "media_key": "13_2014829168677056513",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014829168677056513/img/h1SkKYqibK9iSyt8.jpg",
+        "public_metrics": {
+          "view_count": 207
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829168677056513/vid/avc1/340x270/VwxBIGw6I7Y5XT0a.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829168677056513/vid/avc1/454x360/ye02ne_eGwZ-r5Pz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829168677056513/vid/avc1/908x720/7hnsL2qSedfGVUMN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014829168677056513/pl/XTVre2zxoOJVoKgX.m3u8"
+          }
+        ],
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015077140816171504",
+        "created_at": "2026-01-24T15:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015078522277269618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015078522277269618",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015077140816171504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 学校已经成敛财的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014829168677056513"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2015077140816171504",
+        "created_at": "2026-01-24T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015077140816171504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJbwjl4unE",
+              "end": 101,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2015077140816171504/video/1",
+              "media_key": "13_2014829168677056513",
+              "start": 78,
+              "url": "https://t.co/mJbwjl4unE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015077140816171504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“ 学生曝光违规补课，拒退餐费，多次反映仍遭踢皮球”\n1月23日，湖南省邵阳市邵东市，一名学生多次向教育局和机关纪委举报邵东市经纬实验学校违规收餐费问题。\n学生称学校放假前收整月餐费不吃也扣钱，放假当天只吃一顿早餐却算全天，寄宿生必须在食堂就餐；退学或未在校就读的校园卡余额虽可退，但班主任收款再转交学校，学生往往不知如何退费，半年数据已无记录。\n违规收费问题早在2018年就有人反映，12345市长热线显示已办理，但至今仍存在。学校还存在违规强制补课、政教处没收物品不归还等问题，对寄宿乡村学生造成直接经济损失，学生呼吁校方尽快解决。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2552,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“ 学生曝光违规补课，拒退餐费，多次反映仍遭踢皮球”\n1月23日，湖南省邵阳市邵东市，一名学生多次向教育局和机关纪委举报邵东市经纬实验学校违规收餐费问题。 https://t.co/mJbwjl4unE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 93,
+          "like_count": 1429,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185826,
+          "following_count": 1005,
+          "like_count": 8861,
+          "listed_count": 8518,
+          "media_count": 40606,
+          "tweet_count": 47573
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

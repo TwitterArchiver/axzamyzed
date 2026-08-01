@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2056719009241071650",
+    "created_at": "2026-05-19T14:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056744901107490883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056744901107490883",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056725954828095637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 好像语意不能变吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2056719009241071650",
+        "created_at": "2026-05-19T14:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056744901107490883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056744901107490883",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056725954828095637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 好像语意不能变吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573704119516176384",
+        "conversation_id": "2056719009241071650",
+        "created_at": "2026-05-19T13:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056725954828095637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056725954828095637",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056719009241071650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 好像就是这样缩，不管语义对不对，但是就是只留主谓宾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3433,
+          "following_count": 937,
+          "like_count": 11450,
+          "listed_count": 10,
+          "media_count": 1637,
+          "tweet_count": 6745
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "🌸摆烂博主🍭| 好看的照片都在“亮点”里 | 蓝v互关看到必回",
+        "id": "1573704119516176384",
+        "location": "🚪98 口令红包",
+        "name": "草莓泡芙🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005637712188194816/7t5VZ4y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94857,
+          "following_count": 853,
+          "like_count": 5521,
+          "listed_count": 213,
+          "media_count": 99,
+          "tweet_count": 1675
+        },
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

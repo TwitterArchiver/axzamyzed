@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040883462123458560"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2040883470226821330",
+    "created_at": "2026-04-05T20:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T21:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040883470226821330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rKaVF8RExo",
+          "end": 32,
+          "expanded_url": "https://x.com/axzamyzed/status/2040883470226821330/photo/1",
+          "media_key": "3_2040883462123458560",
+          "start": 9,
+          "url": "https://t.co/rKaVF8RExo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040883470226821330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "厨师也在菜单上吗 https://t.co/rKaVF8RExo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_2040883462123458560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFKsshvWkAA2EMj.jpg",
+        "width": 606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040883462123458560"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040883470226821330",
+        "created_at": "2026-04-05T20:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T21:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040883470226821330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKaVF8RExo",
+              "end": 32,
+              "expanded_url": "https://x.com/axzamyzed/status/2040883470226821330/photo/1",
+              "media_key": "3_2040883462123458560",
+              "start": 9,
+              "url": "https://t.co/rKaVF8RExo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040883470226821330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厨师也在菜单上吗 https://t.co/rKaVF8RExo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 932,
+          "like_count": 8387,
+          "listed_count": 4,
+          "media_count": 604,
+          "tweet_count": 5056
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

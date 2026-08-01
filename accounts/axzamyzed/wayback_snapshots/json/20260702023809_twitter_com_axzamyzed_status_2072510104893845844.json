@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2072015264049500187",
+    "created_at": "2026-07-02T02:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T03:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072510104893845844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "855209268697415681",
+          "start": 0,
+          "username": "hxhxhx0916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072510104893845844",
+    "in_reply_to_user_id": "855209268697415681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072488336347066496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hxhxhx0916 好像确实是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2072015264049500187",
+        "created_at": "2026-07-02T02:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072510104893845844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "855209268697415681",
+              "start": 0,
+              "username": "hxhxhx0916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072510104893845844",
+        "in_reply_to_user_id": "855209268697415681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072488336347066496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hxhxhx0916 好像确实是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "855209268697415681",
+        "conversation_id": "2072015264049500187",
+        "created_at": "2026-07-02T01:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072488336347066496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072488336347066496",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 707,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072015264049500187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 2个原因，一是现金支付几乎绝迹，二是销脏后，手机转账会留下记录。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4000,
+          "following_count": 927,
+          "like_count": 13854,
+          "listed_count": 12,
+          "media_count": 3047,
+          "tweet_count": 8625
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-20T23:59:13.000Z",
+        "description": "欢迎交流Prompt，一起AI创作！ 相互灵感启迪！\n                                    \n公元2026年情人节，一个9年的老推特在自学3年AI后，决定做一些改变，在这个世界留下一点什么。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dropfol.io/s/hxhxhx0916",
+                "end": 23,
+                "expanded_url": "https://dropfol.io/s/hxhxhx0916",
+                "start": 0,
+                "url": "https://t.co/3aRlkYoczc"
+              }
+            ]
+          }
+        },
+        "id": "855209268697415681",
+        "name": "hxhxhx0916",
+        "pinned_tweet_id": "2072397218066436374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063519137725566976/1o6jWRjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1214,
+          "like_count": 4769,
+          "listed_count": 7,
+          "media_count": 1338,
+          "tweet_count": 5128
+        },
+        "url": "https://t.co/3aRlkYoczc",
+        "username": "hxhxhx0916",
+        "verified": true
+      }
+    ]
+  }
+}

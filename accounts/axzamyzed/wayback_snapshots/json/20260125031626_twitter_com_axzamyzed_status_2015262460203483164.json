@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015258334975459553",
+    "created_at": "2026-01-25T03:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T04:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015262460203483164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015262460203483164",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015258334975459553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 年底多了，见怪不怪了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15087,
+        "height": 1280,
+        "media_key": "13_2015121468338626560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015121468338626560/img/-E_pvDG1qW8MLeUo.jpg",
+        "public_metrics": {
+          "view_count": 1656
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468338626560/vid/avc1/320x568/Qy6eD3F9V-NK_NNo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468338626560/vid/avc1/480x852/ol4KAGPyB1l5gznd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468338626560/vid/avc1/720x1280/dw19DoOldWDZjjXm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015121468338626560/pl/2VgrprRxh_IR5jXn.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 16082,
+        "height": 1920,
+        "media_key": "13_2015121468359610369",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015121468359610369/img/aswMlCuy8HUau-gU.jpg",
+        "public_metrics": {
+          "view_count": 193
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468359610369/vid/avc1/320x568/FarsjJBsohRacddQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468359610369/vid/avc1/480x852/9yap280oy2BDoPUb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015121468359610369/pl/G96t6GdUOfH676XZ.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468359610369/vid/avc1/1080x1920/mjhofEs7C8wSeVTO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468359610369/vid/avc1/720x1280/7qdgRqvB384Nj-bG.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 34000,
+        "height": 1920,
+        "media_key": "13_2015121468359606273",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015121468359606273/img/MeQtEaVIpMzCtsFQ.jpg",
+        "public_metrics": {
+          "view_count": 125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468359606273/vid/avc1/320x568/ofGlDSXHNIWw4izD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468359606273/vid/avc1/480x852/1IpCRphF5dh65e-s.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468359606273/vid/avc1/1080x1920/3JFts7HMlIS3pJe1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015121468359606273/pl/kMqdiIvftM7msbh2.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468359606273/vid/avc1/720x1280/CheW2JE8sr0aaMtu.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 8877,
+        "height": 1280,
+        "media_key": "13_2015121468363812864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015121468363812864/img/XQ_I97Kr9MN_hT9J.jpg",
+        "public_metrics": {
+          "view_count": 49
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468363812864/vid/avc1/320x568/YUHuOR2nnyXy-aHV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468363812864/vid/avc1/480x852/4EG0wh1Y-s6nmDat.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015121468363812864/vid/avc1/720x1280/m2SFpqP75vVpc-5g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015121468363812864/pl/uEtjR1F2NesuhEkg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015258334975459553",
+        "created_at": "2026-01-25T03:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015262460203483164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015262460203483164",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015258334975459553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 年底多了，见怪不怪了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015121468338626560",
+            "13_2015121468359610369",
+            "13_2015121468359606273",
+            "13_2015121468363812864"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015258334975459553",
+        "created_at": "2026-01-25T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015258334975459553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V4Czx3UqO6",
+              "end": 138,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2015258334975459553/video/1",
+              "media_key": "13_2015121468338626560",
+              "start": 115,
+              "url": "https://t.co/V4Czx3UqO6"
+            },
+            {
+              "display_url": "pic.x.com/V4Czx3UqO6",
+              "end": 138,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2015258334975459553/video/1",
+              "media_key": "13_2015121468359610369",
+              "start": 115,
+              "url": "https://t.co/V4Czx3UqO6"
+            },
+            {
+              "display_url": "pic.x.com/V4Czx3UqO6",
+              "end": 138,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2015258334975459553/video/1",
+              "media_key": "13_2015121468359606273",
+              "start": 115,
+              "url": "https://t.co/V4Czx3UqO6"
+            },
+            {
+              "display_url": "pic.x.com/V4Czx3UqO6",
+              "end": 138,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2015258334975459553/video/1",
+              "media_key": "13_2015121468363812864",
+              "start": 115,
+              "url": "https://t.co/V4Czx3UqO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015258334975459553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 231,
+                "start": 228,
+                "tag": "维权"
+              }
+            ]
+          },
+          "text": "1月21日，湖北省恩施土家族苗族自治州，咸丰县。欠薪，工人前往信访局要求政府介入协助讨薪。\n\n1月24日，广东省，深圳市，龙岗区，中国建筑第四工程局，承建宸峯府项目主体工程欠薪，工人跳楼讨薪，工人在楼顶大喊：“ 还我血汗钱。 ”\n\n1月20日，浙江省台州市黄岩区。沃辉模具厂。欠薪。工人反映：模具厂老板欠债五千万，卷款跑路。只留下一群未发工资的工人在工厂讨薪。\n\n1月21日，广东省茂名市信宜市平塘镇马安村。马安竹海旅游渡假区欠薪，工人在公司门口堵门讨薪。#维权"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4387,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "1月21日，湖北省恩施土家族苗族自治州，咸丰县。欠薪，工人前往信访局要求政府介入协助讨薪。\n\n1月24日，广东省，深圳市，龙岗区，中国建筑第四工程局，承建宸峯府项目主体工程欠薪，工人跳楼讨薪，工人在楼顶大喊：“ 还我血汗钱。 ” https://t.co/V4Czx3UqO6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心喵(=･ω･=)♡ 和我熟了我会很粘人｜若愿与我靠近，我会真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 152,
+          "like_count": 1550,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186260,
+          "following_count": 1005,
+          "like_count": 8862,
+          "listed_count": 8517,
+          "media_count": 40632,
+          "tweet_count": 47601
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "翅翅膀喵",
+  "username": "@axzamyzed",
+  "bio": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+  "location": "猫猫的火星基地",
+  "link": "http://hrt.transmtf.com",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 41,
+        "start": 27,
+        "username": "Kiss_light233"
+      },
+      {
+        "end": 57,
+        "start": 42,
+        "username": "tingxinzhongyu"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg"
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2019770650999603645",
+    "created_at": "2026-02-06T14:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T15:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019773546806100018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019773546806100018",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019770650999603645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 唔，我今天也写了这个卷子诶…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3276,
+        "media_key": "3_2019770634725978112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAeqsOqbcAAlO7A.jpg",
+        "width": 2457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2019770650999603645",
+        "created_at": "2026-02-06T14:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019773546806100018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019773546806100018",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019770650999603645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 唔，我今天也写了这个卷子诶…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019770634725978112"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2019770650999603645",
+        "created_at": "2026-02-06T13:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T14:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019770650999603645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrGyYIzg1T",
+              "end": 80,
+              "expanded_url": "https://x.com/amecandy_x/status/2019770650999603645/photo/1",
+              "media_key": "3_2019770634725978112",
+              "start": 57,
+              "url": "https://t.co/yrGyYIzg1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019770650999603645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od之后被爸妈发现了\n一路从抑郁症讲到谱系\n抱着妈妈哭，说都是自己不还好\n妈妈好，说他们亏待了我\n呜呜……😭🥹🥹 https://t.co/yrGyYIzg1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 512,
+          "like_count": 3208,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1755
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🍥💻🤖/ Say Know to AI / 我有抑郁症 #odtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 28,
+                "tag": "odtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东省济南市",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2018576571372876012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5390,
+          "following_count": 1871,
+          "like_count": 24382,
+          "listed_count": 16,
+          "media_count": 1087,
+          "tweet_count": 8443
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

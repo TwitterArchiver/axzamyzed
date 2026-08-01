@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015074525390762094",
+    "created_at": "2026-01-26T07:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015692320298184727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1582979968262320128",
+          "start": 0,
+          "username": "DOGEbaby6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015692320298184727",
+    "in_reply_to_user_id": "1582979968262320128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015074525390762094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOGEbaby6666 关啦，回一下谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015074518356684800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_b7mR6XcAAqIae.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015074525390762094",
+        "created_at": "2026-01-26T07:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015692320298184727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1582979968262320128",
+              "start": 0,
+              "username": "DOGEbaby6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015692320298184727",
+        "in_reply_to_user_id": "1582979968262320128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015074525390762094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGEbaby6666 关啦，回一下谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015074518356684800"
+          ]
+        },
+        "author_id": "1582979968262320128",
+        "conversation_id": "2015074525390762094",
+        "created_at": "2026-01-24T14:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015074525390762094"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/28Sklv3fxv",
+              "end": 113,
+              "expanded_url": "https://x.com/DOGEbaby6666/status/2015074525390762094/photo/1",
+              "media_key": "3_2015074518356684800",
+              "start": 90,
+              "url": "https://t.co/28Sklv3fxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015074525390762094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7719,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 198,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "开始4400，看多久能实现一万个蓝V关注，来吧。一起来。行情不咋滴，那就搞流量。\n\n是蓝V的话，关注我的我也会统一回！\n\n还差5600个，靠兄弟们了，冲啊！\n\n#蓝V互关 #互关 https://t.co/28Sklv3fxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 246,
+          "like_count": 1732,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-20T06:20:16.000Z",
+        "description": "Web3 excavator ｜ $BTC · $BNB • $ETH • $SOL · $DOGE   Holder 💰 | KOL Investor & Crypto Content Writer | Promoting top blockchain projects.",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 21,
+                "start": 17,
+                "tag": "BTC"
+              },
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "BNB"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "ETH"
+              },
+              {
+                "end": 42,
+                "start": 38,
+                "tag": "SOL"
+              },
+              {
+                "end": 50,
+                "start": 45,
+                "tag": "DOGE"
+              }
+            ]
+          }
+        },
+        "id": "1582979968262320128",
+        "name": "DOGE教父",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014552188245463040/r9445Wxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152522,
+          "following_count": 747,
+          "like_count": 2709,
+          "listed_count": 60,
+          "media_count": 72,
+          "tweet_count": 9101
+        },
+        "username": "DOGEbaby6666",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2018882215732765149",
+    "created_at": "2026-02-04T04:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018911610723836373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018911610723836373",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018882215732765149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 超低价劳动力？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2018607977973047297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOJQsvaYAE3kT6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2018608013633105920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOJSxlbsAAMMRw.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2248,
+        "media_key": "3_2018608057119637504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOJVTlbgAA-wU-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1546,
+        "media_key": "3_2018608115290435584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOJYsSbcAAOOpi.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2018882215732765149",
+        "created_at": "2026-02-04T04:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018911610723836373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018911610723836373",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018882215732765149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 超低价劳动力？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018607977973047297",
+            "3_2018608013633105920",
+            "3_2018608057119637504",
+            "3_2018608115290435584"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018882215732765149",
+        "created_at": "2026-02-04T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018882215732765149"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "赛博信访局"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ink4muY8N3",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2018882215732765149/photo/1",
+              "media_key": "3_2018607977973047297",
+              "start": 107,
+              "url": "https://t.co/Ink4muY8N3"
+            },
+            {
+              "display_url": "pic.x.com/Ink4muY8N3",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2018882215732765149/photo/1",
+              "media_key": "3_2018608013633105920",
+              "start": 107,
+              "url": "https://t.co/Ink4muY8N3"
+            },
+            {
+              "display_url": "pic.x.com/Ink4muY8N3",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2018882215732765149/photo/1",
+              "media_key": "3_2018608057119637504",
+              "start": 107,
+              "url": "https://t.co/Ink4muY8N3"
+            },
+            {
+              "display_url": "pic.x.com/Ink4muY8N3",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2018882215732765149/photo/1",
+              "media_key": "3_2018608115290435584",
+              "start": 107,
+              "url": "https://t.co/Ink4muY8N3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018882215732765149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "赛博信访局"
+              }
+            ]
+          },
+          "text": "#赛博信访局\n京东外卖变京东快递\n网友投稿：今年1月，京东外卖启动了一项“外卖员试岗快递”计划，\n让全职骑手参与快递配送，京东内部将这一调整称为“共同富裕计划”或“共富项目”,目的是帮骑手提高收入，骑手自愿参与。\n抖音上有许多骑手反馈，很多站点的快递配送任务为强制性指派，并非自愿参与，且骑手收入有所下降。\n这在越多城市引发骑手不满：快递员的时薪不如外卖员，且存在一定转换成本，让这个项目被调侃成“共负项目”。\n主要吐槽的地方是：\n1.早上8到10点，下午4到6点需要送快递，任务逐渐也从最早的20单/天，增加至40单/天。\n2.快递派件单票收入约1-1.5元，远低于外卖配送的3-5元。有骑手反映忙一早上收入仅20元左右。\n3.名为自愿参与，但站长会强制派发任务，骑手不参与或者未完成任务，会被算作旷工，甚至被处罚。甚至有站长威胁骑手，不送快递就取消外卖排班。\n4.骑手担忧接下来除了送快递，还会被指派参与卸货、分拣，彻底沦为廉价劳动力。而且全天即送外卖又送快递，休息时间被大幅压缩，在紧凑的班次控制下疲于奔命。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 54302,
+          "like_count": 157,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "#赛博信访局\n京东外卖变京东快递\n网友投稿：今年1月，京东外卖启动了一项“外卖员试岗快递”计划，\n让全职骑手参与快递配送，京东内部将这一调整称为“共同富裕计划”或“共富项目”,目的是帮骑手提高收入，骑手自愿参与。 https://t.co/Ink4muY8N3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 500,
+          "like_count": 3077,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1657
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192282,
+          "following_count": 1014,
+          "like_count": 8913,
+          "listed_count": 8547,
+          "media_count": 41021,
+          "tweet_count": 48005
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

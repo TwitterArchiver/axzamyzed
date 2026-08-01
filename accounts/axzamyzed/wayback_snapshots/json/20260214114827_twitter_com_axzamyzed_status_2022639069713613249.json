@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2022609516785782926",
+    "created_at": "2026-02-14T11:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022639069713613249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022639069713613249",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022609516785782926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 看似庆祝实则催促"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2022609508753715200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHAociXsAAvQ-4.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2022609516785782926",
+        "created_at": "2026-02-14T11:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022639069713613249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022639069713613249",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022609516785782926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 看似庆祝实则催促"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022609508753715200"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2022609516785782926",
+        "created_at": "2026-02-14T09:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022609516785782926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0SFqck8qC3",
+              "end": 35,
+              "expanded_url": "https://x.com/NagiExpress/status/2022609516785782926/photo/1",
+              "media_key": "3_2022609508753715200",
+              "start": 12,
+              "url": "https://t.co/0SFqck8qC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022609516785782926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 484,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提前庆祝一下5k fo https://t.co/0SFqck8qC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 646,
+          "like_count": 3840,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2090
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "病娇xnh拿刀捅我也是可接受的🥵🥵🥵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2022396120601698464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018463315022774273/QUHBbrKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4981,
+          "following_count": 2203,
+          "like_count": 22444,
+          "listed_count": 7,
+          "media_count": 1939,
+          "tweet_count": 19000
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

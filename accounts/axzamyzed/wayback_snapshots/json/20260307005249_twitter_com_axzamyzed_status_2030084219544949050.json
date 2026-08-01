@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2030063684123254985",
+    "created_at": "2026-03-07T00:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T01:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030084219544949050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1585339869445779456",
+          "start": 0,
+          "username": "mikawaifusuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030084219544949050",
+    "in_reply_to_user_id": "1585339869445779456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030063684123254985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikawaifusuki 自从和一个药娘互关了之后，我现在关注列表基本全都是，自己也快是了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2030063684123254985",
+        "created_at": "2026-03-07T00:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T01:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030084219544949050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585339869445779456",
+              "start": 0,
+              "username": "mikawaifusuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030084219544949050",
+        "in_reply_to_user_id": "1585339869445779456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030063684123254985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikawaifusuki 自从和一个药娘互关了之后，我现在关注列表基本全都是，自己也快是了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585339869445779456",
+        "conversation_id": "2030063684123254985",
+        "created_at": "2026-03-06T23:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030063684123254985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030063684123254985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 797,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推特第一定律：只要你无意间为一个药娘的推文点赞，那么你的时间线就会永久性地推送药娘。\n\n推特第二定律：只要你被一个药娘关注，那么你在未来就将会被一串药娘关注，并且她们认为你也是药娘。\n\n推特第三定律：黄推 建政 药娘三位一体，构成主线剧情。如果拒绝建政与黄推，那你的时间线就全是药娘了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 938,
+          "like_count": 6015,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 3430
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-26T18:37:43.000Z",
+        "description": "主页置顶转发原神动态抽奖 | 赛博老婆@miaowuqvq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "miaowuqvq"
+              }
+            ]
+          }
+        },
+        "id": "1585339869445779456",
+        "location": "IP属地：河南 ",
+        "name": "小鸟游星野💈",
+        "pinned_tweet_id": "1973893927108542625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748095987724201984/Af1IOmbP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2733,
+          "following_count": 100,
+          "like_count": 38217,
+          "listed_count": 20,
+          "media_count": 723,
+          "tweet_count": 9906
+        },
+        "username": "mikawaifusuki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2042003382211375127",
+    "created_at": "2026-04-08T23:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T00:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042024463345316266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042024463345316266",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042003382211375127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 回复要有深度能吸引人才会引来贴主回复你，就会有更多人给你点赞评论。他们才会在tl上看到你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042003373348810753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFanP8Ka8AErgpM.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042003373378142208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFanP8RagAAIShj.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2042003382211375127",
+        "created_at": "2026-04-08T23:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T00:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042024463345316266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042024463345316266",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042003382211375127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 回复要有深度能吸引人才会引来贴主回复你，就会有更多人给你点赞评论。他们才会在tl上看到你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042003373348810753",
+            "3_2042003373378142208"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042003382211375127",
+        "created_at": "2026-04-08T22:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042003382211375127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXdZvzgJ8X",
+              "end": 167,
+              "expanded_url": "https://x.com/TOOBE775/status/2042003382211375127/photo/1",
+              "media_key": "3_2042003373348810753",
+              "start": 144,
+              "url": "https://t.co/NXdZvzgJ8X"
+            },
+            {
+              "display_url": "pic.x.com/NXdZvzgJ8X",
+              "end": 167,
+              "expanded_url": "https://x.com/TOOBE775/status/2042003382211375127/photo/1",
+              "media_key": "3_2042003373378142208",
+              "start": 144,
+              "url": "https://t.co/NXdZvzgJ8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042003382211375127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 317,
+                "start": 310,
+                "tag": "灰度社会观察"
+              },
+              {
+                "end": 323,
+                "start": 318,
+                "tag": "流量日记"
+              }
+            ]
+          },
+          "text": "大家好啊！新的一天开始了！\n\n有人问我说，你让我专心回复，可我回复多了被算法限制了，为什么？🤔\n\n我一直没被限制过，好象还被鼓励了。现在看来，问题出现在回复的深度上。\n\n你看我每天几百条回复，但仅限在特定人群中。大多都是和老友相互聊天，这样形成的对话链条是算法喜欢的形式，它就会推荐你。\n\n如果你为了回复而回复，一句话完事拍屁股走人，回复多了反而会被认为是刷回复量，当然会被算法限制🚫\n\n把回复当成和朋友聊天，而不是应付工作，这样就会好很多。尤其你和贴主的深度互动，会增加你的权重。\n\n以上纯属个人见解，仅供大家参考，有不同看法的，咱们可以在评论区拔刀相见。\n\n还有就是，上X的时候，要保持快乐的心态，祝大家玩的开心！\n#灰度社会观察 #流量日记"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好啊！新的一天开始了！\n\n有人问我说，你让我专心回复，可我回复多了被算法限制了，为什么？🤔\n\n我一直没被限制过，好象还被鼓励了。现在看来，问题出现在回复的深度上。\n\n你看我每天几百条回复，但仅限在特定人群中。大多都是和老友相互聊天，这样形成的对话链条是算法喜欢的形式，它就会推荐你。 https://t.co/NXdZvzgJ8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 926,
+          "like_count": 8583,
+          "listed_count": 4,
+          "media_count": 659,
+          "tweet_count": 5186
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2039160301560709442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 1889,
+          "like_count": 16295,
+          "listed_count": 10,
+          "media_count": 348,
+          "tweet_count": 13017
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

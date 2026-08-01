@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2071128125262741983",
+    "created_at": "2026-06-28T12:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071208638707044442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1661650938065559554",
+          "start": 0,
+          "username": "Xchen963"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071208638707044442",
+    "in_reply_to_user_id": "1661650938065559554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071165004867686798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xchen963 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2071128125262741983",
+        "created_at": "2026-06-28T12:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071208638707044442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1661650938065559554",
+              "start": 0,
+              "username": "Xchen963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071208638707044442",
+        "in_reply_to_user_id": "1661650938065559554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071165004867686798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xchen963 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661650938065559554",
+        "conversation_id": "2071128125262741983",
+        "created_at": "2026-06-28T09:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071165004867686798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071165004867686798",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071128125262741983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 想到一个成语“半生不熟”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3957,
+          "following_count": 926,
+          "like_count": 13692,
+          "listed_count": 10,
+          "media_count": 2969,
+          "tweet_count": 8517
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-25T08:30:41.000Z",
+        "description": "星辰｜观察员\n\n关注每一个值得一笑的瞬间。\n\n分享生活，在互联网捡梗。\n\n分享神评论、段子、热梗和吐槽。\n\n专治评论区没梗，热门评论制造机。",
+        "id": "1661650938065559554",
+        "name": "星辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070894193346772992/i2en-QN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 920,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "Xchen963",
+        "verified": true
+      }
+    ]
+  }
+}

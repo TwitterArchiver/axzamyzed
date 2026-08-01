@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2058705889700544744",
+    "created_at": "2026-05-25T13:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058907426074870067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1966316573116739584",
+          "start": 0,
+          "username": "Clanturn0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058907426074870067",
+    "in_reply_to_user_id": "1966316573116739584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058895989982036369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Clanturn0001 我去真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2058705889700544744",
+        "created_at": "2026-05-25T13:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058907426074870067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966316573116739584",
+              "start": 0,
+              "username": "Clanturn0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058907426074870067",
+        "in_reply_to_user_id": "1966316573116739584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058895989982036369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clanturn0001 我去真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966316573116739584",
+        "conversation_id": "2058705889700544744",
+        "created_at": "2026-05-25T13:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058895989982036369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058895989982036369",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 877,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058705889700544744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 好像还有一位三界外的耿姓大师，令一众偷修假功之辈闻风丧胆😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3470,
+          "following_count": 950,
+          "like_count": 11747,
+          "listed_count": 11,
+          "media_count": 1787,
+          "tweet_count": 6955
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-12T01:43:15.000Z",
+        "description": "VOCALOID痴，木柜子痴，适当键政（不随地拉屎）\n立场在左与建制区间内随机分布，尊重领袖，喜欢玩领袖的无恶意梗\n不一定互fo，不好意思orz",
+        "id": "1966316573116739584",
+        "name": "Clanturn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050613857618628609/neWGq6Dd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 374,
+          "like_count": 1273,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 340
+        },
+        "username": "Clanturn0001",
+        "verified": false
+      }
+    ]
+  }
+}

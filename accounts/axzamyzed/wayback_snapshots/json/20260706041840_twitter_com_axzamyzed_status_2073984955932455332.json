@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2073973460049760684",
+    "created_at": "2026-07-06T04:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073984955932455332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "938115028871467009",
+          "start": 0,
+          "username": "samliu0105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073984955932455332",
+    "in_reply_to_user_id": "938115028871467009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073980535958016077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samliu0105 死去的记忆开始攻击我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2073980530983624704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhCTfRa4AAoUl1.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2073973460049760684",
+        "created_at": "2026-07-06T04:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073984955932455332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "938115028871467009",
+              "start": 0,
+              "username": "samliu0105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073984955932455332",
+        "in_reply_to_user_id": "938115028871467009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073980535958016077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samliu0105 死去的记忆开始攻击我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073980530983624704"
+          ]
+        },
+        "author_id": "938115028871467009",
+        "conversation_id": "2073973460049760684",
+        "created_at": "2026-07-06T04:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073980535958016077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSUbxFq7uu",
+              "end": 38,
+              "expanded_url": "https://x.com/samliu0105/status/2073980535958016077/photo/1",
+              "media_key": "3_2073980530983624704",
+              "start": 15,
+              "url": "https://t.co/pSUbxFq7uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073980535958016077",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073973460049760684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 爆爆蛋 https://t.co/pSUbxFq7uu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4041,
+          "following_count": 929,
+          "like_count": 14063,
+          "listed_count": 12,
+          "media_count": 3155,
+          "tweet_count": 8782
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-05T18:37:06.000Z",
+        "description": "每天没事干？不如和我一起搬史去，每日收入0元，就是为了让大家x有股味。",
+        "id": "938115028871467009",
+        "location": "The moon",
+        "name": "Sam liu",
+        "pinned_tweet_id": "2067869786634330283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070531101463109632/Ggdn8kH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 676,
+          "like_count": 4405,
+          "listed_count": 0,
+          "media_count": 1229,
+          "tweet_count": 2949
+        },
+        "url": "",
+        "username": "samliu0105",
+        "verified": true
+      }
+    ]
+  }
+}

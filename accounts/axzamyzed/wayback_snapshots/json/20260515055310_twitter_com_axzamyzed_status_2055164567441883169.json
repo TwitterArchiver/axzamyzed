@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2055152469332897946",
+    "created_at": "2026-05-15T05:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055164567441883169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1457686450577707019",
+          "start": 0,
+          "username": "fly_in_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055164567441883169",
+    "in_reply_to_user_id": "1457686450577707019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055152469332897946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fly_in_X 直接保存会有AI的metadata，但是其实就算截图了也有暗水印，只不过x无法识别就是了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1057,
+        "media_key": "3_2055152244421795840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVeE-AboAAnsA5.jpg",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2055152469332897946",
+        "created_at": "2026-05-15T05:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055164567441883169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1457686450577707019",
+              "start": 0,
+              "username": "fly_in_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055164567441883169",
+        "in_reply_to_user_id": "1457686450577707019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055152469332897946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fly_in_X 直接保存会有AI的metadata，但是其实就算截图了也有暗水印，只不过x无法识别就是了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055152244421795840"
+          ]
+        },
+        "author_id": "1457686450577707019",
+        "conversation_id": "2055152469332897946",
+        "created_at": "2026-05-15T05:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055152469332897946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGcMbYDF95",
+              "end": 102,
+              "expanded_url": "https://x.com/fly_in_X/status/2055152469332897946/photo/1",
+              "media_key": "3_2055152244421795840",
+              "start": 79,
+              "url": "https://t.co/hGcMbYDF95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055152469332897946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，如果你直接右键复制GPT生成的图片，然后粘贴到X上发帖，就会提示“由AI生成”，如果你使用截图发布，就不会提示，确实是这样的，AI生成的有隐藏水印。👇 https://t.co/hGcMbYDF95"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3379,
+          "following_count": 935,
+          "like_count": 11316,
+          "listed_count": 10,
+          "media_count": 1535,
+          "tweet_count": 6608
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-08T12:28:44.000Z",
+        "description": "认真学习中~~偶尔有些奇奇怪怪的想法~~",
+        "id": "1457686450577707019",
+        "name": "笑点有点高",
+        "pinned_tweet_id": "2054092912972177726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038622991517704192/k1W69aqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 1951,
+          "like_count": 1820,
+          "listed_count": 7,
+          "media_count": 798,
+          "tweet_count": 11512
+        },
+        "username": "fly_in_X",
+        "verified": true
+      }
+    ]
+  }
+}

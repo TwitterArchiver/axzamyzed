@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2029593224499667450",
+    "created_at": "2026-03-05T16:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029593554423787925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029593554423787925",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029593224499667450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu 你们真牛逼👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2029593224499667450",
+        "created_at": "2026-03-05T16:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029593554423787925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029593554423787925",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029593224499667450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu 你们真牛逼👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2029593224499667450",
+        "created_at": "2026-03-05T16:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029593224499667450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/un_krvy/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/un_krvy/status/2029586099006492680",
+              "start": 33,
+              "url": "https://t.co/SE0Sakrc0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029593224499667450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029586099006492680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在psydrugs wiki正在使用邀请制处方单生成，快来试试 https://t.co/SE0Sakrc0E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 929,
+          "like_count": 5917,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 3370
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 773,
+          "like_count": 2959,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2024287819984945499",
+    "created_at": "2026-02-19T01:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024288927289659473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024288927289659473",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024287819984945499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 其他的该说不说，Apple全方面的服务和让用户感到舒服这块确实没得说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2024226227104497664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBd_B1uXwAAdMNc.jpg",
+        "width": 690
+      },
+      {
+        "height": 1356,
+        "media_key": "3_2024226242954747904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBd_CwxXYAAvhn8.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2024287819984945499",
+        "created_at": "2026-02-19T01:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024288927289659473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024288927289659473",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024287819984945499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 其他的该说不说，Apple全方面的服务和让用户感到舒服这块确实没得说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024226227104497664",
+            "3_2024226242954747904"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2024287819984945499",
+        "created_at": "2026-02-19T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024287819984945499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RdXKyzTQBa",
+              "end": 86,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2024287819984945499/photo/1",
+              "media_key": "3_2024226227104497664",
+              "start": 63,
+              "url": "https://t.co/RdXKyzTQBa"
+            },
+            {
+              "display_url": "pic.x.com/RdXKyzTQBa",
+              "end": 86,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2024287819984945499/photo/1",
+              "media_key": "3_2024226242954747904",
+              "start": 63,
+              "url": "https://t.co/RdXKyzTQBa"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2021019030669193617",
+              "start": 87,
+              "url": "https://t.co/9qkEnoWqK3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024287819984945499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1484,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021019030669193617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "华为在外网发了“Happy Lunar New Year”\n而苹果在外网发了“Happy Chinese New Year” https://t.co/RdXKyzTQBa https://t.co/9qkEnoWqK3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2023990485409268071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 749,
+          "like_count": 4154,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2303
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192763,
+          "following_count": 1016,
+          "like_count": 9018,
+          "listed_count": 8566,
+          "media_count": 41700,
+          "tweet_count": 48708
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

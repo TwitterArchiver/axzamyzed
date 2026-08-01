@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2033035154600681791",
+    "created_at": "2026-03-15T05:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T06:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033050297439043707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1723532985679704064",
+          "start": 0,
+          "username": "HFLMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033050297439043707",
+    "in_reply_to_user_id": "1723532985679704064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033035154600681791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HFLMTF 信用卡账号密码是什么鬼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2033035154600681791",
+        "created_at": "2026-03-15T05:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T06:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033050297439043707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFLMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033050297439043707",
+        "in_reply_to_user_id": "1723532985679704064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033035154600681791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFLMTF 信用卡账号密码是什么鬼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723532985679704064",
+        "conversation_id": "2033035154600681791",
+        "created_at": "2026-03-15T04:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T05:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033035154600681791"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "唐毓文"
+            },
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "爱吃蛋"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033035154600681791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "知道什么叫以身入局，胜天半子吗？😡\n现在我已经有老唐的运维面板账号，网站后台还有他服务器的ssh root密码，还有他的谷歌账号，信用卡账号密码，域名注册服务商的账号密码，Cloudflare账号密码等等等等🤣🤣🤣\n#唐毓文 #爱吃蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜小号 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2032383173796204591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 906,
+          "like_count": 6581,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 3914
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007出厂/大一喽😋/165-46kg/欢迎扩列(记得私信)喵~/🚪52？/🧊🍵酱是我⭐💢(兼老公)@coldtea2025   /   🙏特注:推上搞搞抽象滴，本人完全不一样的，请勿上纲上线当真喽~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "coldtea2025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfrin.com",
+                "end": 23,
+                "expanded_url": "https://www.hfrin.com/",
+                "start": 0,
+                "url": "https://t.co/N9WRdgcDlZ"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "你心里❤️",
+        "name": "HFRin",
+        "pinned_tweet_id": "1963271742782427557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994968042296778752/utd9W8jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 205,
+          "like_count": 2113,
+          "listed_count": 4,
+          "media_count": 375,
+          "tweet_count": 2475
+        },
+        "url": "https://t.co/N9WRdgcDlZ",
+        "username": "HFLMTF",
+        "verified": false
+      }
+    ]
+  }
+}

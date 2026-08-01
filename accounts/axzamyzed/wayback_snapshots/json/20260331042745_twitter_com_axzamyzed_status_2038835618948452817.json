@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038817847795974144",
+        "3_2038817847787622400"
+      ],
+      "media_source_tweet_id": [
+        "2038817856604016809",
+        "2038817856604016809"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038835618948452817",
+    "created_at": "2026-03-31T04:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038835618948452817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Yujiudu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hMTcHfg6LN",
+          "end": 76,
+          "expanded_url": "https://x.com/Yujiudu/status/2038817856604016809/photo/1",
+          "media_key": "3_2038817847795974144",
+          "start": 53,
+          "url": "https://t.co/hMTcHfg6LN"
+        },
+        {
+          "display_url": "pic.x.com/hMTcHfg6LN",
+          "end": 76,
+          "expanded_url": "https://x.com/Yujiudu/status/2038817856604016809/photo/1",
+          "media_key": "3_2038817847787622400",
+          "start": 53,
+          "url": "https://t.co/hMTcHfg6LN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038835618948452817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038817856604016809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yujiudu: 没想到AI居然都这么符合中国特色 \n不愧是东大的科研👍（左为豆包 右为GPT） https://t.co/hMTcHfg6LN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2038817847795974144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtWB8ubAAAOxuc.jpg",
+        "width": 1290
+      },
+      {
+        "height": 890,
+        "media_key": "3_2038817847787622400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtWB8sbkAAvlyl.jpg",
+        "width": 558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038817847795974144",
+            "3_2038817847787622400"
+          ],
+          "media_source_tweet_id": [
+            "2038817856604016809",
+            "2038817856604016809"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038835618948452817",
+        "created_at": "2026-03-31T04:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038835618948452817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Yujiudu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hMTcHfg6LN",
+              "end": 76,
+              "expanded_url": "https://x.com/Yujiudu/status/2038817856604016809/photo/1",
+              "media_key": "3_2038817847795974144",
+              "start": 53,
+              "url": "https://t.co/hMTcHfg6LN"
+            },
+            {
+              "display_url": "pic.x.com/hMTcHfg6LN",
+              "end": 76,
+              "expanded_url": "https://x.com/Yujiudu/status/2038817856604016809/photo/1",
+              "media_key": "3_2038817847787622400",
+              "start": 53,
+              "url": "https://t.co/hMTcHfg6LN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038835618948452817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038817856604016809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yujiudu: 没想到AI居然都这么符合中国特色 \n不愧是东大的科研👍（左为豆包 右为GPT） https://t.co/hMTcHfg6LN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038817847795974144",
+            "3_2038817847787622400"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2038817856604016809",
+        "created_at": "2026-03-31T03:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038817856604016809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hMTcHfg6LN",
+              "end": 63,
+              "expanded_url": "https://x.com/Yujiudu/status/2038817856604016809/photo/1",
+              "media_key": "3_2038817847795974144",
+              "start": 40,
+              "url": "https://t.co/hMTcHfg6LN"
+            },
+            {
+              "display_url": "pic.x.com/hMTcHfg6LN",
+              "end": 63,
+              "expanded_url": "https://x.com/Yujiudu/status/2038817856604016809/photo/1",
+              "media_key": "3_2038817847787622400",
+              "start": 40,
+              "url": "https://t.co/hMTcHfg6LN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038817856604016809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没想到AI居然都这么符合中国特色 \n不愧是东大的科研👍（左为豆包 右为GPT） https://t.co/hMTcHfg6LN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 928,
+          "like_count": 7992,
+          "listed_count": 2,
+          "media_count": 531,
+          "tweet_count": 4792
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役  欢迎私信找我交朋友\n买🍬可以找找@Minokakay\n推荐我自己长期使用的动兔VPN加速器https://t.co/vWxMasEtB8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dongtu2.sobotx.com/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://dongtu2.sobotx.com/#/register?code=UX4wscAS",
+                "start": 71,
+                "url": "https://t.co/vWxMasEtB8"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4336,
+          "following_count": 1943,
+          "like_count": 45758,
+          "listed_count": 7,
+          "media_count": 1209,
+          "tweet_count": 8857
+        },
+        "username": "Yujiudu",
+        "verified": true
+      }
+    ]
+  }
+}

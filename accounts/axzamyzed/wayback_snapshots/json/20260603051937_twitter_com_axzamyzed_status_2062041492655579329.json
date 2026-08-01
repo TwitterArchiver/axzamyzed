@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2062015899104841830",
+    "created_at": "2026-06-03T05:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062041492655579329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987885638038036480",
+          "start": 0,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062041492655579329",
+    "in_reply_to_user_id": "1987885638038036480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062015899104841830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewww 唉羡慕大主播，刚发完一小时又涨了55"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2062015890657538048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3AhwvacAAnigt.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2062015899104841830",
+        "created_at": "2026-06-03T05:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062041492655579329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062041492655579329",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062015899104841830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww 唉羡慕大主播，刚发完一小时又涨了55"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062015890657538048"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2062015899104841830",
+        "created_at": "2026-06-03T03:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062015899104841830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCYAnvflaI",
+              "end": 32,
+              "expanded_url": "https://x.com/mizorewww/status/2062015899104841830/photo/1",
+              "media_key": "3_2062015890657538048",
+              "start": 9,
+              "url": "https://t.co/rCYAnvflaI"
+            },
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/mizorewww/status/2055595319677923476",
+              "start": 33,
+              "url": "https://t.co/GevhZyyz5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062015899104841830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 902,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055595319677923476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "900fo感谢！ https://t.co/rCYAnvflaI https://t.co/GevhZyyz5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3629,
+          "following_count": 948,
+          "like_count": 12172,
+          "listed_count": 10,
+          "media_count": 2075,
+          "tweet_count": 7316
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 114,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 91,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2049113964022501793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 874,
+          "like_count": 14462,
+          "listed_count": 5,
+          "media_count": 617,
+          "tweet_count": 3498
+        },
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

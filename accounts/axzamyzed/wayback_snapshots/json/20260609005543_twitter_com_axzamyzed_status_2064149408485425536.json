@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2064138278337495412",
+    "created_at": "2026-06-09T00:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064149408485425536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "894382598004199425",
+          "start": 0,
+          "username": "jinglian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064149408485425536",
+    "in_reply_to_user_id": "894382598004199425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064138278337495412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinglian 我见到过很多，而且他们的回复通常还是哈哈这一类的，很容易被拉清单的，后续独立发帖流量还是起不来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 292,
+        "media_key": "3_2064135869359939584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVIow1XYAA9F4b.jpg",
+        "width": 1288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2064138278337495412",
+        "created_at": "2026-06-09T00:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064149408485425536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "894382598004199425",
+              "start": 0,
+              "username": "jinglian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064149408485425536",
+        "in_reply_to_user_id": "894382598004199425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064138278337495412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinglian 我见到过很多，而且他们的回复通常还是哈哈这一类的，很容易被拉清单的，后续独立发帖流量还是起不来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064135869359939584"
+          ]
+        },
+        "author_id": "894382598004199425",
+        "conversation_id": "2064138278337495412",
+        "created_at": "2026-06-09T00:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064138278337495412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qOxGNtzb1K",
+              "end": 116,
+              "expanded_url": "https://x.com/jinglian/status/2064138278337495412/photo/1",
+              "media_key": "3_2064135869359939584",
+              "start": 93,
+              "url": "https://t.co/qOxGNtzb1K"
+            },
+            {
+              "display_url": "x.com/jinglian/statu…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/jinglian/status/2028291271299879140",
+              "start": 117,
+              "url": "https://t.co/t5VO16gQKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064138278337495412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "群里有人聊天说，看到一个X 新人刚起号，流量贼好。最近中文区流量都很差，X 怎么会突然关照新人了呢？\n\n我一看互动数据，引用转发也就一条，如果被大V引用转发，跑4.5万，也是有可能的。\n\n我点击了一下查看引用，好家伙。原来这这个人跑到别人的爆帖下面留言，贴自己的链接几十次，而且和主帖内容完全无关。\n\n在别人的评论区贴自己的链接，算是自引用，这个引用转发是按人计数的。所以几十次的自引用，统计的时候只有一条。\n\n提醒一下大家，x的真实性规则里面，不允许的行为有这一条。\n\n看似机灵，其实是违规，次数多了，会被 X 记到账本上的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 101,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028291271299879140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "群里有人聊天说，看到一个X 新人刚起号，流量贼好。最近中文区流量都很差，X 怎么会突然关照新人了呢？\n\n我一看互动数据，引用转发也就一条，如果被大V引用转发，跑4.5万，也是有可能的。 https://t.co/qOxGNtzb1K https://t.co/t5VO16gQKv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3670,
+          "following_count": 943,
+          "like_count": 12523,
+          "listed_count": 10,
+          "media_count": 2294,
+          "tweet_count": 7610
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-07T02:20:02.000Z",
+        "description": "11年前端开发者 & AI 重度用户｜\nAI工具 + X运营，我踩过的坑都帮你避开｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobemaster56.me",
+                "end": 23,
+                "expanded_url": "https://www.tobemaster56.me",
+                "start": 0,
+                "url": "https://t.co/tsA2sIACYu"
+              }
+            ]
+          }
+        },
+        "id": "894382598004199425",
+        "name": "前端哥Liam",
+        "pinned_tweet_id": "2063109080126832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012000885275344896/pw0eqfmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7205,
+          "following_count": 2363,
+          "like_count": 16132,
+          "listed_count": 27,
+          "media_count": 1005,
+          "tweet_count": 11832
+        },
+        "url": "https://t.co/tsA2sIACYu",
+        "username": "jinglian",
+        "verified": true
+      }
+    ]
+  }
+}

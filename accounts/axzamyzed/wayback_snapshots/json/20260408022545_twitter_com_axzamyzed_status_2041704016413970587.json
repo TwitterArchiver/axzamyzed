@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2041371727356457074",
+    "created_at": "2026-04-08T02:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041704016413970587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900497548638633984",
+          "start": 0,
+          "username": "xingrkuzhh38113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041704016413970587",
+    "in_reply_to_user_id": "1900497548638633984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041576282824364099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingrkuzhh38113 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2041371727356457074",
+        "created_at": "2026-04-08T02:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041704016413970587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900497548638633984",
+              "start": 0,
+              "username": "xingrkuzhh38113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041704016413970587",
+        "in_reply_to_user_id": "1900497548638633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041576282824364099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingrkuzhh38113 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900497548638633984",
+        "conversation_id": "2041371727356457074",
+        "created_at": "2026-04-07T17:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041576282824364099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041576282824364099",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041371727356457074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed ai连头都没有，扣帽子也扣不上啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 928,
+          "like_count": 8525,
+          "listed_count": 4,
+          "media_count": 647,
+          "tweet_count": 5148
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-14T10:41:48.000Z",
+        "description": "本人男♂",
+        "id": "1900497548638633984",
+        "location": "母狗的家里",
+        "name": "向日葵",
+        "pinned_tweet_id": "2028416055149011101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961221162262016000/fxu2swNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 164,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1110
+        },
+        "username": "xingrkuzhh38113",
+        "verified": false
+      }
+    ]
+  }
+}

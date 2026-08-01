@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081351410080489472"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2081351457371254945",
+    "created_at": "2026-07-26T12:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081351457371254945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d8Mige7BYP",
+          "end": 34,
+          "expanded_url": "https://x.com/axzamyzed/status/2081351457371254945/video/1",
+          "media_key": "13_2081351410080489472",
+          "start": 11,
+          "url": "https://t.co/d8Mige7BYP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081351457371254945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有的东西一定要买好的 https://t.co/d8Mige7BYP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17258,
+        "height": 760,
+        "media_key": "13_2081351410080489472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081351410080489472/img/oFq5yMwydQ4LUEmT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081351410080489472/vid/avc1/414x270/KALmRj8cjo2eUe35.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081351410080489472/vid/avc1/554x360/V-0XkK1tm9pYc_-T.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081351410080489472/vid/avc1/1170x760/CQrZvuT6hn-kYdQC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081351410080489472/pl/VBeGGdYR7ESRnLIL.m3u8"
+          }
+        ],
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081351410080489472"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2081351457371254945",
+        "created_at": "2026-07-26T12:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081351457371254945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8Mige7BYP",
+              "end": 34,
+              "expanded_url": "https://x.com/axzamyzed/status/2081351457371254945/video/1",
+              "media_key": "13_2081351410080489472",
+              "start": 11,
+              "url": "https://t.co/d8Mige7BYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081351457371254945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的东西一定要买好的 https://t.co/d8Mige7BYP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4235,
+          "following_count": 931,
+          "like_count": 14800,
+          "listed_count": 12,
+          "media_count": 3511,
+          "tweet_count": 9334
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

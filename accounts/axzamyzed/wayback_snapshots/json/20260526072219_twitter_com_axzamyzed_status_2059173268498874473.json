@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2059153208862560718",
+    "created_at": "2026-05-26T07:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059173268498874473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        },
+        {
+          "end": 30,
+          "id": "1810873766119100416",
+          "start": 15,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 45,
+          "id": "1661260055914876928",
+          "start": 31,
+          "username": "Kiss_light233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059173268498874473",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059165703916474595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy @RainEngine2024 @Kiss_light233"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2059153208862560718",
+        "created_at": "2026-05-26T07:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059173268498874473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 30,
+              "id": "1810873766119100416",
+              "start": 15,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 45,
+              "id": "1661260055914876928",
+              "start": 31,
+              "username": "Kiss_light233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059173268498874473",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059165703916474595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy @RainEngine2024 @Kiss_light233"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2059153208862560718",
+        "created_at": "2026-05-26T06:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059165703916474595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059165703916474595",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059153208862560718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 话说右下角那个紫色的和棕色的是谁呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3482,
+          "following_count": 949,
+          "like_count": 11822,
+          "listed_count": 11,
+          "media_count": 1821,
+          "tweet_count": 7015
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜luv whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11416,
+          "following_count": 4319,
+          "like_count": 46688,
+          "listed_count": 37,
+          "media_count": 2433,
+          "tweet_count": 14628
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10277,
+          "following_count": 963,
+          "like_count": 90217,
+          "listed_count": 25,
+          "media_count": 1794,
+          "tweet_count": 12551
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-24T06:37:30.000Z",
+        "description": "人间路过的阳阳,喜欢世界上可可爱爱的东西 \n-\n会对所有人都保持善意つ♡⊂\nLight会出现在充满痛苦需要帮助的人身边呐\n-\n虽然..咱不太擅长聊天...但是想和大家做朋友wq \n-\n拜托了！！请和我聊天！！≥﹏≤\n (◍＞◡＜◍)\n—如果需要树洞投稿私信咱哦~≡ω≡—",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lightcafe.top",
+                "end": 23,
+                "expanded_url": "http://www.lightcafe.top/",
+                "start": 0,
+                "url": "https://t.co/YKVh6WxP4P"
+              }
+            ]
+          }
+        },
+        "id": "1661260055914876928",
+        "location": "阳阳的猫窝~",
+        "name": "𝑳𝒊𝒈𝒉𝒕☀️",
+        "pinned_tweet_id": "1967172985229635691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048166795585191936/mHDN-Ua8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4867,
+          "following_count": 379,
+          "like_count": 5935,
+          "listed_count": 6,
+          "media_count": 707,
+          "tweet_count": 7029
+        },
+        "url": "https://t.co/YKVh6WxP4P",
+        "username": "Kiss_light233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039721706697400601",
+    "created_at": "2026-04-03T02:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039893966876025017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1986382347072380928",
+          "start": 0,
+          "username": "xishuoshuoryan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039893966876025017",
+    "in_reply_to_user_id": "1986382347072380928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039886347473920453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xishuoshuoryan 还要带换洗衣服啊，太麻烦了不去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039721706697400601",
+        "created_at": "2026-04-03T02:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039893966876025017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986382347072380928",
+              "start": 0,
+              "username": "xishuoshuoryan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039893966876025017",
+        "in_reply_to_user_id": "1986382347072380928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039886347473920453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xishuoshuoryan 还要带换洗衣服啊，太麻烦了不去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986382347072380928",
+        "conversation_id": "2039721706697400601",
+        "created_at": "2026-04-03T02:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039886347473920453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039886347473920453",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 802,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039721706697400601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 省紀委：明天你倆都來我這一趟，有幾個小問題要問你們，記得帶上手機跟換洗衣服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 932,
+          "like_count": 8266,
+          "listed_count": 3,
+          "media_count": 568,
+          "tweet_count": 4960
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T10:37:29.000Z",
+        "description": "自由主義接班人 ,Liberal\n\nじゆうしゅぎしゃ",
+        "id": "1986382347072380928",
+        "name": "玺說說 Ryan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035442871315431424/rPKbiD4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 40,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 695
+        },
+        "username": "xishuoshuoryan",
+        "verified": false
+      }
+    ]
+  }
+}

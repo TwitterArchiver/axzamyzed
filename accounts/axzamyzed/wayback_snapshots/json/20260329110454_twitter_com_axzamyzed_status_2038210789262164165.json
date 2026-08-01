@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038210789262164165",
+    "created_at": "2026-03-29T11:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T12:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038210789262164165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jinglian/statu…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/jinglian/status/2037086888360558750",
+          "start": 83,
+          "url": "https://t.co/eMdx4k3VuW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038210789262164165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037086888360558750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个平台在msk收购推特之前就存在了\n专门给某些账号刷关注的\n这个授权似乎是一个长期授权\n并且权限很高很高\n因此你的账号有可能被平台认为是机器人\n大家能不用尽量不用 https://t.co/eMdx4k3VuW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2037086000837476352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUu7MDWwAA_VmY.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1582,
+        "media_key": "3_2037086281986117632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUvLjaakAAsgtV.jpg",
+        "width": 2276
+      },
+      {
+        "height": 1070,
+        "media_key": "3_2037086298423394304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUvMgpXgAA8SBB.jpg",
+        "width": 1388
+      },
+      {
+        "height": 1234,
+        "media_key": "3_2037086318102999040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUvNp9WcAA_TtV.jpg",
+        "width": 1556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038210789262164165",
+        "created_at": "2026-03-29T11:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038210789262164165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jinglian/statu…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/jinglian/status/2037086888360558750",
+              "start": 83,
+              "url": "https://t.co/eMdx4k3VuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038210789262164165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037086888360558750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个平台在msk收购推特之前就存在了\n专门给某些账号刷关注的\n这个授权似乎是一个长期授权\n并且权限很高很高\n因此你的账号有可能被平台认为是机器人\n大家能不用尽量不用 https://t.co/eMdx4k3VuW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037086000837476352",
+            "3_2037086281986117632",
+            "3_2037086298423394304",
+            "3_2037086318102999040"
+          ]
+        },
+        "author_id": "894382598004199425",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037086888360558750",
+        "created_at": "2026-03-26T08:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037086888360558750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCw4fOpIYO",
+              "end": 112,
+              "expanded_url": "https://x.com/jinglian/status/2037086888360558750/photo/1",
+              "media_key": "3_2037086000837476352",
+              "start": 89,
+              "url": "https://t.co/OCw4fOpIYO"
+            },
+            {
+              "display_url": "pic.x.com/OCw4fOpIYO",
+              "end": 112,
+              "expanded_url": "https://x.com/jinglian/status/2037086888360558750/photo/1",
+              "media_key": "3_2037086281986117632",
+              "start": 89,
+              "url": "https://t.co/OCw4fOpIYO"
+            },
+            {
+              "display_url": "pic.x.com/OCw4fOpIYO",
+              "end": 112,
+              "expanded_url": "https://x.com/jinglian/status/2037086888360558750/photo/1",
+              "media_key": "3_2037086298423394304",
+              "start": 89,
+              "url": "https://t.co/OCw4fOpIYO"
+            },
+            {
+              "display_url": "pic.x.com/OCw4fOpIYO",
+              "end": 112,
+              "expanded_url": "https://x.com/jinglian/status/2037086888360558750/photo/1",
+              "media_key": "3_2037086318102999040",
+              "start": 89,
+              "url": "https://t.co/OCw4fOpIYO"
+            },
+            {
+              "display_url": "x.com/jinglian/statu…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/jinglian/status/2037049080375914586",
+              "start": 113,
+              "url": "https://t.co/KgR4npANZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037086888360558750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3346,
+          "like_count": 19,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037049080375914586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个创建互动圈的 X 第三方应用，\n绝对恶意，应该是个惯犯了，底部有个默认勾选的按钮，估计很多人没注意，就被自动发推了\n\n而且我刷新了3次，应用的名字居然变化 3 次，太骚包了 https://t.co/OCw4fOpIYO https://t.co/KgR4npANZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 935,
+          "like_count": 7840,
+          "listed_count": 2,
+          "media_count": 515,
+          "tweet_count": 4717
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-07T02:20:02.000Z",
+        "description": "推特7 次封锁账号 & 1 次临时标签 & 2次惩罚性限流，骗我升级 P+ 折扣不兑现，从 P+ 降级 p 说好的下个月才生效，结果立刻生效｜\n推特新人正修鼓励师 & 11年前端码农｜\n如何做好自媒体：\nproduct yourself = build yourself + sell yourself",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobemaster56.me",
+                "end": 23,
+                "expanded_url": "https://www.tobemaster56.me",
+                "start": 0,
+                "url": "https://t.co/tsA2sIACYu"
+              }
+            ]
+          }
+        },
+        "id": "894382598004199425",
+        "name": "前端哥Liam",
+        "pinned_tweet_id": "2037391354976985246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012000885275344896/pw0eqfmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5992,
+          "following_count": 3675,
+          "like_count": 14397,
+          "listed_count": 17,
+          "media_count": 851,
+          "tweet_count": 9090
+        },
+        "url": "https://t.co/tsA2sIACYu",
+        "username": "jinglian",
+        "verified": true
+      }
+    ]
+  }
+}

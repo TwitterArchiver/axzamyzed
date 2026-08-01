@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015059743673631024",
+    "created_at": "2026-01-24T15:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015080583823835390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593547850637791233",
+          "start": 0,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015080583823835390",
+    "in_reply_to_user_id": "1593547850637791233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015059743673631024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didengshengwu 姜还是老的辣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1507,
+        "media_key": "3_2015059722517565440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_buJDHbUAAlAGm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015059743673631024",
+        "created_at": "2026-01-24T15:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015080583823835390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015080583823835390",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015059743673631024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 姜还是老的辣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015059722517565440"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "2015059743673631024",
+        "created_at": "2026-01-24T13:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015059743673631024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T2HZuzLBxQ",
+              "end": 23,
+              "expanded_url": "https://x.com/didengshengwu/status/2015059743673631024/photo/1",
+              "media_key": "3_2015059722517565440",
+              "start": 0,
+              "url": "https://t.co/T2HZuzLBxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015059743673631024",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 53515,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T2HZuzLBxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 99,
+          "like_count": 1435,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187225,
+          "following_count": 1291,
+          "like_count": 3270,
+          "listed_count": 733,
+          "media_count": 3411,
+          "tweet_count": 6365
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

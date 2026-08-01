@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039721706697400601",
+    "created_at": "2026-04-03T00:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039865084722237830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1071344298354855936",
+          "start": 0,
+          "username": "Qku7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039865084722237830",
+    "in_reply_to_user_id": "1071344298354855936",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039847082249392457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qku7J ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039721706697400601",
+        "created_at": "2026-04-03T00:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039865084722237830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1071344298354855936",
+              "start": 0,
+              "username": "Qku7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039865084722237830",
+        "in_reply_to_user_id": "1071344298354855936",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039847082249392457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qku7J ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071344298354855936",
+        "conversation_id": "2039721706697400601",
+        "created_at": "2026-04-02T23:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T00:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039847082249392457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039847082249392457",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3109,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039721706697400601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 你什么档次，要我电话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 933,
+          "like_count": 8258,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 4952
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-08T10:02:40.000Z",
+        "description": "",
+        "id": "1071344298354855936",
+        "location": "Los Angeles, CA",
+        "name": "ID",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980057159351115776/GRZC1ng7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 610,
+          "like_count": 8200,
+          "listed_count": 7,
+          "media_count": 109,
+          "tweet_count": 8203
+        },
+        "username": "Qku7J",
+        "verified": false
+      }
+    ]
+  }
+}

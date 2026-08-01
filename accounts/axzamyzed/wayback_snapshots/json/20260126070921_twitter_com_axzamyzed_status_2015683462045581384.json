@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015663597356294200",
+    "created_at": "2026-01-26T07:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015683462045581384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1870876863431901184",
+          "start": 0,
+          "username": "YsfPPoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015683462045581384",
+    "in_reply_to_user_id": "1870876863431901184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015663597356294200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YsfPPoc 泰勒展开的高阶无穷小是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015663597356294200",
+        "created_at": "2026-01-26T07:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015683462045581384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1870876863431901184",
+              "start": 0,
+              "username": "YsfPPoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015683462045581384",
+        "in_reply_to_user_id": "1870876863431901184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015663597356294200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YsfPPoc 泰勒展开的高阶无穷小是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870876863431901184",
+        "conversation_id": "2015663597356294200",
+        "created_at": "2026-01-26T05:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015663597356294200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015663597356294200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "擦屁股的最后一下，并不是你擦干净了，而是它的颜色淡到你能接受了，生活就是这样，差不多就行了，你越往里抠屎就越多，尽力了就行，剩下的交给内裤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 235,
+          "like_count": 1703,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 869
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-22T16:59:49.000Z",
+        "description": "BTC、ETH坚定看好者｜美股标普500，纳斯达克100坚持定投者｜最喜欢的话是：独立思考，明辨是非",
+        "id": "1870876863431901184",
+        "name": "泡泡oc",
+        "pinned_tweet_id": "2014352658409345030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014006839843917824/s6WmgvWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 729,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 193
+        },
+        "username": "YsfPPoc",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2027311780134003013",
+    "created_at": "2026-02-27T15:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027408286442742097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027408286442742097",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027311780134003013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu 姐姐…这个…是…每个问题要…掐三次的…\n而且具体问题要具体分析呢，不是说定死的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1834,
+        "media_key": "3_2027311777462251520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ1UgiacAAejRk.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2027311780134003013",
+        "created_at": "2026-02-27T15:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027408286442742097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027408286442742097",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027311780134003013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu 姐姐…这个…是…每个问题要…掐三次的…\n而且具体问题要具体分析呢，不是说定死的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027311777462251520"
+          ]
+        },
+        "author_id": "1617523246144053251",
+        "conversation_id": "2027311780134003013",
+        "created_at": "2026-02-27T09:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027311780134003013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwzsDTJbPh",
+              "end": 144,
+              "expanded_url": "https://x.com/s1nyvu/status/2027311780134003013/photo/1",
+              "media_key": "3_2027311777462251520",
+              "start": 121,
+              "url": "https://t.co/fwzsDTJbPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027311780134003013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 441,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又学了个拍脑门的功法，于是算了几卦：\n我和卷毛会一直在一起吗？小吉\n卷毛会娶别的女人吗？速喜\n他以后会娶我不？大安\n有这仨我就放心了（）所以又算：\n以后我能srs不？留连\n我今年能找着工作不？空亡\n明年能有工作不？流连\n这下我又不放心了（） https://t.co/fwzsDTJbPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 816,
+          "like_count": 5257,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 2893
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "傻子🏳️‍⚧️一枚|07|高三辍学被家庭「抛弃」无业穷困一年余😥|enfj|文艺氰年，爱好越多越没用🙁|饥寒交迫恳请投喂喵🥺|具体简介请看置顶☺️|🚪门槛费+好友看着给就可以啦😇|同类欢迎扩列或者来咱的小破🐧群玩喵|od怪健全b🈷炮乐子人勿扰😡",
+        "id": "1617523246144053251",
+        "location": "卷毛是大坏蛋😈",
+        "name": "❄️雪梦歆屿",
+        "pinned_tweet_id": "2022209449369493962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975919625616678912/JQfFoYMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 55,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1769
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2069297402268545062",
+    "created_at": "2026-06-23T09:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069346037068964022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1525826659982577665",
+          "start": 0,
+          "username": "loor97439955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069346037068964022",
+    "in_reply_to_user_id": "1525826659982577665",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069306928317251609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loor97439955 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2069297402268545062",
+        "created_at": "2026-06-23T09:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069346037068964022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1525826659982577665",
+              "start": 0,
+              "username": "loor97439955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069346037068964022",
+        "in_reply_to_user_id": "1525826659982577665",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069306928317251609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loor97439955 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525826659982577665",
+        "conversation_id": "2069297402268545062",
+        "created_at": "2026-06-23T06:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069306928317251609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069306928317251609",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069297402268545062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 好家伙，近视的人站远点看还以为是符咒呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3868,
+          "following_count": 923,
+          "like_count": 13314,
+          "listed_count": 10,
+          "media_count": 2810,
+          "tweet_count": 8243
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-15T13:14:13.000Z",
+        "description": "不谈论种族和政治，我始终忠于革命忠于我党\n还有一件事，来聊天啊，我好无聊\n还有一件事！！本人的评论纯属玩梗，没有人身攻击的意思，不要太当回事，当个乐子就行",
+        "id": "1525826659982577665",
+        "location": "厕所",
+        "name": "天南羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066275774559305728/SkPnzE4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 221,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "loor97439955",
+        "verified": false
+      }
+    ]
+  }
+}

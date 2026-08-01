@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039170592134385894",
+    "created_at": "2026-04-01T06:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039224434117038546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3062134651",
+          "start": 0,
+          "username": "singee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039224434117038546",
+    "in_reply_to_user_id": "3062134651",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039216843798569290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@singee 他真信了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039170592134385894",
+        "created_at": "2026-04-01T06:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039224434117038546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3062134651",
+              "start": 0,
+              "username": "singee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039224434117038546",
+        "in_reply_to_user_id": "3062134651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039216843798569290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@singee 他真信了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3062134651",
+        "conversation_id": "2039170592134385894",
+        "created_at": "2026-04-01T05:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039216843798569290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039216843798569290",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039170592134385894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 如果只有一个的话，有可能是单纯好奇（因为我也好奇问过看是啥套路）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 929,
+          "like_count": 8114,
+          "listed_count": 2,
+          "media_count": 545,
+          "tweet_count": 4862
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2015-03-05T02:47:55.000Z",
+        "description": "英推 @bryanw1998 欢迎关注 @1SpaceApp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "bryanw1998"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "1SpaceApp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "singee.me",
+                "end": 23,
+                "expanded_url": "https://singee.me",
+                "start": 0,
+                "url": "https://t.co/9THH8YvorO"
+              }
+            ]
+          }
+        },
+        "id": "3062134651",
+        "name": "Bryan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/952052842470060033/SnGNDrZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 1237,
+          "like_count": 19674,
+          "listed_count": 13,
+          "media_count": 182,
+          "tweet_count": 3488
+        },
+        "url": "https://t.co/9THH8YvorO",
+        "username": "singee",
+        "verified": true
+      }
+    ]
+  }
+}

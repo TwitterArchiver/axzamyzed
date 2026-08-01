@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2042748701408661686",
+    "created_at": "2026-04-11T00:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T01:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042760093792370763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014979760565456896",
+          "start": 0,
+          "username": "noahduck283"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042760093792370763",
+    "in_reply_to_user_id": "2014979760565456896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042748701408661686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noahduck283 你这才是流量密码😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2042748701408661686",
+        "created_at": "2026-04-11T00:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T01:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042760093792370763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014979760565456896",
+              "start": 0,
+              "username": "noahduck283"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042760093792370763",
+        "in_reply_to_user_id": "2014979760565456896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042748701408661686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noahduck283 你这才是流量密码😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014979760565456896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2042748701408661686",
+        "created_at": "2026-04-10T23:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042748701408661686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042748701408661686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "x流量密码一览：\n\n1、名人相关：乔布斯，马斯克\n2、出海科普：银行卡，电话卡，VPN，公司注册报税收付款\n3、Github：甭管有没有用，先收藏\n4、黄推，擦边ktv\n5、晒账单，赚钱密码\n6、心灵鸡汤\n7、聚合帖，聚合推文：随便找一个方向，就聚合吧\n8、新鲜事物\n9、引战\n10、询问\n11、民生问题，比如房价，养老金，裁员\n12、极端反差：墙内豆包墙外claude\n13、新手说明书或者教人识字的指南\n14、颠覆三观的故事\n15、洗稿  比如Dankoe"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "x流量密码一览：\n\n1、名人相关：乔布斯，马斯克\n2、出海科普：银行卡，电话卡，VPN，公司注册报税收付款\n3、Github：甭管有没有用，先收藏\n4、黄推，擦边ktv\n5、晒账单，赚钱密码\n6、心灵鸡汤\n7、聚合帖，聚合推文：随便找一个方向，就聚合吧\n8、新鲜事物\n9、引战\n10、询问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 925,
+          "like_count": 8730,
+          "listed_count": 4,
+          "media_count": 695,
+          "tweet_count": 5267
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-24T08:33:13.000Z",
+        "description": "🐱 金渐层铲屎官 · 心理学爱好者\n🦆 梭哈 AI 的普通人，带你在 AI 海洋寻找陆地\n✍️ 浅水区：小白友好的 AI 入门指南\n☀️ 非技术出身，我知道你卡在哪\n🚀 深水区 · AIGC · Vibe Coding · 关于 AI 的一切\n📍 从 0 到 1 搭 AI 工作流，边建边聊\n 欢迎看看我走到哪了",
+        "id": "2014979760565456896",
+        "name": "诺鸭船长3",
+        "pinned_tweet_id": "2040217255158649210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035372542819696640/v_5bHa9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 907,
+          "like_count": 2992,
+          "listed_count": 5,
+          "media_count": 167,
+          "tweet_count": 3597
+        },
+        "username": "noahduck283",
+        "verified": true
+      }
+    ]
+  }
+}

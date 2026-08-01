@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2031748176475251133",
+    "created_at": "2026-03-11T15:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T16:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031749769631248560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019293013114253313",
+          "start": 0,
+          "username": "seeyouinthe2999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031749769631248560",
+    "in_reply_to_user_id": "2019293013114253313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031748176475251133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeyouinthe2999 你用了那个什么互动圈，推特家庭那一类的app，会自动关注…用完记得取消关注+取消授权"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2031748176475251133",
+        "created_at": "2026-03-11T15:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031749769631248560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019293013114253313",
+              "start": 0,
+              "username": "seeyouinthe2999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031749769631248560",
+        "in_reply_to_user_id": "2019293013114253313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031748176475251133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeyouinthe2999 你用了那个什么互动圈，推特家庭那一类的app，会自动关注…用完记得取消关注+取消授权"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2031748176475251133",
+        "created_at": "2026-03-11T15:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031748176475251133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031748176475251133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我的账号自己关注了好多外国人啊我一点印象都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 94,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 905,
+          "like_count": 6303,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 3671
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "高中生 想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2026633753683177861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 135,
+          "like_count": 715,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 437
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

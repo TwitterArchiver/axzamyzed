@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2024106784688882069",
+    "created_at": "2026-02-18T15:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024138903691862247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        },
+        {
+          "end": 14,
+          "id": "1720665183188922368",
+          "start": 9,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024138903691862247",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024106784688882069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen @grok 总结一下发给我懒得看了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2024106784688882069",
+        "created_at": "2026-02-18T15:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024138903691862247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            },
+            {
+              "end": 14,
+              "id": "1720665183188922368",
+              "start": 9,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024138903691862247",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024106784688882069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen @grok 总结一下发给我懒得看了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1154174763918606339",
+        "conversation_id": "2024106784688882069",
+        "created_at": "2026-02-18T13:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024106784688882069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024106784688882069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "转🛜：去男友家过年，结果被晾了三天。\n\n第一天下午，我拖着行李箱站在他家门口，手里拎着给他爸妈买的营养品。\n\n他妈开门时笑了一下，目光却先落在我脚上的白色运动鞋上，鞋边沾了点泥。\n\n她没说话，只是侧身让我进去。我弯腰换鞋时，听见她在身后轻轻叹了口气。那一声，比任何一句话都清晰。\n\n晚饭四菜一汤。他爸已经坐定，我刚夹了一口青菜，他妈淡淡地说：“我们家吃得清淡，不知道你习不习惯。”\n\n我连忙说习惯。其实那口菜在嘴里嚼了很久，早已尝不出味道，只觉得满桌都是审视。\n\n男友十点出门，说是“发小难得聚”。\n\n客厅里只剩我一个人，电视放着听不懂的方言剧，他爸在阳台抽烟，火星忽明忽暗。\n\n他妈在厨房洗碗，水龙头开得很大。\n\n我低头刷手机，把能刷的软件都刷了一遍，也不敢说要先睡。\n\n第二天早上七点醒。\n\n八点半，他妈敲门：“起来吃早饭。”\n\n桌上是一碗稀饭、一碟咸菜。\n\n他爸看报纸，连头都没抬。\n\n我小口喝着稀饭，听见厨房里她对他爸说：“城里人起得就是晚。”\n\n声音不大，却刚好够我听见。\n\n下午我主动帮忙洗菜。她没拦，也没教，只站在旁边看。我把芹菜叶子摘了，她突然伸手拿走：“叶子也能吃，你们不吃吗？”\n\n水龙头哗哗地流，我站在原地，像个做错事的小孩，连呼吸都不敢太重。\n\n晚上他又去打牌。我鼓起勇气说：“能不能不去？”\n\n他头也不抬：“一年就这几天，你别不懂事。”\n\n门“砰”地关上。屋里传来他妈的声音：“把客厅灯关了吧，费电。”\n\n黑暗里，我摸回客房，听见自己的心跳声，大得像是在嘲笑我的自作多情。\n\n第三天中午，他终于醒了。蓬头垢面地出来找吃的。\n\n他妈给他热了三遍饭菜，给他夹菜，问他输赢。他爸笑着骂他没出息。\n\n我坐在餐桌另一端，像墙上一幅挂错位置的画。没人看我一眼。\n\n第三天傍晚，我收拾行李。他妈站在门口问：“不多住几天？”\n我说公司有事。她点点头，没有挽留。\n\n去车站的路上，他打着哈欠说：“你怎么这么矫情，我爸妈人挺好的啊。”\n\n那一刻我突然明白\n\n那三天里我熬过的每一个尴尬、每一次压抑、每一秒不被看见，在他眼里，统统叫“矫情”。\n\n请问，这婚还能结吗？\n\n😂🙏"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 16802,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "转🛜：去男友家过年，结果被晾了三天。\n\n第一天下午，我拖着行李箱站在他家门口，手里拎着给他爸妈买的营养品。\n\n他妈开门时笑了一下，目光却先落在我脚上的白色运动鞋上，鞋边沾了点泥。\n\n她没说话，只是侧身让我进去。我弯腰换鞋时，听见她在身后轻轻叹了口气。那一声，比任何一句话都清晰。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2023990485409268071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 728,
+          "like_count": 4125,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2280
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点｜守心明理、知行合一，呵护内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199256,
+          "following_count": 6633,
+          "like_count": 4021,
+          "listed_count": 504,
+          "media_count": 2810,
+          "tweet_count": 5964
+        },
+        "username": "maoshen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7972515,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6128,
+          "media_count": 8320019,
+          "tweet_count": 105028481
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017860901337239559",
+        "3_2017860903920922624"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "2017860914536730742",
+    "created_at": "2026-02-01T07:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T08:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017860914536730742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wef11modBG",
+          "end": 188,
+          "expanded_url": "https://x.com/axzamyzed/status/2017860914536730742/photo/1",
+          "media_key": "3_2017860901337239559",
+          "start": 165,
+          "url": "https://t.co/Wef11modBG"
+        },
+        {
+          "display_url": "pic.x.com/Wef11modBG",
+          "end": 188,
+          "expanded_url": "https://x.com/axzamyzed/status/2017860914536730742/photo/1",
+          "media_key": "3_2017860903920922624",
+          "start": 165,
+          "url": "https://t.co/Wef11modBG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017860914536730742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 215,
+            "start": 210,
+            "tag": "腾讯元宝"
+          },
+          {
+            "end": 219,
+            "start": 216,
+            "tag": "元宝"
+          },
+          {
+            "end": 225,
+            "start": 220,
+            "tag": "新春红包"
+          },
+          {
+            "end": 230,
+            "start": 226,
+            "tag": "麦当劳"
+          }
+        ]
+      },
+      "text": "下载“腾讯元宝”对话框输入“祝你今年金拱门”领取红包，有0.18也有2.66的，一台手机+一个号参与一次\n\n再贴几个我的分享红包，这个是二月四号提现\n\n简单三步：复制、打开元宝App、春节抢红包！ JL9503 ARD:/C7Q61LEQMS\n\n春节红包在元宝App，复制口令打开抢！ ZH4816 p5:/C7NB1FUUCJ\n\n复制一下，打开元宝App，春节红包等你抢！ UA0485 d:/C7NB1FOISW\n\n#腾讯元宝 #元宝 #新春红包 #麦当劳"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下载“腾讯元宝”对话框输入“祝你今年金拱门”领取红包，有0.18也有2.66的，一台手机+一个号参与一次\n\n再贴几个我的分享红包，这个是二月四号提现\n\n简单三步：复制、打开元宝App、春节抢红包！ JL9503 ARD:/C7Q61LEQMS\n\n春节红包在元宝App，复制口令打开抢！ ZH4816 p5:/C7NB1FUUCJ https://t.co/Wef11modBG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2017860901337239559",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HADhzHZbEAc4xP2.jpg",
+        "width": 750
+      },
+      {
+        "height": 312,
+        "media_key": "3_2017860903920922624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HADhzRBa8AA9tf_.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017860901337239559",
+            "3_2017860903920922624"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2017860914536730742",
+        "created_at": "2026-02-01T07:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T08:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017860914536730742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wef11modBG",
+              "end": 188,
+              "expanded_url": "https://x.com/axzamyzed/status/2017860914536730742/photo/1",
+              "media_key": "3_2017860901337239559",
+              "start": 165,
+              "url": "https://t.co/Wef11modBG"
+            },
+            {
+              "display_url": "pic.x.com/Wef11modBG",
+              "end": 188,
+              "expanded_url": "https://x.com/axzamyzed/status/2017860914536730742/photo/1",
+              "media_key": "3_2017860903920922624",
+              "start": 165,
+              "url": "https://t.co/Wef11modBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017860914536730742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 215,
+                "start": 210,
+                "tag": "腾讯元宝"
+              },
+              {
+                "end": 219,
+                "start": 216,
+                "tag": "元宝"
+              },
+              {
+                "end": 225,
+                "start": 220,
+                "tag": "新春红包"
+              },
+              {
+                "end": 230,
+                "start": 226,
+                "tag": "麦当劳"
+              }
+            ]
+          },
+          "text": "下载“腾讯元宝”对话框输入“祝你今年金拱门”领取红包，有0.18也有2.66的，一台手机+一个号参与一次\n\n再贴几个我的分享红包，这个是二月四号提现\n\n简单三步：复制、打开元宝App、春节抢红包！ JL9503 ARD:/C7Q61LEQMS\n\n春节红包在元宝App，复制口令打开抢！ ZH4816 p5:/C7NB1FUUCJ\n\n复制一下，打开元宝App，春节红包等你抢！ UA0485 d:/C7NB1FOISW\n\n#腾讯元宝 #元宝 #新春红包 #麦当劳"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下载“腾讯元宝”对话框输入“祝你今年金拱门”领取红包，有0.18也有2.66的，一台手机+一个号参与一次\n\n再贴几个我的分享红包，这个是二月四号提现\n\n简单三步：复制、打开元宝App、春节抢红包！ JL9503 ARD:/C7Q61LEQMS\n\n春节红包在元宝App，复制口令打开抢！ ZH4816 p5:/C7NB1FUUCJ https://t.co/Wef11modBG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 449,
+          "like_count": 2636,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

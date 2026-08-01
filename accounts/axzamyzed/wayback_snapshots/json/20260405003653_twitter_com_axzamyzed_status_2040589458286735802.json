@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2040571853048320297",
+    "created_at": "2026-04-05T00:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T01:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040589458286735802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828632343680294916",
+          "start": 0,
+          "username": "jianlvya"
+        },
+        {
+          "end": 15,
+          "id": "1720665183188922368",
+          "start": 10,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040589458286735802",
+    "in_reply_to_user_id": "1828632343680294916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040571853048320297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvya @grok 这是不是劳务派遣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_2040571839571968000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGRRtRaQAAhWLJ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040571853048320297",
+        "created_at": "2026-04-05T00:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040589458286735802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            },
+            {
+              "end": 15,
+              "id": "1720665183188922368",
+              "start": 10,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040589458286735802",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040571853048320297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya @grok 这是不是劳务派遣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040571839571968000"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2040571853048320297",
+        "created_at": "2026-04-04T23:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T00:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040571853048320297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qxc25ungqp",
+              "end": 34,
+              "expanded_url": "https://x.com/jianlvya/status/2040571853048320297/photo/1",
+              "media_key": "3_2040571839571968000",
+              "start": 11,
+              "url": "https://t.co/Qxc25ungqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040571853048320297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这逻辑上应该没问题吧 https://t.co/Qxc25ungqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 930,
+          "like_count": 8347,
+          "listed_count": 4,
+          "media_count": 590,
+          "tweet_count": 5031
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2040314295532327274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4986,
+          "following_count": 989,
+          "like_count": 17430,
+          "listed_count": 13,
+          "media_count": 674,
+          "tweet_count": 1340
+        },
+        "username": "jianlvya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8537043,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6588,
+          "media_count": 8778202,
+          "tweet_count": 121343770
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

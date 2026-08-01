@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069938306645950464"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2069932087625347483",
+    "created_at": "2026-06-25T00:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T01:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069938311725260918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "938115028871467009",
+          "start": 0,
+          "username": "samliu0105"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vyTXj1DfL5",
+          "end": 42,
+          "expanded_url": "https://x.com/axzamyzed/status/2069938311725260918/photo/1",
+          "media_key": "3_2069938306645950464",
+          "start": 19,
+          "url": "https://t.co/vyTXj1DfL5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069938311725260918",
+    "in_reply_to_user_id": "938115028871467009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069932087625347483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samliu0105 细节自动补全 https://t.co/vyTXj1DfL5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 359,
+        "media_key": "3_2069938306645950464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnl7EKbAAA_Unc.jpg",
+        "width": 750
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2069932084672487424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLngQ5gWYAAD0xp.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069938306645950464"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2069932087625347483",
+        "created_at": "2026-06-25T00:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069938311725260918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "938115028871467009",
+              "start": 0,
+              "username": "samliu0105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vyTXj1DfL5",
+              "end": 42,
+              "expanded_url": "https://x.com/axzamyzed/status/2069938311725260918/photo/1",
+              "media_key": "3_2069938306645950464",
+              "start": 19,
+              "url": "https://t.co/vyTXj1DfL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069938311725260918",
+        "in_reply_to_user_id": "938115028871467009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069932087625347483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samliu0105 细节自动补全 https://t.co/vyTXj1DfL5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069932084672487424"
+          ]
+        },
+        "author_id": "938115028871467009",
+        "conversation_id": "2069932087625347483",
+        "created_at": "2026-06-24T23:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069932087625347483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2eLhbrROj",
+              "end": 28,
+              "expanded_url": "https://x.com/samliu0105/status/2069932087625347483/photo/1",
+              "media_key": "3_2069932084672487424",
+              "start": 5,
+              "url": "https://t.co/N2eLhbrROj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069932087625347483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢推荐 https://t.co/N2eLhbrROj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3878,
+          "following_count": 923,
+          "like_count": 13404,
+          "listed_count": 10,
+          "media_count": 2855,
+          "tweet_count": 8315
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-05T18:37:06.000Z",
+        "description": "欢迎大家来和我做朋友喵🤗互fo请私信我喵😋",
+        "id": "938115028871467009",
+        "location": "The moon",
+        "name": "Sam liu",
+        "pinned_tweet_id": "2067869786634330283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047609458612908032/Tr9b6tGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 676,
+          "like_count": 3941,
+          "listed_count": 0,
+          "media_count": 987,
+          "tweet_count": 2609
+        },
+        "url": "",
+        "username": "samliu0105",
+        "verified": true
+      }
+    ]
+  }
+}

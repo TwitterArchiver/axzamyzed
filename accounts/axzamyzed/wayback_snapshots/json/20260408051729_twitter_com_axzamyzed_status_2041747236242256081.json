@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2041747236242256081",
+    "created_at": "2026-04-08T05:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T06:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041747236242256081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1143875817220403200",
+          "start": 3,
+          "username": "gardenshow123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041747236242256081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041745457626706005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gardenshow123: 我在餐饮店送外卖，有个客户总喜欢点我们店的外卖。\n\n有一次，他问：“你们外卖是不贵，但你们厨师是老厨师吧？”\n我：“是啊，经验丰富，做的菜是一流的，味道与众不同，您也吃得出这个是老厨师的手艺？”\n客户：“老厨师的手艺我吃不出来，但我总是能吃…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2041747236242256081",
+        "created_at": "2026-04-08T05:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041747236242256081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1143875817220403200",
+              "start": 3,
+              "username": "gardenshow123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041747236242256081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041745457626706005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gardenshow123: 我在餐饮店送外卖，有个客户总喜欢点我们店的外卖。\n\n有一次，他问：“你们外卖是不贵，但你们厨师是老厨师吧？”\n我：“是啊，经验丰富，做的菜是一流的，味道与众不同，您也吃得出这个是老厨师的手艺？”\n客户：“老厨师的手艺我吃不出来，但我总是能吃…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1143875817220403200",
+        "conversation_id": "2041745457626706005",
+        "created_at": "2026-04-08T05:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041745457626706005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041745457626706005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在餐饮店送外卖，有个客户总喜欢点我们店的外卖。\n\n有一次，他问：“你们外卖是不贵，但你们厨师是老厨师吧？”\n我：“是啊，经验丰富，做的菜是一流的，味道与众不同，您也吃得出这个是老厨师的手艺？”\n客户：“老厨师的手艺我吃不出来，但我总是能吃出白头发来！ ”\n我。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 927,
+          "like_count": 8542,
+          "listed_count": 4,
+          "media_count": 651,
+          "tweet_count": 5160
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-26T13:37:01.000Z",
+        "description": "纯搞笑，真假自辨",
+        "id": "1143875817220403200",
+        "name": "梗图老猫",
+        "pinned_tweet_id": "2041680100069163155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007728505472040960/KS815914_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 3497,
+          "like_count": 2010,
+          "listed_count": 1,
+          "media_count": 1146,
+          "tweet_count": 4576
+        },
+        "username": "gardenshow123",
+        "verified": true
+      }
+    ]
+  }
+}

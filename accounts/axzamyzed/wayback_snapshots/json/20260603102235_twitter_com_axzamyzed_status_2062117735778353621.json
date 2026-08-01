@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2062115928285086010",
+    "created_at": "2026-06-03T10:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062117735778353621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1809754445162639361",
+          "start": 0,
+          "username": "kizumiyamizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062117735778353621",
+    "in_reply_to_user_id": "1809754445162639361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062117502759702806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kizumiyamizuki 大夫看心电图被举报炒股是什么鬼😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2062115928285086010",
+        "created_at": "2026-06-03T10:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062117735778353621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1809754445162639361",
+              "start": 0,
+              "username": "kizumiyamizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062117735778353621",
+        "in_reply_to_user_id": "1809754445162639361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062117502759702806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kizumiyamizuki 大夫看心电图被举报炒股是什么鬼😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809754445162639361",
+        "conversation_id": "2062115928285086010",
+        "created_at": "2026-06-03T10:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062117502759702806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062117502759702806",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062115928285086010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 因为有的人会举报窗口工作人员玩手机，如同大夫看心电图被举报炒股"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3629,
+          "following_count": 948,
+          "like_count": 12205,
+          "listed_count": 10,
+          "media_count": 2095,
+          "tweet_count": 7341
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-07T01:01:15.000Z",
+        "description": "世界以痛吻我，要我报之以歌。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kizumi.site",
+                "end": 23,
+                "expanded_url": "http://kizumi.site",
+                "start": 0,
+                "url": "https://t.co/gbSTeAWfnO"
+              }
+            ]
+          }
+        },
+        "id": "1809754445162639361",
+        "location": "127.0.0.1",
+        "name": "希澈希澈希澈澈澈澈澈",
+        "pinned_tweet_id": "2055463762287853814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056977423519096832/rYoo8nrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 761,
+          "like_count": 580,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/gbSTeAWfnO",
+        "username": "kizumiyamizuki",
+        "verified": true
+      }
+    ]
+  }
+}

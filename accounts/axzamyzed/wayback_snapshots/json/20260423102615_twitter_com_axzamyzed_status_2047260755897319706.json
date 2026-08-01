@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2047177887443300705",
+    "created_at": "2026-04-23T10:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047260755897319706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1476558860278444035",
+          "start": 0,
+          "username": "KBayeah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047260755897319706",
+    "in_reply_to_user_id": "1476558860278444035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047256052518027715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBayeah 哈？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2047177887443300705",
+        "created_at": "2026-04-23T10:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047260755897319706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1476558860278444035",
+              "start": 0,
+              "username": "KBayeah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047260755897319706",
+        "in_reply_to_user_id": "1476558860278444035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047256052518027715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBayeah 哈？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476558860278444035",
+        "conversation_id": "2047177887443300705",
+        "created_at": "2026-04-23T10:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047256052518027715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047256052518027715",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2296,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047177887443300705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 升官發財\n但是透明的\n等於一場空"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 863,
+          "like_count": 9872,
+          "listed_count": 9,
+          "media_count": 973,
+          "tweet_count": 5783
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-30T14:21:17.000Z",
+        "description": "∞",
+        "id": "1476558860278444035",
+        "name": "Cowbayeah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476559018957361153/heBjeiS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 125,
+          "like_count": 9676,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1061
+        },
+        "username": "KBayeah",
+        "verified": true
+      }
+    ]
+  }
+}

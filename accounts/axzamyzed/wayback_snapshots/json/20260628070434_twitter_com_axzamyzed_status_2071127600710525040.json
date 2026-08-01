@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2070908133212656034",
+    "created_at": "2026-06-28T07:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071127600710525040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071127600710525040",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070908133212656034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 内嵌的那个是copilot去调用chatgpt官方的api，当然没问题了🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070908124782018560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1X96QaQAABwu6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2070908133212656034",
+        "created_at": "2026-06-28T07:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071127600710525040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071127600710525040",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070908133212656034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 内嵌的那个是copilot去调用chatgpt官方的api，当然没问题了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070908124782018560"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2070908133212656034",
+        "created_at": "2026-06-27T16:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070908133212656034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ckW46Vy3s",
+              "end": 44,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2070908133212656034/photo/1",
+              "media_key": "3_2070908124782018560",
+              "start": 21,
+              "url": "https://t.co/7ckW46Vy3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070908133212656034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 18105,
+          "like_count": 191,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：你可以通过香港IP间接使用gpt https://t.co/7ckW46Vy3s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3954,
+          "following_count": 925,
+          "like_count": 13673,
+          "listed_count": 10,
+          "media_count": 2962,
+          "tweet_count": 8504
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12287,
+          "following_count": 4382,
+          "like_count": 49707,
+          "listed_count": 36,
+          "media_count": 3003,
+          "tweet_count": 16726
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

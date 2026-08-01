@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028466389229457627",
+    "created_at": "2026-03-02T14:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028473905942528333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "54232411",
+          "start": 0,
+          "username": "M3G_CN"
+        },
+        {
+          "end": 24,
+          "id": "1404674977866018816",
+          "start": 8,
+          "username": "BIYAPAYOFFICIAL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028473905942528333",
+    "in_reply_to_user_id": "54232411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028473049780252818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M3G_CN @BIYAPAYOFFICIAL 币圈最需要这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028466389229457627",
+        "created_at": "2026-03-02T14:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028473905942528333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "54232411",
+              "start": 0,
+              "username": "M3G_CN"
+            },
+            {
+              "end": 24,
+              "id": "1404674977866018816",
+              "start": 8,
+              "username": "BIYAPAYOFFICIAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028473905942528333",
+        "in_reply_to_user_id": "54232411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028473049780252818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M3G_CN @BIYAPAYOFFICIAL 币圈最需要这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "54232411",
+        "conversation_id": "2028466389229457627",
+        "created_at": "2026-03-02T14:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028473049780252818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 27,
+              "id": "1404674977866018816",
+              "start": 11,
+              "username": "BIYAPAYOFFICIAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028473049780252818",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028472787762065478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed @BIYAPAYOFFICIAL 目前还真的是只有币圈观察到有附属账号。要么交易所、要么钱包、要么某个项目，都是币圈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 867,
+          "like_count": 5597,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 3114
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-06T15:21:15.000Z",
+        "description": "#货币化收益",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "货币化收益"
+              }
+            ]
+          }
+        },
+        "id": "54232411",
+        "name": "CooL神",
+        "pinned_tweet_id": "2026985987956707624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025948621875900416/4IzID5Iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3535,
+          "following_count": 2063,
+          "like_count": 6502,
+          "listed_count": 8,
+          "media_count": 79,
+          "tweet_count": 1012
+        },
+        "username": "M3G_CN",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-15T05:40:15.000Z",
+        "description": "BiyaPay是全球领先的多资产交易平台 | 一个账户交易加密货币、美港股、期货 | 30多种法币安全出金不冻卡\n立即注册：https://t.co/SxpHO7aAPJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "signup.biyapay.com/fastreg?invite…",
+                "end": 85,
+                "expanded_url": "https://signup.biyapay.com/fastreg?invite=16327630",
+                "start": 62,
+                "url": "https://t.co/SxpHO7aAPJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "biyapay.com",
+                "end": 23,
+                "expanded_url": "http://biyapay.com",
+                "start": 0,
+                "url": "https://t.co/ZxtXmjRWQR"
+              }
+            ]
+          }
+        },
+        "id": "1404674977866018816",
+        "name": "BiyaPay 中文",
+        "pinned_tweet_id": "2019319441881022766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925123366492745729/NGDodCQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27545,
+          "following_count": 916,
+          "like_count": 3192,
+          "listed_count": 52,
+          "media_count": 2611,
+          "tweet_count": 4588
+        },
+        "url": "https://t.co/ZxtXmjRWQR",
+        "username": "BIYAPAYOFFICIAL",
+        "verified": true
+      }
+    ]
+  }
+}

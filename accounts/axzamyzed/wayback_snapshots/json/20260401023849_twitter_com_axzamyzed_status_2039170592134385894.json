@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039170583582408705",
+        "3_2039170583460450305"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039170592134385894",
+    "created_at": "2026-04-01T02:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039170592134385894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i49hMjTE38",
+          "end": 84,
+          "expanded_url": "https://x.com/axzamyzed/status/2039170592134385894/photo/1",
+          "media_key": "3_2039170583582408705",
+          "start": 61,
+          "url": "https://t.co/i49hMjTE38"
+        },
+        {
+          "display_url": "pic.x.com/i49hMjTE38",
+          "end": 84,
+          "expanded_url": "https://x.com/axzamyzed/status/2039170592134385894/photo/1",
+          "media_key": "3_2039170583460450305",
+          "start": 61,
+          "url": "https://t.co/i49hMjTE38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039170592134385894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原本以为没有人会相信这种\n有天晚上我同学买tg号收不到验证码，我就登录上帮他收，但我忘记退出登录了\n然后我就同步收到了… https://t.co/i49hMjTE38"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_2039170583582408705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyW137bAAEOmGD.jpg",
+        "width": 750
+      },
+      {
+        "height": 314,
+        "media_key": "3_2039170583460450305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyW13eWEAEMuh4.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039170583582408705",
+            "3_2039170583460450305"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039170592134385894",
+        "created_at": "2026-04-01T02:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039170592134385894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i49hMjTE38",
+              "end": 84,
+              "expanded_url": "https://x.com/axzamyzed/status/2039170592134385894/photo/1",
+              "media_key": "3_2039170583582408705",
+              "start": 61,
+              "url": "https://t.co/i49hMjTE38"
+            },
+            {
+              "display_url": "pic.x.com/i49hMjTE38",
+              "end": 84,
+              "expanded_url": "https://x.com/axzamyzed/status/2039170592134385894/photo/1",
+              "media_key": "3_2039170583460450305",
+              "start": 61,
+              "url": "https://t.co/i49hMjTE38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039170592134385894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原本以为没有人会相信这种\n有天晚上我同学买tg号收不到验证码，我就登录上帮他收，但我忘记退出登录了\n然后我就同步收到了… https://t.co/i49hMjTE38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 928,
+          "like_count": 8093,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 4850
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

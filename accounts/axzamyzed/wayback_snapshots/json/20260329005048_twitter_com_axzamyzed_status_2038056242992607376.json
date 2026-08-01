@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038055265753292826",
+    "created_at": "2026-03-29T00:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T01:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038056242992607376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038056242992607376",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038055915379994743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI 一个字没听清🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5018,
+        "height": 960,
+        "media_key": "13_2038055860413534208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038055860413534208/img/Xm4WoHNIngsdMnxp.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038055860413534208/vid/avc1/452x360/pJlX5q_MbT4EZYbE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038055860413534208/pl/o8uQgX5AHFLmxYd1.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038055860413534208/vid/avc1/1206x960/oGJstxFqHJq5ab9m.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038055860413534208/vid/avc1/338x270/0hS_Zt3pLYmnsgWW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038055860413534208/vid/avc1/904x720/8zzx2mJTzTXuh746.mp4"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038055265753292826",
+        "created_at": "2026-03-29T00:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038056242992607376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038056242992607376",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038055915379994743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 一个字没听清🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038055860413534208"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2038055265753292826",
+        "created_at": "2026-03-29T00:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038055915379994743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/URWrwsUsNY",
+              "end": 34,
+              "expanded_url": "https://x.com/BI3BXI/status/2038055915379994743/video/1",
+              "media_key": "13_2038055860413534208",
+              "start": 11,
+              "url": "https://t.co/URWrwsUsNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038055915379994743",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038055265753292826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed https://t.co/URWrwsUsNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 932,
+          "like_count": 7816,
+          "listed_count": 2,
+          "media_count": 509,
+          "tweet_count": 4690
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "年费Premium+大冤种 Block前请考虑是否愿意被限流｜小说请见文章栏 ｜AI/ML在读｜Enby🏳️‍⚧️｜前世@ryq59｜本垢@yqua_｜Sister @Tennoujinyano｜主队@BilibiliGaming @nbuna_staff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 60,
+                "username": "ryq59"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "yqua_"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "BilibiliGaming"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "nbuna_staff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "喝味全的味铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8272,
+          "following_count": 3818,
+          "like_count": 37680,
+          "listed_count": 21,
+          "media_count": 2231,
+          "tweet_count": 8653
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

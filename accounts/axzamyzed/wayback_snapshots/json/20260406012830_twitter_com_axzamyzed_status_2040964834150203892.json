@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2040921156338033038",
+    "created_at": "2026-04-06T01:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T02:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040964834150203892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040964834150203892",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040921156338033038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 你在stripe里面看一眼是不是信息有误，以及看一看邮箱，第一次收款需要你填写资金来源才会到账，按理来说正常最迟上周五就该到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040921143960596480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFLO95ha8AAODj4.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040921144082206720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFLO95-akAAem_S.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040921156338033038",
+        "created_at": "2026-04-06T01:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040964834150203892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040964834150203892",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040921156338033038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 你在stripe里面看一眼是不是信息有误，以及看一看邮箱，第一次收款需要你填写资金来源才会到账，按理来说正常最迟上周五就该到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040921143960596480",
+            "3_2040921144082206720"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2040921156338033038",
+        "created_at": "2026-04-05T22:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T23:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040921156338033038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gBaiceIJAg",
+              "end": 165,
+              "expanded_url": "https://x.com/TOOBE775/status/2040921156338033038/photo/1",
+              "media_key": "3_2040921143960596480",
+              "start": 142,
+              "url": "https://t.co/gBaiceIJAg"
+            },
+            {
+              "display_url": "pic.x.com/gBaiceIJAg",
+              "end": 165,
+              "expanded_url": "https://x.com/TOOBE775/status/2040921156338033038/photo/1",
+              "media_key": "3_2040921144082206720",
+              "start": 142,
+              "url": "https://t.co/gBaiceIJAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040921156338033038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 258,
+                "start": 251,
+                "tag": "灰度社会观察"
+              },
+              {
+                "end": 264,
+                "start": 259,
+                "tag": "流量笔记"
+              }
+            ]
+          },
+          "text": "兄弟姐妹们，早上好！☀️\n昨天晚上那个女主播贴，\n被整到英文区去了。\n晚上我评论区就开始乱，\n都是老外在叉架。\n围绕民族和宗教问题，\n连祖宗都骂遍了。\n看来我以后真得低调点，\n大小也算国际名人了，\n被举报种族歧视很麻烦。\n新一天新开始，\n要保证自己内心好状态，\n不要被外部因素影响。\n人要有阿Q精神\n每天不断的夸赞自己，\n给内心充电🔋\n只要内心感受到，\n每天都会给你惊喜。\n大家整理心情和行囊\n出发吧，战友们！！💪\n还有个小问题，\n为啥我的wise 账号，\n还没收到老马的工资？\n有谁能告诉我一下吗😄\n#灰度社会观察 #流量笔记"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1449,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟姐妹们，早上好！☀️\n昨天晚上那个女主播贴，\n被整到英文区去了。\n晚上我评论区就开始乱，\n都是老外在叉架。\n围绕民族和宗教问题，\n连祖宗都骂遍了。\n看来我以后真得低调点，\n大小也算国际名人了，\n被举报种族歧视很麻烦。\n新一天新开始，\n要保证自己内心好状态，\n不要被外部因素影响。 https://t.co/gBaiceIJAg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 932,
+          "like_count": 8391,
+          "listed_count": 4,
+          "media_count": 604,
+          "tweet_count": 5058
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2039160301560709442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 1889,
+          "like_count": 14657,
+          "listed_count": 8,
+          "media_count": 327,
+          "tweet_count": 11833
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

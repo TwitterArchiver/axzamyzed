@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028495714977034573",
+    "created_at": "2026-03-02T15:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028497014049395089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        },
+        {
+          "end": 27,
+          "id": "1810873766119100416",
+          "start": 12,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028497014049395089",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028495714977034573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 @RainEngine2024 想问一下0.01是干什么的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 260,
+        "media_key": "3_2028495712431001600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaqGl_aUAANbIc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 242,
+        "media_key": "3_2028495712166797312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaqGlAa4AA9b84.jpg",
+        "width": 815
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028495714977034573",
+        "created_at": "2026-03-02T15:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028497014049395089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            },
+            {
+              "end": 27,
+              "id": "1810873766119100416",
+              "start": 12,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028497014049395089",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028495714977034573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 @RainEngine2024 想问一下0.01是干什么的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028495712431001600",
+            "3_2028495712166797312"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "conversation_id": "2028495714977034573",
+        "created_at": "2026-03-02T15:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028495714977034573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1810873766119100416",
+              "start": 8,
+              "username": "RainEngine2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfUepyLnb0",
+              "end": 67,
+              "expanded_url": "https://x.com/mwdxj29477/status/2028495714977034573/photo/1",
+              "media_key": "3_2028495712431001600",
+              "start": 44,
+              "url": "https://t.co/YfUepyLnb0"
+            },
+            {
+              "display_url": "pic.x.com/YfUepyLnb0",
+              "end": 67,
+              "expanded_url": "https://x.com/mwdxj29477/status/2028495714977034573/photo/1",
+              "media_key": "3_2028495712166797312",
+              "start": 44,
+              "url": "https://t.co/YfUepyLnb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028495714977034573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃购入雨晴酱@RainEngine2024的小米Mix 2s🥲100.01成交(🥳 https://t.co/YfUepyLnb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 875,
+          "like_count": 5617,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 3129
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/Hrt🍥01.28.2026/无证含糖/14岁年龄党/泛性恋/生产日期:11.13.2011/INFP-T/社恐/纯M/初二牲/体能废物/161cm51kg41码/坐标湖北/只玩Minecraft/民國派🇹🇼華獨/简中&繁中/视成分互fo/下方提问箱↓/\nTG：https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 161,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 138,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "中華民國大陸淪陷區 湖北省「漢川縣」",
+        "name": "𝓜 𝔀 𝓭 𝔁 𝓳 🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023075572533121025/bEp-7N8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 634,
+          "like_count": 6827,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "mwdxj29477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "所谓过往，皆为序章",
+        "id": "1810873766119100416",
+        "name": "夏日晴海",
+        "pinned_tweet_id": "2028009315991494903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7044,
+          "following_count": 815,
+          "like_count": 56291,
+          "listed_count": 5,
+          "media_count": 1217,
+          "tweet_count": 8422
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

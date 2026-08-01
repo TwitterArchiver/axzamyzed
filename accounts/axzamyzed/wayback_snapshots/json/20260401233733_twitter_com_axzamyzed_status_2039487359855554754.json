@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039170592134385894",
+    "created_at": "2026-04-01T23:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T00:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039487359855554754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688015387663949824",
+          "start": 0,
+          "username": "TOWinZH_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039487359855554754",
+    "in_reply_to_user_id": "1688015387663949824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039467685315272709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOWinZH_CN 反诈中心聪明人不装，笨的以为自己很聪明也不装"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039170592134385894",
+        "created_at": "2026-04-01T23:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039487359855554754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688015387663949824",
+              "start": 0,
+              "username": "TOWinZH_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039487359855554754",
+        "in_reply_to_user_id": "1688015387663949824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039467685315272709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOWinZH_CN 反诈中心聪明人不装，笨的以为自己很聪明也不装"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688015387663949824",
+        "conversation_id": "2039170592134385894",
+        "created_at": "2026-04-01T22:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T23:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039467685315272709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039467685315272709",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039170592134385894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 只能说,毫无防备的高手是真的存在的,感觉这种人反而不会去下反诈中心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 931,
+          "like_count": 8163,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 4885
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T02:33:34.000Z",
+        "description": "某19INFP/双相情感障碍/休学中/自学各种东西中/日常推~/计算机领域笨蛋大猫咪/不可以鉴证/缺觉但睡不着ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.towdesite.top",
+                "end": 23,
+                "expanded_url": "https://blog.towdesite.top/",
+                "start": 0,
+                "url": "https://t.co/8qsI49I7s3"
+              }
+            ]
+          }
+        },
+        "id": "1688015387663949824",
+        "name": "TOW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906937186551058432/aIBGuDqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 142,
+          "like_count": 857,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/8qsI49I7s3",
+        "username": "TOWinZH_CN",
+        "verified": false
+      }
+    ]
+  }
+}

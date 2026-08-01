@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067257798476664832"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2067257815283175650",
+    "created_at": "2026-06-17T14:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067257815283175650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/30mP7s6HHx",
+          "end": 36,
+          "expanded_url": "https://x.com/axzamyzed/status/2067257815283175650/photo/1",
+          "media_key": "3_2067257798476664832",
+          "start": 13,
+          "url": "https://t.co/30mP7s6HHx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067257815283175650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "知情者：我也要一起火化吗 https://t.co/30mP7s6HHx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_2067257798476664832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBgA9FbkAABt_H.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067257798476664832"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2067257815283175650",
+        "created_at": "2026-06-17T14:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067257815283175650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/30mP7s6HHx",
+              "end": 36,
+              "expanded_url": "https://x.com/axzamyzed/status/2067257815283175650/photo/1",
+              "media_key": "3_2067257798476664832",
+              "start": 13,
+              "url": "https://t.co/30mP7s6HHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067257815283175650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "知情者：我也要一起火化吗 https://t.co/30mP7s6HHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2066918035722789286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3771,
+          "following_count": 947,
+          "like_count": 13008,
+          "listed_count": 10,
+          "media_count": 2626,
+          "tweet_count": 8003
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

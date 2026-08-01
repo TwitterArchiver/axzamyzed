@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024887227822866432"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2024812612589133977",
+    "created_at": "2026-02-20T16:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T17:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024887233879429572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1565243520037793793",
+          "start": 0,
+          "username": "TheSnowWinter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9hsr16OsTr",
+          "end": 175,
+          "expanded_url": "https://x.com/axzamyzed/status/2024887233879429572/photo/1",
+          "media_key": "3_2024887227822866432",
+          "start": 152,
+          "url": "https://t.co/9hsr16OsTr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024887233879429572",
+    "in_reply_to_user_id": "1565243520037793793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024812612589133977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSnowWinter 不盖章的基本都是院内购买的不用盖章，需要院外购买的都得盖章\n多方位拍照其实可以通过梯度调节解决\n九州通是真的纯神经病，感觉他们的系统和拼多多没对接好，就算能开也得换一两个医生\n莲藕的有时候盖章了也没法过，极其有毛病\n但是医行天下医院的人非常好，还会用表情包，甚至电子的也行 https://t.co/9hsr16OsTr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 243,
+        "media_key": "3_2024887227822866432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnYNJSbgAA_zmk.jpg",
+        "width": 538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024887227822866432"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2024812612589133977",
+        "created_at": "2026-02-20T16:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024887233879429572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1565243520037793793",
+              "start": 0,
+              "username": "TheSnowWinter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hsr16OsTr",
+              "end": 175,
+              "expanded_url": "https://x.com/axzamyzed/status/2024887233879429572/photo/1",
+              "media_key": "3_2024887227822866432",
+              "start": 152,
+              "url": "https://t.co/9hsr16OsTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024887233879429572",
+        "in_reply_to_user_id": "1565243520037793793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024812612589133977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSnowWinter 不盖章的基本都是院内购买的不用盖章，需要院外购买的都得盖章\n多方位拍照其实可以通过梯度调节解决\n九州通是真的纯神经病，感觉他们的系统和拼多多没对接好，就算能开也得换一两个医生\n莲藕的有时候盖章了也没法过，极其有毛病\n但是医行天下医院的人非常好，还会用表情包，甚至电子的也行 https://t.co/9hsr16OsTr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565243520037793793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024812612589133977",
+        "created_at": "2026-02-20T11:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024812612589133977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TheSnowWinter/…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/TheSnowWinter/status/2024812136413991020",
+              "start": 148,
+              "url": "https://t.co/t0qYTyuhGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024812612589133977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024812136413991020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.桃子互联网医院:纯他妈贱，还要处方上面盖章，我他妈精二的处方都是不盖章的，你一个普瑞要啥盖章？\n2.莲藕健康互联网医院:挺好的，就是要你多方位拍照一下你的处方\n3.鼎康慈桦互联网医院:也挺好的，就是限量，150mg链接只能6盒\n4.九州通互联网医院:傻逼不能再傻逼，几个医生不是没电就是断网 https://t.co/t0qYTyuhGe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2024452373318656078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 778,
+          "like_count": 4368,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 2432
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-01T07:42:00.000Z",
+        "description": "🏳️‍⚧️06年MTF🏳️‍⚧🍥2023.11.11-›HRT🍥无证🥺「INFP」|165cm|同类关注会回fo|未出柜(外表女性化)没坦白吃药|家长不管党|精神状态不佳🙂‍↕️|🥰:@toukuer|好姐姐:@Hibari233 @snowfairy011026 @Xinyi_ADHD|🚪20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 92,
+                "username": "toukuer"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Hibari233"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "我不知道.com",
+                "end": 23,
+                "expanded_url": "http://xn--ihqu10c92p0kw.com",
+                "start": 0,
+                "url": "https://t.co/IBAnR9ejWs"
+              }
+            ]
+          }
+        },
+        "id": "1565243520037793793",
+        "location": "Everywhere",
+        "name": "咖喱🍛🏳️‍⚧️",
+        "pinned_tweet_id": "1851107789445480627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863296880211644416/HZ2orQeX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 806,
+          "like_count": 15664,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 6500
+        },
+        "url": "https://t.co/IBAnR9ejWs",
+        "username": "TheSnowWinter",
+        "verified": false
+      }
+    ]
+  }
+}

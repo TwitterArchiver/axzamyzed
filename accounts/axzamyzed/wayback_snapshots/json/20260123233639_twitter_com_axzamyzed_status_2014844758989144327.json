@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      }
+    ],
+    "conversation_id": "2014844595805602026",
+    "created_at": "2026-01-23T23:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T00:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014844758989144327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014844758989144327",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014844595805602026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 雷总还是嘴上功夫最强"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39635,
+        "height": 1920,
+        "media_key": "13_2014829529382940672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014829529382940672/img/2Dnli5lvtTL5Af1f.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829529382940672/vid/avc1/480x852/Ww7S4UCFCPC-qE2i.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829529382940672/vid/avc1/1080x1920/xzxhfBV1-s_8IIOL.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829529382940672/vid/avc1/320x568/xZd75sOyGqdB30ZF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829529382940672/vid/avc1/720x1280/cvTFn-E3Z65Nv03W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014829529382940672/pl/e3VLK83zGAALvyRs.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 47438,
+        "height": 1280,
+        "media_key": "13_2014829534147653632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014829534147653632/img/sHzQrnkp54g0wv8k.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829534147653632/vid/avc1/320x568/4GvBDnTHlGnMzrDZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829534147653632/vid/avc1/480x852/uA_D3gF9h4Uc9gGJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829534147653632/vid/avc1/720x1280/EtExwAjk8sg3Ap5P.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014829534147653632/pl/bDahrlgwYJDiKMHH.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 45433,
+        "height": 1920,
+        "media_key": "13_2014829539629678592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014829539629678592/img/4qUssiTPr0CWRgVS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014829539629678592/pl/SJOx-9Qy12AipY-s.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829539629678592/vid/avc1/720x1280/igrULqlPr8FgEfhJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829539629678592/vid/avc1/1080x1920/W3yJeqefvzfxrraT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829539629678592/vid/avc1/480x852/WrG8l2FlHi0ZKc3p.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829539629678592/vid/avc1/320x568/SFMZnxbAIiS6gCOH.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 37433,
+        "height": 1920,
+        "media_key": "13_2014829545975648256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014829545975648256/img/7Sn-QDUZ3ooNFMcB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014829545975648256/pl/Mmnme-By0bvHgFir.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829545975648256/vid/avc1/480x852/9TKkxcexRBIfvB2x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829545975648256/vid/avc1/720x1280/3eLjtWbdDKJV-WPY.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829545975648256/vid/avc1/320x568/eYQh-OI3tZy6jPI3.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014829545975648256/vid/avc1/1080x1920/2byFrgMBKEAUg19y.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2014844595805602026",
+        "created_at": "2026-01-23T23:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T00:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014844758989144327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014844758989144327",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014844595805602026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 雷总还是嘴上功夫最强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014829529382940672",
+            "13_2014829534147653632",
+            "13_2014829539629678592",
+            "13_2014829545975648256"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014844595805602026",
+        "created_at": "2026-01-23T23:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T00:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014844595805602026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ZQ5itqnWE",
+              "end": 153,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014844595805602026/video/1",
+              "media_key": "13_2014829529382940672",
+              "start": 130,
+              "url": "https://t.co/4ZQ5itqnWE"
+            },
+            {
+              "display_url": "pic.x.com/4ZQ5itqnWE",
+              "end": 153,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014844595805602026/video/1",
+              "media_key": "13_2014829534147653632",
+              "start": 130,
+              "url": "https://t.co/4ZQ5itqnWE"
+            },
+            {
+              "display_url": "pic.x.com/4ZQ5itqnWE",
+              "end": 153,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014844595805602026/video/1",
+              "media_key": "13_2014829539629678592",
+              "start": 130,
+              "url": "https://t.co/4ZQ5itqnWE"
+            },
+            {
+              "display_url": "pic.x.com/4ZQ5itqnWE",
+              "end": 153,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014844595805602026/video/1",
+              "media_key": "13_2014829545975648256",
+              "start": 130,
+              "url": "https://t.co/4ZQ5itqnWE"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2014382552820126157",
+              "start": 154,
+              "url": "https://t.co/AY1RaV5ehd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014844595805602026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014382552820126157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“拒绝为小米提供服务”\n继1月19日海口市一家汽车维修店一辆小米SU7在停放状态下突然起火事件后\n近日各地汽修店的老板们纷纷发视频称自己的店铺将不会为小米汽车提供任何服务。\n店主们普遍担忧如果小米汽车来到其店里维修或保养时结果发生起火事故，这个责任无法负担。 https://t.co/4ZQ5itqnWE https://t.co/AY1RaV5ehd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 92,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185098,
+          "following_count": 1004,
+          "like_count": 8843,
+          "listed_count": 8520,
+          "media_count": 40571,
+          "tweet_count": 47532
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

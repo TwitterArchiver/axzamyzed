@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016835661232558298",
+    "created_at": "2026-01-29T13:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T14:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016862732080075068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899011546505998336",
+          "start": 0,
+          "username": "AstraeaSZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016862732080075068",
+    "in_reply_to_user_id": "1899011546505998336",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016859628852953149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AstraeaSZK you studied in the States… well, really jealous"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016835661232558298",
+        "created_at": "2026-01-29T13:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016862732080075068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899011546505998336",
+              "start": 0,
+              "username": "AstraeaSZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016862732080075068",
+        "in_reply_to_user_id": "1899011546505998336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016859628852953149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AstraeaSZK you studied in the States… well, really jealous"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899011546505998336",
+        "conversation_id": "2016835661232558298",
+        "created_at": "2026-01-29T13:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016859628852953149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016859628852953149",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016859563006492902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed Us mo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 420,
+          "like_count": 2302,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1220
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-10T08:17:03.000Z",
+        "description": "18歳|アメリカの大学生|バックエンド開発|EN/JP|ロボットアニメ(ガンダム/エバンゲリオン/マジンカーZ/ゲッターロボ/機動警察) 百合作品(ささ恋/citrus/志乃と恋)|ゲーム(CS2/ゼルダの伝説/Fate Stay Night/Loopers|皆さんと仲良くなりたいですね！🥹🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "astraea.nexus",
+                "end": 23,
+                "expanded_url": "http://astraea.nexus",
+                "start": 0,
+                "url": "https://t.co/RpfJ6sgxHB"
+              }
+            ]
+          }
+        },
+        "id": "1899011546505998336",
+        "location": "Anaheim Electronics",
+        "name": "𝓐𝓼𝓽𝓻𝓪𝓮𝓪🏳️‍⚧️🌸",
+        "pinned_tweet_id": "2004819420359925959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993422452400308224/0mRcMmFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 645,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/RpfJ6sgxHB",
+        "username": "AstraeaSZK",
+        "verified": true
+      }
+    ]
+  }
+}

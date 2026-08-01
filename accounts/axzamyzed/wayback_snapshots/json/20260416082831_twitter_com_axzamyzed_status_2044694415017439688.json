@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2044572943519289664",
+    "created_at": "2026-04-16T08:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044694415017439688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1393566321950945285",
+          "start": 0,
+          "username": "M1275475759"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044694415017439688",
+    "in_reply_to_user_id": "1393566321950945285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044660813689221582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M1275475759 斯….有道理啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2044572943519289664",
+        "created_at": "2026-04-16T08:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044694415017439688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1393566321950945285",
+              "start": 0,
+              "username": "M1275475759"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044694415017439688",
+        "in_reply_to_user_id": "1393566321950945285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044660813689221582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M1275475759 斯….有道理啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393566321950945285",
+        "conversation_id": "2044572943519289664",
+        "created_at": "2026-04-16T06:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044660813689221582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044660813689221582",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 961,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044572943519289664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 电费都是阶梯式增长的，先不说他用多少，但凡他用的电超过一个阶梯电费都不一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 891,
+          "like_count": 9155,
+          "listed_count": 6,
+          "media_count": 822,
+          "tweet_count": 5507
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-15T13:58:41.000Z",
+        "description": "用显微镜拆解热点背后的逻辑｜抖音爆款流量密码｜行业趋势与文化洞察｜私信合作 / 选题 / 一起拆流量 👀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tuitehuguan_c",
+                "end": 23,
+                "expanded_url": "https://t.me/tuitehuguan_c",
+                "start": 0,
+                "url": "https://t.co/HYjuKF8cNw"
+              }
+            ]
+          }
+        },
+        "id": "1393566321950945285",
+        "location": "China Grove, NC",
+        "name": "MY_显微镜🔬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038075199640555520/v4H9aaDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 779,
+          "like_count": 3682,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 2089
+        },
+        "url": "https://t.co/HYjuKF8cNw",
+        "username": "M1275475759",
+        "verified": true
+      }
+    ]
+  }
+}

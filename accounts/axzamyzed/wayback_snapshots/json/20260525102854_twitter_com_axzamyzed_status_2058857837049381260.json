@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058857402720804864"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2058857837049381260",
+    "created_at": "2026-05-25T10:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058857837049381260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ap3cRG7TDL",
+          "end": 38,
+          "expanded_url": "https://x.com/axzamyzed/status/2058857837049381260/video/1",
+          "media_key": "13_2058857402720804864",
+          "start": 15,
+          "url": "https://t.co/Ap3cRG7TDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058857837049381260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "海绵宝宝一家三口谁最适合刷锅 https://t.co/Ap3cRG7TDL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 165710,
+        "height": 1062,
+        "media_key": "13_2058857402720804864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058857402720804864/img/qOYStxM9xVvp-Ssb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058857402720804864/vid/avc1/320x452/Ya561Fu5njNOnxdL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058857402720804864/vid/avc1/480x678/6baFBZTSh3EdaSc-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058857402720804864/vid/avc1/750x1062/OejGIigrUvoNuVGT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058857402720804864/pl/O8EdAdxB_SbrQgts.m3u8"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058857402720804864"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2058857837049381260",
+        "created_at": "2026-05-25T10:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058857837049381260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ap3cRG7TDL",
+              "end": 38,
+              "expanded_url": "https://x.com/axzamyzed/status/2058857837049381260/video/1",
+              "media_key": "13_2058857402720804864",
+              "start": 15,
+              "url": "https://t.co/Ap3cRG7TDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058857837049381260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "海绵宝宝一家三口谁最适合刷锅 https://t.co/Ap3cRG7TDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3470,
+          "following_count": 949,
+          "like_count": 11731,
+          "listed_count": 11,
+          "media_count": 1780,
+          "tweet_count": 6944
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

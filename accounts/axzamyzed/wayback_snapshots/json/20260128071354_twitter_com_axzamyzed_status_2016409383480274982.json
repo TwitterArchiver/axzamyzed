@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016383166010032513",
+    "created_at": "2026-01-28T07:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T08:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016409383480274982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3028759325",
+          "start": 0,
+          "username": "huojianmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016409383480274982",
+    "in_reply_to_user_id": "3028759325",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016383166010032513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huojianmei 关了等回"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2016383144316829696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uhyVgXAAAOIMV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016383166010032513",
+        "created_at": "2026-01-28T07:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016409383480274982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3028759325",
+              "start": 0,
+              "username": "huojianmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016409383480274982",
+        "in_reply_to_user_id": "3028759325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016383166010032513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huojianmei 关了等回"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016383144316829696"
+          ]
+        },
+        "author_id": "3028759325",
+        "conversation_id": "2016383166010032513",
+        "created_at": "2026-01-28T05:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016383166010032513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HU2U1oVCwW",
+              "end": 177,
+              "expanded_url": "https://x.com/huojianmei/status/2016383166010032513/photo/1",
+              "media_key": "3_2016383144316829696",
+              "start": 154,
+              "url": "https://t.co/HU2U1oVCwW"
+            },
+            {
+              "display_url": "x.com/huojianmei/sta…",
+              "end": 201,
+              "expanded_url": "https://twitter.com/huojianmei/status/2016055822477099495",
+              "start": 178,
+              "url": "https://t.co/odz83kRBSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016383166010032513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 351,
+                "start": 346,
+                "tag": "推特干货"
+              },
+              {
+                "end": 355,
+                "start": 352,
+                "tag": "互关"
+              },
+              {
+                "end": 361,
+                "start": 356,
+                "tag": "涨粉技巧"
+              },
+              {
+                "end": 371,
+                "start": 362,
+                "tag": "FollowMe"
+              },
+              {
+                "end": 377,
+                "start": 372,
+                "tag": "运营笔记"
+              }
+            ]
+          },
+          "text": "如果不玩互关，\n\n普通人在X还有出路吗？\n\n作为一名运营，\n\n我每天看几百个账号的起起落落。\n\n我发现新手最容易掉进的坑就是：孤芳自赏。\n\n你总觉得“内容为王”，\n\n只要写得好就有人看。\n\n但现实是，\n\n如果没有初始的 500 个铁粉帮你点火，\n\n你的内容就是一堆废纸。\n\n这就是我发这条“互关帖”的初心：\n\n给每一个努力的灵魂，提供第一把火。\n\n不要害羞：觉得互关丢人？\n\n那些大V早期哪个没玩过互动和置换？\n\n不要等待：算法不会主动敲你的门。\n\n现在就行动：点个关注。\n\n我会手动一个一个回，因为我尊重每一个想变强的人。\n\n👇 评论区是开放的，也是热烈的。\n\n留下你的痕迹，去关注那些和你一样在奋斗的人。\n\n今天，我们不聊算法，只聊互助。\n\n点下关注，你的推特生涯，从这一刻开始转折。\n\n#推特干货 #互关 #涨粉技巧 #FollowMe #运营笔记"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19082,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016055822477099495",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果不玩互关，\n\n普通人在X还有出路吗？\n\n作为一名运营，\n\n我每天看几百个账号的起起落落。\n\n我发现新手最容易掉进的坑就是：孤芳自赏。\n\n你总觉得“内容为王”，\n\n只要写得好就有人看。\n\n但现实是，\n\n如果没有初始的 500 个铁粉帮你点火，\n\n你的内容就是一堆废纸。\n\n这就是我发这条“互关帖”的初心： https://t.co/HU2U1oVCwW https://t.co/odz83kRBSe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 357,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-10T20:45:10.000Z",
+        "description": "Web3爱好者 分享实用投资心得 | 比特币项链真实持有 | 互关币友 暴富不迷路~",
+        "id": "3028759325",
+        "name": "Nancy",
+        "pinned_tweet_id": "2013518187892220078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005453449547456512/qmjp-KiF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6939,
+          "following_count": 1858,
+          "like_count": 2372,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 1066
+        },
+        "username": "huojianmei",
+        "verified": true
+      }
+    ]
+  }
+}

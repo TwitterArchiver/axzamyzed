@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2047832342387933466",
+    "created_at": "2026-04-25T00:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047839515679584418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1787287410554134528",
+          "start": 0,
+          "username": "gary_liu2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047839515679584418",
+    "in_reply_to_user_id": "1787287410554134528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047834356635566469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gary_liu2024 到时候没法兑现就尴尬了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2047832342387933466",
+        "created_at": "2026-04-25T00:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047839515679584418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1787287410554134528",
+              "start": 0,
+              "username": "gary_liu2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047839515679584418",
+        "in_reply_to_user_id": "1787287410554134528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047834356635566469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gary_liu2024 到时候没法兑现就尴尬了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787287410554134528",
+        "conversation_id": "2047832342387933466",
+        "created_at": "2026-04-25T00:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047834356635566469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047834356635566469",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047832342387933466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 给他们随便拍一个英国豪宅，说奖学金买的，毕业后就把家里人接过去住。\n让亲戚们无地自容，再也不说话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 863,
+          "like_count": 9939,
+          "listed_count": 9,
+          "media_count": 999,
+          "tweet_count": 5827
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-06T01:05:17.000Z",
+        "description": "分享一下澳洲悉尼的趣事，惨事。\n也分享自己的炒币分析，操作（亏钱经历），不作为投资建议。",
+        "id": "1787287410554134528",
+        "location": "Sydney",
+        "name": "澳洲盖瑞",
+        "pinned_tweet_id": "2031132554443763881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788775803637108736/DrHxFK3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 550,
+          "like_count": 1230,
+          "listed_count": 3,
+          "media_count": 598,
+          "tweet_count": 2845
+        },
+        "username": "gary_liu2024",
+        "verified": true
+      }
+    ]
+  }
+}

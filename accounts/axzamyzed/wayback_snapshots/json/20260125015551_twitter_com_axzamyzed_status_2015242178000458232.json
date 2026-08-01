@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015242168764694528"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015242178000458232",
+    "created_at": "2026-01-25T01:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T02:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015242178000458232"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 111,
+          "tag": "claudecode"
+        },
+        {
+          "end": 134,
+          "start": 123,
+          "tag": "vibecoding"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Learn about Claude Code, Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code faster than ever before.",
+          "display_url": "CLAUDE.md",
+          "end": 33,
+          "expanded_url": "http://CLAUDE.md",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2014202059067936768/Bpr5pcBS?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2014202059067936768/Bpr5pcBS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 10,
+          "status": 200,
+          "title": "Claude Code overview - Claude Code Docs",
+          "unwound_url": "https://code.claude.com/docs/",
+          "url": "https://t.co/xPISFn2kZX"
+        },
+        {
+          "description": "Learn about Claude Code, Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code faster than ever before.",
+          "display_url": "claude.md",
+          "end": 85,
+          "expanded_url": "http://claude.md",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2014202059067936768/Bpr5pcBS?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2014202059067936768/Bpr5pcBS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 62,
+          "status": 200,
+          "title": "Claude Code overview - Claude Code Docs",
+          "unwound_url": "https://code.claude.com/docs/",
+          "url": "https://t.co/qQr3qn4taK"
+        },
+        {
+          "display_url": "pic.x.com/AOkeEZitqi",
+          "end": 158,
+          "expanded_url": "https://x.com/axzamyzed/status/2015242178000458232/photo/1",
+          "media_key": "3_2015242168764694528",
+          "start": 135,
+          "url": "https://t.co/AOkeEZitqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015242178000458232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷抖音还能学到东西\nhttps://t.co/xPISFn2kZX作为注入在对话最前面的消息和你的最初的提示词的位置差不多，https://t.co/qQr3qn4taK被忽略了以后你的提示词大概也被忽略了\n学到了学到了\n#claudecode #vibecoding https://t.co/AOkeEZitqi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "3_2015242168764694528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_eUE0WbgAAUtqE.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015242168764694528"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015242178000458232",
+        "created_at": "2026-01-25T01:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T02:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015242178000458232"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 111,
+              "tag": "claudecode"
+            },
+            {
+              "end": 134,
+              "start": 123,
+              "tag": "vibecoding"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Learn about Claude Code, Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code faster than ever before.",
+              "display_url": "CLAUDE.md",
+              "end": 33,
+              "expanded_url": "http://CLAUDE.md",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2014202059067936768/Bpr5pcBS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014202059067936768/Bpr5pcBS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 10,
+              "status": 200,
+              "title": "Claude Code overview - Claude Code Docs",
+              "unwound_url": "https://code.claude.com/docs/",
+              "url": "https://t.co/xPISFn2kZX"
+            },
+            {
+              "description": "Learn about Claude Code, Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code faster than ever before.",
+              "display_url": "claude.md",
+              "end": 85,
+              "expanded_url": "http://claude.md",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2014202059067936768/Bpr5pcBS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014202059067936768/Bpr5pcBS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 62,
+              "status": 200,
+              "title": "Claude Code overview - Claude Code Docs",
+              "unwound_url": "https://code.claude.com/docs/",
+              "url": "https://t.co/qQr3qn4taK"
+            },
+            {
+              "display_url": "pic.x.com/AOkeEZitqi",
+              "end": 158,
+              "expanded_url": "https://x.com/axzamyzed/status/2015242178000458232/photo/1",
+              "media_key": "3_2015242168764694528",
+              "start": 135,
+              "url": "https://t.co/AOkeEZitqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015242178000458232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷抖音还能学到东西\nhttps://t.co/xPISFn2kZX作为注入在对话最前面的消息和你的最初的提示词的位置差不多，https://t.co/qQr3qn4taK被忽略了以后你的提示词大概也被忽略了\n学到了学到了\n#claudecode #vibecoding https://t.co/AOkeEZitqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心喵(=･ω･=)♡ 和我熟了我会很粘人｜若愿与我靠近，我会真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 148,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2032622282162717101",
+    "created_at": "2026-03-14T02:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T03:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032648165414092971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279242635341729792",
+          "start": 0,
+          "username": "maigomaigoHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032648165414092971",
+    "in_reply_to_user_id": "1279242635341729792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032622282162717101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigomaigoHH 唉,我这是能收到的第一周,结果低于最低收益,气死我了,虽然我这周曝光八十万,然后总曝光580万愣是30刀没给我呜呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2032622278538833922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDVTMWraMAIcYyT.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2032622282162717101",
+        "created_at": "2026-03-14T02:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032648165414092971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279242635341729792",
+              "start": 0,
+              "username": "maigomaigoHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032648165414092971",
+        "in_reply_to_user_id": "1279242635341729792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032622282162717101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigomaigoHH 唉,我这是能收到的第一周,结果低于最低收益,气死我了,虽然我这周曝光八十万,然后总曝光580万愣是30刀没给我呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032622278538833922"
+          ]
+        },
+        "author_id": "1279242635341729792",
+        "conversation_id": "2032622282162717101",
+        "created_at": "2026-03-14T00:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T01:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032622282162717101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/szejVRu8AW",
+              "end": 35,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2032622282162717101/photo/1",
+              "media_key": "3_2032622278538833922",
+              "start": 12,
+              "url": "https://t.co/szejVRu8AW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032622282162717101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1370,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马一龙本周期精神损失费 https://t.co/szejVRu8AW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜小号 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2032407335965274563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 907,
+          "like_count": 6419,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 3785
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5695,
+          "following_count": 803,
+          "like_count": 24555,
+          "listed_count": 30,
+          "media_count": 1443,
+          "tweet_count": 19101
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

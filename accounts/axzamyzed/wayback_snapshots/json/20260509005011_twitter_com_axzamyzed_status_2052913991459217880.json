@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2052671412876231046",
+    "created_at": "2026-05-09T00:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T01:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052913991459217880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753469739093852160",
+          "start": 0,
+          "username": "YangSeen46137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052913991459217880",
+    "in_reply_to_user_id": "1753469739093852160",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052801895433916724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangSeen46137 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2052671412876231046",
+        "created_at": "2026-05-09T00:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052913991459217880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753469739093852160",
+              "start": 0,
+              "username": "YangSeen46137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052913991459217880",
+        "in_reply_to_user_id": "1753469739093852160",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052801895433916724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangSeen46137 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753469739093852160",
+        "conversation_id": "2052671412876231046",
+        "created_at": "2026-05-08T17:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052801895433916724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052801895433916724",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052671412876231046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 原曲:你到底几几年的，我一看见你几几就年年的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 923,
+          "like_count": 10909,
+          "listed_count": 10,
+          "media_count": 1371,
+          "tweet_count": 6361
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T17:26:01.000Z",
+        "description": "欢迎查我的回帖记录，如果觉得我们是一类人，请和我互关😇",
+        "id": "1753469739093852160",
+        "name": "azie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925598463716372480/oyWBpsmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 7,
+          "like_count": 792,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 694
+        },
+        "username": "YangSeen46137",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2063462050177941591",
+    "created_at": "2026-06-07T04:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063471308806185403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1561128018223202304",
+          "start": 0,
+          "username": "2curve40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063471308806185403",
+    "in_reply_to_user_id": "1561128018223202304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063470871331917918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2curve40 他逃，他追，他插翅难飞😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2063462050177941591",
+        "created_at": "2026-06-07T04:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063471308806185403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1561128018223202304",
+              "start": 0,
+              "username": "2curve40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063471308806185403",
+        "in_reply_to_user_id": "1561128018223202304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063470871331917918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2curve40 他逃，他追，他插翅难飞😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561128018223202304",
+        "conversation_id": "2063462050177941591",
+        "created_at": "2026-06-07T03:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063470871331917918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063470871331917918",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063462050177941591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 赶紧跑啊，追上来就完犊子了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3648,
+          "following_count": 944,
+          "like_count": 12386,
+          "listed_count": 10,
+          "media_count": 2229,
+          "tweet_count": 7512
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-20T23:08:43.000Z",
+        "description": "一个40岁说粤语的中年男人 ｜ 15年消费电子制造业经验 ｜NDPD + PMP + CSCP ｜ 转行研究 AI、跨境、全球化、心理学与人生第二曲线",
+        "id": "1561128018223202304",
+        "name": "SecondCurve40",
+        "pinned_tweet_id": "2060885938226819235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053024789695225856/3VKjbhY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 499,
+          "like_count": 3495,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 5346
+        },
+        "username": "2curve40",
+        "verified": true
+      }
+    ]
+  }
+}

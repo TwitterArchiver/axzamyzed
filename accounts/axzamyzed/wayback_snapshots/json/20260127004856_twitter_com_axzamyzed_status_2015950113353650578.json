@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015942756758106597",
+    "created_at": "2026-01-27T00:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T01:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015950113353650578"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "佳音",
+          "probability": 0.5102,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015950113353650578",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015942756758106597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 静候“佳音”"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30400,
+        "height": 990,
+        "media_key": "13_2015942669441126400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015942669441126400/img/G7EmKEKI0LXz4oXx.jpg",
+        "public_metrics": {
+          "view_count": 1039
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015942669441126400/vid/avc1/320x440/5YEeoy3sncXN7aSb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015942669441126400/vid/avc1/480x660/VOQIqSknG0MYqlkN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015942669441126400/vid/avc1/720x990/yC3uIDyyVTP2Q23y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015942669441126400/pl/5MB_ABA6H_R28RYe.m3u8?v=659"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015942756758106597",
+        "created_at": "2026-01-27T00:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T01:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015950113353650578"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "佳音",
+              "probability": 0.5102,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015950113353650578",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015942756758106597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 静候“佳音”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015942669441126400"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2015942756758106597",
+        "created_at": "2026-01-27T00:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T01:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015942756758106597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJ8zIEUbVB",
+              "end": 117,
+              "expanded_url": "https://x.com/maoshen/status/2015942756758106597/video/1",
+              "media_key": "13_2015942669441126400",
+              "start": 94,
+              "url": "https://t.co/JJ8zIEUbVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015942756758106597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2090,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "北京卫戍区警卫第一师进入战备状态，中部战区83 集团军出现在京郊，距离权力中枢仅一箭之遥\n\n首都各部队一级战备，立即停止一切军事调动，关闭九门，所有军官及士兵手机上缴，大战一触即发～～😂 https://t.co/JJ8zIEUbVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 288,
+          "like_count": 1897,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点，守住内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192422,
+          "following_count": 3574,
+          "like_count": 3830,
+          "listed_count": 505,
+          "media_count": 2421,
+          "tweet_count": 4256
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

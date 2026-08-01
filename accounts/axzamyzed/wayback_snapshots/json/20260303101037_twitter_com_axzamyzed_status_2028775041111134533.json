@@ -1,0 +1,563 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2028775041111134533",
+    "created_at": "2026-03-03T10:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028775041111134533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "lycoris.online",
+          "end": 123,
+          "expanded_url": "https://lycoris.online",
+          "start": 100,
+          "status": 200,
+          "title": "夏水仙",
+          "unwound_url": "https://lycoris.online",
+          "url": "https://t.co/x2MRyxMaBc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028775041111134533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028772721174425944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: 大家元宵节快乐🥳\n这次去北京，查看了一些无障碍卫生间的可用性和维护情况\n但是由于时间有限，我只做了不到20个，以后还得慢慢完成呢…\n然后宣传一下 夏水仙网站：https://t.co/x2MRyxMaBc\ngithub项目：https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028772711628222465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCemCEabMAE1eeJ.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2028775041111134533",
+        "created_at": "2026-03-03T10:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028775041111134533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "lycoris.online",
+              "end": 123,
+              "expanded_url": "https://lycoris.online",
+              "start": 100,
+              "status": 200,
+              "title": "夏水仙",
+              "unwound_url": "https://lycoris.online",
+              "url": "https://t.co/x2MRyxMaBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028775041111134533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028772721174425944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: 大家元宵节快乐🥳\n这次去北京，查看了一些无障碍卫生间的可用性和维护情况\n但是由于时间有限，我只做了不到20个，以后还得慢慢完成呢…\n然后宣传一下 夏水仙网站：https://t.co/x2MRyxMaBc\ngithub项目：https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028772711628222465"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2028772721174425944",
+        "created_at": "2026-03-03T10:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028772721174425944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "lycoris.online",
+              "end": 102,
+              "expanded_url": "https://lycoris.online",
+              "start": 79,
+              "status": 200,
+              "title": "夏水仙",
+              "unwound_url": "https://lycoris.online",
+              "url": "https://t.co/x2MRyxMaBc"
+            },
+            {
+              "description": "The code of the Lycoris Trans Project. Contribute to Eleanor1018/lycoris development by creating an account on GitHub.",
+              "display_url": "github.com/Eleanor1018/ly…",
+              "end": 135,
+              "expanded_url": "https://github.com/Eleanor1018/lycoris",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2027471160779448320/jovnFxQz?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027471160779448320/jovnFxQz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 112,
+              "status": 200,
+              "title": "GitHub - Eleanor1018/lycoris: The code of the Lycoris Trans Project",
+              "unwound_url": "https://github.com/Eleanor1018/lycoris",
+              "url": "https://t.co/emYrklulRs"
+            },
+            {
+              "display_url": "pic.x.com/Mwbkq9tazr",
+              "end": 159,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2028772721174425944/photo/1",
+              "media_key": "3_2028772711628222465",
+              "start": 136,
+              "url": "https://t.co/Mwbkq9tazr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028772721174425944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家元宵节快乐🥳\n这次去北京，查看了一些无障碍卫生间的可用性和维护情况\n但是由于时间有限，我只做了不到20个，以后还得慢慢完成呢…\n然后宣传一下 夏水仙网站：https://t.co/x2MRyxMaBc\ngithub项目：https://t.co/emYrklulRs https://t.co/Mwbkq9tazr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 889,
+          "like_count": 5706,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 3210
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3707,
+          "following_count": 1988,
+          "like_count": 25922,
+          "listed_count": 10,
+          "media_count": 131,
+          "tweet_count": 6428
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

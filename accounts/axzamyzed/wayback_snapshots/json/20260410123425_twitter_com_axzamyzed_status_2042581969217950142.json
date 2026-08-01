@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2042579255121580354",
+    "created_at": "2026-04-10T12:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042581969217950142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732724006787420160",
+          "start": 0,
+          "username": "Venti718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042581969217950142",
+    "in_reply_to_user_id": "1732724006787420160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042579255121580354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Venti718 有我家门口附近的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2042579255121580354",
+        "created_at": "2026-04-10T12:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042581969217950142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732724006787420160",
+              "start": 0,
+              "username": "Venti718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042581969217950142",
+        "in_reply_to_user_id": "1732724006787420160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042579255121580354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Venti718 有我家门口附近的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732724006787420160",
+        "conversation_id": "2042579255121580354",
+        "created_at": "2026-04-10T12:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042579255121580354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldgeo/status/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/cldgeo/status/2042481640975581439",
+              "start": 40,
+              "url": "https://t.co/CDPHFzjblw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042579255121580354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042481640975581439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "牛逼，推上有真人吗，每次我问有人玩吗都没人吊我，我一发傻X文案就TM出来复制了 https://t.co/CDPHFzjblw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 928,
+          "like_count": 8710,
+          "listed_count": 4,
+          "media_count": 691,
+          "tweet_count": 5256
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "高二牲/友跨/简中/繁中/English/蓝v互fo 看到马上回/Ciallo～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.akiyamamio.one",
+                "end": 23,
+                "expanded_url": "http://blog.akiyamamio.one",
+                "start": 0,
+                "url": "https://t.co/iAPAG2H15q"
+              }
+            ]
+          }
+        },
+        "id": "1732724006787420160",
+        "location": "Tianjin",
+        "name": "澪老师不是零老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 2133,
+          "like_count": 18788,
+          "listed_count": 1,
+          "media_count": 399,
+          "tweet_count": 5743
+        },
+        "url": "https://t.co/iAPAG2H15q",
+        "username": "Venti718",
+        "verified": true
+      }
+    ]
+  }
+}

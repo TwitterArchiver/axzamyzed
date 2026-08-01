@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2056723760087195820",
+    "created_at": "2026-05-19T13:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056724702698340831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1548619992001785859",
+          "start": 0,
+          "username": "frankshiki73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056724702698340831",
+    "in_reply_to_user_id": "1548619992001785859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056723760087195820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frankshiki73 看到我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056723447825432576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrzFCzaAAAMH-J.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2056723760087195820",
+        "created_at": "2026-05-19T13:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056724702698340831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1548619992001785859",
+              "start": 0,
+              "username": "frankshiki73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056724702698340831",
+        "in_reply_to_user_id": "1548619992001785859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056723760087195820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frankshiki73 看到我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056723447825432576"
+          ]
+        },
+        "author_id": "1548619992001785859",
+        "conversation_id": "2056723760087195820",
+        "created_at": "2026-05-19T13:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056723760087195820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRZX5MWwWK",
+              "end": 47,
+              "expanded_url": "https://x.com/frankshiki73/status/2056723760087195820/photo/1",
+              "media_key": "3_2056723447825432576",
+              "start": 24,
+              "url": "https://t.co/fRZX5MWwWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056723760087195820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你推是不是有毛病啊 明明已经解了还在一直弹冻结 https://t.co/fRZX5MWwWK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3434,
+          "following_count": 937,
+          "like_count": 11446,
+          "listed_count": 10,
+          "media_count": 1637,
+          "tweet_count": 6744
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "社恐 /  Dev / Game / Anime / 🚇🚌🚄🧳💻🧋🍥 看成分回fo 这里介绍不完我请你多看",
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "frank_782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592617823862784/tRNWUTh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 201,
+          "like_count": 1976,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 1155
+        },
+        "username": "frankshiki73",
+        "verified": true
+      }
+    ]
+  }
+}

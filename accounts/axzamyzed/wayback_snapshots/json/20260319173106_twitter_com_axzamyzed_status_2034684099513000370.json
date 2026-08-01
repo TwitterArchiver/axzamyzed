@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2034674220752674901",
+    "created_at": "2026-03-19T17:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T18:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034684099513000370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034684099513000370",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034674220752674901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 这个好像不会计算以前的收益，但我不太确定"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034674218160594944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyda9cboAAodBz.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2034674220752674901",
+        "created_at": "2026-03-19T17:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T18:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034684099513000370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034684099513000370",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034674220752674901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 这个好像不会计算以前的收益，但我不太确定"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034674218160594944"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2034674220752674901",
+        "created_at": "2026-03-19T16:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034674220752674901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ackj02m6W7",
+              "end": 129,
+              "expanded_url": "https://x.com/jlxc2001/status/2034674220752674901/photo/1",
+              "media_key": "3_2034674218160594944",
+              "start": 106,
+              "url": "https://t.co/Ackj02m6W7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034674220752674901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 642,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近开通了推特的收益功能，之前选择身份验证的时候，用护照和身份证都不能验证通过。最后发现可以用日本三年多次签证作为身份证明。过推特的身份验证，终于是绑定成功了，我打算把在推特赚到的第一笔钱全部捐给韩红慈善基金会 https://t.co/Ackj02m6W7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2033059853720236538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 910,
+          "like_count": 6898,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 4210
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13055,
+          "following_count": 172,
+          "like_count": 399,
+          "listed_count": 27,
+          "media_count": 726,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

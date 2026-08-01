@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2026205371673813460",
+    "created_at": "2026-02-24T08:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026211755211559278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830775691375218688",
+          "start": 0,
+          "username": "YunoQiu56649"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/teamtransmtf/s…",
+          "end": 141,
+          "expanded_url": "https://x.com/teamtransmtf/status/2025604652461588819?s=46",
+          "start": 118,
+          "url": "https://t.co/w6m3lA7UiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026211755211559278",
+    "in_reply_to_user_id": "1830775691375218688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025604652461588819",
+        "type": "quoted"
+      },
+      {
+        "id": "2026205371673813460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunoQiu56649 用药途径选择口服，然后就有CPA的选项了，不好意思位置可能放的不太好，给您造成麻烦了\n\n顺便打个广告，如果你去医院测过血液e2水平，可以用transmtf团队的云同步版，我们支持了个体化学习可能结果更准确\n\nhttps://t.co/w6m3lA7UiW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 415,
+        "media_key": "3_2025604644244996096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxksRuawAAvP1E.jpg",
+        "width": 750
+      },
+      {
+        "height": 924,
+        "media_key": "3_2025604644173729792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxksRdbUAAT5Hz.jpg",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026205225720393728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6G6uEasAATVOt.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2026205371673813460",
+        "created_at": "2026-02-24T08:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026211755211559278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830775691375218688",
+              "start": 0,
+              "username": "YunoQiu56649"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/teamtransmtf/s…",
+              "end": 141,
+              "expanded_url": "https://x.com/teamtransmtf/status/2025604652461588819?s=46",
+              "start": 118,
+              "url": "https://t.co/w6m3lA7UiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026211755211559278",
+        "in_reply_to_user_id": "1830775691375218688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025604652461588819",
+            "type": "quoted"
+          },
+          {
+            "id": "2026205371673813460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunoQiu56649 用药途径选择口服，然后就有CPA的选项了，不好意思位置可能放的不太好，给您造成麻烦了\n\n顺便打个广告，如果你去医院测过血液e2水平，可以用transmtf团队的云同步版，我们支持了个体化学习可能结果更准确\n\nhttps://t.co/w6m3lA7UiW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025604644244996096",
+            "3_2025604644173729792"
+          ]
+        },
+        "author_id": "2012914101987762177",
+        "conversation_id": "2025604652461588819",
+        "created_at": "2026-02-22T16:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025604652461588819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpaiIX82BO",
+              "end": 160,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2025604652461588819/photo/1",
+              "media_key": "3_2025604644244996096",
+              "start": 137,
+              "url": "https://t.co/JpaiIX82BO"
+            },
+            {
+              "display_url": "pic.x.com/JpaiIX82BO",
+              "end": 160,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2025604652461588819/photo/1",
+              "media_key": "3_2025604644173729792",
+              "start": 137,
+              "url": "https://t.co/JpaiIX82BO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025604652461588819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 569,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们给HRT-Trackrt配备了个体化学习模型，让它更精准预测\n根据你每次的使用动态调整，借用“知识追踪”和“贝叶斯更新”，进行越多的校准，估测越准确\n我们建议至少在给药前及峰谷值浓度区各去医院检测一次获得更准确的测算\n功能仍在测试中（我没真实数据🥹），有问题随时反馈哦 https://t.co/JpaiIX82BO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026205225720393728"
+          ]
+        },
+        "author_id": "1830775691375218688",
+        "conversation_id": "2026205371673813460",
+        "created_at": "2026-02-24T07:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026205371673813460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qj5ryIIrv3",
+              "end": 52,
+              "expanded_url": "https://x.com/YunoQiu56649/status/2026205371673813460/photo/1",
+              "media_key": "3_2026205225720393728",
+              "start": 29,
+              "url": "https://t.co/qj5ryIIrv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026205371673813460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是高了还是低了🤔\n\n还有右边那个醋酸环丙孕酮怎么填啊🙃 https://t.co/qj5ryIIrv3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 796,
+          "like_count": 4778,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 2630
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo求求了喵~🥺｜除了初始头像外无视成分回fo🤓锁推的回不了喵｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜中焦 中抑｜如果感觉我的言论冒犯到了你 请和我说 我道歉🥹｜给这当QQ空间用了 QQ不能说的在这说 记录日常喵(负能量慎入)💤｜看我的帖不喜勿喷，喷我也要发😋",
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2008910689658966299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 1219,
+          "like_count": 5102,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 8062
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR20rn"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 9,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/MDakkR20rn",
+        "username": "TeamTransmtf",
+        "verified": false
+      }
+    ]
+  }
+}

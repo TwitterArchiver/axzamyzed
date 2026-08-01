@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2069236187282477375",
+    "created_at": "2026-06-23T14:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069432236685074630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1378136468",
+          "start": 0,
+          "username": "laxtiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069432236685074630",
+    "in_reply_to_user_id": "1378136468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069428451740921961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laxtiz 显然是（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2069236187282477375",
+        "created_at": "2026-06-23T14:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069432236685074630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1378136468",
+              "start": 0,
+              "username": "laxtiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069432236685074630",
+        "in_reply_to_user_id": "1378136468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069428451740921961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laxtiz 显然是（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378136468",
+        "conversation_id": "2069236187282477375",
+        "created_at": "2026-06-23T14:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069428451740921961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069428451740921961",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069236187282477375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 这离谱的剧情像是北斗星阿帅，但是我没找到具体哪一期"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3870,
+          "following_count": 923,
+          "like_count": 13331,
+          "listed_count": 10,
+          "media_count": 2815,
+          "tweet_count": 8254
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2013-04-24T22:31:23.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laxtiz.com",
+                "end": 23,
+                "expanded_url": "https://laxtiz.com/",
+                "start": 0,
+                "url": "https://t.co/PdnCWA8n2J"
+              }
+            ]
+          }
+        },
+        "id": "1378136468",
+        "location": "Wuhan, Hubei, China",
+        "name": "Laxtiz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3677690626/58309ba6e7b789249059d809086152dc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/PdnCWA8n2J",
+        "username": "laxtiz",
+        "verified": false
+      }
+    ]
+  }
+}

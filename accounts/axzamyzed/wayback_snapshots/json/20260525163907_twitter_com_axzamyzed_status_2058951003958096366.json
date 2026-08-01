@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058950915475091460"
+      ],
+      "media_source_tweet_id": [
+        "2058950922324390040"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2058951003958096366",
+    "created_at": "2026-05-25T16:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058951003958096366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053360211948109826",
+          "start": 3,
+          "username": "axzameyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rCwZUv0cgk",
+          "end": 43,
+          "expanded_url": "https://x.com/axzameyzed/status/2058950922324390040/photo/1",
+          "media_key": "3_2058950915475091460",
+          "start": 20,
+          "url": "https://t.co/rCwZUv0cgk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058951003958096366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058950922324390040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axzameyzed: 买了😋 https://t.co/rCwZUv0cgk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 302,
+        "media_key": "3_2058950915475091460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLc8ubbsAQXQTM.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058950915475091460"
+          ],
+          "media_source_tweet_id": [
+            "2058950922324390040"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2058951003958096366",
+        "created_at": "2026-05-25T16:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058951003958096366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053360211948109826",
+              "start": 3,
+              "username": "axzameyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCwZUv0cgk",
+              "end": 43,
+              "expanded_url": "https://x.com/axzameyzed/status/2058950922324390040/photo/1",
+              "media_key": "3_2058950915475091460",
+              "start": 20,
+              "url": "https://t.co/rCwZUv0cgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058951003958096366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058950922324390040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axzameyzed: 买了😋 https://t.co/rCwZUv0cgk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058950915475091460"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2058950922324390040",
+        "created_at": "2026-05-25T16:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058950922324390040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCwZUv0cgk",
+              "end": 27,
+              "expanded_url": "https://x.com/axzameyzed/status/2058950922324390040/photo/1",
+              "media_key": "3_2058950915475091460",
+              "start": 4,
+              "url": "https://t.co/rCwZUv0cgk"
+            },
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2058950537044013272",
+              "start": 28,
+              "url": "https://t.co/6t4yShAxVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058950922324390040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058950537044013272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "买了😋 https://t.co/rCwZUv0cgk https://t.co/6t4yShAxVK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3472,
+          "following_count": 950,
+          "like_count": 11763,
+          "listed_count": 11,
+          "media_count": 1796,
+          "tweet_count": 6970
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 145,
+          "like_count": 1030,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 578
+        },
+        "username": "axzameyzed",
+        "verified": true
+      }
+    ]
+  }
+}

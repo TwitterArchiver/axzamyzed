@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2048574829130113284",
+    "created_at": "2026-04-28T04:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048984056189075553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1654645906556461058",
+          "start": 0,
+          "username": "dizyo488593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048984056189075553",
+    "in_reply_to_user_id": "1654645906556461058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048574829130113284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dizyo488593 回一下谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_2048574820775014400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3_8hgasAAkoXW.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2048574829130113284",
+        "created_at": "2026-04-28T04:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048984056189075553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654645906556461058",
+              "start": 0,
+              "username": "dizyo488593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048984056189075553",
+        "in_reply_to_user_id": "1654645906556461058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048574829130113284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dizyo488593 回一下谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048574820775014400"
+          ]
+        },
+        "author_id": "1654645906556461058",
+        "conversation_id": "2048574829130113284",
+        "created_at": "2026-04-27T01:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048574829130113284"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VD1AXCjVWb",
+              "end": 123,
+              "expanded_url": "https://x.com/dizyo488593/status/2048574829130113284/photo/1",
+              "media_key": "3_2048574820775014400",
+              "start": 100,
+              "url": "https://t.co/VD1AXCjVWb"
+            },
+            {
+              "display_url": "x.com/dizyo488593/st…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/dizyo488593/status/2038421093560824302",
+              "start": 124,
+              "url": "https://t.co/wlv03qS6kp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048574829130113284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 34915,
+          "like_count": 201,
+          "quote_count": 1,
+          "reply_count": 365,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038421093560824302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又一个周一，蓝V互关 第五弹啦~~      \n\n一样的规矩：      \n\n只要你也是蓝V，粉丝1000＋，      \n\n评论区直接打 #蓝V互关 + 随便说句话，      \n\n看到就回关。💚 https://t.co/VD1AXCjVWb https://t.co/wlv03qS6kp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 857,
+          "like_count": 10183,
+          "listed_count": 10,
+          "media_count": 1080,
+          "tweet_count": 5947
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-06T00:35:14.000Z",
+        "description": "✍🏻meme女战士丨🙈纸手丨🎮游戏玩家丨喜欢🐱🐕🐸丨所有文章都不是投资建议丨投资有风险请做好自己研究 #DYOR｜抽奖福利 ｜🫦嘴🔈广丨💌DM合作tg：@zq_princess",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "DYOR"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "zq_princess"
+              }
+            ]
+          }
+        },
+        "id": "1654645906556461058",
+        "location": "Asia's top cm|",
+        "name": "Coin Circle 小公主丨🐬TermMax",
+        "pinned_tweet_id": "2044769435270180967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035573246679265280/bpe36v64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43408,
+          "following_count": 5850,
+          "like_count": 91645,
+          "listed_count": 119,
+          "media_count": 2144,
+          "tweet_count": 149853
+        },
+        "username": "dizyo488593",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2014615516963586419",
+    "created_at": "2026-01-24T15:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015080096781217811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1794637081639374848",
+          "start": 0,
+          "username": "djszx88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015080096781217811",
+    "in_reply_to_user_id": "1794637081639374848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014615516963586419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@djszx88 互关互关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2014615509912707072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VaIeNW4AAgEuC.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2014615516963586419",
+        "created_at": "2026-01-24T15:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015080096781217811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1794637081639374848",
+              "start": 0,
+              "username": "djszx88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015080096781217811",
+        "in_reply_to_user_id": "1794637081639374848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014615516963586419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@djszx88 互关互关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014615509912707072"
+          ]
+        },
+        "author_id": "1794637081639374848",
+        "conversation_id": "2014615516963586419",
+        "created_at": "2026-01-23T08:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T09:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014615516963586419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/utgLuPrXxB",
+              "end": 114,
+              "expanded_url": "https://x.com/djszx88/status/2014615516963586419/photo/1",
+              "media_key": "3_2014615509912707072",
+              "start": 91,
+              "url": "https://t.co/utgLuPrXxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014615516963586419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2898,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 76,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天继续 #蓝v互关\n\n你留言 我关注你 你再回关\n\n诚信互关 互惠互利\n\n现在只有蓝v的浏览才算收益\n\n还不快点互关起来？\n\n建议兄弟们隔几天检查一下\n\n把忽悠人不回关的都取消了 https://t.co/utgLuPrXxB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 99,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-26T07:50:11.000Z",
+        "description": "Cryptocurrency lovers! 币安广场穷屌丝，幽默DJ 史珍香 来到币安广场，各位大哥轻点喷！猛戳我关注！",
+        "id": "1794637081639374848",
+        "name": "史珍香",
+        "pinned_tweet_id": "2014621132956303415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992600748706979841/P1swNooU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 553,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 289
+        },
+        "username": "djszx88",
+        "verified": true
+      }
+    ]
+  }
+}

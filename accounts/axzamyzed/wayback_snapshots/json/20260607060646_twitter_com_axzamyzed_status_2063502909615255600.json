@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063502893345579008"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2063502909615255600",
+    "created_at": "2026-06-07T06:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063502909615255600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KwwkEHxPRx",
+          "end": 32,
+          "expanded_url": "https://x.com/axzamyzed/status/2063502909615255600/photo/1",
+          "media_key": "3_2063502893345579008",
+          "start": 9,
+          "url": "https://t.co/KwwkEHxPRx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063502909615255600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "稍微有点搞笑其实 https://t.co/KwwkEHxPRx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063502893345579008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMI8tbaoAAVamK.jpg",
+        "width": 1724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063502893345579008"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2063502909615255600",
+        "created_at": "2026-06-07T06:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063502909615255600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KwwkEHxPRx",
+              "end": 32,
+              "expanded_url": "https://x.com/axzamyzed/status/2063502909615255600/photo/1",
+              "media_key": "3_2063502893345579008",
+              "start": 9,
+              "url": "https://t.co/KwwkEHxPRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063502909615255600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "稍微有点搞笑其实 https://t.co/KwwkEHxPRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3648,
+          "following_count": 944,
+          "like_count": 12396,
+          "listed_count": 10,
+          "media_count": 2239,
+          "tweet_count": 7522
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

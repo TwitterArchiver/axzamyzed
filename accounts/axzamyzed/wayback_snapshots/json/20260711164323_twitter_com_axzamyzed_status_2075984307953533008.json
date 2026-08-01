@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2075941105930264612",
+    "created_at": "2026-07-11T16:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075984307953533008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486893272622505984",
+          "start": 0,
+          "username": "Kuriyona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075984307953533008",
+    "in_reply_to_user_id": "1486893272622505984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075983260400996733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuriyona 因为这个设备相册里没有🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2075983244538019841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9fwwpaAAEtpbR.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2075941105930264612",
+        "created_at": "2026-07-11T16:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075984307953533008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486893272622505984",
+              "start": 0,
+              "username": "Kuriyona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075984307953533008",
+        "in_reply_to_user_id": "1486893272622505984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075983260400996733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuriyona 因为这个设备相册里没有🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075983244538019841"
+          ]
+        },
+        "author_id": "1486893272622505984",
+        "conversation_id": "2075941105930264612",
+        "created_at": "2026-07-11T16:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075983260400996733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNIXqUADYP",
+              "end": 42,
+              "expanded_url": "https://x.com/Kuriyona/status/2075983260400996733/photo/1",
+              "media_key": "3_2075983244538019841",
+              "start": 19,
+              "url": "https://t.co/aNIXqUADYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075983260400996733",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075964821363949765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 为什么不发这个 https://t.co/aNIXqUADYP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4090,
+          "following_count": 929,
+          "like_count": 14376,
+          "listed_count": 12,
+          "media_count": 3306,
+          "tweet_count": 9023
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T02:46:07.000Z",
+        "description": "18 (08.6.28) | 称呼我为「未晞」吧 | 杭州 | 准大学生 | 兴趣使然的开发者 前端为主 | https://t.co/JWMV33I7TV | 最可爱的妹妹: @xFurina_ / @lfcypo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 89,
+                "username": "xFurina_"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "lfcypo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/kuriyona",
+                "end": 78,
+                "expanded_url": "http://github.com/kuriyona",
+                "start": 55,
+                "url": "https://t.co/JWMV33I7TV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuriyona.com",
+                "end": 23,
+                "expanded_url": "https://kuriyona.com/",
+                "start": 0,
+                "url": "https://t.co/PIToyCAWAz"
+              }
+            ]
+          }
+        },
+        "id": "1486893272622505984",
+        "location": "杭州 Hangzhou",
+        "name": "Kuriyona 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071218989263646720/aGhqniW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 171,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/PIToyCAWAz",
+        "username": "Kuriyona",
+        "verified": true
+      }
+    ]
+  }
+}

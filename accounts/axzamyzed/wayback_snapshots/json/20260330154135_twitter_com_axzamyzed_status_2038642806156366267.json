@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038641122969620953",
+    "created_at": "2026-03-30T15:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T16:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038642806156366267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "54232411",
+          "start": 0,
+          "username": "M3G_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038642806156366267",
+    "in_reply_to_user_id": "54232411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038641122969620953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M3G_CN openclaw热度过去了也就那样，创作者收益还是可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038641122969620953",
+        "created_at": "2026-03-30T15:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038642806156366267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "54232411",
+              "start": 0,
+              "username": "M3G_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038642806156366267",
+        "in_reply_to_user_id": "54232411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038641122969620953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M3G_CN openclaw热度过去了也就那样，创作者收益还是可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "54232411",
+        "conversation_id": "2038641122969620953",
+        "created_at": "2026-03-30T15:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038641122969620953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038641122969620953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的推特X你们觉得还有意思吗？还不如玩OpenClaw搞钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 929,
+          "like_count": 7986,
+          "listed_count": 2,
+          "media_count": 528,
+          "tweet_count": 4788
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-06T15:21:15.000Z",
+        "description": "",
+        "id": "54232411",
+        "name": "CooL神",
+        "pinned_tweet_id": "2035621729440272865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035376704978612224/icIZ5UTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3556,
+          "following_count": 2013,
+          "like_count": 7723,
+          "listed_count": 7,
+          "media_count": 117,
+          "tweet_count": 1975
+        },
+        "username": "M3G_CN",
+        "verified": false
+      }
+    ]
+  }
+}

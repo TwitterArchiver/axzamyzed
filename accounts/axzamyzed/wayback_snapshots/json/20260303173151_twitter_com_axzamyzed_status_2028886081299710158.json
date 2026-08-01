@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028727884890988794",
+    "created_at": "2026-03-03T17:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028886081299710158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1085738455986913280",
+          "start": 0,
+          "username": "mengxi_ream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028886081299710158",
+    "in_reply_to_user_id": "1085738455986913280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028727884890988794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengxi_ream 真的是和解吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028727884890988794",
+        "created_at": "2026-03-03T17:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028886081299710158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1085738455986913280",
+              "start": 0,
+              "username": "mengxi_ream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028886081299710158",
+        "in_reply_to_user_id": "1085738455986913280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028727884890988794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxi_ream 真的是和解吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1085738455986913280",
+        "conversation_id": "2028727884890988794",
+        "created_at": "2026-03-03T07:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T08:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028727884890988794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028727884890988794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，围绕 Tabbit 浏览器在翻译功能开发过程中使用 Read Frog 项目代码的相关讨论引发关注。\n\n在问题被指出后，Tabbit 团队第一时间与我取得联系，并对项目使用情况进行了说明与内部自查。从沟通过程来看，对方态度积极、处理及时，可以确认本次问题并非出于主观恶意，而是对开源协议理解和合规流程不够严谨所致。\n\n目前，相关代码已完成开源处理，双方也在进一步沟通后续事宜。\n\n开源社区的健康发展，离不开规则意识与相互尊重。此次沟通也再次提醒，无论是个人开发者还是企业团队，在使用开源项目时都应更加重视协议条款与合规边界。\n\n作为一名开发者，也作为中国人，我乐于看到国内 AI 浏览器与技术产品不断进步、走得更远。在尊重开源规则与作者权益的前提下，技术合作与良性发展才是更值得期待的方向。\n\n感谢社区的关注与理性讨论。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 35786,
+          "like_count": 254,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "近日，围绕 Tabbit 浏览器在翻译功能开发过程中使用 Read Frog 项目代码的相关讨论引发关注。\n\n在问题被指出后，Tabbit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 896,
+          "like_count": 5807,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 3288
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-17T03:19:54.000Z",
+        "description": "👨🏻‍💻 开源沉浸式翻译插件 🐸 Read Frog 作者 https://t.co/nMz0RSOk25 💼 字节跳动前 SDE，分享开发和产品",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "readfrog.app",
+                "end": 53,
+                "expanded_url": "https://readfrog.app/",
+                "start": 30,
+                "url": "https://t.co/nMz0RSOk25"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxi.work",
+                "end": 23,
+                "expanded_url": "https://mengxi.work",
+                "start": 0,
+                "url": "https://t.co/LCA0qYuCD2"
+              }
+            ]
+          }
+        },
+        "id": "1085738455986913280",
+        "location": "🇨🇦 Canada",
+        "name": "梦溪睡了吗",
+        "pinned_tweet_id": "2028509022488535337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844672664943931392/DDaKBFBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3085,
+          "following_count": 430,
+          "like_count": 408,
+          "listed_count": 20,
+          "media_count": 129,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/LCA0qYuCD2",
+        "username": "mengxi_ream",
+        "verified": true
+      }
+    ]
+  }
+}

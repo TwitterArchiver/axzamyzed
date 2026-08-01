@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2052794961033404525",
+    "created_at": "2026-05-09T06:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053001511891059156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 20,
+          "id": "1545277694325116928",
+          "start": 11,
+          "username": "YongQuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053001511891059156",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052794961033404525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka @YongQuan xql玩怪花"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2052794961033404525",
+        "created_at": "2026-05-09T06:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053001511891059156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 20,
+              "id": "1545277694325116928",
+              "start": 11,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053001511891059156",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052794961033404525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @YongQuan xql玩怪花"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2052794961033404525",
+        "created_at": "2026-05-08T16:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:55:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052794556635312548",
+          "2052794961033404525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1545277694325116928",
+              "start": 14,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052794961033404525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1068,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你别抠了，扣的我好疼，呜呜\n@YongQuan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3167,
+          "following_count": 923,
+          "like_count": 10940,
+          "listed_count": 10,
+          "media_count": 1380,
+          "tweet_count": 6385
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "家长党"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "MTF"
+              },
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "HRT"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "Les"
+              },
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "双相"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ADHD"
+              },
+              {
+                "end": 143,
+                "start": 137,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8294,
+          "following_count": 2191,
+          "like_count": 29229,
+          "listed_count": 27,
+          "media_count": 1231,
+          "tweet_count": 4867
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "任意@yqua_｜雪球@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨铨今天过生日！",
+        "pinned_tweet_id": "2052780896592486706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9589,
+          "following_count": 4205,
+          "like_count": 44706,
+          "listed_count": 29,
+          "media_count": 3256,
+          "tweet_count": 11909
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

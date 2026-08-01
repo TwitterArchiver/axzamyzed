@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2071837262145540202",
+    "created_at": "2026-06-30T08:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T09:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071875464361316502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641796973077618688",
+          "start": 0,
+          "username": "Madarame_NZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071875464361316502",
+    "in_reply_to_user_id": "1641796973077618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071858010037838100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Madarame_NZM 从根本上解决问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2071837262145540202",
+        "created_at": "2026-06-30T08:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071875464361316502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641796973077618688",
+              "start": 0,
+              "username": "Madarame_NZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071875464361316502",
+        "in_reply_to_user_id": "1641796973077618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071858010037838100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Madarame_NZM 从根本上解决问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641796973077618688",
+        "conversation_id": "2071837262145540202",
+        "created_at": "2026-06-30T07:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071858010037838100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071858010037838100",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071837262145540202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 👦：你们就不能戴套吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3957,
+          "following_count": 925,
+          "like_count": 13781,
+          "listed_count": 11,
+          "media_count": 3016,
+          "tweet_count": 8579
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-31T13:38:24.000Z",
+        "description": "日本在住😶｜♂️？｜観察者であり👁‍🗨\nそれぞれの情報を発信💻｜一応クリエイター（創作者）\n#Vtuber #個人勢｜HRT計画中｜TBI+C-PTSD\n投資再検討中😇｜お仕事募集中💲\nゲーム、遊戲｜サプリメント、營養補充品相關🥦\nlanguage：🇭🇰🇨🇳🇹🇼🇯🇵🇬🇧🇺🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "Vtuber"
+              },
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "個人勢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-nzm",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@user-nzm",
+                "start": 0,
+                "url": "https://t.co/48vTFODmRs"
+              }
+            ]
+          }
+        },
+        "id": "1641796973077618688",
+        "location": "日本",
+        "name": "班目望 (Madarame Nozomi)",
+        "pinned_tweet_id": "2031611137654141054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641797093739364353/l-9WCqgl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 1050,
+          "like_count": 17326,
+          "listed_count": 2,
+          "media_count": 1195,
+          "tweet_count": 7185
+        },
+        "url": "https://t.co/48vTFODmRs",
+        "username": "Madarame_NZM",
+        "verified": true
+      }
+    ]
+  }
+}

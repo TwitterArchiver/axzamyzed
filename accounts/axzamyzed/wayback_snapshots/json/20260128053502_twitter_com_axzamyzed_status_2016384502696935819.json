@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016375685804175737",
+    "created_at": "2026-01-28T05:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T06:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016384502696935819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016384502696935819",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016375685804175737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 还是不要买没装好的房子"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10433,
+        "height": 1920,
+        "media_key": "13_2016137979215937536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016137979215937536/img/O-MLLyG5Cx16c3hp.jpg",
+        "public_metrics": {
+          "view_count": 3488
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016137979215937536/vid/avc1/480x852/eUOBT9nKnmefGiSA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016137979215937536/pl/eIm0DQk8pHfzp9rt.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016137979215937536/vid/avc1/320x568/jSZaKiv8_HVYR3M1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016137979215937536/vid/avc1/1080x1920/t7kKh9Od2u-wOPpq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016137979215937536/vid/avc1/720x1280/0sF2lUcIrJuZlFSd.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 8866,
+        "height": 1920,
+        "media_key": "13_2016137991530377217",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016137991530377217/img/xqDg3CGmGZ-mG0c9.jpg",
+        "public_metrics": {
+          "view_count": 997
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016137991530377217/vid/avc1/320x568/z4xecwPGEKw2oh2n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016137991530377217/vid/avc1/480x852/wd-9QeKA8gWIkvFz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016137991530377217/vid/avc1/720x1280/Dlr89MF-4D3Qmphr.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016137991530377217/vid/avc1/1080x1920/S3BBQKjvlyo6znlk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016137991530377217/pl/GG-OK6_ugpGW8wYY.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016375685804175737",
+        "created_at": "2026-01-28T05:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016384502696935819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016384502696935819",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016375685804175737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 还是不要买没装好的房子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016137979215937536",
+            "13_2016137991530377217"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2016375685804175737",
+        "created_at": "2026-01-28T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016375685804175737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UmIA5FhCB",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2016375685804175737/video/1",
+              "media_key": "13_2016137979215937536",
+              "start": 90,
+              "url": "https://t.co/1UmIA5FhCB"
+            },
+            {
+              "display_url": "pic.x.com/1UmIA5FhCB",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2016375685804175737/video/1",
+              "media_key": "13_2016137991530377217",
+              "start": 90,
+              "url": "https://t.co/1UmIA5FhCB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016375685804175737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7435,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "1月24至26日，云南省保山市腾冲市，腾冲碧桂园15栋。\n业主买到烂尾楼，开发商摆烂不管，业主只好自己组织工人拆架子。精装修变成毛坯不说，现在工区也停工，每一户至少损失20万元。 https://t.co/1UmIA5FhCB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189570,
+          "following_count": 1009,
+          "like_count": 8868,
+          "listed_count": 8522,
+          "media_count": 40750,
+          "tweet_count": 47721
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

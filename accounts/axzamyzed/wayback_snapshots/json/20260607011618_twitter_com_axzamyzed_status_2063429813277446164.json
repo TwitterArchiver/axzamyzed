@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2063301992622264628",
+    "created_at": "2026-06-07T01:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T02:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063429813277446164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897694186100686849",
+          "start": 0,
+          "username": "YesooEasy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063429813277446164",
+    "in_reply_to_user_id": "1897694186100686849",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063422124195565569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesooEasy ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2063301992622264628",
+        "created_at": "2026-06-07T01:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063429813277446164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897694186100686849",
+              "start": 0,
+              "username": "YesooEasy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063429813277446164",
+        "in_reply_to_user_id": "1897694186100686849",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063422124195565569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesooEasy ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897694186100686849",
+        "conversation_id": "2063301992622264628",
+        "created_at": "2026-06-07T00:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063422124195565569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063422124195565569",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063301992622264628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 你的如意郎君"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3645,
+          "following_count": 944,
+          "like_count": 12353,
+          "listed_count": 10,
+          "media_count": 2211,
+          "tweet_count": 7488
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-06T17:03:55.000Z",
+        "description": "乐此不彼",
+        "id": "1897694186100686849",
+        "location": " ",
+        "name": "Yesoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054129656832630784/uwLMcxxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 239,
+          "like_count": 4479,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 1129
+        },
+        "username": "YesooEasy",
+        "verified": false
+      }
+    ]
+  }
+}

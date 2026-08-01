@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2073879041833402582",
+    "created_at": "2026-07-06T03:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T04:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073972593745629252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "938115028871467009",
+          "start": 0,
+          "username": "samliu0105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073972593745629252",
+    "in_reply_to_user_id": "938115028871467009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073879041833402582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samliu0105 买到真的了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2073879035944607744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfl_syboAAdDRy.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2073879041833402582",
+        "created_at": "2026-07-06T03:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073972593745629252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "938115028871467009",
+              "start": 0,
+              "username": "samliu0105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073972593745629252",
+        "in_reply_to_user_id": "938115028871467009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073879041833402582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samliu0105 买到真的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073879035944607744"
+          ]
+        },
+        "author_id": "938115028871467009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073879041833402582",
+        "created_at": "2026-07-05T21:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073879041833402582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMaY2L8z9m",
+              "end": 33,
+              "expanded_url": "https://x.com/samliu0105/status/2073879041833402582/photo/1",
+              "media_key": "3_2073879035944607744",
+              "start": 10,
+              "url": "https://t.co/uMaY2L8z9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073879041833402582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜你获得了奶酪🧀 https://t.co/uMaY2L8z9m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4041,
+          "following_count": 929,
+          "like_count": 14057,
+          "listed_count": 12,
+          "media_count": 3149,
+          "tweet_count": 8775
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-05T18:37:06.000Z",
+        "description": "每天没事干？不如和我一起搬史去，每日收入0元，就是为了让大家x有股味。",
+        "id": "938115028871467009",
+        "location": "The moon",
+        "name": "Sam liu",
+        "pinned_tweet_id": "2067869786634330283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070531101463109632/Ggdn8kH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 676,
+          "like_count": 4404,
+          "listed_count": 0,
+          "media_count": 1226,
+          "tweet_count": 2946
+        },
+        "url": "",
+        "username": "samliu0105",
+        "verified": true
+      }
+    ]
+  }
+}

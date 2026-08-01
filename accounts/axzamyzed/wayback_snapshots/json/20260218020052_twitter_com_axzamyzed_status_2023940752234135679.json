@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2023750499020029994",
+    "created_at": "2026-02-18T02:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T03:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023940752234135679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023940752234135679",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023750499020029994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 李阳就是他妈超级无敌宇宙究极大傻逼，跟几把传播邪教一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17033,
+        "height": 1626,
+        "media_key": "13_2023750446540877832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023750446540877832/img/Pay814bQjWMEFXxu.jpg",
+        "public_metrics": {
+          "view_count": 56651
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023750446540877832/vid/avc1/1080x1626/s-H5uO8oYEcuXP4w.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023750446540877832/pl/fqpmMF6ZDyBWR0W9.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023750446540877832/vid/avc1/320x480/lKC-0qoO-Q9_sce-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023750446540877832/vid/avc1/720x1084/2lJ5U69GHfCoMq5W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023750446540877832/vid/avc1/480x722/EAbXnt4MxywuSgwv.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2023750499020029994",
+        "created_at": "2026-02-18T02:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023940752234135679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023940752234135679",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023750499020029994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 李阳就是他妈超级无敌宇宙究极大傻逼，跟几把传播邪教一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023750446540877832"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2023750499020029994",
+        "created_at": "2026-02-17T13:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023750499020029994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mi181QET1l",
+              "end": 48,
+              "expanded_url": "https://x.com/maoshen/status/2023750499020029994/video/1",
+              "media_key": "13_2023750446540877832",
+              "start": 25,
+              "url": "https://t.co/Mi181QET1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023750499020029994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 102787,
+          "like_count": 123,
+          "quote_count": 6,
+          "reply_count": 73,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "李阳这个家暴男还在炒作，在河南零下三十度练英语👍 https://t.co/Mi181QET1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 687,
+          "like_count": 4031,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2223
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点｜守心明理、知行合一，呵护内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199181,
+          "following_count": 6500,
+          "like_count": 4018,
+          "listed_count": 504,
+          "media_count": 2801,
+          "tweet_count": 5922
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

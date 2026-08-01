@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039656797120967133",
+    "created_at": "2026-04-02T14:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039719259920810220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948537549364101129",
+          "start": 0,
+          "username": "Lumiove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039719259920810220",
+    "in_reply_to_user_id": "1948537549364101129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039709124049653974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lumiove 哦陈先生自首的话在那边排队"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039656797120967133",
+        "created_at": "2026-04-02T14:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039719259920810220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948537549364101129",
+              "start": 0,
+              "username": "Lumiove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039719259920810220",
+        "in_reply_to_user_id": "1948537549364101129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039709124049653974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lumiove 哦陈先生自首的话在那边排队"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948537549364101129",
+        "conversation_id": "2039656797120967133",
+        "created_at": "2026-04-02T14:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039709124049653974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039709124049653974",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039656797120967133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 我叫陈桂林"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 933,
+          "like_count": 8238,
+          "listed_count": 2,
+          "media_count": 561,
+          "tweet_count": 4929
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-25T00:16:03.000Z",
+        "description": "请多指教喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lumiove",
+                "end": 23,
+                "expanded_url": "https://t.me/Lumiove",
+                "start": 0,
+                "url": "https://t.co/ZhRfbumn41"
+              }
+            ]
+          }
+        },
+        "id": "1948537549364101129",
+        "location": "Tokyo",
+        "name": "Lumiove",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039285933229723649/-I2BODBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/ZhRfbumn41",
+        "username": "Lumiove",
+        "verified": false
+      }
+    ]
+  }
+}

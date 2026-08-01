@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061065283247460352"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      }
+    ],
+    "conversation_id": "2061065293116666236",
+    "created_at": "2026-05-31T12:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061065293116666236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VmK1asUHZK",
+          "end": 35,
+          "expanded_url": "https://x.com/axzamyzed/status/2061065293116666236/photo/1",
+          "media_key": "3_2061065283247460352",
+          "start": 12,
+          "url": "https://t.co/VmK1asUHZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061065293116666236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成龙为什么不认他的女儿 https://t.co/VmK1asUHZK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1625,
+        "media_key": "3_2061065283247460352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpf9ILa0AAMyZg.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061065283247460352"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          }
+        ],
+        "conversation_id": "2061065293116666236",
+        "created_at": "2026-05-31T12:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061065293116666236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmK1asUHZK",
+              "end": 35,
+              "expanded_url": "https://x.com/axzamyzed/status/2061065293116666236/photo/1",
+              "media_key": "3_2061065283247460352",
+              "start": 12,
+              "url": "https://t.co/VmK1asUHZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061065293116666236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成龙为什么不认他的女儿 https://t.co/VmK1asUHZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3621,
+          "following_count": 952,
+          "like_count": 12073,
+          "listed_count": 10,
+          "media_count": 2000,
+          "tweet_count": 7233
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

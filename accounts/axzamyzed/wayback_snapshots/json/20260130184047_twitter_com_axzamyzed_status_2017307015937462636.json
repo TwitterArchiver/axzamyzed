@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017273660495773752",
+    "created_at": "2026-01-30T18:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T19:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017307015937462636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690190225891340288",
+          "start": 0,
+          "username": "KernelKim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017307015937462636",
+    "in_reply_to_user_id": "1690190225891340288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017304032839405665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KernelKim 显然吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017273660495773752",
+        "created_at": "2026-01-30T18:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017307015937462636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690190225891340288",
+              "start": 0,
+              "username": "KernelKim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017307015937462636",
+        "in_reply_to_user_id": "1690190225891340288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017304032839405665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KernelKim 显然吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690190225891340288",
+        "conversation_id": "2017273660495773752",
+        "created_at": "2026-01-30T18:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017304032839405665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017304032839405665",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017273660495773752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 选A吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 435,
+          "like_count": 2441,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1303
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-12T02:35:35.000Z",
+        "description": "我的爱好：计算机/电影/逗猫/下楼走走/占位符/undefined/占位符\n欢迎来到我的朋友圈（好像也没人看）",
+        "id": "1690190225891340288",
+        "location": "Nagoya-shi Meito, Aichi",
+        "name": "KernelKim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690190425816969217/EYMCsc36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 165
+        },
+        "username": "KernelKim",
+        "verified": false
+      }
+    ]
+  }
+}

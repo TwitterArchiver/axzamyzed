@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040231512780701696"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2040231522448384257",
+    "created_at": "2026-04-04T00:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T01:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040231522448384257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2fd29mGb9x",
+          "end": 55,
+          "expanded_url": "https://x.com/axzamyzed/status/2040231522448384257/photo/1",
+          "media_key": "3_2040231512780701696",
+          "start": 32,
+          "url": "https://t.co/2fd29mGb9x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040231522448384257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "电动车上这个修复有什么用啊，感觉好多车上都有但按了也没有反应啊 https://t.co/2fd29mGb9x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_2040231512780701696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBbwFLaAAAX6Yo.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040231512780701696"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040231522448384257",
+        "created_at": "2026-04-04T00:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T01:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040231522448384257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fd29mGb9x",
+              "end": 55,
+              "expanded_url": "https://x.com/axzamyzed/status/2040231522448384257/photo/1",
+              "media_key": "3_2040231512780701696",
+              "start": 32,
+              "url": "https://t.co/2fd29mGb9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040231522448384257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电动车上这个修复有什么用啊，感觉好多车上都有但按了也没有反应啊 https://t.co/2fd29mGb9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 933,
+          "like_count": 8306,
+          "listed_count": 3,
+          "media_count": 578,
+          "tweet_count": 4993
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

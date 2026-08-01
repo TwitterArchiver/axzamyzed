@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2035922913149558840",
+    "created_at": "2026-03-23T07:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035986327897047296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035986327897047296",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035983058953011563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 好哒谢谢老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2035922913149558840",
+        "created_at": "2026-03-23T07:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035986327897047296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035986327897047296",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035983058953011563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 好哒谢谢老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2035922913149558840",
+        "created_at": "2026-03-23T07:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035983058953011563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035983058953011563",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035965086368686462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2035705129505267929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 921,
+          "like_count": 7284,
+          "listed_count": 2,
+          "media_count": 466,
+          "tweet_count": 4439
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4415,
+          "following_count": 2685,
+          "like_count": 40300,
+          "listed_count": 20,
+          "media_count": 2200,
+          "tweet_count": 9630
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2031558072272118269",
+    "created_at": "2026-03-11T03:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T04:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031572376824197220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031572376824197220",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031558072272118269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 一句话….\n我真受不了ai文章了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2031558072272118269",
+        "created_at": "2026-03-11T03:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T04:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031572376824197220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031572376824197220",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031558072272118269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 一句话….\n我真受不了ai文章了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2031558072272118269",
+        "created_at": "2026-03-11T02:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T03:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031558072272118269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eejoylove/stat…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/eejoylove/status/2031553520160448848",
+              "start": 73,
+              "url": "https://t.co/Sc3RNSzVmG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031558072272118269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 758,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031553520160448848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要再用 ai 文洗版了可以吗？？？\n不应该是通过 app store 在微信和支付宝的自动扣款服务吗？\n不应该是用不了Apple Pay的吗？ https://t.co/Sc3RNSzVmG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 903,
+          "like_count": 6242,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 3608
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4215,
+          "following_count": 2620,
+          "like_count": 37942,
+          "listed_count": 21,
+          "media_count": 2031,
+          "tweet_count": 8908
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

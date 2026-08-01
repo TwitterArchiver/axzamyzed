@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2030171162781843667",
+    "created_at": "2026-03-07T06:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T07:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030172355990016078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030172355990016078",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030171162781843667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 发信息还没学"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030171159669706752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyd6dVbEAAywI9.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2030171162781843667",
+        "created_at": "2026-03-07T06:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030172355990016078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030172355990016078",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030171162781843667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 发信息还没学"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030171159669706752"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2030171162781843667",
+        "created_at": "2026-03-07T06:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030171162781843667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvrFK7Qz6k",
+              "end": 45,
+              "expanded_url": "https://x.com/Rococo90933671/status/2030171162781843667/photo/1",
+              "media_key": "3_2030171159669706752",
+              "start": 22,
+              "url": "https://t.co/fvrFK7Qz6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030171162781843667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "号封了，手快才截下来的，谁知道她怎么回事？ https://t.co/fvrFK7Qz6k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 941,
+          "like_count": 6063,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9173,
+          "following_count": 2621,
+          "like_count": 30916,
+          "listed_count": 25,
+          "media_count": 3292,
+          "tweet_count": 18481
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

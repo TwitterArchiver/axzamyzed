@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039470338757812224"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039470345741283716",
+    "created_at": "2026-04-01T22:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T23:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039470345741283716"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xn15kwo72M",
+          "end": 36,
+          "expanded_url": "https://x.com/axzamyzed/status/2039470345741283716/photo/1",
+          "media_key": "3_2039470338757812224",
+          "start": 13,
+          "url": "https://t.co/Xn15kwo72M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039470345741283716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是一生浮躁的中国学生… https://t.co/Xn15kwo72M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2039470338757812224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE2nd6-a4AA2FzJ.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039470338757812224"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039470345741283716",
+        "created_at": "2026-04-01T22:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T23:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039470345741283716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xn15kwo72M",
+              "end": 36,
+              "expanded_url": "https://x.com/axzamyzed/status/2039470345741283716/photo/1",
+              "media_key": "3_2039470338757812224",
+              "start": 13,
+              "url": "https://t.co/Xn15kwo72M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039470345741283716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一生浮躁的中国学生… https://t.co/Xn15kwo72M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 931,
+          "like_count": 8154,
+          "listed_count": 2,
+          "media_count": 552,
+          "tweet_count": 4882
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

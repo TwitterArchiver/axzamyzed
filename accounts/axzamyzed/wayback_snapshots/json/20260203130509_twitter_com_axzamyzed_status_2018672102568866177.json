@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2018189476590424357",
+    "created_at": "2026-02-03T13:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T14:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018672102568866177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447081508208984068",
+          "start": 0,
+          "username": "Xie_Xiao_Zheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018672102568866177",
+    "in_reply_to_user_id": "1447081508208984068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018189476590424357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xie_Xiao_Zheng 借楼互关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018189155273211904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIMWAmbAAAxuQC.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2018189476590424357",
+        "created_at": "2026-02-03T13:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018672102568866177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1447081508208984068",
+              "start": 0,
+              "username": "Xie_Xiao_Zheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018672102568866177",
+        "in_reply_to_user_id": "1447081508208984068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018189476590424357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xie_Xiao_Zheng 借楼互关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018189155273211904"
+          ]
+        },
+        "author_id": "1447081508208984068",
+        "conversation_id": "2018189476590424357",
+        "created_at": "2026-02-02T05:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:06:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018189166123889116",
+          "2018189476590424357"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "互关"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 54,
+              "start": 46,
+              "tag": "Premium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TcOSvIsZiH",
+              "end": 92,
+              "expanded_url": "https://x.com/Xie_Xiao_Zheng/status/2018189476590424357/photo/1",
+              "media_key": "3_2018189155273211904",
+              "start": 69,
+              "url": "https://t.co/TcOSvIsZiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018189476590424357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8434,
+          "like_count": 102,
+          "quote_count": 1,
+          "reply_count": 197,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这逼行情，啥也不想说！\n\n本条为互关贴\n\n打个招呼198人会关注你🫡\n\n#互关 #蓝V互关 #Premium Mutual Follow https://t.co/TcOSvIsZiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 488,
+          "like_count": 3023,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1621
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-10T06:08:21.000Z",
+        "description": "币圈十年，穿越牛熊。 🩵关注须知：这里没有“财富密码”，只有胡说八道。投资决策请回归你的大脑。#BTC  日常复盘，无投资建议",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 47,
+                "tag": "BTC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+zEvh9NYiixBjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+zEvh9NYiixBjNzI9",
+                "start": 0,
+                "url": "https://t.co/6JQBcmxniQ"
+              }
+            ]
+          }
+        },
+        "id": "1447081508208984068",
+        "location": "DM",
+        "name": "谢小政 🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004218414299336705/RtvXZ4mq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6653,
+          "following_count": 1372,
+          "like_count": 3497,
+          "listed_count": 15,
+          "media_count": 360,
+          "tweet_count": 14706
+        },
+        "url": "https://t.co/6JQBcmxniQ",
+        "username": "Xie_Xiao_Zheng",
+        "verified": true
+      }
+    ]
+  }
+}

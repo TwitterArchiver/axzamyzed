@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2075882131767894142",
+    "created_at": "2026-07-11T13:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075929273140166708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1830546768779755520",
+          "start": 0,
+          "username": "614yuki3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075929273140166708",
+    "in_reply_to_user_id": "1830546768779755520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075911482513211531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@614yuki3 ❓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2075882131767894142",
+        "created_at": "2026-07-11T13:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075929273140166708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1830546768779755520",
+              "start": 0,
+              "username": "614yuki3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075929273140166708",
+        "in_reply_to_user_id": "1830546768779755520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075911482513211531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@614yuki3 ❓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830546768779755520",
+        "conversation_id": "2075882131767894142",
+        "created_at": "2026-07-11T11:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075911482513211531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075911482513211531",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075882131767894142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 可以擺中二節奏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4090,
+          "following_count": 929,
+          "like_count": 14361,
+          "listed_count": 12,
+          "media_count": 3300,
+          "tweet_count": 9012
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T10:02:57.000Z",
+        "description": "世界和平萬歲\n推翻谷歌暴政，世界屬於火狐！\n白聖女更新了嗎 → @cecilia_updated",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "cecilia_updated"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/touhou",
+                "end": 23,
+                "expanded_url": "https://discord.gg/touhou",
+                "start": 0,
+                "url": "https://t.co/TzMCSHtSQI"
+              }
+            ]
+          }
+        },
+        "id": "1830546768779755520",
+        "location": "Fumoland",
+        "name": "無意識ユキさん(ふも化済み) ",
+        "pinned_tweet_id": "2055824840695906674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055932803578257408/6SHn4dLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 202,
+          "like_count": 16596,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1547
+        },
+        "url": "https://t.co/TzMCSHtSQI",
+        "username": "614yuki3",
+        "verified": false
+      }
+    ]
+  }
+}

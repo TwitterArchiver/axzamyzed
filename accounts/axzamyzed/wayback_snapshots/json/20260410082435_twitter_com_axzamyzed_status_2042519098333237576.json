@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2042486993490477518",
+    "created_at": "2026-04-10T08:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042519098333237576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1436142639213002752",
+          "start": 0,
+          "username": "mazuya_Yui494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042519098333237576",
+    "in_reply_to_user_id": "1436142639213002752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042518071680626856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mazuya_Yui494 呃呃呃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2042486993490477518",
+        "created_at": "2026-04-10T08:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042519098333237576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1436142639213002752",
+              "start": 0,
+              "username": "mazuya_Yui494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042519098333237576",
+        "in_reply_to_user_id": "1436142639213002752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042518071680626856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mazuya_Yui494 呃呃呃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436142639213002752",
+        "conversation_id": "2042486993490477518",
+        "created_at": "2026-04-10T08:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042518071680626856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042518071680626856",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042486993490477518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 因为窝不爱吃🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 928,
+          "like_count": 8684,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 5241
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-10T01:41:26.000Z",
+        "description": "我是柚柚\nshe/her/彼女/她\n简中⭕️繁中⭕️English⭕️日本語⭕️Italian⭕️\\\n性单恋/纸性恋\\07双相情感障碍高中生\\\n身体及人生状况一切糟糕…\n此号是我吐苦水下水道\n互fo欢迎，扩列欢迎，我爱长发男\\长发男凭建模照片免费加v",
+        "id": "1436142639213002752",
+        "name": "鵙屋柚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583437808898752512/bMY5fNpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 79,
+          "like_count": 3065,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 534
+        },
+        "username": "mazuya_Yui494",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2022839554231976387",
+    "created_at": "2026-02-15T01:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T02:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022845321894596629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1939684698613006336",
+          "start": 0,
+          "username": "lixng164997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022845321894596629",
+    "in_reply_to_user_id": "1939684698613006336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022839554231976387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lixng164997 自从有了这个特效我就再也没见过好看的了🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15114,
+        "height": 1280,
+        "media_key": "13_2022839496937738240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022839496937738240/img/NhfyRqqXG0g4HrIS.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022839496937738240/vid/avc1/320x568/Hrki40l47gtkvHRM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022839496937738240/vid/avc1/480x852/5gyKUNe_Q2ID5CdZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022839496937738240/vid/avc1/720x1280/dJyC1gmqbNIMbVtm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022839496937738240/pl/SysyGWR8opXJg5le.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2022839554231976387",
+        "created_at": "2026-02-15T01:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022845321894596629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1939684698613006336",
+              "start": 0,
+              "username": "lixng164997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022845321894596629",
+        "in_reply_to_user_id": "1939684698613006336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022839554231976387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lixng164997 自从有了这个特效我就再也没见过好看的了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022839496937738240"
+          ]
+        },
+        "author_id": "1939684698613006336",
+        "conversation_id": "2022839554231976387",
+        "created_at": "2026-02-15T01:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022839554231976387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wB0rSZzaHI",
+              "end": 37,
+              "expanded_url": "https://x.com/lixng164997/status/2022839554231976387/video/1",
+              "media_key": "13_2022839496937738240",
+              "start": 14,
+              "url": "https://t.co/wB0rSZzaHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022839554231976387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我是一个狂躁的小女孩 https://t.co/wB0rSZzaHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 660,
+          "like_count": 3869,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2107
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-30T13:57:47.000Z",
+        "description": "蓝粉白的小天使，虽然本人不太好，但是我会把我所有的爱都给你们，爱你们！｜心理健康问题 ｜咨询｜糖QQ：3387774141，11年的超可爱小药娘喵，认错冰棍一奈第一人",
+        "id": "1939684698613006336",
+        "name": "emo（复活版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022599810529017856/b9DKtCfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "username": "lixng164997",
+        "verified": false
+      }
+    ]
+  }
+}

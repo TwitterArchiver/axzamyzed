@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038962484942627043",
+    "created_at": "2026-03-31T13:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038972067597422732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038972067597422732",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038962484942627043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 我见过那种天天去加别人好友然后借一块钱的，但可以在必要时做树洞，能说会道的一个月甚至能大几千"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18483,
+        "height": 1908,
+        "media_key": "13_2038961536564342784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038961536564342784/img/PbCFrQDX84OZLfRG.jpg",
+        "public_metrics": {
+          "view_count": 61
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038961536564342784/vid/avc1/320x564/_hUNTgjKabSvwg4v.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038961536564342784/vid/avc1/720x1272/yLV1DKyv8HSUNbkl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038961536564342784/pl/iJk8XX9hE2WSk7NG.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038961536564342784/vid/avc1/480x848/INe6wLfQ-A5cCTIe.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038961536564342784/vid/avc1/1080x1908/qvK06TP0o39IShyX.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038962484942627043",
+        "created_at": "2026-03-31T13:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038972067597422732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038972067597422732",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038962484942627043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 我见过那种天天去加别人好友然后借一块钱的，但可以在必要时做树洞，能说会道的一个月甚至能大几千"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038961536564342784"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2038962484942627043",
+        "created_at": "2026-03-31T12:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038962484942627043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 87,
+              "tag": "灰度社会观察"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "人性毒舌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjHNNPhy9b",
+              "end": 124,
+              "expanded_url": "https://x.com/TOOBE775/status/2038962484942627043/video/1",
+              "media_key": "13_2038961536564342784",
+              "start": 101,
+              "url": "https://t.co/CjHNNPhy9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038962484942627043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你微信里出现的豪车美食，\n一定要当心。\n10个有11个是骗子，\n富人会觉得这些值得炫耀？\n往往这些炫富的背后\n不是为贪婪设置的陷阱\n就是向你借20元钱的。\n赶紧拉黑~~~😡\n#灰度社会观察 #人性毒舌 https://t.co/CjHNNPhy9b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 929,
+          "like_count": 8073,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 4837
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2037380034592428051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 1861,
+          "like_count": 11353,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 9261
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

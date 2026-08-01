@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2066755455591022814",
+    "created_at": "2026-06-16T11:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T12:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066853097037815854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066853097037815854",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066799664997794257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2066755455591022814",
+        "created_at": "2026-06-16T11:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066853097037815854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066853097037815854",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066799664997794257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "conversation_id": "2066755455591022814",
+        "created_at": "2026-06-16T08:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066799664997794257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066799664997794257",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2921,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066755455591022814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 原来是求和啊，我还以为是西格玛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3736,
+          "following_count": 948,
+          "like_count": 12921,
+          "listed_count": 10,
+          "media_count": 2584,
+          "tweet_count": 7954
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "éla｜數碼/科幻/政治/单机/Wikier｜ 🚩◼️ Anarcho libertarian socialist 🌹｜🏳️‍🌈pan/gay🏳️‍⚧️｜ 🌐漢語 吴、普/English OK/好语言学/打卡Deutsch中｜当QQ空间来的｜高纯键政Alt @JunenKim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 129,
+                "username": "JunenKim"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない",
+        "pinned_tweet_id": "2058825811151450595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066762624986128384/QLOsTOqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 1107,
+          "like_count": 82119,
+          "listed_count": 6,
+          "media_count": 1332,
+          "tweet_count": 17034
+        },
+        "username": "quasarne",
+        "verified": false
+      }
+    ]
+  }
+}

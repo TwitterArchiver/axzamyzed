@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2032998942829605333",
+    "created_at": "2026-03-15T02:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T03:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033002403491098880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828632343680294916",
+          "start": 0,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033002403491098880",
+    "in_reply_to_user_id": "1828632343680294916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032998942829605333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvya 对方已经强词夺理了还有啥可说的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_2032998935346950146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDapwqoaMAI8-GO.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2032998942829605333",
+        "created_at": "2026-03-15T02:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T03:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033002403491098880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033002403491098880",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032998942829605333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 对方已经强词夺理了还有啥可说的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032998935346950146"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2032998942829605333",
+        "created_at": "2026-03-15T01:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T02:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032998942829605333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0QG3get2sd",
+              "end": 55,
+              "expanded_url": "https://x.com/jianlvya/status/2032998942829605333/photo/1",
+              "media_key": "3_2032998935346950146",
+              "start": 32,
+              "url": "https://t.co/0QG3get2sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032998942829605333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 67,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何反驳“你浪费了每人一分钟，四\n十个人就是一节课”的神逻辑？ https://t.co/0QG3get2sd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜小号 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2032383173796204591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 907,
+          "like_count": 6555,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 3880
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2032600538609807513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3868,
+          "following_count": 929,
+          "like_count": 13092,
+          "listed_count": 6,
+          "media_count": 485,
+          "tweet_count": 987
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

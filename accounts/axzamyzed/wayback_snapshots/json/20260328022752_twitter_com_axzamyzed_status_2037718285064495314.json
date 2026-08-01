@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2037685764482290064",
+    "created_at": "2026-03-28T02:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037718285064495314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895166510743855104",
+          "start": 0,
+          "username": "MaoQi33394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037718285064495314",
+    "in_reply_to_user_id": "1895166510743855104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037717699623899350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoQi33394 什么颜色格式（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2037685764482290064",
+        "created_at": "2026-03-28T02:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037718285064495314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895166510743855104",
+              "start": 0,
+              "username": "MaoQi33394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037718285064495314",
+        "in_reply_to_user_id": "1895166510743855104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037717699623899350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoQi33394 什么颜色格式（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895166510743855104",
+        "conversation_id": "2037685764482290064",
+        "created_at": "2026-03-28T02:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037717699623899350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037717699623899350",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037685764482290064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 那颜色格式怎么说）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 928,
+          "like_count": 7675,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 4617
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T17:38:16.000Z",
+        "description": "@mi7sa9ki1 一些截图 · \n性别高达 ·\n产出废话 ·\n会互fo ·\n私信掉落QQ号，喜欢到处加人但是躺列）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "mi7sa9ki1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catarium.me",
+                "end": 23,
+                "expanded_url": "http://catarium.me",
+                "start": 0,
+                "url": "https://t.co/ogyMAXAKNh"
+              }
+            ]
+          }
+        },
+        "id": "1895166510743855104",
+        "location": "Avalon",
+        "name": "見崎貓🐾",
+        "pinned_tweet_id": "1898209430254334132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915369117848330240/d-3UwIVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 532,
+          "like_count": 2606,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1089
+        },
+        "url": "https://t.co/ogyMAXAKNh",
+        "username": "MaoQi33394",
+        "verified": false
+      }
+    ]
+  }
+}

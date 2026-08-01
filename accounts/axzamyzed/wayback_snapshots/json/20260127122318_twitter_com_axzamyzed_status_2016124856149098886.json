@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015983695111586092",
+    "created_at": "2026-01-27T12:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T13:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016124856149098886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1464413388067557385",
+          "start": 0,
+          "username": "7758leimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016124856149098886",
+    "in_reply_to_user_id": "1464413388067557385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015983695111586092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7758leimu 互关互关，回一下谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32390,
+        "height": 1200,
+        "media_key": "13_2015981221332041728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015981221332041728/img/50xeKWHPW6gi66UZ.jpg",
+        "public_metrics": {
+          "view_count": 200
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015981221332041728/vid/avc1/320x532/i6K0hZx_p-zp6_O3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015981221332041728/vid/avc1/480x800/SsQgdTu62OqR8KAg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015981221332041728/vid/avc1/720x1200/1g9Tb4oFyAPttslw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015981221332041728/pl/LwIDtgwIYWnPc5kJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015983695111586092",
+        "created_at": "2026-01-27T12:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016124856149098886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1464413388067557385",
+              "start": 0,
+              "username": "7758leimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016124856149098886",
+        "in_reply_to_user_id": "1464413388067557385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015983695111586092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7758leimu 互关互关，回一下谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015981221332041728"
+          ]
+        },
+        "author_id": "1464413388067557385",
+        "conversation_id": "2015983695111586092",
+        "created_at": "2026-01-27T03:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015983695111586092"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "猎奇"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpAcxKOvuB",
+              "end": 98,
+              "expanded_url": "https://x.com/7758leimu/status/2015983695111586092/video/1",
+              "media_key": "13_2015981221332041728",
+              "start": 75,
+              "url": "https://t.co/dpAcxKOvuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015983695111586092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝v互关的热度好像还没结束？！\n\n趁着这波热度再来一波蓝v互关吧\n\n之前的老师全部回完了，没回到的老师d我下~\n\n#蓝V互关 继续走起~~\n\n#猎奇 https://t.co/dpAcxKOvuB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 327,
+          "like_count": 2007,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1062
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-27T01:59:01.000Z",
+        "description": "仅作项目分享，不作任何投资建议！\nWeb3菜鸟 还在学习中！\n期待和大佬们学到更多东西！",
+        "id": "1464413388067557385",
+        "name": "ChenAn.陈安🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938508893795299329/zg8rrFrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5396,
+          "following_count": 3614,
+          "like_count": 63956,
+          "listed_count": 29,
+          "media_count": 319,
+          "tweet_count": 45830
+        },
+        "username": "7758leimu",
+        "verified": true
+      }
+    ]
+  }
+}

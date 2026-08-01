@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023963879156666368"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2023947391234166835",
+    "created_at": "2026-02-18T03:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023963883887607909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1599598815098519552",
+          "start": 0,
+          "username": "Bitgold_Hold"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ucQoFvwQMD",
+          "end": 66,
+          "expanded_url": "https://x.com/axzamyzed/status/2023963883887607909/photo/1",
+          "media_key": "3_2023963879156666368",
+          "start": 43,
+          "url": "https://t.co/ucQoFvwQMD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023963883887607909",
+    "in_reply_to_user_id": "1599598815098519552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023947391234166835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitgold_Hold 这几天流量断崖式下跌，就算有个300k撑着也才500k😂 https://t.co/ucQoFvwQMD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 643,
+        "media_key": "3_2023963879156666368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaQbLda0AAVpbx.jpg",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023947379494572032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaBaxbbUAApmVU.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023963879156666368"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2023947391234166835",
+        "created_at": "2026-02-18T03:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023963883887607909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599598815098519552",
+              "start": 0,
+              "username": "Bitgold_Hold"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ucQoFvwQMD",
+              "end": 66,
+              "expanded_url": "https://x.com/axzamyzed/status/2023963883887607909/photo/1",
+              "media_key": "3_2023963879156666368",
+              "start": 43,
+              "url": "https://t.co/ucQoFvwQMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023963883887607909",
+        "in_reply_to_user_id": "1599598815098519552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023947391234166835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitgold_Hold 这几天流量断崖式下跌，就算有个300k撑着也才500k😂 https://t.co/ucQoFvwQMD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023947379494572032"
+          ]
+        },
+        "author_id": "1599598815098519552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023947391234166835",
+        "created_at": "2026-02-18T02:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023947391234166835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQooMJueR3",
+              "end": 64,
+              "expanded_url": "https://x.com/Bitgold_Hold/status/2023947391234166835/photo/1",
+              "media_key": "3_2023947379494572032",
+              "start": 41,
+              "url": "https://t.co/PQooMJueR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023947391234166835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这三天曝光量直接拉胯，断崖式崩落，怎么发都不行。难到春节刷推少了吗？\n你们咋样？ https://t.co/PQooMJueR3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 702,
+          "like_count": 4060,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2240
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-05T02:58:27.000Z",
+        "description": "用通俗的语言解释生活中的经济学现象，剖析社会问题 ｜关注社会时事，探究热点真相 ｜分享人生感悟，调侃世情百态｜崇尚比特币｜ #精彩世界，有你有我，广交朋友，同道合者 #有关必回，广交朋友！ ♥♥♥",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 62,
+                "tag": "精彩世界"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "有关必回"
+              }
+            ]
+          }
+        },
+        "id": "1599598815098519552",
+        "location": "Taipei City, Taiwan",
+        "name": "Wonderful World",
+        "pinned_tweet_id": "2017746464072712323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012714503507509248/Vm7xAhZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 3319,
+          "like_count": 4567,
+          "listed_count": 7,
+          "media_count": 286,
+          "tweet_count": 3931
+        },
+        "username": "Bitgold_Hold",
+        "verified": true
+      }
+    ]
+  }
+}

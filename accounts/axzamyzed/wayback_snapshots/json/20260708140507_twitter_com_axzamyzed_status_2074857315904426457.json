@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2074538196357317063",
+    "created_at": "2026-07-08T14:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074857315904426457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1842528037000343552",
+          "start": 0,
+          "username": "BrahmosK150212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074857315904426457",
+    "in_reply_to_user_id": "1842528037000343552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074813684418048013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrahmosK150212 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2074538196357317063",
+        "created_at": "2026-07-08T14:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074857315904426457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1842528037000343552",
+              "start": 0,
+              "username": "BrahmosK150212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074857315904426457",
+        "in_reply_to_user_id": "1842528037000343552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074813684418048013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrahmosK150212 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842528037000343552",
+        "conversation_id": "2074538196357317063",
+        "created_at": "2026-07-08T11:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074813684418048013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074813684418048013",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 174,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074538196357317063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 要不是我读过书刚好学过数学，手机上有计算器，我差点就信了 ，一个月就算2000，一年才2.4万"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 929,
+          "like_count": 14194,
+          "listed_count": 12,
+          "media_count": 3213,
+          "tweet_count": 8883
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T11:32:21.000Z",
+        "description": "让AI成为第二大脑和第三只手｜读书，思考，不鸡汤，不说教。",
+        "id": "1842528037000343552",
+        "name": "史前生物圈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950926456198156289/hgB-bEAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 239,
+          "like_count": 2160,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "BrahmosK150212",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2058045011116355992",
+    "created_at": "2026-05-23T04:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058045729852326083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058045729852326083",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058045011116355992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@aoim33 还有巧乐兹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1291,
+        "media_key": "3_2058045004971704321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-lBy0bAAE1bd3.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2058045011116355992",
+        "created_at": "2026-05-23T04:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058045729852326083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058045729852326083",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058045011116355992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@aoim33 还有巧乐兹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058045004971704321"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2058045011116355992",
+        "created_at": "2026-05-23T04:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058045011116355992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYblOofk9g",
+              "end": 37,
+              "expanded_url": "https://x.com/aoim33/status/2058045011116355992/photo/1",
+              "media_key": "3_2058045004971704321",
+              "start": 14,
+              "url": "https://t.co/FYblOofk9g"
+            },
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2058035193223807374",
+              "start": 38,
+              "url": "https://t.co/N71b725T0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058045011116355992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058035193223807374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "豆包，帮我的好朋友预约晚宴 https://t.co/FYblOofk9g https://t.co/N71b725T0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3462,
+          "following_count": 953,
+          "like_count": 11586,
+          "listed_count": 10,
+          "media_count": 1710,
+          "tweet_count": 6835
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot / AI 漫画故事",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5585,
+          "following_count": 2969,
+          "like_count": 49882,
+          "listed_count": 20,
+          "media_count": 2942,
+          "tweet_count": 12576
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

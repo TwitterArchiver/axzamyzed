@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2070019193291067858",
+    "created_at": "2026-06-25T16:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070178951897776465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1489611149704192005",
+          "start": 0,
+          "username": "BiYebi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070178951897776465",
+    "in_reply_to_user_id": "1489611149704192005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070167559337648617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiYebi1 👮：你继续说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2070019193291067858",
+        "created_at": "2026-06-25T16:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070178951897776465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1489611149704192005",
+              "start": 0,
+              "username": "BiYebi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070178951897776465",
+        "in_reply_to_user_id": "1489611149704192005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070167559337648617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiYebi1 👮：你继续说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489611149704192005",
+        "conversation_id": "2070019193291067858",
+        "created_at": "2026-06-25T15:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070167559337648617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070167559337648617",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070019193291067858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 我准备了个小礼物但是我忘带了，能陪我去取一下吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3903,
+          "following_count": 925,
+          "like_count": 13509,
+          "listed_count": 10,
+          "media_count": 2892,
+          "tweet_count": 8392
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T14:46:05.000Z",
+        "description": "陈同学的约会笔记📒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qingqingdekeai…",
+                "end": 23,
+                "expanded_url": "https://t.me/qingqingdekeairichang",
+                "start": 0,
+                "url": "https://t.co/ddD6vAasnh"
+              }
+            ]
+          }
+        },
+        "id": "1489611149704192005",
+        "location": "Mei俱乐部独家赞助→",
+        "name": "陈同学",
+        "pinned_tweet_id": "2063618229952762208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997662808113377280/jXJb6SSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31519,
+          "following_count": 245,
+          "like_count": 2016,
+          "listed_count": 58,
+          "media_count": 748,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/ddD6vAasnh",
+        "username": "BiYebi1",
+        "verified": true
+      }
+    ]
+  }
+}

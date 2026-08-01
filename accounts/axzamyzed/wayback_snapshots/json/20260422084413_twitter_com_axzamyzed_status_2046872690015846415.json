@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2046799653102895245",
+    "created_at": "2026-04-22T08:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T09:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046872690015846415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1116503230761046035",
+          "start": 0,
+          "username": "Chigura__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046872690015846415",
+    "in_reply_to_user_id": "1116503230761046035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046842493581541732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chigura__ 其实我记得很多输入法都支持"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 113,
+        "media_key": "3_2046842489336983552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfYZkAbcAA7J2d.jpg",
+        "width": 362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2046799653102895245",
+        "created_at": "2026-04-22T08:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046872690015846415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1116503230761046035",
+              "start": 0,
+              "username": "Chigura__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046872690015846415",
+        "in_reply_to_user_id": "1116503230761046035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046842493581541732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chigura__ 其实我记得很多输入法都支持"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046842489336983552"
+          ]
+        },
+        "author_id": "1116503230761046035",
+        "conversation_id": "2046799653102895245",
+        "created_at": "2026-04-22T06:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046842493581541732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOiPIka3in",
+              "end": 93,
+              "expanded_url": "https://x.com/Chigura__/status/2046842493581541732/photo/1",
+              "media_key": "3_2046842489336983552",
+              "start": 70,
+              "url": "https://t.co/nOiPIka3in"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046842493581541732",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10431,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046799653102895245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 说个可能不太冷的冷知识，搜狗输入法先输入 u 然后输入一个字的组成（例如偏旁、半边、笔画）之类的，可以查这个字的读音 https://t.co/nOiPIka3in"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 865,
+          "like_count": 9806,
+          "listed_count": 8,
+          "media_count": 949,
+          "tweet_count": 5747
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-12T00:48:08.000Z",
+        "description": "Dangerously skip permissions.\n\n@ Poizon ex@TikTok",
+        "id": "1116503230761046035",
+        "location": "Shanghai",
+        "name": "Cygra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1399026277340749829/lCgsXnYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 1315,
+          "like_count": 3682,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 987
+        },
+        "username": "Chigura__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2026688199729590592",
+    "created_at": "2026-02-25T15:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026688199729590592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012914101987762177",
+          "start": 3,
+          "username": "TeamTransmtf"
+        }
+      ],
+      "urls": [
+        {
+          "description": "跨性别女性是出生时被指派为男性，但性别认同为女性的人。 性别认同是每个人对自身性别的内心感受，与生理特征、社会性别表达无关。 跨性别女性即指出生时被指派男性性别，但内心认同自己是女性的跨性别者。 这不是\"选择\"，而是性别认同的自然表达，被世界上主流医学组织广泛认可。 过渡可以是社会过渡（改名、着装、代词），医疗过渡（激素替代疗法、手术）， 或法律过渡（更改证件性别）。没有\"唯一正确\"的过渡方式，一切以你的意愿和安全为优先。 性别认同不是可以\"选择\"或\"改变\"的。跨性别身份是真实存在的， 科学研究表明其有神经生物学基础。",
+          "display_url": "transmtf.com",
+          "end": 54,
+          "expanded_url": "https://www.transmtf.com",
+          "start": 31,
+          "status": 200,
+          "title": "首页 - Team TransMTF",
+          "unwound_url": "https://www.transmtf.com",
+          "url": "https://t.co/JuIvb6FeUE"
+        },
+        {
+          "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+          "display_url": "X.com",
+          "end": 92,
+          "expanded_url": "http://X.com",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2025762633476112385/ulx9k579?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2025762633476112385/ulx9k579?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 69,
+          "status": 200,
+          "title": "X. It’s what’s happening",
+          "unwound_url": "https://x.com/",
+          "url": "https://t.co/BTxCapZquQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026688199729590592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026687157554000051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TeamTransmtf: 我们的官网登录中心及首页 https://t.co/JuIvb6FeUE 现已正式上线\n目前支持绑定 https://t.co/BTxCapZquQ 作为登录方式。需要注意的是，为保障账号安全，我们仍要求您完成标准注册流程\n在安全验证方面，我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2026687145017225216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCA9OHWaMAAfCDp.jpg",
+        "width": 750
+      },
+      {
+        "height": 910,
+        "media_key": "3_2026687145017237504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCA9OHWaYAA3jL9.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2026688199729590592",
+        "created_at": "2026-02-25T15:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026688199729590592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012914101987762177",
+              "start": 3,
+              "username": "TeamTransmtf"
+            }
+          ],
+          "urls": [
+            {
+              "description": "跨性别女性是出生时被指派为男性，但性别认同为女性的人。 性别认同是每个人对自身性别的内心感受，与生理特征、社会性别表达无关。 跨性别女性即指出生时被指派男性性别，但内心认同自己是女性的跨性别者。 这不是\"选择\"，而是性别认同的自然表达，被世界上主流医学组织广泛认可。 过渡可以是社会过渡（改名、着装、代词），医疗过渡（激素替代疗法、手术）， 或法律过渡（更改证件性别）。没有\"唯一正确\"的过渡方式，一切以你的意愿和安全为优先。 性别认同不是可以\"选择\"或\"改变\"的。跨性别身份是真实存在的， 科学研究表明其有神经生物学基础。",
+              "display_url": "transmtf.com",
+              "end": 54,
+              "expanded_url": "https://www.transmtf.com",
+              "start": 31,
+              "status": 200,
+              "title": "首页 - Team TransMTF",
+              "unwound_url": "https://www.transmtf.com",
+              "url": "https://t.co/JuIvb6FeUE"
+            },
+            {
+              "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+              "display_url": "X.com",
+              "end": 92,
+              "expanded_url": "http://X.com",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2025762633476112385/ulx9k579?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025762633476112385/ulx9k579?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "X. It’s what’s happening",
+              "unwound_url": "https://x.com/",
+              "url": "https://t.co/BTxCapZquQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026688199729590592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026687157554000051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TeamTransmtf: 我们的官网登录中心及首页 https://t.co/JuIvb6FeUE 现已正式上线\n目前支持绑定 https://t.co/BTxCapZquQ 作为登录方式。需要注意的是，为保障账号安全，我们仍要求您完成标准注册流程\n在安全验证方面，我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026687145017225216",
+            "3_2026687145017237504"
+          ]
+        },
+        "author_id": "2012914101987762177",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Hear the best tracks from the chart, interviews with chart artists, and gossip from the music world.",
+              "id": "10027336022",
+              "name": "Top of the Pops"
+            }
+          }
+        ],
+        "conversation_id": "2026687157554000051",
+        "created_at": "2026-02-25T15:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026687157554000051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "跨性别女性是出生时被指派为男性，但性别认同为女性的人。 性别认同是每个人对自身性别的内心感受，与生理特征、社会性别表达无关。 跨性别女性即指出生时被指派男性性别，但内心认同自己是女性的跨性别者。 这不是\"选择\"，而是性别认同的自然表达，被世界上主流医学组织广泛认可。 过渡可以是社会过渡（改名、着装、代词），医疗过渡（激素替代疗法、手术）， 或法律过渡（更改证件性别）。没有\"唯一正确\"的过渡方式，一切以你的意愿和安全为优先。 性别认同不是可以\"选择\"或\"改变\"的。跨性别身份是真实存在的， 科学研究表明其有神经生物学基础。",
+              "display_url": "transmtf.com",
+              "end": 36,
+              "expanded_url": "https://www.transmtf.com",
+              "start": 13,
+              "status": 200,
+              "title": "首页 - Team TransMTF",
+              "unwound_url": "https://www.transmtf.com",
+              "url": "https://t.co/JuIvb6FeUE"
+            },
+            {
+              "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+              "display_url": "X.com",
+              "end": 74,
+              "expanded_url": "http://X.com",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2025762633476112385/ulx9k579?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025762633476112385/ulx9k579?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "X. It’s what’s happening",
+              "unwound_url": "https://x.com/",
+              "url": "https://t.co/BTxCapZquQ"
+            },
+            {
+              "display_url": "pic.x.com/68J5ktt1uo",
+              "end": 200,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2026687157554000051/photo/1",
+              "media_key": "3_2026687145017225216",
+              "start": 177,
+              "url": "https://t.co/68J5ktt1uo"
+            },
+            {
+              "display_url": "pic.x.com/68J5ktt1uo",
+              "end": 200,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2026687157554000051/photo/1",
+              "media_key": "3_2026687145017237504",
+              "start": 177,
+              "url": "https://t.co/68J5ktt1uo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026687157554000051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 36,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 13,
+                "url": "https://t.co/MDakkR2ygV"
+              },
+              {
+                "display_url": "X.com",
+                "end": 74,
+                "expanded_url": "http://X.com",
+                "start": 51,
+                "url": "https://t.co/hRTtUNv1TW"
+              }
+            ]
+          },
+          "text": "我们的官网登录中心及首页 https://t.co/MDakkR2ygV 现已正式上线\n目前支持绑定 https://t.co/hRTtUNv1TW 作为登录方式。需要注意的是，为保障账号安全，我们仍要求您完成标准注册流程\n在安全验证方面，我们上线了 TOTP 动态口令与 Passkey 支持。我们强烈建议您在完成 Passkey 配置后删除密码，以 Passkey 作为唯一登录凭据——这也是目前最安全、最便捷的方式\n后续，本团队旗下所有项目将统一接入此登录体系。这一方案不仅体验流畅，也将大幅简化各端应用的用户认证流程\n最后，感谢各位在官网正式上线前便已发现并注册了测试站点的早期用户，你们的支持与厚爱是我们前进的动力。针对这批用户，我们后续将提供专属支持，敬请期待\n如果您未收到我们的注册邮件，麻烦使用您的注册邮箱发送一个邮件到  contact@transmtf.com 我们会在后台帮您手动验证邮箱。注意，这仅作为一个最坏打算，因为这对您和我们都相对较为麻烦且需要等待\n我们的HRT-Tracker仍在接入流程中，敬请期待\n目前团队可以说就一个人，所以处理的事情比较多，进度可能较慢，多多谅解"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们的官网登录中心及首页 https://t.co/JuIvb6FeUE 现已正式上线\n目前支持绑定 https://t.co/BTxCapZquQ 作为登录方式。需要注意的是，为保障账号安全，我们仍要求您完成标准注册流程\n在安全验证方面，我们上线了 TOTP 动态口令与 Passkey 支持。我们强烈建议您在完成 Passkey 配置后删除密码，以 https://t.co/68J5ktt1uo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 802,
+          "like_count": 4977,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 2734
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR20rn"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 7,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/MDakkR20rn",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

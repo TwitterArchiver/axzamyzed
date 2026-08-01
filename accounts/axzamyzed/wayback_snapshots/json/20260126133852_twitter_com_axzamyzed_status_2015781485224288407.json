@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015484073163256175",
+    "created_at": "2026-01-26T13:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015781485224288407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015781485224288407",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015484073163256175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K7qWcfzcdAPW5Y9 我第一眼以为吃的川粉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015484073163256175",
+        "created_at": "2026-01-26T13:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015781485224288407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015781485224288407",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015484073163256175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K7qWcfzcdAPW5Y9 我第一眼以为吃的川粉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950548412140494848",
+        "conversation_id": "2015484073163256175",
+        "created_at": "2026-01-25T17:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015484073163256175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015484073163256175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9973,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实，中推圈根本就没有川粉\n\n只有批量操作的水军账号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 271,
+          "like_count": 1840,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "我每天都看：浪人新闻、跑路TV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/eL54RSI0k6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15143,
+          "following_count": 211,
+          "like_count": 661,
+          "listed_count": 47,
+          "media_count": 642,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/eL54RSI0k6",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

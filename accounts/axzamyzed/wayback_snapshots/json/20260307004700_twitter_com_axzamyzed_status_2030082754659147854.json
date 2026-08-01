@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2029966502338908275",
+    "created_at": "2026-03-07T00:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T01:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030082754659147854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906714014299865088",
+          "start": 0,
+          "username": "makiisyourgod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030082754659147854",
+    "in_reply_to_user_id": "1906714014299865088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029966502338908275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makiisyourgod 需要一张非大陆地区银行卡或者用加密货币买，不要apple美区内购这样会贵3刀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2029966502338908275",
+        "created_at": "2026-03-07T00:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T01:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030082754659147854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906714014299865088",
+              "start": 0,
+              "username": "makiisyourgod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030082754659147854",
+        "in_reply_to_user_id": "1906714014299865088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029966502338908275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makiisyourgod 需要一张非大陆地区银行卡或者用加密货币买，不要apple美区内购这样会贵3刀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906714014299865088",
+        "conversation_id": "2029966502338908275",
+        "created_at": "2026-03-06T17:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029966502338908275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029966502338908275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 564,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人能教教我怎么买那个认证的蓝勾勾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 938,
+          "like_count": 6011,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 3427
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-31T14:24:00.000Z",
+        "description": "自吾出世之日，天地初分，混沌自崩。黑白之辨，本为凡尘杞人忧天之妄念，何须劳神？吾一言既出，即为乾坤定律；吾一念所指，便是万物真谛。吾说黑，则日月无光，群星黯淡；吾说白，则山河生辉，众生沐恩。黑即黑，白即白，皆随吾口而定，何来是非之扰？何来善恶之争？众生但听吾号令，便得永恒清明，杞忧尽散，唯吾独尊！",
+        "id": "1906714014299865088",
+        "location": "=maki | mtf | asd | infp",
+        "name": "巻比",
+        "pinned_tweet_id": "2018923717989187620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028168478235193344/TS0Fzspq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 322,
+          "like_count": 39342,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 3414
+        },
+        "username": "makiisyourgod",
+        "verified": false
+      }
+    ]
+  }
+}

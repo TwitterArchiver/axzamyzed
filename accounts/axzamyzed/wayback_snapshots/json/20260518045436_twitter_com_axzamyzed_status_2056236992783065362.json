@@ -1,0 +1,631 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390680741206368263",
+          "name": "Cryptocurrency exchanges"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1481584103228985345",
+          "name": "Gate.io"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1481584103228985345",
+          "name": "Gate.io"
+        }
+      }
+    ],
+    "conversation_id": "2056231430955696459",
+    "created_at": "2026-05-18T04:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056236992783065362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987885638038036480",
+          "start": 0,
+          "username": "mizorewww"
+        },
+        {
+          "end": 26,
+          "id": "1661986637189099520",
+          "start": 11,
+          "username": "Gate_supportHQ"
+        },
+        {
+          "end": 32,
+          "id": "912539725071777792",
+          "start": 27,
+          "username": "Gate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056236992783065362",
+    "in_reply_to_user_id": "1987885638038036480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056236144891986336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewww @Gate_supportHQ @Gate 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1481584103228985345",
+              "name": "Gate.io"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1481584103228985345",
+              "name": "Gate.io"
+            }
+          }
+        ],
+        "conversation_id": "2056231430955696459",
+        "created_at": "2026-05-18T04:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056236992783065362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            },
+            {
+              "end": 26,
+              "id": "1661986637189099520",
+              "start": 11,
+              "username": "Gate_supportHQ"
+            },
+            {
+              "end": 32,
+              "id": "912539725071777792",
+              "start": 27,
+              "username": "Gate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056236992783065362",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056236144891986336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww @Gate_supportHQ @Gate 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987885638038036480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1481584103228985345",
+              "name": "Gate.io"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1481584103228985345",
+              "name": "Gate.io"
+            }
+          }
+        ],
+        "conversation_id": "2056231430955696459",
+        "created_at": "2026-05-18T04:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056236144891986336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1661986637189099520",
+              "start": 0,
+              "username": "Gate_supportHQ"
+            },
+            {
+              "end": 21,
+              "id": "912539725071777792",
+              "start": 16,
+              "username": "Gate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056236144891986336",
+        "in_reply_to_user_id": "1661986637189099520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235941778636850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gate_supportHQ @Gate 把我招进去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3433,
+          "following_count": 934,
+          "like_count": 11396,
+          "listed_count": 10,
+          "media_count": 1609,
+          "tweet_count": 6708
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 114,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 91,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2049113964022501793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 855,
+          "like_count": 11103,
+          "listed_count": 2,
+          "media_count": 503,
+          "tweet_count": 2853
+        },
+        "username": "mizorewww",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-26T06:45:08.000Z",
+        "description": "https://t.co/6nRfde9SXl | Top 3 Crypto Exchange | 13+ Years | 52M+ Users | 4,600+ Tokens \nSponsor of @redbullracing | Sleeve Partner of @Inter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "redbullracing"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "username": "Inter"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Gate.com",
+                "end": 23,
+                "expanded_url": "http://Gate.com",
+                "start": 0,
+                "url": "https://t.co/6nRfde9SXl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gate.com",
+                "end": 23,
+                "expanded_url": "https://www.gate.com/",
+                "start": 0,
+                "url": "https://t.co/VCnfv2YzQC"
+              }
+            ]
+          }
+        },
+        "id": "1661986637189099520",
+        "name": "Gate Support",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052312820830887936/87V9ynAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 23,
+          "like_count": 2609,
+          "listed_count": 11,
+          "media_count": 23,
+          "tweet_count": 12158
+        },
+        "url": "https://t.co/VCnfv2YzQC",
+        "username": "Gate_supportHQ",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-26T04:49:59.000Z",
+        "description": "https://t.co/Rf4ibjdoXK | Top 3 Crypto Exchange | 13+ Years | 53M+ Users | 4,600+ Tokens | Sponsor of @redbullracing | Sleeve Partner of @Inter | Telegram: https://t.co/U3jSAiiSOR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "redbullracing"
+              },
+              {
+                "end": 143,
+                "start": 137,
+                "username": "Inter"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Gate.com",
+                "end": 23,
+                "expanded_url": "http://Gate.com",
+                "start": 0,
+                "url": "https://t.co/Rf4ibjdoXK"
+              },
+              {
+                "display_url": "t.me/GateCom_EN",
+                "end": 179,
+                "expanded_url": "http://t.me/GateCom_EN",
+                "start": 156,
+                "url": "https://t.co/U3jSAiiSOR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gate.onelink.me/7pdk/x",
+                "end": 23,
+                "expanded_url": "https://gate.onelink.me/7pdk/x",
+                "start": 0,
+                "url": "https://t.co/n6TTplHYun"
+              }
+            ]
+          }
+        },
+        "id": "912539725071777792",
+        "name": "Gate",
+        "pinned_tweet_id": "2049368668681994594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052300137939214336/EbNpxaZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082639,
+          "following_count": 805,
+          "like_count": 38515,
+          "listed_count": 5377,
+          "media_count": 27395,
+          "tweet_count": 45507
+        },
+        "url": "https://t.co/n6TTplHYun",
+        "username": "Gate",
+        "verified": true
+      }
+    ]
+  }
+}

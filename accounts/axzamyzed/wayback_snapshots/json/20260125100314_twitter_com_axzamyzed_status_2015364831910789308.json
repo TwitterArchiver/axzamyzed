@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015364028319883523",
+    "created_at": "2026-01-25T10:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015364831910789308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015364831910789308",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015364028319883523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 到底在祝贺什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1985,
+        "media_key": "3_2015263994483798017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_en7PfXcAEVHPv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015364028319883523",
+        "created_at": "2026-01-25T10:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015364831910789308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015364831910789308",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015364028319883523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 到底在祝贺什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015263994483798017"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2015364028319883523",
+        "created_at": "2026-01-25T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015364028319883523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWrn0o0OYu",
+              "end": 177,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2015364028319883523/photo/1",
+              "media_key": "3_2015263994483798017",
+              "start": 154,
+              "url": "https://t.co/gWrn0o0OYu"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 201,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2015190374357070246",
+              "start": 178,
+              "url": "https://t.co/Iyp49mRjJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015364028319883523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1397,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015190374357070246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国家体育总局向U23国家男子足球队致贺信：创造历史最佳成绩 为中国足球振兴燃起新的希望\n\n1月25日, 在刚刚结束的2026年亚足联U23男足亚洲杯决赛中，中国U23国家男子足球队以0:4不敌日本队，对此，国家体育总局于1月25日向U23国家男子足球队发去贺信，对球队在本届赛事中的出色表现表示祝贺和肯定。 https://t.co/gWrn0o0OYu https://t.co/Iyp49mRjJl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 192,
+          "like_count": 1618,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186405,
+          "following_count": 1005,
+          "like_count": 8863,
+          "listed_count": 8515,
+          "media_count": 40643,
+          "tweet_count": 47612
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

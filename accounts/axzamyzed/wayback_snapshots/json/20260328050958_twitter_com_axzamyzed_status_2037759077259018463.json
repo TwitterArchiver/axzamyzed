@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037758176595222528"
+      ],
+      "media_source_tweet_id": [
+        "2037758178587558249"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2037759077259018463",
+    "created_at": "2026-03-28T05:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T06:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037759077259018463"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "蓝V互关"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JXQ3sLvgyO",
+          "end": 61,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2037758178587558249/photo/1",
+          "media_key": "3_2037758176595222528",
+          "start": 38,
+          "url": "https://t.co/JXQ3sLvgyO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037759077259018463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037758178587558249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 就差一点了\n#蓝V互关\n让我来蹭蹭马斯克的米 https://t.co/JXQ3sLvgyO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037758176595222528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEeSQ94bIAAADro.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037758176595222528"
+          ],
+          "media_source_tweet_id": [
+            "2037758178587558249"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2037759077259018463",
+        "created_at": "2026-03-28T05:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037759077259018463"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "蓝V互关"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXQ3sLvgyO",
+              "end": 61,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2037758178587558249/photo/1",
+              "media_key": "3_2037758176595222528",
+              "start": 38,
+              "url": "https://t.co/JXQ3sLvgyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037759077259018463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037758178587558249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 就差一点了\n#蓝V互关\n让我来蹭蹭马斯克的米 https://t.co/JXQ3sLvgyO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037758176595222528"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2037758178587558249",
+        "created_at": "2026-03-28T05:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037758178587558249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXQ3sLvgyO",
+              "end": 46,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2037758178587558249/photo/1",
+              "media_key": "3_2037758176595222528",
+              "start": 23,
+              "url": "https://t.co/JXQ3sLvgyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037758178587558249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "就差一点了\n#蓝V互关\n让我来蹭蹭马斯克的米 https://t.co/JXQ3sLvgyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 929,
+          "like_count": 7721,
+          "listed_count": 2,
+          "media_count": 496,
+          "tweet_count": 4646
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6456,
+          "following_count": 1951,
+          "like_count": 22449,
+          "listed_count": 27,
+          "media_count": 462,
+          "tweet_count": 2422
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

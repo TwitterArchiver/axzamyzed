@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2026677537854877804",
+    "created_at": "2026-02-25T15:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026678530785030503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1851161504361623552",
+          "start": 0,
+          "username": "xioyi667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026678530785030503",
+    "in_reply_to_user_id": "1851161504361623552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026677537854877804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioyi667 5000-7000就是5000🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_2026677535376027652",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCA0ewpaMAQmewR.jpg",
+        "width": 689
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2026677537854877804",
+        "created_at": "2026-02-25T15:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026678530785030503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1851161504361623552",
+              "start": 0,
+              "username": "xioyi667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026678530785030503",
+        "in_reply_to_user_id": "1851161504361623552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026677537854877804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioyi667 5000-7000就是5000🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026677535376027652"
+          ]
+        },
+        "author_id": "1851161504361623552",
+        "conversation_id": "2026677537854877804",
+        "created_at": "2026-02-25T15:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026677537854877804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTHzMDP2I6",
+              "end": 41,
+              "expanded_url": "https://x.com/xioyi667/status/2026677537854877804/photo/1",
+              "media_key": "3_2026677535376027652",
+              "start": 18,
+              "url": "https://t.co/KTHzMDP2I6"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2026677537854877804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你见过服务员工资比厨师高的餐厅吗？ https://t.co/KTHzMDP2I6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 802,
+          "like_count": 4968,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 2731
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-29T07:18:15.000Z",
+        "description": "蓝v持续互关中\n港卡绑卡🔗https://t.co/P2XsKbGcC1\n获取US$800免手续费奖励\n励志三个月拿下老马工资的男人",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wise.com/invite/amc/8pl…",
+                "end": 36,
+                "expanded_url": "https://wise.com/invite/amc/8pl90x9",
+                "start": 13,
+                "url": "https://t.co/P2XsKbGcC1"
+              }
+            ]
+          }
+        },
+        "id": "1851161504361623552",
+        "name": "v神",
+        "pinned_tweet_id": "2017288684228514215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861828758019383297/mPrsLjF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 1386,
+          "like_count": 1151,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1258
+        },
+        "username": "xioyi667",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041800142937010176"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041790111969636603",
+    "created_at": "2026-04-08T08:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041800155088011617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GbnxOU2Wim",
+          "end": 59,
+          "expanded_url": "https://x.com/axzamyzed/status/2041800155088011617/photo/1",
+          "media_key": "3_2041800142937010176",
+          "start": 36,
+          "url": "https://t.co/GbnxOU2Wim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041800155088011617",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041790111969636603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 说实话没啥用，回来了也从来没用过，当个收藏品还行 https://t.co/GbnxOU2Wim"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041800142937010176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXuaX4aMAA7qJK.jpg",
+        "width": 1338
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041790109406916610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXlSWEa8AIp04A.jpg",
+        "width": 907
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041790109734072322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXlSXSa8AIPVrf.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041800142937010176"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041790111969636603",
+        "created_at": "2026-04-08T08:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041800155088011617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbnxOU2Wim",
+              "end": 59,
+              "expanded_url": "https://x.com/axzamyzed/status/2041800155088011617/photo/1",
+              "media_key": "3_2041800142937010176",
+              "start": 36,
+              "url": "https://t.co/GbnxOU2Wim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041800155088011617",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041790111969636603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 说实话没啥用，回来了也从来没用过，当个收藏品还行 https://t.co/GbnxOU2Wim"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041790109406916610",
+            "3_2041790109734072322"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2041790111969636603",
+        "created_at": "2026-04-08T08:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041790111969636603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1068417957686992896",
+              "start": 10,
+              "username": "SafePal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZdFp4azrr",
+              "end": 62,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041790111969636603/photo/1",
+              "media_key": "3_2041790109406916610",
+              "start": 39,
+              "url": "https://t.co/cZdFp4azrr"
+            },
+            {
+              "display_url": "pic.x.com/cZdFp4azrr",
+              "end": 62,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2041790111969636603/photo/1",
+              "media_key": "3_2041790109734072322",
+              "start": 39,
+              "url": "https://t.co/cZdFp4azrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041790111969636603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是成功的白嫖上了 @SafePal 的X1硬件钱包\n（这条能有广告费吗？） https://t.co/cZdFp4azrr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 927,
+          "like_count": 8555,
+          "listed_count": 4,
+          "media_count": 654,
+          "tweet_count": 5167
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6795,
+          "following_count": 2032,
+          "like_count": 24434,
+          "listed_count": 27,
+          "media_count": 574,
+          "tweet_count": 3130
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

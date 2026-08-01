@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2019753578374533240",
+    "created_at": "2026-02-06T12:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T13:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019755287029424207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477342523555135490",
+          "start": 0,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019755287029424207",
+    "in_reply_to_user_id": "1477342523555135490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019753578374533240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@torontobigface 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2019753578374533240",
+        "created_at": "2026-02-06T12:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019755287029424207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477342523555135490",
+              "start": 0,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019755287029424207",
+        "in_reply_to_user_id": "1477342523555135490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019753578374533240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@torontobigface 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477342523555135490",
+        "conversation_id": "2019753578374533240",
+        "created_at": "2026-02-06T12:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019753578374533240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "记录真实，守护匿名。让每一份声音安全送达。",
+              "display_url": "赛博信访局.com",
+              "end": 23,
+              "expanded_url": "https://xn--vuq87fk7jum5c1xb.com/",
+              "start": 0,
+              "status": 200,
+              "title": "赛博信访局",
+              "unwound_url": "https://xn--vuq87fk7jum5c1xb.com/",
+              "url": "https://t.co/KKqAc2ifac"
+            },
+            {
+              "description": "记录真实，守护匿名。让每一份声音安全送达。",
+              "display_url": "赛博信访局.com",
+              "end": 54,
+              "expanded_url": "https://xn--vuq87fk7jum5c1xb.com/",
+              "start": 31,
+              "status": 200,
+              "title": "赛博信访局",
+              "unwound_url": "https://xn--vuq87fk7jum5c1xb.com/",
+              "url": "https://t.co/KKqAc2ifac"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2019752134674141562",
+              "start": 169,
+              "url": "https://t.co/QboGz2b09d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019753578374533240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "赛博信访局.com",
+                "end": 23,
+                "expanded_url": "https://xn--vuq87fk7jum5c1xb.com/",
+                "start": 0,
+                "url": "https://t.co/yrVytSKb52"
+              },
+              {
+                "display_url": "赛博信访局.com",
+                "end": 54,
+                "expanded_url": "https://xn--vuq87fk7jum5c1xb.com/",
+                "start": 31,
+                "url": "https://t.co/yrVytSKb52"
+              }
+            ]
+          },
+          "text": "https://t.co/yrVytSKb52\n大家可以访问\nhttps://t.co/yrVytSKb52进行投稿  \n\n在中国，一件事情想要解决，不一定是你多占理\n而是你炒的多大，闹的多大，多少人看到 \n中共是按闹解决，而不是按理解决 \n\n过去很多人会去北京上访，会在墙内平台曝光，会进行推特投稿，希望以此把事情炒大，以此来得到解决  \n\n而我们现在提供了一个公开的平台，大家可以自行上传自己遇到的不公，记录自己的不公\n希望以此更好的帮助大家解决问题\n暂时没有冤情的朋友，也可以借着这个网站了解真实的中国 \n\n这个项目也和我们一贯的项目宗旨类似\n在和中共的不对称对抗中，尽我们最大的可能，帮助中国人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019752134674141562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/KKqAc2ifac\n大家可以访问\nhttps://t.co/KKqAc2ifac进行投稿  \n\n在中国，一件事情想要解决，不一定是你多占理\n而是你炒的多大，闹的多大，多少人看到 \n中共是按闹解决，而不是按理解决 \n\n过去很多人会去北京上访，会在墙内平台曝光，会进行推特投稿，希望以此把事情炒大，以此来得到解决 https://t.co/QboGz2b09d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 508,
+          "like_count": 3200,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1748
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "2019753578374533240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004728054199799808/7q5HpT1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776330,
+          "following_count": 237,
+          "like_count": 4394,
+          "listed_count": 2374,
+          "media_count": 6234,
+          "tweet_count": 18490
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

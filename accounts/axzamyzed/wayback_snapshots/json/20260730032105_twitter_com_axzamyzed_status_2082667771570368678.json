@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2082407677670662494",
+    "created_at": "2026-07-30T03:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082667771570368678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022131059794780161",
+          "start": 0,
+          "username": "uwuneko_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082667771570368678",
+    "in_reply_to_user_id": "2022131059794780161",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082546293898088865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwuneko_1 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2082407677670662494",
+        "created_at": "2026-07-30T03:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082667771570368678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022131059794780161",
+              "start": 0,
+              "username": "uwuneko_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082667771570368678",
+        "in_reply_to_user_id": "2022131059794780161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082546293898088865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwuneko_1 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022131059794780161",
+        "conversation_id": "2082407677670662494",
+        "created_at": "2026-07-29T19:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082546293898088865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082546293898088865",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 387,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082407677670662494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 我覺醒的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4224,
+          "following_count": 930,
+          "like_count": 14815,
+          "listed_count": 12,
+          "media_count": 3526,
+          "tweet_count": 9356
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T02:10:09.000Z",
+        "description": "Languages: JP / EN / ZH (TC & SC) | 姑且算是人類 | 中立 | coffee依存症 | Sky光·遇 | 和我聊天互fo可以發dm |\n恋人：@narutomaki_4\nblog：https://t.co/kjzs4WL7Kd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "narutomaki_4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuburogu.blogspot.com",
+                "end": 131,
+                "expanded_url": "http://uwuburogu.blogspot.com",
+                "start": 108,
+                "url": "https://t.co/kjzs4WL7Kd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/uwutokumei",
+                "end": 23,
+                "expanded_url": "https://mond.how/uwutokumei",
+                "start": 0,
+                "url": "https://t.co/Gi3bZS3zne"
+              }
+            ]
+          }
+        },
+        "id": "2022131059794780161",
+        "location": "Hong Kong",
+        "name": "uwu",
+        "pinned_tweet_id": "2081369481398591660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080009291587788800/_m5Wlp1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 150,
+          "like_count": 6158,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/Gi3bZS3zne",
+        "username": "uwuneko_1",
+        "verified": false
+      }
+    ]
+  }
+}

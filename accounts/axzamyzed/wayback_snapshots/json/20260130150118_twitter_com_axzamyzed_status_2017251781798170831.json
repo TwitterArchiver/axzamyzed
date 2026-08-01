@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017103760364097721",
+    "created_at": "2026-01-30T15:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017251781798170831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847577980186578944",
+          "start": 0,
+          "username": "Father_Karras10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017251781798170831",
+    "in_reply_to_user_id": "1847577980186578944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017249754955043000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Father_Karras10 我说的是第一反应哦，女生一般想的是怎么办，心里慌，大部分男生想的就是也得让好兄弟“享福”，确实浓硫酸的脱水性还是太强了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017103760364097721",
+        "created_at": "2026-01-30T15:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017251781798170831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847577980186578944",
+              "start": 0,
+              "username": "Father_Karras10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017251781798170831",
+        "in_reply_to_user_id": "1847577980186578944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017249754955043000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Father_Karras10 我说的是第一反应哦，女生一般想的是怎么办，心里慌，大部分男生想的就是也得让好兄弟“享福”，确实浓硫酸的脱水性还是太强了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847577980186578944",
+        "conversation_id": "2017103760364097721",
+        "created_at": "2026-01-30T14:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T15:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017249754955043000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017249754955043000",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017103760364097721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 并非浓硫酸 不然两种都是一边惨叫一边看着自己的手冒烟碳化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 431,
+          "like_count": 2417,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T09:58:38.000Z",
+        "description": "English Français 中文",
+        "id": "1847577980186578944",
+        "location": "Tours, France",
+        "name": "Father Karras",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895047787244371968/dq-Df3xQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 181,
+          "like_count": 38940,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1168
+        },
+        "username": "Father_Karras10",
+        "verified": false
+      }
+    ]
+  }
+}

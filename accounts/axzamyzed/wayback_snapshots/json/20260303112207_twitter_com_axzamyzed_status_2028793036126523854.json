@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028744397471482056",
+    "created_at": "2026-03-03T11:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028793036126523854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        },
+        {
+          "end": 32,
+          "id": "850937205040087040",
+          "start": 17,
+          "username": "HarukawaSayaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028793036126523854",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028792738142142787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae @HarukawaSayaka 别的不说，我读nginx确实是嗯金克丝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028744397471482056",
+        "created_at": "2026-03-03T11:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028793036126523854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            },
+            {
+              "end": 32,
+              "id": "850937205040087040",
+              "start": 17,
+              "username": "HarukawaSayaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028793036126523854",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028792738142142787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae @HarukawaSayaka 别的不说，我读nginx确实是嗯金克丝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444716723978981380",
+        "conversation_id": "2028744397471482056",
+        "created_at": "2026-03-03T11:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028792738142142787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 26,
+              "id": "850937205040087040",
+              "start": 11,
+              "username": "HarukawaSayaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028792738142142787",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028788329937068483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed @HarukawaSayaka 我读音很多和标准都不一样\n比如cuda、nginx、null、azure、jQuery，我的读法很多都不是英语\ncuda-库达\nnginx-恩金克丝\nnull-努尔\nazure-阿祖黑\njQuery-接Q瑞\n读习惯了，，知道意思就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 890,
+          "like_count": 5723,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 3225
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3707,
+          "following_count": 1989,
+          "like_count": 25928,
+          "listed_count": 10,
+          "media_count": 130,
+          "tweet_count": 6432
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-09T05:03:34.000Z",
+        "description": "e/acc | harukawa.eth | sayaka.sol | 東方好き @touhou_works | 🦋https://t.co/2AAZSRcbGd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "touhou_works"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "harukawasayaka.bsky.social",
+                "end": 81,
+                "expanded_url": "http://harukawasayaka.bsky.social",
+                "start": 58,
+                "url": "https://t.co/2AAZSRcbGd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baka.studio",
+                "end": 23,
+                "expanded_url": "https://baka.studio",
+                "start": 0,
+                "url": "https://t.co/5cRUMpg22J"
+              }
+            ]
+          }
+        },
+        "id": "850937205040087040",
+        "location": "Machida-shi, Tokyo",
+        "name": "晴猫@幻夢結社",
+        "pinned_tweet_id": "1954584081175658619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004808436408832000/_O8KiHpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21614,
+          "following_count": 11447,
+          "like_count": 48949,
+          "listed_count": 52,
+          "media_count": 2046,
+          "tweet_count": 13289
+        },
+        "url": "https://t.co/5cRUMpg22J",
+        "username": "HarukawaSayaka",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2043011000325038202",
+    "created_at": "2026-04-12T08:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043238416993943651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1053157503461027840",
+          "start": 0,
+          "username": "yifengchen28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043238416993943651",
+    "in_reply_to_user_id": "1053157503461027840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043238320952762523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifengchen28 可以👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2043011000325038202",
+        "created_at": "2026-04-12T08:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043238416993943651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1053157503461027840",
+              "start": 0,
+              "username": "yifengchen28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043238416993943651",
+        "in_reply_to_user_id": "1053157503461027840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043238320952762523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifengchen28 可以👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1053157503461027840",
+        "conversation_id": "2043011000325038202",
+        "created_at": "2026-04-12T08:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043238320952762523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043238320952762523",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043011000325038202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 我我明天开车去拜访下王老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 925,
+          "like_count": 8870,
+          "listed_count": 6,
+          "media_count": 718,
+          "tweet_count": 5344
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-19T05:34:50.000Z",
+        "description": "维尼写诗 维尼禁止 维尼做不可能的事 维尼学会弹琴写词 维尼失去理智",
+        "id": "1053157503461027840",
+        "name": "维尼写诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1326575939766026240/FQKS_O04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4631,
+          "following_count": 6473,
+          "like_count": 440509,
+          "listed_count": 19,
+          "media_count": 962,
+          "tweet_count": 45661
+        },
+        "username": "yifengchen28",
+        "verified": false
+      }
+    ]
+  }
+}

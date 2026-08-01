@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045533493363683328"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2045533503027110098",
+    "created_at": "2026-04-18T16:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045533503027110098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jgNQysGAte",
+          "end": 38,
+          "expanded_url": "https://x.com/axzamyzed/status/2045533503027110098/photo/1",
+          "media_key": "3_2045533493363683328",
+          "start": 15,
+          "url": "https://t.co/jgNQysGAte"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045533503027110098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "百度文库：为什么我是shit https://t.co/jgNQysGAte"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2045533493363683328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMx3-AbMAAkZdD.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045533493363683328"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2045533503027110098",
+        "created_at": "2026-04-18T16:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045533503027110098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgNQysGAte",
+              "end": 38,
+              "expanded_url": "https://x.com/axzamyzed/status/2045533503027110098/photo/1",
+              "media_key": "3_2045533493363683328",
+              "start": 15,
+              "url": "https://t.co/jgNQysGAte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045533503027110098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "百度文库：为什么我是shit https://t.co/jgNQysGAte"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 874,
+          "like_count": 9394,
+          "listed_count": 7,
+          "media_count": 870,
+          "tweet_count": 5611
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

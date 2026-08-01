@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2024061333721710961",
+    "created_at": "2026-02-18T10:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024068359122223135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477342523555135490",
+          "start": 0,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024068359122223135",
+    "in_reply_to_user_id": "1477342523555135490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024061333721710961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@torontobigface 自从春晚换了导演，就越来越没意思了，跟总结工作给领导看一样，真的什么都不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2024061333721710961",
+        "created_at": "2026-02-18T10:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024068359122223135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477342523555135490",
+              "start": 0,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024068359122223135",
+        "in_reply_to_user_id": "1477342523555135490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024061333721710961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@torontobigface 自从春晚换了导演，就越来越没意思了，跟总结工作给领导看一样，真的什么都不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477342523555135490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "2024061333721710961",
+        "created_at": "2026-02-18T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024061333721710961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024061333721710961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "youtu.be/i5i2pE-3Jhc",
+                "end": 220,
+                "expanded_url": "https://youtu.be/i5i2pE-3Jhc",
+                "start": 197,
+                "url": "https://t.co/s6Pr4Uj4Hf"
+              }
+            ]
+          },
+          "text": "春晚曾经也给我们留下过美好的记忆，比如赵本山的《卖拐》等众多小品\n春晚也成为了一代中国人的记忆\n但是时至今日春晚，已经没法看了\n\n那么春晚为什么越来越难看了呢？\n实际上还是政治的倒退！\n\n我们曾经记忆中的那个春晚，承载的不只是我们的春节\n而是承载了我们对于改革开放时期，那有限的包容和自由的记忆\n而伴随着那个时代消亡，曾经的春晚也已经不复存在了\n\n方脸说：春晚退化史！春晚为什么越来越难看了？\nhttps://t.co/s6Pr4Uj4Hf"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2908,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "春晚曾经也给我们留下过美好的记忆，比如赵本山的《卖拐》等众多小品\n春晚也成为了一代中国人的记忆\n但是时至今日春晚，已经没法看了\n\n那么春晚为什么越来越难看了呢？\n实际上还是政治的倒退！\n\n我们曾经记忆中的那个春晚，承载的不只是我们的春节"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2023990485409268071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 716,
+          "like_count": 4089,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "2022910735588663499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004728054199799808/7q5HpT1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777922,
+          "following_count": 239,
+          "like_count": 4477,
+          "listed_count": 2387,
+          "media_count": 6286,
+          "tweet_count": 18583
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

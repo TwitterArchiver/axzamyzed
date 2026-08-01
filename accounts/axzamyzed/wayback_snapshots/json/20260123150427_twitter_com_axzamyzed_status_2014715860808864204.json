@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014715850243399680",
+        "3_2014715851065155584"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2014715860808864204",
+    "created_at": "2026-01-23T15:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T16:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014715860808864204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t0sNjCVyLI",
+          "end": 30,
+          "expanded_url": "https://x.com/axzamyzed/status/2014715860808864204/photo/1",
+          "media_key": "3_2014715850243399680",
+          "start": 7,
+          "url": "https://t.co/t0sNjCVyLI"
+        },
+        {
+          "display_url": "pic.x.com/t0sNjCVyLI",
+          "end": 30,
+          "expanded_url": "https://x.com/axzamyzed/status/2014715860808864204/photo/1",
+          "media_key": "3_2014715851065155584",
+          "start": 7,
+          "url": "https://t.co/t0sNjCVyLI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014715860808864204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "未必没有道理 https://t.co/t0sNjCVyLI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_2014715850243399680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_W1ZDEbYAAWgl_.jpg",
+        "width": 750
+      },
+      {
+        "height": 667,
+        "media_key": "3_2014715851065155584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_W1ZGIWYAABkkf.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014715850243399680",
+            "3_2014715851065155584"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2014715860808864204",
+        "created_at": "2026-01-23T15:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T16:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014715860808864204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t0sNjCVyLI",
+              "end": 30,
+              "expanded_url": "https://x.com/axzamyzed/status/2014715860808864204/photo/1",
+              "media_key": "3_2014715850243399680",
+              "start": 7,
+              "url": "https://t.co/t0sNjCVyLI"
+            },
+            {
+              "display_url": "pic.x.com/t0sNjCVyLI",
+              "end": 30,
+              "expanded_url": "https://x.com/axzamyzed/status/2014715860808864204/photo/1",
+              "media_key": "3_2014715851065155584",
+              "start": 7,
+              "url": "https://t.co/t0sNjCVyLI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014715860808864204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未必没有道理 https://t.co/t0sNjCVyLI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 90,
+          "like_count": 1372,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": false
+      }
+    ]
+  }
+}

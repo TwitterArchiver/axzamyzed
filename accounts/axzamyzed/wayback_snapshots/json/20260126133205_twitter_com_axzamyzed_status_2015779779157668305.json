@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015779761696698368",
+        "3_2015779761864232960",
+        "3_2015779761696714752",
+        "3_2015779761940041729"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015779779157668305",
+    "created_at": "2026-01-26T13:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015779779157668305"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "拼多多"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "普瑞巴林"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zAP7qRg43J",
+          "end": 61,
+          "expanded_url": "https://x.com/axzamyzed/status/2015779779157668305/photo/1",
+          "media_key": "3_2015779761696698368",
+          "start": 38,
+          "url": "https://t.co/zAP7qRg43J"
+        },
+        {
+          "display_url": "pic.x.com/zAP7qRg43J",
+          "end": 61,
+          "expanded_url": "https://x.com/axzamyzed/status/2015779779157668305/photo/1",
+          "media_key": "3_2015779761864232960",
+          "start": 38,
+          "url": "https://t.co/zAP7qRg43J"
+        },
+        {
+          "display_url": "pic.x.com/zAP7qRg43J",
+          "end": 61,
+          "expanded_url": "https://x.com/axzamyzed/status/2015779779157668305/photo/1",
+          "media_key": "3_2015779761696714752",
+          "start": 38,
+          "url": "https://t.co/zAP7qRg43J"
+        },
+        {
+          "display_url": "pic.x.com/zAP7qRg43J",
+          "end": 61,
+          "expanded_url": "https://x.com/axzamyzed/status/2015779779157668305/photo/1",
+          "media_key": "3_2015779761940041729",
+          "start": 38,
+          "url": "https://t.co/zAP7qRg43J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015779779157668305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然已经好久没买过了但是我的拼多多首页依旧是这样的…\n#拼多多 #普瑞巴林 https://t.co/zAP7qRg43J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 997,
+        "media_key": "3_2015779761696698368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l9A2FacAAg0xz.jpg",
+        "width": 750
+      },
+      {
+        "height": 984,
+        "media_key": "3_2015779761864232960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l9A2tW0AAtkij.jpg",
+        "width": 750
+      },
+      {
+        "height": 942,
+        "media_key": "3_2015779761696714752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l9A2FasAA9_-a.jpg",
+        "width": 750
+      },
+      {
+        "height": 1008,
+        "media_key": "3_2015779761940041729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l9A2_bkAESe1z.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015779761696698368",
+            "3_2015779761864232960",
+            "3_2015779761696714752",
+            "3_2015779761940041729"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015779779157668305",
+        "created_at": "2026-01-26T13:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015779779157668305"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "拼多多"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "普瑞巴林"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zAP7qRg43J",
+              "end": 61,
+              "expanded_url": "https://x.com/axzamyzed/status/2015779779157668305/photo/1",
+              "media_key": "3_2015779761696698368",
+              "start": 38,
+              "url": "https://t.co/zAP7qRg43J"
+            },
+            {
+              "display_url": "pic.x.com/zAP7qRg43J",
+              "end": 61,
+              "expanded_url": "https://x.com/axzamyzed/status/2015779779157668305/photo/1",
+              "media_key": "3_2015779761864232960",
+              "start": 38,
+              "url": "https://t.co/zAP7qRg43J"
+            },
+            {
+              "display_url": "pic.x.com/zAP7qRg43J",
+              "end": 61,
+              "expanded_url": "https://x.com/axzamyzed/status/2015779779157668305/photo/1",
+              "media_key": "3_2015779761696714752",
+              "start": 38,
+              "url": "https://t.co/zAP7qRg43J"
+            },
+            {
+              "display_url": "pic.x.com/zAP7qRg43J",
+              "end": 61,
+              "expanded_url": "https://x.com/axzamyzed/status/2015779779157668305/photo/1",
+              "media_key": "3_2015779761940041729",
+              "start": 38,
+              "url": "https://t.co/zAP7qRg43J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015779779157668305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然已经好久没买过了但是我的拼多多首页依旧是这样的…\n#拼多多 #普瑞巴林 https://t.co/zAP7qRg43J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 270,
+          "like_count": 1829,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

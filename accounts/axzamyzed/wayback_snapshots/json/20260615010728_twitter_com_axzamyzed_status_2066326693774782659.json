@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066326683695886336"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2066326693774782659",
+    "created_at": "2026-06-15T01:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066326693774782659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xtMWtYya8G",
+          "end": 39,
+          "expanded_url": "https://x.com/axzamyzed/status/2066326693774782659/photo/1",
+          "media_key": "3_2066326683695886336",
+          "start": 16,
+          "url": "https://t.co/xtMWtYya8G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066326693774782659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人家只是想知道一个结果有什么错 https://t.co/xtMWtYya8G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1773,
+        "media_key": "3_2066326683695886336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0RK8OasAA8lXF.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066326683695886336"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2066326693774782659",
+        "created_at": "2026-06-15T01:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066326693774782659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtMWtYya8G",
+              "end": 39,
+              "expanded_url": "https://x.com/axzamyzed/status/2066326693774782659/photo/1",
+              "media_key": "3_2066326683695886336",
+              "start": 16,
+              "url": "https://t.co/xtMWtYya8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066326693774782659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人家只是想知道一个结果有什么错 https://t.co/xtMWtYya8G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3710,
+          "following_count": 946,
+          "like_count": 12841,
+          "listed_count": 10,
+          "media_count": 2526,
+          "tweet_count": 7885
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

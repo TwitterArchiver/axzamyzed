@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2070349203398898050",
+    "created_at": "2026-06-26T11:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070468236626293212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1661650938065559554",
+          "start": 0,
+          "username": "Xchen963"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070468236626293212",
+    "in_reply_to_user_id": "1661650938065559554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070402565926535218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xchen963 现金🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2070349203398898050",
+        "created_at": "2026-06-26T11:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070468236626293212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1661650938065559554",
+              "start": 0,
+              "username": "Xchen963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070468236626293212",
+        "in_reply_to_user_id": "1661650938065559554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070402565926535218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xchen963 现金🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661650938065559554",
+        "conversation_id": "2070349203398898050",
+        "created_at": "2026-06-26T07:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070402565926535218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070402565926535218",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4516,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070349203398898050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 这是不是忘了放收款码🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3940,
+          "following_count": 925,
+          "like_count": 13572,
+          "listed_count": 10,
+          "media_count": 2919,
+          "tweet_count": 8437
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-25T08:30:41.000Z",
+        "description": "星沉｜探索者\n\n分享生活、热爱科技、互联网与新事物，关注 AI、数码科技、海外资讯与个人成长。\n\n相信长期主义，喜欢在信息洪流中寻找有价值的趋势与机会。\n\n分享见闻，记录思考，与同频的人一起成长。",
+        "id": "1661650938065559554",
+        "name": "星沉",
+        "pinned_tweet_id": "2069785351435280427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761774195619295232/xU6tPru7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 893,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "Xchen963",
+        "verified": true
+      }
+    ]
+  }
+}

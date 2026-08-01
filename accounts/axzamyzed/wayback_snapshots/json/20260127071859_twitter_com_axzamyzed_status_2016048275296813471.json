@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016028390562865393",
+    "created_at": "2026-01-27T07:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T08:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016048275296813471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552213521253150720",
+          "start": 0,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016048275296813471",
+    "in_reply_to_user_id": "1552213521253150720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016045729559826764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acnekot 其实微信内置的也是这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016028390562865393",
+        "created_at": "2026-01-27T07:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016048275296813471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016048275296813471",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016045729559826764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 其实微信内置的也是这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2016028390562865393",
+        "created_at": "2026-01-27T07:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016045729559826764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016045729559826764",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016045502677254258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 虽然说一直知道是这个，但是是第一次看到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 303,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 721,
+          "like_count": 72742,
+          "listed_count": 5,
+          "media_count": 2424,
+          "tweet_count": 11037
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

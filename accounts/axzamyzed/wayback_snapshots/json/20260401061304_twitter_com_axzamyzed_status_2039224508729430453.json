@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038998851303121137",
+    "created_at": "2026-04-01T06:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039224508729430453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1783096607363457024",
+          "start": 0,
+          "username": "fdtreesky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039224508729430453",
+    "in_reply_to_user_id": "1783096607363457024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039221163612930108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fdtreesky 你就说像不像吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038998851303121137",
+        "created_at": "2026-04-01T06:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039224508729430453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1783096607363457024",
+              "start": 0,
+              "username": "fdtreesky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039224508729430453",
+        "in_reply_to_user_id": "1783096607363457024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039221163612930108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fdtreesky 你就说像不像吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783096607363457024",
+        "conversation_id": "2038998851303121137",
+        "created_at": "2026-04-01T05:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039221163612930108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039221163612930108",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038998851303121137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 喔，大姜,我刚还在想这是什么造型，挺别致的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 929,
+          "like_count": 8115,
+          "listed_count": 2,
+          "media_count": 545,
+          "tweet_count": 4863
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-24T11:32:34.000Z",
+        "description": "aigirl 即夢 豆包 grok",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aigirlcl",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aigirlcl",
+                "start": 0,
+                "url": "https://t.co/HxkPPH2OUM"
+              }
+            ]
+          }
+        },
+        "id": "1783096607363457024",
+        "name": "Aigirl",
+        "pinned_tweet_id": "2038571456385482880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035267087971790848/40UylSPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 2353,
+          "like_count": 4091,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/HxkPPH2OUM",
+        "username": "fdtreesky",
+        "verified": true
+      }
+    ]
+  }
+}

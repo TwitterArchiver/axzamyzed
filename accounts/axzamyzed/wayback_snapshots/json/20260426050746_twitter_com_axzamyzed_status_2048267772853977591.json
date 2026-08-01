@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2048205485422112822",
+    "created_at": "2026-04-26T05:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048267772853977591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2044833964398174208",
+          "start": 0,
+          "username": "ReadSnapX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048267772853977591",
+    "in_reply_to_user_id": "2044833964398174208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048251478159290714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReadSnapX 黄金应该还有一定的工业价值"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2048205485422112822",
+        "created_at": "2026-04-26T05:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048267772853977591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044833964398174208",
+              "start": 0,
+              "username": "ReadSnapX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048267772853977591",
+        "in_reply_to_user_id": "2044833964398174208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048251478159290714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReadSnapX 黄金应该还有一定的工业价值"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044833964398174208",
+        "conversation_id": "2048205485422112822",
+        "created_at": "2026-04-26T04:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048251478159290714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048251478159290714",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048205485422112822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 黄金的价值就在于它的稀缺性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2685,
+          "following_count": 867,
+          "like_count": 10047,
+          "listed_count": 10,
+          "media_count": 1035,
+          "tweet_count": 5883
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-16T17:44:50.000Z",
+        "description": "✨搞笑视频✨翻车现场✨优质梗图✨经验分享✨\n    ✷思维爆炸✷跨度很大✷真伪自辨✷不说废话✷\n    不制造焦虑，只传播快乐。若有侵权联系即删",
+        "id": "2044833964398174208",
+        "location": "快乐俱乐部",
+        "name": "悦读快爆",
+        "pinned_tweet_id": "2048044997841478035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046969759133208576/YpEFcdW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 294,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 580
+        },
+        "username": "ReadSnapX",
+        "verified": true
+      }
+    ]
+  }
+}

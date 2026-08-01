@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2040988654009458850",
+    "created_at": "2026-04-06T12:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041127434745983172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2668485234",
+          "start": 0,
+          "username": "EricXinny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041127434745983172",
+    "in_reply_to_user_id": "2668485234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041074594170417178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EricXinny 那地球上还有难吃的东西呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040988654009458850",
+        "created_at": "2026-04-06T12:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041127434745983172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2668485234",
+              "start": 0,
+              "username": "EricXinny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041127434745983172",
+        "in_reply_to_user_id": "2668485234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041074594170417178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricXinny 那地球上还有难吃的东西呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2668485234",
+        "conversation_id": "2040988654009458850",
+        "created_at": "2026-04-06T08:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041074594170417178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041074594170417178",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040988654009458850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 地球上至少有東西能吃 雖然比例極低 但是有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 931,
+          "like_count": 8434,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 5083
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-22T05:36:48.000Z",
+        "description": "",
+        "id": "2668485234",
+        "name": "佐伊三元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918488753087365120/gxnWduP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 542,
+          "like_count": 29745,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2707
+        },
+        "username": "EricXinny",
+        "verified": false
+      }
+    ]
+  }
+}

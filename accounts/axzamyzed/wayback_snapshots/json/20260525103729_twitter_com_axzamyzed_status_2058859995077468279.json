@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058859986139385857"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2058859995077468279",
+    "created_at": "2026-05-25T10:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058859995077468279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Zd1zB521z",
+          "end": 107,
+          "expanded_url": "https://x.com/axzamyzed/status/2058859995077468279/photo/1",
+          "media_key": "3_2058859986139385857",
+          "start": 84,
+          "url": "https://t.co/9Zd1zB521z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058859995077468279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一反诈视频说“骗子在保管你的手机的时候把你的sim卡拔出来拨打诈骗电话，有的人会关机交给对方，结果对方要的根本不是你的手机而是你的sim卡”\n视频评论区清一色esim https://t.co/9Zd1zB521z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2058859986139385857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKKP8QakAEUwsZ.jpg",
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058859986139385857"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2058859995077468279",
+        "created_at": "2026-05-25T10:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058859995077468279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Zd1zB521z",
+              "end": 107,
+              "expanded_url": "https://x.com/axzamyzed/status/2058859995077468279/photo/1",
+              "media_key": "3_2058859986139385857",
+              "start": 84,
+              "url": "https://t.co/9Zd1zB521z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058859995077468279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一反诈视频说“骗子在保管你的手机的时候把你的sim卡拔出来拨打诈骗电话，有的人会关机交给对方，结果对方要的根本不是你的手机而是你的sim卡”\n视频评论区清一色esim https://t.co/9Zd1zB521z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3470,
+          "following_count": 949,
+          "like_count": 11732,
+          "listed_count": 11,
+          "media_count": 1781,
+          "tweet_count": 6945
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

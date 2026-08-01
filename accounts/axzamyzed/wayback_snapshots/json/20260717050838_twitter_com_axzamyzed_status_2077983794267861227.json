@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077983786462257152"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2077983794267861227",
+    "created_at": "2026-07-17T05:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077983794267861227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GLsiqorF6f",
+          "end": 29,
+          "expanded_url": "https://x.com/axzamyzed/status/2077983794267861227/photo/1",
+          "media_key": "3_2077983786462257152",
+          "start": 6,
+          "url": "https://t.co/GLsiqorF6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077983794267861227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "苦逼的日子 https://t.co/GLsiqorF6f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 562,
+        "media_key": "3_2077983786462257152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ7PoEaoAARAIC.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077983786462257152"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2077983794267861227",
+        "created_at": "2026-07-17T05:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077983794267861227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GLsiqorF6f",
+              "end": 29,
+              "expanded_url": "https://x.com/axzamyzed/status/2077983794267861227/photo/1",
+              "media_key": "3_2077983786462257152",
+              "start": 6,
+              "url": "https://t.co/GLsiqorF6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077983794267861227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苦逼的日子 https://t.co/GLsiqorF6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4235,
+          "following_count": 928,
+          "like_count": 14618,
+          "listed_count": 12,
+          "media_count": 3421,
+          "tweet_count": 9207
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

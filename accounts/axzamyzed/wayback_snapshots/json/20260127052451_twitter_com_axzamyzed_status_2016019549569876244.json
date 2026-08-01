@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015840523433505126",
+    "created_at": "2026-01-27T05:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T06:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016019549569876244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016019549569876244",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015840523433505126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz 郑州大学也能排上号了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_2015840521231458304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_m0Rg_W4AAegB4.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015840523433505126",
+        "created_at": "2026-01-27T05:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016019549569876244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016019549569876244",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015840523433505126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 郑州大学也能排上号了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015840521231458304"
+          ]
+        },
+        "author_id": "28940967",
+        "conversation_id": "2015840523433505126",
+        "created_at": "2026-01-26T17:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015840523433505126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2wRDNEcm9",
+              "end": 80,
+              "expanded_url": "https://x.com/lidangzzz/status/2015840523433505126/photo/1",
+              "media_key": "3_2015840521231458304",
+              "start": 57,
+              "url": "https://t.co/S2wRDNEcm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015840523433505126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 169449,
+          "like_count": 186,
+          "quote_count": 10,
+          "reply_count": 90,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "2026年莱顿世界大学排名，浙大全球第一，上交全球第二，\n\n郑州大学全球第25名，Stanford全球第26名。 https://t.co/S2wRDNEcm9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 298,
+          "like_count": 1937,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602416,
+          "following_count": 2706,
+          "like_count": 27864,
+          "listed_count": 3754,
+          "media_count": 9160,
+          "tweet_count": 43672
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

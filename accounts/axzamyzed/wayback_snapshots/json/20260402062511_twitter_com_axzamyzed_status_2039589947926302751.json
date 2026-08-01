@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039497013008667074",
+    "created_at": "2026-04-02T06:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T07:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039589947926302751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1177628416603877376",
+          "start": 0,
+          "username": "N1ckelth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039589947926302751",
+    "in_reply_to_user_id": "1177628416603877376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039586060058149278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N1ckelth 相信总会到来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039497013008667074",
+        "created_at": "2026-04-02T06:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039589947926302751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1177628416603877376",
+              "start": 0,
+              "username": "N1ckelth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039589947926302751",
+        "in_reply_to_user_id": "1177628416603877376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039586060058149278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N1ckelth 相信总会到来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1177628416603877376",
+        "conversation_id": "2039497013008667074",
+        "created_at": "2026-04-02T06:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039586060058149278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039586060058149278",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039497013008667074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 那第二季还能拉到投资吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 933,
+          "like_count": 8189,
+          "listed_count": 2,
+          "media_count": 556,
+          "tweet_count": 4900
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-27T16:58:15.000Z",
+        "description": "-",
+        "id": "1177628416603877376",
+        "name": "Nope",
+        "pinned_tweet_id": "1392873736223608833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019941765873299459/Hzmlkiwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 575,
+          "like_count": 6508,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 2036
+        },
+        "username": "N1ckelth",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2019731547356840116",
+    "created_at": "2026-02-06T12:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T13:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019752611692282211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019752611692282211",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019731547356840116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 太搞笑了给人家干崩了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2019719342540414976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAd8CoYbYAAgGbI.jpg",
+        "width": 926
+      },
+      {
+        "duration_ms": 32321,
+        "height": 1920,
+        "media_key": "13_2019719719113359360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019719719113359360/img/P_udTfXSqFQvzEmU.jpg",
+        "public_metrics": {
+          "view_count": 27391
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019719719113359360/vid/avc1/720x1280/CdraV716x6rpF7R-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019719719113359360/pl/3b0iTLBfaupBd6VK.m3u8?v=119"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019719719113359360/vid/avc1/480x852/44XYg1PwQ1Ff6gwK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019719719113359360/vid/avc1/1080x1920/-diohKyZ9yTo7Ii5.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019719719113359360/vid/avc1/320x568/W79ATUDcJehZGObh.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 23066,
+        "height": 1920,
+        "media_key": "13_2019719719125958656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019719719125958656/img/Vkc6LlEYUHEUlO_c.jpg",
+        "public_metrics": {
+          "view_count": 3547
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019719719125958656/vid/avc1/720x1280/GamfRiY9CtaOdngc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019719719125958656/vid/avc1/480x852/a_SO0n6LzVBM836J.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019719719125958656/vid/avc1/1080x1920/eE9D5Wjw2HRCq-eL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019719719125958656/pl/btEuB4auyjbXnhTx.m3u8?v=18f"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019719719125958656/vid/avc1/320x568/wzjoUVu3ahZUcCO1.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 23777,
+        "height": 1280,
+        "media_key": "13_2019719719142715394",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019719719142715394/img/cMPhPIslO_bfYpAl.jpg",
+        "public_metrics": {
+          "view_count": 2235
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019719719142715394/vid/avc1/320x568/RL-fgACh1902YPIJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019719719142715394/vid/avc1/480x852/4h7TzS_7ngOBj0u8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019719719142715394/vid/avc1/720x1280/2lp7-s9hRY4PSIOI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019719719142715394/pl/5AlZHGiradNjNzvX.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2019731547356840116",
+        "created_at": "2026-02-06T12:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019752611692282211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019752611692282211",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019731547356840116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 太搞笑了给人家干崩了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019719342540414976",
+            "13_2019719719113359360",
+            "13_2019719719125958656",
+            "13_2019719719142715394"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2019731547356840116",
+        "created_at": "2026-02-06T11:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019731547356840116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/biJtLTshFX",
+              "end": 162,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2019731547356840116/video/1",
+              "media_key": "3_2019719342540414976",
+              "start": 139,
+              "url": "https://t.co/biJtLTshFX"
+            },
+            {
+              "display_url": "pic.x.com/biJtLTshFX",
+              "end": 162,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2019731547356840116/video/1",
+              "media_key": "13_2019719719113359360",
+              "start": 139,
+              "url": "https://t.co/biJtLTshFX"
+            },
+            {
+              "display_url": "pic.x.com/biJtLTshFX",
+              "end": 162,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2019731547356840116/video/1",
+              "media_key": "13_2019719719125958656",
+              "start": 139,
+              "url": "https://t.co/biJtLTshFX"
+            },
+            {
+              "display_url": "pic.x.com/biJtLTshFX",
+              "end": 162,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2019731547356840116/video/1",
+              "media_key": "13_2019719719142715394",
+              "start": 139,
+              "url": "https://t.co/biJtLTshFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019731547356840116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2月6日，阿里巴巴千问开启免单奶茶活动后，中午登顶苹果App Store免费应用榜。第二名为元宝，第三名为豆包。\n参与活动的多家茶饮品牌线上订单激增，有商家表示订单量达到前一日近10倍。\n外卖骑手挤满了奶茶店，店员看着排到几百号的订单崩溃呐喊，骑手也因迟迟等不到订单导致超时。\n多地外卖平台因瞬时流量过大导致系统崩溃，线上渠道一度无法下单。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 61582,
+          "like_count": 204,
+          "quote_count": 4,
+          "reply_count": 50,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "2月6日，阿里巴巴千问开启免单奶茶活动后，中午登顶苹果App Store免费应用榜。第二名为元宝，第三名为豆包。\n参与活动的多家茶饮品牌线上订单激增，有商家表示订单量达到前一日近10倍。\n外卖骑手挤满了奶茶店，店员看着排到几百号的订单崩溃呐喊，骑手也因迟迟等不到订单导致超时。 https://t.co/biJtLTshFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 508,
+          "like_count": 3195,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1742
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019747566737318153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192120,
+          "following_count": 1013,
+          "like_count": 8919,
+          "listed_count": 8549,
+          "media_count": 41116,
+          "tweet_count": 48101
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

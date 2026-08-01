@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070340885968273408"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2070341026821419308",
+    "created_at": "2026-06-26T02:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070341026821419308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DyG71aUuP7",
+          "end": 35,
+          "expanded_url": "https://x.com/axzamyzed/status/2070341026821419308/video/1",
+          "media_key": "13_2070340885968273408",
+          "start": 12,
+          "url": "https://t.co/DyG71aUuP7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070341026821419308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于听懂这些职场黑话了 https://t.co/DyG71aUuP7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43073,
+        "height": 942,
+        "media_key": "13_2070340885968273408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070340885968273408/img/JTQCt2qgRg2SG7yD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070340885968273408/vid/avc1/320x400/-lsVUZEmVA7YP6R0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070340885968273408/vid/avc1/480x602/VUBxpGY1KMc3fsNg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070340885968273408/vid/avc1/750x942/0rjZGNe2bYRrhoIq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070340885968273408/pl/7vHzQSuZ9Yl5VHbP.m3u8"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070340885968273408"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2070341026821419308",
+        "created_at": "2026-06-26T02:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070341026821419308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DyG71aUuP7",
+              "end": 35,
+              "expanded_url": "https://x.com/axzamyzed/status/2070341026821419308/video/1",
+              "media_key": "13_2070340885968273408",
+              "start": 12,
+              "url": "https://t.co/DyG71aUuP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070341026821419308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于听懂这些职场黑话了 https://t.co/DyG71aUuP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 925,
+          "like_count": 13526,
+          "listed_count": 10,
+          "media_count": 2903,
+          "tweet_count": 8409
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

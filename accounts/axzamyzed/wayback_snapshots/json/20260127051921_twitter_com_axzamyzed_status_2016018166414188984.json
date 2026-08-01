@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015708234741637127",
+    "created_at": "2026-01-27T05:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T06:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016018166414188984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1633957649426382848",
+          "start": 0,
+          "username": "DwJinzhi001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016018166414188984",
+    "in_reply_to_user_id": "1633957649426382848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015708234741637127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DwJinzhi001 关喽～回一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2015708153531576320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k74s4bsAAGbIT.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015708234741637127",
+        "created_at": "2026-01-27T05:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016018166414188984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1633957649426382848",
+              "start": 0,
+              "username": "DwJinzhi001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016018166414188984",
+        "in_reply_to_user_id": "1633957649426382848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015708234741637127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DwJinzhi001 关喽～回一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015708153531576320"
+          ]
+        },
+        "author_id": "1633957649426382848",
+        "conversation_id": "2015708234741637127",
+        "created_at": "2026-01-26T08:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015708234741637127"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "互关"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKBBDHdjfD",
+              "end": 80,
+              "expanded_url": "https://x.com/DwJinzhi001/status/2015708234741637127/photo/1",
+              "media_key": "3_2015708153531576320",
+              "start": 57,
+              "url": "https://t.co/WKBBDHdjfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015708234741637127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，蓝v互关！  \n\n有关必回，被限制会陆续回关～  \n\n留言一起涨粉   ，感谢！\n\n#互关  #蓝V互关 https://t.co/WKBBDHdjfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 297,
+          "like_count": 1932,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-09T22:27:31.000Z",
+        "description": "從1M到歸零，走過錯路彎路，經歷帶來挫敗感，現重新出發，期待美好未來！币安钱包返佣 : https://t.co/QRPWShd6MU   GMGN: https://t.co/Yhxiux99g4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "web3.binance.com/referral?ref=C…",
+                "end": 67,
+                "expanded_url": "https://web3.binance.com/referral?ref=CNQDORDH",
+                "start": 44,
+                "url": "https://t.co/QRPWShd6MU"
+              },
+              {
+                "display_url": "gmgn.ai/r/wtSGwQwZ?cha…",
+                "end": 99,
+                "expanded_url": "https://gmgn.ai/r/wtSGwQwZ?chain=bsc",
+                "start": 76,
+                "url": "https://t.co/Yhxiux99g4"
+              }
+            ]
+          }
+        },
+        "id": "1633957649426382848",
+        "location": "香港",
+        "name": "錦智DW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990682175478640641/NnDNRJey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 1366,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 3285
+        },
+        "username": "DwJinzhi001",
+        "verified": true
+      }
+    ]
+  }
+}

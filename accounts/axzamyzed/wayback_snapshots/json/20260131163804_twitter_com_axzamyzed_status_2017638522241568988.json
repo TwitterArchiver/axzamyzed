@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017559005233828196",
+    "created_at": "2026-01-31T16:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T17:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017638522241568988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1324778451946020865",
+          "start": 0,
+          "username": "beastere_susu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017638522241568988",
+    "in_reply_to_user_id": "1324778451946020865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017559005233828196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beastere_susu 或许…换个品牌可能还有效？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2017558949760012291",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__PLOHbEAM8wOx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017559005233828196",
+        "created_at": "2026-01-31T16:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017638522241568988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1324778451946020865",
+              "start": 0,
+              "username": "beastere_susu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017638522241568988",
+        "in_reply_to_user_id": "1324778451946020865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017559005233828196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beastere_susu 或许…换个品牌可能还有效？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017558949760012291"
+          ]
+        },
+        "author_id": "1324778451946020865",
+        "conversation_id": "2017559005233828196",
+        "created_at": "2026-01-31T11:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017559005233828196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnZB0pQkOW",
+              "end": 45,
+              "expanded_url": "https://x.com/beastere_susu/status/2017559005233828196/photo/1",
+              "media_key": "3_2017558949760012291",
+              "start": 22,
+              "url": "https://t.co/GnZB0pQkOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017559005233828196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏消息，我对普瑞耐受了，普瑞巴林抛弃我了😞 https://t.co/GnZB0pQkOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 443,
+          "like_count": 2564,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-06T18:19:39.000Z",
+        "description": "出厂日期2005.8.10／💛🤍💜🖤&泛性恋/enby（？）hrt进行中/💔我有唐氏综合征💔/brony🐴/不建政🤗／小男友😘：@HongYu20960／妈咪🥰：@wwl15956a／od/自残",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "HongYu20960"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "wwl15956a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/beastere_susu/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/beastere_susu/",
+                "start": 0,
+                "url": "https://t.co/kq1oTlnzDY"
+              }
+            ]
+          }
+        },
+        "id": "1324778451946020865",
+        "location": "山的东边",
+        "name": "✨star小悦੭ ᐕ)੭",
+        "pinned_tweet_id": "2012212308722712655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004848126683996160/EMOpyx0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 317,
+          "like_count": 19394,
+          "listed_count": 7,
+          "media_count": 1052,
+          "tweet_count": 7321
+        },
+        "url": "https://t.co/kq1oTlnzDY",
+        "username": "beastere_susu",
+        "verified": false
+      }
+    ]
+  }
+}

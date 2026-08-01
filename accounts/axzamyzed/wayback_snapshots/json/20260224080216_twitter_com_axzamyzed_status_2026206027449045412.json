@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2026098820531343496",
+    "created_at": "2026-02-24T08:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026206027449045412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026206027449045412",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026169195264917674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 我设备才128G诶，并且这已经是我删了四五次乱七八糟文件后了…不过…这有什么可骄傲的啊喂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026169189162270720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5mJHbbwAAfiU5.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2026098820531343496",
+        "created_at": "2026-02-24T08:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026206027449045412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026206027449045412",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026169195264917674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 我设备才128G诶，并且这已经是我删了四五次乱七八糟文件后了…不过…这有什么可骄傲的啊喂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026169189162270720"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2026098820531343496",
+        "created_at": "2026-02-24T05:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026169195264917674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqGWMBggqB",
+              "end": 47,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2026169195264917674/photo/1",
+              "media_key": "3_2026169189162270720",
+              "start": 24,
+              "url": "https://t.co/fqGWMBggqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026169195264917674",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026098820531343496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 你的qq好小喵，雑～魚～ https://t.co/fqGWMBggqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 796,
+          "like_count": 4770,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 66,
+          "like_count": 1801,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 1448
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

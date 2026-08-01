@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031684028819267585"
+      ],
+      "media_source_tweet_id": [
+        "2035974831284363717"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2035995275886805377",
+    "created_at": "2026-03-23T08:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035995275886805377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PixLFXY3nz",
+          "end": 125,
+          "expanded_url": "https://x.com/BI3BXI/status/2035974831284363717/photo/1",
+          "media_key": "3_2031684028819267585",
+          "start": 102,
+          "url": "https://t.co/PixLFXY3nz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035995275886805377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035974831284363717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: 3月4日凌晨\n阿里通义千问（Qwen）技术负责人林俊旸在 X 突然发文\n向自己一手带大的开源模型项目告别\n震惊全球AI开源社区\n\n其同事转发并暗示林俊旸的卸任或许并非出于个人意愿 https://t.co/PixLFXY3nz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 380,
+        "media_key": "3_2031684028819267585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDH93CGbYAE1wyN.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031684028819267585"
+          ],
+          "media_source_tweet_id": [
+            "2035974831284363717"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2035995275886805377",
+        "created_at": "2026-03-23T08:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035995275886805377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PixLFXY3nz",
+              "end": 125,
+              "expanded_url": "https://x.com/BI3BXI/status/2035974831284363717/photo/1",
+              "media_key": "3_2031684028819267585",
+              "start": 102,
+              "url": "https://t.co/PixLFXY3nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035995275886805377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035974831284363717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: 3月4日凌晨\n阿里通义千问（Qwen）技术负责人林俊旸在 X 突然发文\n向自己一手带大的开源模型项目告别\n震惊全球AI开源社区\n\n其同事转发并暗示林俊旸的卸任或许并非出于个人意愿 https://t.co/PixLFXY3nz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031684028819267585"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2035974831284363717",
+        "created_at": "2026-03-23T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035974831284363717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PixLFXY3nz",
+              "end": 113,
+              "expanded_url": "https://x.com/BI3BXI/status/2035974831284363717/photo/1",
+              "media_key": "3_2031684028819267585",
+              "start": 90,
+              "url": "https://t.co/PixLFXY3nz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035974831284363717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "3月4日凌晨\n阿里通义千问（Qwen）技术负责人林俊旸在 X 突然发文\n向自己一手带大的开源模型项目告别\n震惊全球AI开源社区\n\n其同事转发并暗示林俊旸的卸任或许并非出于个人意愿 https://t.co/PixLFXY3nz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2035705129505267929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 922,
+          "like_count": 7293,
+          "listed_count": 2,
+          "media_count": 467,
+          "tweet_count": 4446
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "我们是冠军！@BilibiliGaming @BLGBinGe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "BilibiliGaming"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "BLGBinGe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8136,
+          "following_count": 3730,
+          "like_count": 35803,
+          "listed_count": 21,
+          "media_count": 2113,
+          "tweet_count": 8008
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2073325158618845680",
+    "created_at": "2026-07-05T03:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073614751608062156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035758475209572352",
+          "start": 0,
+          "username": "LoveMikuBX"
+        },
+        {
+          "end": 24,
+          "id": "2060032916189773824",
+          "start": 12,
+          "username": "WuCanObject"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073614751608062156",
+    "in_reply_to_user_id": "2035758475209572352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073607962116211113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveMikuBX @WuCanObject 这是哪门子的经验啊😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2073325158618845680",
+        "created_at": "2026-07-05T03:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073614751608062156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035758475209572352",
+              "start": 0,
+              "username": "LoveMikuBX"
+            },
+            {
+              "end": 24,
+              "id": "2060032916189773824",
+              "start": 12,
+              "username": "WuCanObject"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073614751608062156",
+        "in_reply_to_user_id": "2035758475209572352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073607962116211113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBX @WuCanObject 这是哪门子的经验啊😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035758475209572352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2073325158618845680",
+        "created_at": "2026-07-05T03:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073607962116211113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060032916189773824",
+              "start": 0,
+              "username": "WuCanObject"
+            },
+            {
+              "end": 23,
+              "id": "1758324617838788608",
+              "start": 13,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073607962116211113",
+        "in_reply_to_user_id": "2060032916189773824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073425453164228712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WuCanObject @axzamyzed 一眼csgo，根據我多年經驗，gal沒這麼白😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4022,
+          "following_count": 927,
+          "like_count": 14001,
+          "listed_count": 12,
+          "media_count": 3125,
+          "tweet_count": 8736
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "初始之音，響徹未來！八閩大地，萬頃重洋！\n友跨|中華民族主義/社民/左翼民族主義/中左|泛統派|包容不同政見\n朋友@bigjusir @HuoSai0721 @SocDemCNBunny @xmliu114514 @fec647\n歡迎加入「中華統一復興大會」@ChineseURC_BOT \n望友好交流。查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "bigjusir"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "HuoSai0721"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "SocDemCNBunny"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "xmliu114514"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "username": "fec647"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "ChineseURC_BOT"
+              }
+            ]
+          }
+        },
+        "id": "2035758475209572352",
+        "location": "Fukien Ningteh,China",
+        "name": "💮伴下💮",
+        "pinned_tweet_id": "2054149752208679110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 1741,
+          "like_count": 19549,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 5824
+        },
+        "url": "",
+        "username": "LoveMikuBX",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-28T16:18:44.000Z",
+        "description": "互联网流浪中 男生 快成年了～\n你对我好，我会偷偷开心很久！\n我不太会说话\n但我可以陪你，只要你不嫌我烦…TWT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/canwu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/canwu",
+                "start": 0,
+                "url": "https://t.co/1aQOKqN89K"
+              }
+            ]
+          }
+        },
+        "id": "2060032916189773824",
+        "location": "初次见面之时",
+        "name": "残物",
+        "pinned_tweet_id": "2073083150629273965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068370798197542912/sc9ToXJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 687,
+          "like_count": 4085,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 996
+        },
+        "url": "https://t.co/1aQOKqN89K",
+        "username": "WuCanObject",
+        "verified": true
+      }
+    ]
+  }
+}

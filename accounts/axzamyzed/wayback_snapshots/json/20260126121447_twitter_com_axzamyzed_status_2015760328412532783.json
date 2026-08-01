@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015441312993157381",
+    "created_at": "2026-01-26T12:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015760328412532783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1693150435132227584",
+          "start": 0,
+          "username": "Redpaigu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015760328412532783",
+    "in_reply_to_user_id": "1693150435132227584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015441312993157381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Redpaigu 回关一下吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015441302217707520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hJL6RWUAAA7BP.jpg",
+        "width": 1152
+      },
+      {
+        "height": 835,
+        "media_key": "3_2015441302087954432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hJL5yacAAz6Rb.jpg",
+        "width": 678
+      },
+      {
+        "height": 1114,
+        "media_key": "3_2015441302230310912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hJL6UWoAA9kA8.jpg",
+        "width": 709
+      },
+      {
+        "height": 734,
+        "media_key": "3_2015441302163517440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hJL6EbcAA6_mK.jpg",
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015441312993157381",
+        "created_at": "2026-01-26T12:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015760328412532783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1693150435132227584",
+              "start": 0,
+              "username": "Redpaigu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015760328412532783",
+        "in_reply_to_user_id": "1693150435132227584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015441312993157381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Redpaigu 回关一下吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015441302217707520",
+            "3_2015441302087954432",
+            "3_2015441302230310912",
+            "3_2015441302163517440"
+          ]
+        },
+        "author_id": "1693150435132227584",
+        "conversation_id": "2015441312993157381",
+        "created_at": "2026-01-25T15:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015441312993157381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vi6PFMUFEK",
+              "end": 176,
+              "expanded_url": "https://x.com/Redpaigu/status/2015441312993157381/photo/1",
+              "media_key": "3_2015441302217707520",
+              "start": 153,
+              "url": "https://t.co/Vi6PFMUFEK"
+            },
+            {
+              "display_url": "pic.x.com/Vi6PFMUFEK",
+              "end": 176,
+              "expanded_url": "https://x.com/Redpaigu/status/2015441312993157381/photo/1",
+              "media_key": "3_2015441302087954432",
+              "start": 153,
+              "url": "https://t.co/Vi6PFMUFEK"
+            },
+            {
+              "display_url": "pic.x.com/Vi6PFMUFEK",
+              "end": 176,
+              "expanded_url": "https://x.com/Redpaigu/status/2015441312993157381/photo/1",
+              "media_key": "3_2015441302230310912",
+              "start": 153,
+              "url": "https://t.co/Vi6PFMUFEK"
+            },
+            {
+              "display_url": "pic.x.com/Vi6PFMUFEK",
+              "end": 176,
+              "expanded_url": "https://x.com/Redpaigu/status/2015441312993157381/photo/1",
+              "media_key": "3_2015441302163517440",
+              "start": 153,
+              "url": "https://t.co/Vi6PFMUFEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015441312993157381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 243,
+                "start": 238,
+                "tag": "蓝V互关"
+              }
+            ]
+          },
+          "text": "今天刚开的蓝v，教大家如何过创作者ID认证。过了之后才能领取到老马的工资。\n 准备工作：\n你得是最新版的X 不然不会出现Creator Studio\n国内的身份证即可\n教程如下：\n第一步：手机语言要改成英文，连美国节点\n第二步：打开X-点自己头像-选择Creator Studio-Verify Your Identity-勾选agree协议-点击start，开始验证\n第三步：根据提示，用手机拍摄身份证正反面，并提交\n大概10s左右吧，就收到了认证通过的通知，小铃铛有提示 #蓝V互关 \n再进入创作者中心，则看到最上面显示一行绿色字体「Creator IDVerified」\n最后祝大家都认证成功，早日领上工资。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1516,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天刚开的蓝v，教大家如何过创作者ID认证。过了之后才能领取到老马的工资。\n 准备工作：\n你得是最新版的X 不然不会出现Creator Studio\n国内的身份证即可\n教程如下：\n第一步：手机语言要改成英文，连美国节点\n第二步：打开X-点自己头像-选择Creator Studio-Verify Your https://t.co/Vi6PFMUFEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 258,
+          "like_count": 1801,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 941
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-20T06:38:33.000Z",
+        "description": "💻现役大厂牛马｜定投 BTC • QQQ100\n🌍擅长Web && Prompt && Agent\n🌊Web出海，记录从1 → 99999$过程\n☕️持续分享各类AI编程、AI实战、出海必备干货",
+        "id": "1693150435132227584",
+        "name": "排骨",
+        "pinned_tweet_id": "2015441312993157381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014724524152090624/HcPtXfpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 121,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 545
+        },
+        "username": "Redpaigu",
+        "verified": true
+      }
+    ]
+  }
+}

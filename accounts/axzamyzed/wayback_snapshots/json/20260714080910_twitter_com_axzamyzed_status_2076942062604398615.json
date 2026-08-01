@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2076930351960916443",
+    "created_at": "2026-07-14T08:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T09:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076942062604398615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1295507211599278081",
+          "start": 0,
+          "username": "AZURE_UwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076942062604398615",
+    "in_reply_to_user_id": "1295507211599278081",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076938020440428974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AZURE_UwU 🤪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2076930351960916443",
+        "created_at": "2026-07-14T08:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076942062604398615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1295507211599278081",
+              "start": 0,
+              "username": "AZURE_UwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076942062604398615",
+        "in_reply_to_user_id": "1295507211599278081",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076938020440428974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AZURE_UwU 🤪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295507211599278081",
+        "conversation_id": "2076930351960916443",
+        "created_at": "2026-07-14T07:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076938020440428974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076938020440428974",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076930351960916443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 草，专属注释是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4169,
+          "following_count": 926,
+          "like_count": 14493,
+          "listed_count": 13,
+          "media_count": 3371,
+          "tweet_count": 9121
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-17T23:46:16.000Z",
+        "description": "电子信息工程系｜（EDA真好玩｜喜欢建模 ｜MDD服药ing。。。",
+        "id": "1295507211599278081",
+        "location": "你心里🩵",
+        "name": "AZURE 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070767945127800832/3Hm17hRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 671,
+          "like_count": 18479,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1140
+        },
+        "url": "",
+        "username": "AZURE_UwU",
+        "verified": false
+      }
+    ]
+  }
+}

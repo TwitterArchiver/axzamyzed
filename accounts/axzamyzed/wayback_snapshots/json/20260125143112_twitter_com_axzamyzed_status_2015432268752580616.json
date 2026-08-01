@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015430066608427229",
+    "created_at": "2026-01-25T14:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T15:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015432268752580616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015432268752580616",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015430066608427229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz 就是这个道理，与其把钱送给别人不如给自己孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015430066608427229",
+        "created_at": "2026-01-25T14:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015432268752580616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015432268752580616",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015430066608427229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 就是这个道理，与其把钱送给别人不如给自己孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28940967",
+        "conversation_id": "2015430066608427229",
+        "created_at": "2026-01-25T14:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:19:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015429445297881554",
+          "2015430066608427229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015430066608427229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "家长：我孩子正在上小学，给他报英语班，一年花2.5万的学费，孩子天天和他妈吵架，我该怎么办？\n\n我：山东农民汉语水平考试100级，是他妈上中文班学出来的吗？\n\n家长：那我该如何让孩子学英语？\n\n我：太简单了，买新概念英语，背下来一篇课文，直接给孩子250块钱现金，100篇正好把钱都给他，行吗？\n\n中国有一批傻逼家长，天天他妈钱烧的，一年几万几万给孩子报课外班、辅导班、英语班。\n\n你们他妈直接鼓励孩子跟着B站自学，孩子学会了，直接把现金给孩子，不就完事儿了吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2496,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "家长：我孩子正在上小学，给他报英语班，一年花2.5万的学费，孩子天天和他妈吵架，我该怎么办？\n\n我：山东农民汉语水平考试100级，是他妈上中文班学出来的吗？\n\n家长：那我该如何让孩子学英语？\n\n我：太简单了，买新概念英语，背下来一篇课文，直接给孩子250块钱现金，100篇正好把钱都给他，行吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 218,
+          "like_count": 1660,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601782,
+          "following_count": 2705,
+          "like_count": 27853,
+          "listed_count": 3754,
+          "media_count": 9153,
+          "tweet_count": 43631
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

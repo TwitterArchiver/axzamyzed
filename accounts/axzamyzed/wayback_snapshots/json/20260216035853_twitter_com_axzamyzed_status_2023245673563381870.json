@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2023231018711564528",
+    "created_at": "2026-02-16T03:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T04:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023245673563381870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023245673563381870",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023231018711564528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelyshuimao 因为有蒸馏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2023231018711564528",
+        "created_at": "2026-02-16T03:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023245673563381870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023245673563381870",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023231018711564528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 因为有蒸馏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2023231018711564528",
+        "created_at": "2026-02-16T03:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023231018711564528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023231018711564528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现外网都在聊ChatGPT5.2冷漠比如4o但是国内基本都是DeepSeek变冷漠（并且比5.2变的晚）\n为什么DeepSeek要学5.2的那套情感表达方式？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 675,
+          "like_count": 3993,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2180
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕🧊",
+        "pinned_tweet_id": "2023012200349356427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022012338992558081/ZKVb9XnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3661,
+          "following_count": 990,
+          "like_count": 262,
+          "listed_count": 11,
+          "media_count": 2890,
+          "tweet_count": 13053
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

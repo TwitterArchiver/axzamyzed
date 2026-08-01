@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "1928760870600847580",
+    "created_at": "2026-02-07T04:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T05:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019987467290783835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019987467290783835",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928760870600847580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 还穿上龙袍了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1121,
+        "media_key": "3_1928749978823876608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRL4wRW4AAa5k5.jpg",
+        "width": 401
+      },
+      {
+        "height": 911,
+        "media_key": "3_1928751568574115840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRNVSjWcAAS9A2.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "1928760870600847580",
+        "created_at": "2026-02-07T04:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019987467290783835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019987467290783835",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928760870600847580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 还穿上龙袍了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928749978823876608",
+            "3_1928751568574115840"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1928760870600847580",
+        "created_at": "2025-05-31T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928760870600847580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJls6GTkyi",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928760870600847580/photo/1",
+              "media_key": "3_1928749978823876608",
+              "start": 142,
+              "url": "https://t.co/GJls6GTkyi"
+            },
+            {
+              "display_url": "pic.x.com/GJls6GTkyi",
+              "end": 165,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928760870600847580/photo/1",
+              "media_key": "3_1928751568574115840",
+              "start": 142,
+              "url": "https://t.co/GJls6GTkyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928760870600847580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1333,
+          "impression_count": 2480203,
+          "like_count": 7240,
+          "quote_count": 62,
+          "reply_count": 603,
+          "retweet_count": 546
+        },
+        "reply_settings": "everyone",
+        "text": "5月22日，因长相酷似习近平而在互联网上爆火的著名男中音歌唱家刘克清在朋友圈发表《脸的困扰》。\n讲述自己过去5年，因为“长相违规”不断更换头像照片导致收入锐减的经历。\n表示自己因为家里经济不富裕，希望在网上通过直播卖声乐课赚钱，但是却因为长相被几个大平台禁止直播，不知道该怎么办了。 https://t.co/GJls6GTkyi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 545,
+          "like_count": 3254,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191907,
+          "following_count": 1014,
+          "like_count": 8931,
+          "listed_count": 8548,
+          "media_count": 41148,
+          "tweet_count": 48135
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

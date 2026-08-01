@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015950507488248028",
+    "created_at": "2026-01-27T12:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T13:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016121111583588630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "231725747",
+          "start": 0,
+          "username": "Eddy_Gudong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016121111583588630",
+    "in_reply_to_user_id": "231725747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015950507488248028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eddy_Gudong 关了，羡慕4.9m曝光"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "3_2015950256845029379",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oYE-AbAAMrjxa.png",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015950507488248028",
+        "created_at": "2026-01-27T12:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016121111583588630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "231725747",
+              "start": 0,
+              "username": "Eddy_Gudong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016121111583588630",
+        "in_reply_to_user_id": "231725747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015950507488248028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eddy_Gudong 关了，羡慕4.9m曝光"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015950256845029379"
+          ]
+        },
+        "author_id": "231725747",
+        "conversation_id": "2015950507488248028",
+        "created_at": "2026-01-27T00:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T01:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015950507488248028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZfWwxWomN",
+              "end": 106,
+              "expanded_url": "https://x.com/Eddy_Gudong/status/2015950507488248028/photo/1",
+              "media_key": "3_2015950256845029379",
+              "start": 83,
+              "url": "https://t.co/VZfWwxWomN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015950507488248028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1264,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来吧，我也开一个蓝v互关贴，还差90个蓝v就达标。\n\n请求大家的帮助，我承诺永远不会偷偷取关，说到做到。\n\n人人为我，我为人人。感恩感恩，让我感受一下x的热情好不。 https://t.co/VZfWwxWomN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 326,
+          "like_count": 1998,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2010-12-29T08:40:16.000Z",
+        "description": "🧘分享 📖自我成长 | 🧍‍♂️人性洞察 | 💻AI学习 |💰 商业认知 | 🤔历史感悟 |\n创业失败负债百万，现翻身靠岸，学习 AI 与认知，撬动人生第二次增长",
+        "id": "231725747",
+        "name": "☕️Mr_董 | Storyteller",
+        "pinned_tweet_id": "2011361876169630020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010921423167172608/TYU7_DsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4103,
+          "following_count": 710,
+          "like_count": 2010,
+          "listed_count": 22,
+          "media_count": 167,
+          "tweet_count": 1507
+        },
+        "username": "Eddy_Gudong",
+        "verified": true
+      }
+    ]
+  }
+}

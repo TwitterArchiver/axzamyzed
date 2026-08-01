@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2015770465688830311",
+    "created_at": "2026-01-26T14:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015788510650007668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "881184734264479747",
+          "start": 0,
+          "username": "zuoyeben"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015788510650007668",
+    "in_reply_to_user_id": "881184734264479747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015770465688830311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuoyeben ChatGPT就是没有会员就给垃圾回复"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_2015770443849101312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l0ieZbcAAtan8.jpg",
+        "width": 1312
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015770443874226176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l0iefa0AAIRTn.jpg",
+        "width": 943
+      },
+      {
+        "height": 560,
+        "media_key": "3_2015770443870089216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l0ieebsAAqvld.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2015770465688830311",
+        "created_at": "2026-01-26T14:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015788510650007668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "881184734264479747",
+              "start": 0,
+              "username": "zuoyeben"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015788510650007668",
+        "in_reply_to_user_id": "881184734264479747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015770465688830311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuoyeben ChatGPT就是没有会员就给垃圾回复"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015770443849101312",
+            "3_2015770443874226176",
+            "3_2015770443870089216"
+          ]
+        },
+        "author_id": "881184734264479747",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2015770465688830311",
+        "created_at": "2026-01-26T12:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015770465688830311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jp8hK7lrum",
+              "end": 85,
+              "expanded_url": "https://x.com/zuoyeben/status/2015770465688830311/photo/1",
+              "media_key": "3_2015770443849101312",
+              "start": 62,
+              "url": "https://t.co/jp8hK7lrum"
+            },
+            {
+              "display_url": "pic.x.com/jp8hK7lrum",
+              "end": 85,
+              "expanded_url": "https://x.com/zuoyeben/status/2015770465688830311/photo/1",
+              "media_key": "3_2015770443874226176",
+              "start": 62,
+              "url": "https://t.co/jp8hK7lrum"
+            },
+            {
+              "display_url": "pic.x.com/jp8hK7lrum",
+              "end": 85,
+              "expanded_url": "https://x.com/zuoyeben/status/2015770465688830311/photo/1",
+              "media_key": "3_2015770443870089216",
+              "start": 62,
+              "url": "https://t.co/jp8hK7lrum"
+            },
+            {
+              "display_url": "x.com/zuoyeben/statu…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/zuoyeben/status/2015467153802375557",
+              "start": 86,
+              "url": "https://t.co/GaY0CRTh7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015770465688830311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6311,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015467153802375557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "勘误：粮票制度全面取消是1993年4月1日。不是下文的1998。1998来源于Chatgpt，自取消了付費后，它太应付了。 https://t.co/jp8hK7lrum https://t.co/GaY0CRTh7m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 274,
+          "like_count": 1856,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-01T16:16:27.000Z",
+        "description": "",
+        "id": "881184734264479747",
+        "name": "作业本",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583341387214307328/ZK0ZrXby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101737,
+          "following_count": 394,
+          "like_count": 92,
+          "listed_count": 372,
+          "media_count": 319,
+          "tweet_count": 836
+        },
+        "username": "zuoyeben",
+        "verified": true
+      }
+    ]
+  }
+}

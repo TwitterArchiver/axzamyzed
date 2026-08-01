@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2016359731804479782",
+    "created_at": "2026-01-28T06:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T07:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016394536948531275"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Google Antigravity",
+          "probability": 0.8872,
+          "start": 22,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254442404410621958",
+          "start": 0,
+          "username": "zwh20081"
+        },
+        {
+          "end": 21,
+          "id": "1899011546505998336",
+          "start": 10,
+          "username": "AstraeaSZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016394536948531275",
+    "in_reply_to_user_id": "1254442404410621958",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016372187289264494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh20081 @AstraeaSZK Google Antigravity is also good，especially with a free pro subscribe for student"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2016359731804479782",
+        "created_at": "2026-01-28T06:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T07:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016394536948531275"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Google Antigravity",
+              "probability": 0.8872,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            },
+            {
+              "end": 21,
+              "id": "1899011546505998336",
+              "start": 10,
+              "username": "AstraeaSZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016394536948531275",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016372187289264494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh20081 @AstraeaSZK Google Antigravity is also good，especially with a free pro subscribe for student"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254442404410621958",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2016359731804479782",
+        "created_at": "2026-01-28T04:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016372187289264494"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "copilot",
+              "probability": 0.5637,
+              "start": 53,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899011546505998336",
+              "start": 0,
+              "username": "AstraeaSZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016372187289264494",
+        "in_reply_to_user_id": "1899011546505998336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016371922880410025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AstraeaSZK Good choice\n and I will continue with my copilot pro+ subscription\n🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 3,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1103
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "17岁笨蛋高中生 服务器运维&深度学习业余人士 ＆Solart Tech打工人\n北京素鳞智绘科技有限公司 CEo\n异构平台适配+tg@zwh20081 支持各类国产卡与AMD rocm，Intel oneapi喵\nzwh20081@solart.pro 商务\n💖 @Littleloong233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 132,
+                "username": "Littleloong233"
+              }
+            ]
+          }
+        },
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081",
+        "pinned_tweet_id": "1984571952846283182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015805547640156161/ieeIZz3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 153,
+          "like_count": 7008,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 4248
+        },
+        "username": "zwh20081",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-10T08:17:03.000Z",
+        "description": "18歳|アメリカの大学生|バックエンド開発|EN/JP|ロボットアニメ(ガンダム/エバンゲリオン/マジンカーZ/ゲッターロボ/機動警察) 百合作品(ささ恋/citrus/志乃と恋)|ゲーム(CS2/ゼルダの伝説/Fate Stay Night/Loopers|皆さんと仲良くなりたいですね！🥹🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "astraea.nexus",
+                "end": 23,
+                "expanded_url": "http://astraea.nexus",
+                "start": 0,
+                "url": "https://t.co/RpfJ6sgxHB"
+              }
+            ]
+          }
+        },
+        "id": "1899011546505998336",
+        "location": "Anaheim Electronics",
+        "name": "𝓐𝓼𝓽𝓻𝓪𝓮𝓪🏳️‍⚧️🌸",
+        "pinned_tweet_id": "2004819420359925959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993422452400308224/0mRcMmFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 632,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/RpfJ6sgxHB",
+        "username": "AstraeaSZK",
+        "verified": true
+      }
+    ]
+  }
+}

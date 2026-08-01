@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015773380277084336",
+    "created_at": "2026-01-26T14:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015800090271928527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638115899227131904",
+          "start": 0,
+          "username": "Molly9975019573"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015800090271928527",
+    "in_reply_to_user_id": "1638115899227131904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015773380277084336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Molly9975019573 关喽记得回一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 492,
+        "media_key": "3_2015772602304716800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l2gHRWYAAPb0I.jpg",
+        "width": 1023
+      },
+      {
+        "height": 1184,
+        "media_key": "3_2015772824921571329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l2tElWAAE93EY.jpg",
+        "width": 3584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015773380277084336",
+        "created_at": "2026-01-26T14:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015800090271928527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638115899227131904",
+              "start": 0,
+              "username": "Molly9975019573"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015800090271928527",
+        "in_reply_to_user_id": "1638115899227131904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015773380277084336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Molly9975019573 关喽记得回一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015772602304716800",
+            "3_2015772824921571329"
+          ]
+        },
+        "author_id": "1638115899227131904",
+        "conversation_id": "2015773380277084336",
+        "created_at": "2026-01-26T13:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015773380277084336"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzGaTMB4Nu",
+              "end": 85,
+              "expanded_url": "https://x.com/Molly9975019573/status/2015773380277084336/photo/1",
+              "media_key": "3_2015772602304716800",
+              "start": 62,
+              "url": "https://t.co/bzGaTMB4Nu"
+            },
+            {
+              "display_url": "pic.x.com/bzGaTMB4Nu",
+              "end": 85,
+              "expanded_url": "https://x.com/Molly9975019573/status/2015773380277084336/photo/1",
+              "media_key": "3_2015772824921571329",
+              "start": 62,
+              "url": "https://t.co/bzGaTMB4Nu"
+            },
+            {
+              "display_url": "x.com/Molly997501957…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Molly9975019573/status/2014586267284210078",
+              "start": 86,
+              "url": "https://t.co/g7CO13Vo7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015773380277084336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 21,
+                "tag": "蓝V互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 901,
+                "id": "1597057363697360897",
+                "start": 891,
+                "username": "TermMaxFi"
+              }
+            ]
+          },
+          "text": "一文读懂新手起号4步曲\n\n首先这还是一篇 #蓝V互关 的帖子。\n\n评论+关注我的我都会回关，如果漏了请评论（一定要评论）。\n\n我两期的蓝v互关做的都挺不错，每一期都差不多涨了300个蓝v。但是很多新粉丝我都点开了你们的主页看了，我有一点心得跟你们分享，避免你们起号走“歪路”。本文适合新手看老手可划走，一分钟一不要停留。\n\n1.搞互关+互动\n\n首先，目前这个阶段我认为每天搞互关也是涨粉的一个途径，但是基于X现在规则改变短时间内无法关注大量的人，且一直去关注别人可能会导致账号封控，一旦下次封号风波来临那么被封号的就是你，这样的话所有努力都会白费。\n\n规避这一点最好的方式就是在关注别人的时候顺便简单去评论一下他的帖子。\n\n2.有效内容输出\n\n所以第二点就来了，别人要评论你的帖子，你就必须得有内容输出，我知道作为刚开始写帖子的小伙伴可能没有角度，那么我的建议是可以写一些项目，比如一些嘴撸项目，我前面的帖子里面列举了目前可以嘴撸的项目，这项目最开始不以盈利为目的，而是先做账号，让自己的账号有内容，当然你要是有自己的方向角度就按自己的想法去做。\n\n那么结合以上两点，不但在通过互关涨粉，还有内容输出，最后还有人互动，这样是不是就走上了正轨。互关必然重要，不输出内容你的号还是做不起来。\n\n3.提升Xhunt排名\n\n那么这些点你都做到了，你可以进入下一阶段了，提升自己的Xhunt排名，现在所有大中小Kol都用这个工具来评估你的账号。关注你的Kol 越多你的排名越靠前，一般华语3000名以内会被这个工具认定为Kol。\n\n所以你就需要去多和Kol互动，混眼熟，时间长了他们认识你的就会关注你，同时你在这个过程中你可以学到很多，得到很多信息，特别是头部kol。\n\n为什么Xhunt排名很重要，因为现在你要接到广子不但粉丝重要，他们还看xhunt 。\n\n只要你做到了我上面说的你就肯定每个月可以赚到钱了，只是看多少。\n\n做到上面的几点：\n互关:你粉丝有了\n写作：内容又了\n互动:流量有了\nXhunt:实力有了\n\n最后最后就是勿焦勿躁，把运营账号当成一个长远的目标，享受这个过程。本文由 @TermMaxFi 赞助"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1898,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014586267284210078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一文读懂新手起号4步曲\n\n首先这还是一篇 #蓝V互关 的帖子。\n\n评论+关注我的我都会回关，如果漏了请评论（一定要评论）。 https://t.co/bzGaTMB4Nu https://t.co/g7CO13Vo7T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 278,
+          "like_count": 1875,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-21T09:51:00.000Z",
+        "description": "爱健身，喜欢冲狗，每日一撸。#Binance 币安广场金标认证创作者  币安8折现货合约返佣邀请码:MOLLY555  \n商务合作：https://t.co/zCxnefQOXo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 14,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/hihihiyuoia",
+                "end": 89,
+                "expanded_url": "https://t.me/hihihiyuoia",
+                "start": 66,
+                "url": "https://t.co/zCxnefQOXo"
+              }
+            ]
+          }
+        },
+        "id": "1638115899227131904",
+        "location": "CRYPTO",
+        "name": "Molly 币圈大V推荐🕊️ |MemeMax⚡️ |🐬",
+        "pinned_tweet_id": "1979380480740069812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995773253944770560/z7uAs9wA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10899,
+          "following_count": 8601,
+          "like_count": 82106,
+          "listed_count": 79,
+          "media_count": 512,
+          "tweet_count": 82657
+        },
+        "username": "Molly9975019573",
+        "verified": true
+      }
+    ]
+  }
+}

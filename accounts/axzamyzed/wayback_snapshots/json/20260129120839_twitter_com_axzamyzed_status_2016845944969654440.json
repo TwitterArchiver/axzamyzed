@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016840402347626595",
+    "created_at": "2026-01-29T12:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T13:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016845944969654440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016845944969654440",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016840402347626595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz 不是我不太明白中医怎么了，中医重在长期养，如果问题已经能看到了就不是中医立马能解决的了，不要骂中医啊🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_2016840399923634176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1BqHYa4AAo_NA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016840402347626595",
+        "created_at": "2026-01-29T12:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016845944969654440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016845944969654440",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016840402347626595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 不是我不太明白中医怎么了，中医重在长期养，如果问题已经能看到了就不是中医立马能解决的了，不要骂中医啊🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016840399923634176"
+          ]
+        },
+        "author_id": "28940967",
+        "conversation_id": "2016840402347626595",
+        "created_at": "2026-01-29T11:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016840402347626595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRZJF1om7A",
+              "end": 69,
+              "expanded_url": "https://x.com/lidangzzz/status/2016840402347626595/photo/1",
+              "media_key": "3_2016840399923634176",
+              "start": 46,
+              "url": "https://t.co/vRZJF1om7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016840402347626595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4033,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逆天😅\n\n为了支持中医，直接从反贼临时跳回了小粉红身份，评论区臭骂立党，支持老祖宗的智慧。 https://t.co/vRZJF1om7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 418,
+          "like_count": 2288,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602704,
+          "following_count": 2704,
+          "like_count": 27880,
+          "listed_count": 3760,
+          "media_count": 9179,
+          "tweet_count": 43727
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

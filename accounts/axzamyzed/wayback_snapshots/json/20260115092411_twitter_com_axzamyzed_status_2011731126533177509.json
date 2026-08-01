@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2011731126533177509",
+    "created_at": "2026-01-15T09:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T10:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011731126533177509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011731126533177509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011695373107015782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: NYT：中国宣传机器为何炒作美国“斩杀线”\n近来，中国评论者频频热议美国的贫困问题，并借用游戏文化中一个生动的说法来宣扬中国的优越性。\n“斩杀线”一词本是游戏术语，指对手玩家状态跌至可被一击秒杀的临界值。如今，它成了中共宣传中反复出现的隐…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1764,
+        "media_key": "3_2011694353215893504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-r5WxgXsAACmF4.jpg",
+        "width": 1804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2011731126533177509",
+        "created_at": "2026-01-15T09:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T10:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011731126533177509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011731126533177509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011695373107015782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: NYT：中国宣传机器为何炒作美国“斩杀线”\n近来，中国评论者频频热议美国的贫困问题，并借用游戏文化中一个生动的说法来宣扬中国的优越性。\n“斩杀线”一词本是游戏术语，指对手玩家状态跌至可被一击秒杀的临界值。如今，它成了中共宣传中反复出现的隐…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011694353215893504"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2011695373107015782",
+        "created_at": "2026-01-15T07:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T08:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011695373107015782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nr23MFijGe",
+              "end": 145,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2011695373107015782/photo/1",
+              "media_key": "3_2011694353215893504",
+              "start": 122,
+              "url": "https://t.co/nr23MFijGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011695373107015782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "NYT：中国宣传机器为何炒作美国“斩杀线”\n近来，中国评论者频频热议美国的贫困问题，并借用游戏文化中一个生动的说法来宣扬中国的优越性。\n“斩杀线”一词本是游戏术语，指对手玩家状态跌至可被一击秒杀的临界值。如今，它成了中共宣传中反复出现的隐喻。\n“斩杀线”一词在社交媒体、评论平台以及官方背景的新闻媒体上被频繁使用，在中国迅速走红，用以渲染美国贫困问题的可怖——它被描绘为一道致命门槛，一旦越过便再无翻身过上更好生活的可能。这个词被用来概括无家可归、债务缠身、吸毒成瘾以及经济不稳定等一系列困境。官方宣传称，这道“斩杀线”如幽灵般悬在美国人的头顶，却是中国人无需担忧的威胁。\n\n多年来，将美国刻画成一个经济困境深重且波及广泛的国家一直是中国官方宣传的惯用手法。但此番“斩杀线”的表述与意象却是全新的。这种说法的力量在于其描述的场景简洁直白：一个骤然的临界点，越过它，苦难接踵而至，美好生活就此彻底断送。这一叙事意在为中国民众提供情感慰藉，同时试图转移外界对本国领导人的批评。\n按照这套宣传的逻辑，太平洋彼岸的景象越是惨淡，中国人对当下困境的容忍度便越高。\n\n这类论调近期集中涌现绝非偶然。中国经济增速已降至昔日的半数，青年失业率居高不下。曾经通往安稳生活的那些固有路径——稳定的工作、持续上涨的房产价值、稳步向上的阶层流动——如今都变得愈发难以预测。对许多家庭而言，生活的容错空间较以往变得愈发狭窄。\n\n法律博主李宇琛去年12月底在网上发表一篇文章称，“斩杀线”的说法之所以具有吸引力，就在于它简单好用。他写道，这种说法让中国人得以批判遥远国度的制度，同时回避关于自身生活的棘手问题。\n他在文中写道，这个词“与其说是分析工具，不如说是情绪解释器”。这篇文章随后遭审查删除，加入了质疑官方经济叙事而遭封杀的漫长名单。\n\n事实上，社会不平等问题在中国和美国都客观存在。毋庸置疑，美国经济体系的确让许多人陷入了岌岌可危的境地，而造成这一局面的原因十分复杂。\n但在中国，人们对贫困的体验和认知有所不同。在中国大多数城市，街头乞讨和可见的无家可归者都受到严格管控，因此在日常生活中并不多见。许多城市居民只有通过中国官方媒体转播的关于美国及其他国家的相关报道才会看到此类场景。\n\n中国的经济不稳定问题依然普遍存在。约有6亿人（占总人口的40%左右）的年收入仅为约1万元。农村养老金通常每月只有大约140至210元，一场重病就可能让家庭陷入财务危机。对资金耗尽的担忧正是中国家庭储蓄率位居世界前列的原因之一。但这种压力被描绘成坚韧与责任文化的一部分，使家庭能够应对不可预知的生活变故。\n\n对于老一辈中国人来说，利用美国贫困问题服务国内政治宣传并不新鲜。文化大革命期间，就有一句著名口号：“幸福的中国人民深情惦记着生活在水深火热中的美国人民”，尽管当时大多数中国人自己也生活在贫困之中。\n20世纪80年代初我在中国长大期间，家里订阅的《中国少年报》上有一个每周专栏，其口号简单直白：“社会主义好，资本主义糟”。专栏描述美国城市的老年人在街头捡拾食物，无家可归者在严寒中冻死。这些故事并非虚构，但缺乏背景信息，被塑造成美国社会的普遍现象。那时中国社会大部分人与世界隔绝，可靠信息十分匮乏。\n当时很多人相信这类叙事并不奇怪。但令人惊讶的是，尽管仍有国家管控，如今信息获取渠道已相对丰富得多，类似的叙事却依然能引起共鸣。\n这个套路十分简单：放大外国的苦难，以此转移对国内问题的关注。如今这种手法正围绕“斩杀线”的隐喻成形。\n\n据信该词汇首次在新语境中流行是在去年11月的视频平台哔哩哔哩，由用户“斯奎奇大王”率先使用。他发布了一段长达五小时的视频，拼接了自称在美国期间亲身经历的贫困场景。视频中出现了孩子们在寒冷的万圣节夜晚挨家挨户乞讨食物、外卖员因薪水微薄而挨饿、受伤工人因无力支付医疗费被医院拒之门外等画面。\n这些场景并非被描述为个别案例，而是被当作一种制度的证据：“斩杀线”之上，生活尚能继续；一旦跌落线下，社会便不再拿这些人当人看待。\n这一叙事很快超出了“斯奎奇大王”的视频范围，许多网友纷纷转发他的叙事。民族主义新闻网站观察者网和中国最大的社交媒体平台微信上的文章，都将“斩杀线”描述为美国资本主义的“底层逻辑”。\n\n还有一些人列举了他们认为能体现中美对比的西方媒体报道案例。\n英国《金融时报》12月24日刊登了一篇关于康涅狄格州贫富差距的文章，聚焦富裕的格林尼治镇与发展举步维艰的布里奇波特市，这篇报道被中国媒体重新解读。即便是一次轻微的经济冲击——比如工资迟发、医保福利丧失或是一笔突发开销——都可能引发快速的恶性循环。\n另一个被广泛传播的例子则取材于美国副总统 JD·万斯在2016年发表的回忆录《乡下人的悲歌》。他为偿还学生贷款而卖血的经历被重点提及。中国评论者指出：倘若连一位未来的国家领导人都要靠透支身体才能维持生计，那么普通美国人的生存机会又能有多少？\n到12月下旬，“斩杀线”这一叙事框架已获得官方层面的推动。《北京日报》和《南方日报》这两家官方媒体在微博平台上发起了通常能吸引更多公众关注的多个相关“热点话题”。观察者网在不到两周内就刊发了十余篇评论文章，将这一隐喻应用在美国的贫困问题、医疗体系和劳工待遇等议题上。该网站后续还将“斩杀线”一词纳入年度新闻盘点，并将其与对特朗普重返白宫后第一年执政表现的批判联系起来。\n今年1月初，中国共产党的核心理论刊物《求是》杂志刊发评论文章，将“斩杀线”作为美国资本主义的结构性特征加以论述。这个脱胎于游戏文化的词汇，就此正式跻身官方认可的政治话语体系。\n\n在诸多相关评论文章中，叙述完美国人遭遇突发经济危机的种种轶事之后，作者往往会引出与中国的对比。全民基本医保、最低生活保障以及扶贫行动等政策被援引为证据，证明中国不会任由民众陷入突如其来的困境的佐证。\n某省级宣传部发布的一篇评论文章称：“中国的制度不会让一个人因为一次不幸就被‘斩杀’。”\n\n许多读者在评论中表示对美国的贫困状况感到震惊，同时也对中国的制度心怀感恩。有网友评论：“至少我们还有兜底。”\n\n并非所有人都认同这套叙事。部分评论人士甚至将“斩杀线”的说法套用在国内政策上，其中就包括河北省北部地区出台的一项政策——该政策大幅提高了农村家庭的冬季取暖费用。\n有人在微信上写道：“一个话题能出圈，不太可能只是人们愚蠢。更多时候，是因为直面现实太困难了。”\n文章的标题是：“美国斩杀线不是关于美国。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 41478,
+          "like_count": 357,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "NYT：中国宣传机器为何炒作美国“斩杀线”\n近来，中国评论者频频热议美国的贫困问题，并借用游戏文化中一个生动的说法来宣扬中国的优越性。\n“斩杀线”一词本是游戏术语，指对手玩家状态跌至可被一击秒杀的临界值。如今，它成了中共宣传中反复出现的隐喻。 https://t.co/nr23MFijGe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 91,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182009,
+          "following_count": 1000,
+          "like_count": 8747,
+          "listed_count": 8518,
+          "media_count": 40111,
+          "tweet_count": 47059
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

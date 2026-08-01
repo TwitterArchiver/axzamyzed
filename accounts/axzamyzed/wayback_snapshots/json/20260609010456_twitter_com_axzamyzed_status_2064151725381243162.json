@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2064138278337495412",
+    "created_at": "2026-06-09T01:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064151725381243162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "894382598004199425",
+          "start": 0,
+          "username": "jinglian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064151725381243162",
+    "in_reply_to_user_id": "894382598004199425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064150859349385509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinglian 这个是很早之前不知道谁提出的想法，在圈内广泛传播，其实我很是不理解那群自己都没玩明白还去教别人的那群人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2064138278337495412",
+        "created_at": "2026-06-09T01:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064151725381243162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "894382598004199425",
+              "start": 0,
+              "username": "jinglian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064151725381243162",
+        "in_reply_to_user_id": "894382598004199425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064150859349385509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinglian 这个是很早之前不知道谁提出的想法，在圈内广泛传播，其实我很是不理解那群自己都没玩明白还去教别人的那群人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "894382598004199425",
+        "conversation_id": "2064138278337495412",
+        "created_at": "2026-06-09T01:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064150859349385509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064150859349385509",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064149408485425536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 是的，又不是自己的帖子引发的互动。\n\n爆贴评论区写优质评论，增大自己曝光度，吸引别人去自己主页这个思路其实没问题的。但是直接粘贴无关链接，是有问题的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3670,
+          "following_count": 943,
+          "like_count": 12525,
+          "listed_count": 10,
+          "media_count": 2294,
+          "tweet_count": 7611
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-07T02:20:02.000Z",
+        "description": "11年前端开发者 & AI 重度用户｜\nAI工具 + X运营，我踩过的坑都帮你避开｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobemaster56.me",
+                "end": 23,
+                "expanded_url": "https://www.tobemaster56.me",
+                "start": 0,
+                "url": "https://t.co/tsA2sIACYu"
+              }
+            ]
+          }
+        },
+        "id": "894382598004199425",
+        "name": "前端哥Liam",
+        "pinned_tweet_id": "2063109080126832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012000885275344896/pw0eqfmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7205,
+          "following_count": 2363,
+          "like_count": 16133,
+          "listed_count": 27,
+          "media_count": 1005,
+          "tweet_count": 11833
+        },
+        "url": "https://t.co/tsA2sIACYu",
+        "username": "jinglian",
+        "verified": true
+      }
+    ]
+  }
+}

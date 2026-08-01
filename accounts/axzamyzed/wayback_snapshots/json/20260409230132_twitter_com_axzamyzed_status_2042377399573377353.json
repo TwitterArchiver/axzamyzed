@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042377391495135232"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2042368139837784519",
+    "created_at": "2026-04-09T23:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T00:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042377399573377353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/77Olpl9abh",
+          "end": 72,
+          "expanded_url": "https://x.com/axzamyzed/status/2042377399573377353/photo/1",
+          "media_key": "3_2042377391495135232",
+          "start": 49,
+          "url": "https://t.co/77Olpl9abh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042377399573377353",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042368139837784519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 差不多够了就行，也没指望开订阅，没啥意义，保证这个比率略低一些对账号还有好处 https://t.co/77Olpl9abh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 205,
+        "media_key": "3_2042377391495135232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFf7aqVbQAA2Dgj.jpg",
+        "width": 366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042368126252433408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFfy_WnbQAA4LBf.jpg",
+        "width": 947
+      },
+      {
+        "height": 850,
+        "media_key": "3_2042368126239776768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFfy_WkaIAATwAN.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042377391495135232"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2042368139837784519",
+        "created_at": "2026-04-09T23:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042377399573377353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/77Olpl9abh",
+              "end": 72,
+              "expanded_url": "https://x.com/axzamyzed/status/2042377399573377353/photo/1",
+              "media_key": "3_2042377391495135232",
+              "start": 49,
+              "url": "https://t.co/77Olpl9abh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042377399573377353",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042368139837784519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 差不多够了就行，也没指望开订阅，没啥意义，保证这个比率略低一些对账号还有好处 https://t.co/77Olpl9abh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042368126252433408",
+            "3_2042368126239776768"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2042368139837784519",
+        "created_at": "2026-04-09T22:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T23:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042368139837784519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1f6WFVBlO",
+              "end": 118,
+              "expanded_url": "https://x.com/TOOBE775/status/2042368139837784519/photo/1",
+              "media_key": "3_2042368126252433408",
+              "start": 95,
+              "url": "https://t.co/U1f6WFVBlO"
+            },
+            {
+              "display_url": "pic.x.com/U1f6WFVBlO",
+              "end": 118,
+              "expanded_url": "https://x.com/TOOBE775/status/2042368139837784519/photo/1",
+              "media_key": "3_2042368126239776768",
+              "start": 95,
+              "url": "https://t.co/U1f6WFVBlO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042368139837784519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 339,
+                "start": 332,
+                "tag": "灰度社会观察"
+              },
+              {
+                "end": 345,
+                "start": 340,
+                "tag": "流量日记"
+              }
+            ]
+          },
+          "text": "兄弟姐妹大家好！今天聊一下互粉掉粉的问题吧。😀\n\n我刚来X平台时，也互关了一阵子。但互粉不是重点，5M曝光量才是。我所有的精力都放在了5M上，互粉就随缘了，只要到门槛时，有500蓝V就行。\n\n为了避免掉粉困扰内心，我从不去看粉丝量。掉就掉了，他只是躺在X的数据里，又没躺在我家里，没必要纠结这些。\n\n别跟内心内耗，天天找不讲信用的取关账号。不但耽误时间，也让内心焦虑。\n\n我要做的，是让自己的内心平静，专注5M这个目标。其它的就当看不见就行了，别影响内心才华的发挥。\n\n其实重点要说的就一句话：专注你的目标，其它都是可以略过的插曲~~~\n\n这两天网络不稳定，耽误了数据也影响了心情，不知道大家都怎么解决的，有最佳方案的麻烦告诉我一声，谢谢大家了！祝心情愉快~~~\n#灰度社会观察 #流量日记"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟姐妹大家好！今天聊一下互粉掉粉的问题吧。😀\n\n我刚来X平台时，也互关了一阵子。但互粉不是重点，5M曝光量才是。我所有的精力都放在了5M上，互粉就随缘了，只要到门槛时，有500蓝V就行。 https://t.co/U1f6WFVBlO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 928,
+          "like_count": 8650,
+          "listed_count": 4,
+          "media_count": 679,
+          "tweet_count": 5221
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2039160301560709442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 1886,
+          "like_count": 16947,
+          "listed_count": 10,
+          "media_count": 353,
+          "tweet_count": 13541
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

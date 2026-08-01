@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2055519195904065804",
+    "created_at": "2026-05-16T06:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T07:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055541106193129620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987885638038036480",
+          "start": 0,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055541106193129620",
+    "in_reply_to_user_id": "1987885638038036480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055519195904065804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewww 你真是个天才啊wc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055519188916252673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIarz8xaMAEIy0W.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2055519195904065804",
+        "created_at": "2026-05-16T06:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055541106193129620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055541106193129620",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055519195904065804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww 你真是个天才啊wc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055519188916252673"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2055519195904065804",
+        "created_at": "2026-05-16T05:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055519195904065804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSpodvVMJY",
+              "end": 168,
+              "expanded_url": "https://x.com/mizorewww/status/2055519195904065804/photo/1",
+              "media_key": "3_2055519188916252673",
+              "start": 145,
+              "url": "https://t.co/bSpodvVMJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055519195904065804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 596,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我给小学一年级的妹妹发“钱”，发的不是现金，而是这种筹码。规则很简单：1:1 锚定人民币。她想买什么，可以直接拿筹码找我买，只要筹码够，我就不会拒绝。\n\n以前她找爸妈买东西，本质上是在赌：这次会不会给她买？不给买，她就容易发脾气。现在规则变清楚了：能不能买，不看大人心情，看她手里有没有钱 https://t.co/bSpodvVMJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3387,
+          "following_count": 935,
+          "like_count": 11360,
+          "listed_count": 10,
+          "media_count": 1558,
+          "tweet_count": 6638
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 114,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 91,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2049113964022501793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 942,
+          "like_count": 10404,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 2711
+        },
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

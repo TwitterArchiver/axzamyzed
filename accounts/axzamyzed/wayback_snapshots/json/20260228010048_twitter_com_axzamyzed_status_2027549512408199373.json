@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2027402436986781776",
+    "created_at": "2026-02-28T01:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T02:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027549512408199373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1327197298930028544",
+          "start": 0,
+          "username": "un_krvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027549512408199373",
+    "in_reply_to_user_id": "1327197298930028544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027402436986781776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@un_krvy 给晶格送业绩呢？到时候让你提供用户系统数据，注册肯定要留痕的，起码是邮箱验证，不然你数据库里面就会多一堆垃圾账号，只要留痕就有被一锅端的可能性…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2027402436986781776",
+        "created_at": "2026-02-28T01:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027549512408199373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1327197298930028544",
+              "start": 0,
+              "username": "un_krvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027549512408199373",
+        "in_reply_to_user_id": "1327197298930028544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027402436986781776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@un_krvy 给晶格送业绩呢？到时候让你提供用户系统数据，注册肯定要留痕的，起码是邮箱验证，不然你数据库里面就会多一堆垃圾账号，只要留痕就有被一锅端的可能性…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327197298930028544",
+        "conversation_id": "2027402436986781776",
+        "created_at": "2026-02-27T15:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027402436986781776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tianxiao0502/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/tianxiao0502/status/2027400773882315088",
+              "start": 22,
+              "url": "https://t.co/iGVpA8YEQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027402436986781776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5434,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027400773882315088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "暂时下线生成器服务 之后将使用注册模式上线 https://t.co/iGVpA8YEQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 822,
+          "like_count": 5278,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "https://t.co/sxGCC1hNAm 官方账号，专注于精神药物科普",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Macragge",
+        "name": "Psydrugs official by krvy #​心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 217,
+          "like_count": 6191,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1220
+        },
+        "url": "https://t.co/sxGCC1hNAm",
+        "username": "un_krvy",
+        "verified": false
+      }
+    ]
+  }
+}

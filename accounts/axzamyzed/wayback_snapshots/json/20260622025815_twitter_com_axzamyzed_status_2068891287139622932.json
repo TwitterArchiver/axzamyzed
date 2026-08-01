@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2068867885695471888",
+    "created_at": "2026-06-22T02:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T03:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068891287139622932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "938115028871467009",
+          "start": 0,
+          "username": "samliu0105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068891287139622932",
+    "in_reply_to_user_id": "938115028871467009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068867885695471888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samliu0105 你这句话真没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2068867883350810624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYYYOpW4AAUr1_.jpg",
+        "width": 619
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2068867885695471888",
+        "created_at": "2026-06-22T02:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068891287139622932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "938115028871467009",
+              "start": 0,
+              "username": "samliu0105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068891287139622932",
+        "in_reply_to_user_id": "938115028871467009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068867885695471888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samliu0105 你这句话真没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068867883350810624"
+          ]
+        },
+        "author_id": "938115028871467009",
+        "conversation_id": "2068867885695471888",
+        "created_at": "2026-06-22T01:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068867885695471888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WAlT96uF26",
+              "end": 43,
+              "expanded_url": "https://x.com/samliu0105/status/2068867885695471888/photo/1",
+              "media_key": "3_2068867883350810624",
+              "start": 20,
+              "url": "https://t.co/WAlT96uF26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068867885695471888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大金鱼用它的法宝把小金鱼的水都给吸走了 https://t.co/WAlT96uF26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3868,
+          "following_count": 922,
+          "like_count": 13243,
+          "listed_count": 10,
+          "media_count": 2768,
+          "tweet_count": 8183
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-05T18:37:06.000Z",
+        "description": "欢迎大家来和我做朋友喵🤗互fo请私信我喵😋",
+        "id": "938115028871467009",
+        "location": "The moon",
+        "name": "Sam liu",
+        "pinned_tweet_id": "2067869786634330283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047609458612908032/Tr9b6tGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 643,
+          "like_count": 3407,
+          "listed_count": 0,
+          "media_count": 779,
+          "tweet_count": 2283
+        },
+        "url": "",
+        "username": "samliu0105",
+        "verified": true
+      }
+    ]
+  }
+}

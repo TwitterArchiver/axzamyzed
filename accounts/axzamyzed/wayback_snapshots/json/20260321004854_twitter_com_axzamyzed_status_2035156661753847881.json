@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2035154219452584447",
+    "created_at": "2026-03-21T00:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T01:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035156661753847881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829679457411477504",
+          "start": 0,
+          "username": "miaowuqvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035156661753847881",
+    "in_reply_to_user_id": "1829679457411477504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035156145468301670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaowuqvq emmm，有道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2035154219452584447",
+        "created_at": "2026-03-21T00:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T01:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035156661753847881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829679457411477504",
+              "start": 0,
+              "username": "miaowuqvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035156661753847881",
+        "in_reply_to_user_id": "1829679457411477504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035156145468301670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaowuqvq emmm，有道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829679457411477504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2035154219452584447",
+        "created_at": "2026-03-21T00:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T01:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035156145468301670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035156145468301670",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035154219452584447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 把毛泽东炒鱿鱼的校董\n把希特勒捞起来的神父\n把墨索里尼开除的老师\n批斗习近平父亲的粉红\n解放斯大林父亲的监工"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2033059853720236538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 913,
+          "like_count": 7011,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 4291
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T00:35:58.000Z",
+        "description": "恒人党党魁 民俗学者 幻想乡驻外贤者 奈亚祭祀 反支萝莉 L主管 替身使者 格林 成人层司书 百合狂魔 动漫小说 精日 妹控 战车道 \n好闺蜜@jilianmeing @Fouryn_Astar @KashabaiSilver @hhjnjkoguyunmo \n赛博老婆@YayoiYukimi\n永远18岁的绮梦酱!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "jilianmeing"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "Fouryn_Astar"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "KashabaiSilver"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "YayoiYukimi"
+              }
+            ]
+          }
+        },
+        "id": "1829679457411477504",
+        "location": "加拿大 马卡姆/幻想乡 雾之湖 /赛尔德兰帝国 银辉城大公",
+        "name": "绮梦天禄哒呦！♀️💵🏳️‍🌈🎌🗾🍐(超绝轮椅侠)互fo谢谢",
+        "pinned_tweet_id": "2015115229969940875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 3255,
+          "like_count": 9893,
+          "listed_count": 8,
+          "media_count": 754,
+          "tweet_count": 14857
+        },
+        "username": "miaowuqvq",
+        "verified": false
+      }
+    ]
+  }
+}

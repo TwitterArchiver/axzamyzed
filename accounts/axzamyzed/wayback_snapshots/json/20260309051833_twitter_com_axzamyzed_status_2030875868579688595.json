@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2030791043273441284",
+    "created_at": "2026-03-09T05:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T06:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030875868579688595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        },
+        {
+          "end": 30,
+          "id": "1600675355118944259",
+          "start": 17,
+          "username": "kasaihitomii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030875868579688595",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "抱抱姐姐\n作为半个营销号，深知在网上，尤其是推特为基础的，随便发点什么东西就会有人莫名其妙的开喷\n遇见的太多太多了，我也就觉得，这种人没必要也不值得花费时间去反驳，就如同在和石头讲道理，可能还会影响自己的情绪啊之类的\n而且争辩也太浪费精力了，有这功夫甚至还不如去睡会觉，和石头蛋子说什么废话"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030791043273441284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae @kasaihitomii 抱抱姐姐\n作为半个营销号，深知在网上，尤其是推特为基础的，随便发点什么东西就会有人莫名其妙的开喷\n遇见的太多太多了，我也就觉得，这种人没必要也不值得花费时间去反驳，就如同在和石头讲道理，可能还会影响自己的情绪啊之类的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030791026064171008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC7RrbmbIAAqG1h.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030791026064179200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC7RrbmbQAARacP.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030791026064171009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC7RrbmbIAE8nGm.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030791026424885249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC7Rrc8bMAEnt0H.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2030791043273441284",
+        "created_at": "2026-03-09T05:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T06:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030875868579688595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            },
+            {
+              "end": 30,
+              "id": "1600675355118944259",
+              "start": 17,
+              "username": "kasaihitomii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030875868579688595",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "抱抱姐姐\n作为半个营销号，深知在网上，尤其是推特为基础的，随便发点什么东西就会有人莫名其妙的开喷\n遇见的太多太多了，我也就觉得，这种人没必要也不值得花费时间去反驳，就如同在和石头讲道理，可能还会影响自己的情绪啊之类的\n而且争辩也太浪费精力了，有这功夫甚至还不如去睡会觉，和石头蛋子说什么废话"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030791043273441284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae @kasaihitomii 抱抱姐姐\n作为半个营销号，深知在网上，尤其是推特为基础的，随便发点什么东西就会有人莫名其妙的开喷\n遇见的太多太多了，我也就觉得，这种人没必要也不值得花费时间去反驳，就如同在和石头讲道理，可能还会影响自己的情绪啊之类的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030791026064171008",
+            "3_2030791026064179200",
+            "3_2030791026064171009",
+            "3_2030791026424885249"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030791043273441284",
+        "created_at": "2026-03-08T23:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T00:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030791043273441284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 91,
+              "id": "1600675355118944259",
+              "start": 78,
+              "username": "kasaihitomii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgoHRdVQES",
+              "end": 172,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2030791043273441284/photo/1",
+              "media_key": "3_2030791026064171008",
+              "start": 149,
+              "url": "https://t.co/qgoHRdVQES"
+            },
+            {
+              "display_url": "pic.x.com/qgoHRdVQES",
+              "end": 172,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2030791043273441284/photo/1",
+              "media_key": "3_2030791026064179200",
+              "start": 149,
+              "url": "https://t.co/qgoHRdVQES"
+            },
+            {
+              "display_url": "pic.x.com/qgoHRdVQES",
+              "end": 172,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2030791043273441284/photo/1",
+              "media_key": "3_2030791026064171009",
+              "start": 149,
+              "url": "https://t.co/qgoHRdVQES"
+            },
+            {
+              "display_url": "pic.x.com/qgoHRdVQES",
+              "end": 172,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2030791043273441284/photo/1",
+              "media_key": "3_2030791026424885249",
+              "start": 149,
+              "url": "https://t.co/qgoHRdVQES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030791043273441284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1775,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试想一下，如果有人在你分享的“做菜日常”下边说这种风凉话，你会不会很愤怒？\n一个毫无情商、故意挑事的杠精，私信攻击我，被我骂了就想发推挂我？\n贱人就是矫情。@kasaihitomii \n我就是骂你了，怎么着吧？大脑皮层比豆腐还平滑的东西，像一条狗一样狺狺狂吠，给自己买一口棺材吧，小心哪天被撞死。 https://t.co/qgoHRdVQES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 894,
+          "like_count": 6163,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 3544
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2030858713670484135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3733,
+          "following_count": 2022,
+          "like_count": 26269,
+          "listed_count": 10,
+          "media_count": 144,
+          "tweet_count": 6536
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T02:15:52.000Z",
+        "description": "强迫型人格障碍Ⅱ不择手段的完美主义者|養的菲林沒有變成源石粉末，去招募幹員就能看到我家菲林了| 这片大地… |",
+        "id": "1600675355118944259",
+        "location": "Setagaya-ku, Tokyo",
+        "name": "Mon3tr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975501278437613568/S6ifUkL8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 135,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "username": "kasaihitomii",
+        "verified": false
+      }
+    ]
+  }
+}

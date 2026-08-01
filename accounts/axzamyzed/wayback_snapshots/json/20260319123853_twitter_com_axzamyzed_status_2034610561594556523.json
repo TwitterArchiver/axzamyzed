@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2034502783433617734",
+    "created_at": "2026-03-19T12:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034610561594556523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1617562028469792769",
+          "start": 0,
+          "username": "Rigumin_Mukka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034610561594556523",
+    "in_reply_to_user_id": "1617562028469792769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034599628365271212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rigumin_Mukka 你承认这是你的手机了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2034502783433617734",
+        "created_at": "2026-03-19T12:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034610561594556523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1617562028469792769",
+              "start": 0,
+              "username": "Rigumin_Mukka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034610561594556523",
+        "in_reply_to_user_id": "1617562028469792769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034599628365271212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rigumin_Mukka 你承认这是你的手机了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617562028469792769",
+        "conversation_id": "2034502783433617734",
+        "created_at": "2026-03-19T11:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034599628365271212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034599628365271212",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034502783433617734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 谁把这个推文放我手机里的😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2033059853720236538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 910,
+          "like_count": 6878,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 4195
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-23T16:37:18.000Z",
+        "description": "还会再见的吧",
+        "id": "1617562028469792769",
+        "name": "Rigumin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033939826425401351/oxUZGIac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 86,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 38
+        },
+        "username": "Rigumin_Mukka",
+        "verified": false
+      }
+    ]
+  }
+}

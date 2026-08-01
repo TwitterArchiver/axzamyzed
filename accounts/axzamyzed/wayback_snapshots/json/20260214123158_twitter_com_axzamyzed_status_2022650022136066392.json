@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2022635942281154898",
+    "created_at": "2026-02-14T12:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T13:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022650022136066392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593547850637791233",
+          "start": 0,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022650022136066392",
+    "in_reply_to_user_id": "1593547850637791233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022635942281154898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didengshengwu 以后说在加班就没人信了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1533,
+        "media_key": "3_2022635926497955840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHYqKTakAAkHWu.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2022635942281154898",
+        "created_at": "2026-02-14T12:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022650022136066392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022650022136066392",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022635942281154898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 以后说在加班就没人信了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022635926497955840"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "2022635942281154898",
+        "created_at": "2026-02-14T11:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022635942281154898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MervXWThmH",
+              "end": 161,
+              "expanded_url": "https://x.com/didengshengwu/status/2022635942281154898/photo/1",
+              "media_key": "3_2022635926497955840",
+              "start": 138,
+              "url": "https://t.co/MervXWThmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022635942281154898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "朋友和我说\n\n前几天周末他家里停电，很是难受，\n\n于是心生一计他和他老婆去网吧打打游戏，\n\n等到后，发现同样想法的人很多，\n\n网吧已经没有连着的位置了，他俩只能分开坐了。\n\n一个小时左右她老婆给他发信息：回家吗？\n\n他当时打游戏打得太投入、太忘我，\n\n习惯成自然的回了一句：\n\n没，我还在公司加班。。。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13393,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友和我说\n\n前几天周末他家里停电，很是难受，\n\n于是心生一计他和他老婆去网吧打打游戏，\n\n等到后，发现同样想法的人很多，\n\n网吧已经没有连着的位置了，他俩只能分开坐了。\n\n一个小时左右她老婆给他发信息：回家吗？\n\n他当时打游戏打得太投入、太忘我，\n\n习惯成自然的回了一句： https://t.co/MervXWThmH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 649,
+          "like_count": 3845,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187373,
+          "following_count": 1310,
+          "like_count": 3283,
+          "listed_count": 742,
+          "media_count": 3527,
+          "tweet_count": 6511
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

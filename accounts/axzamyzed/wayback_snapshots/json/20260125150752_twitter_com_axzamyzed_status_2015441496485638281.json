@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015328517853266379",
+    "created_at": "2026-01-25T15:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015441496485638281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015441496485638281",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015328517853266379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 有一种邪魅一笑的感觉好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2015328499704193024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fil8KW4AApubD.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015328517853266379",
+        "created_at": "2026-01-25T15:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015441496485638281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015441496485638281",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015328517853266379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 有一种邪魅一笑的感觉好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015328499704193024"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2015328517853266379",
+        "created_at": "2026-01-25T07:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015328517853266379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NE36iAKjUG",
+              "end": 33,
+              "expanded_url": "https://x.com/amecandy_x/status/2015328517853266379/photo/1",
+              "media_key": "3_2015328499704193024",
+              "start": 10,
+              "url": "https://t.co/NE36iAKjUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015328517853266379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1204,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "病友折的的库洛米🥺 https://t.co/NE36iAKjUG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 219,
+          "like_count": 1669,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/HRT 2022.7🍥/Fullstack💻/LLM/Vibe Coding/Blogger",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2012540204280905884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5190,
+          "following_count": 1780,
+          "like_count": 23603,
+          "listed_count": 15,
+          "media_count": 1014,
+          "tweet_count": 8144
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

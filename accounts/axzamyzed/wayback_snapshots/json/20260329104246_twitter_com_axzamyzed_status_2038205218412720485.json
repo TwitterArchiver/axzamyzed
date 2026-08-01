@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038150337094127821",
+    "created_at": "2026-03-29T10:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038205218412720485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1292281984077586432",
+          "start": 0,
+          "username": "naichsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038205218412720485",
+    "in_reply_to_user_id": "1292281984077586432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038204073594511666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naichsama 感觉也确实会管吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038150337094127821",
+        "created_at": "2026-03-29T10:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038205218412720485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1292281984077586432",
+              "start": 0,
+              "username": "naichsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038205218412720485",
+        "in_reply_to_user_id": "1292281984077586432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038204073594511666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naichsama 感觉也确实会管吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292281984077586432",
+        "conversation_id": "2038150337094127821",
+        "created_at": "2026-03-29T10:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038204073594511666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038204073594511666",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038150337094127821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 禁塑都几百年前喊的口号了，现在谁管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 934,
+          "like_count": 7820,
+          "listed_count": 2,
+          "media_count": 515,
+          "tweet_count": 4712
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-09T02:10:22.000Z",
+        "description": "Nothing",
+        "id": "1292281984077586432",
+        "location": "Nichinan-shi, Miyazaki",
+        "name": "ミルクティさま",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839735183853137920/AA9ZVCn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 47,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "naichsama",
+        "verified": false
+      }
+    ]
+  }
+}

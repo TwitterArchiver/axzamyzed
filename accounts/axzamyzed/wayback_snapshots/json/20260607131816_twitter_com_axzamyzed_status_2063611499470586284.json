@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2063611499470586284",
+    "created_at": "2026-06-07T13:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063611499470586284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053360211948109826",
+          "start": 3,
+          "username": "axzameyzed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063611499470586284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063251400864551249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axzameyzed: 补充内容是我写的，大家可以看看🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2063611499470586284",
+        "created_at": "2026-06-07T13:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063611499470586284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053360211948109826",
+              "start": 3,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063611499470586284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063251400864551249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axzameyzed: 补充内容是我写的，大家可以看看🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2063251400864551249",
+        "created_at": "2026-06-06T13:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063251400864551249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transcircleorg…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/transcircleorg/status/2063200572262748670",
+              "start": 17,
+              "url": "https://t.co/dHB66bTCHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063251400864551249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1022,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063200572262748670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充内容是我写的，大家可以看看🤔 https://t.co/dHB66bTCHd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3657,
+          "following_count": 945,
+          "like_count": 12439,
+          "listed_count": 10,
+          "media_count": 2248,
+          "tweet_count": 7546
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 202,
+          "like_count": 2048,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1096
+        },
+        "username": "axzameyzed",
+        "verified": true
+      }
+    ]
+  }
+}

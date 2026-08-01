@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2025045880802607163",
+    "created_at": "2026-02-21T03:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T04:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025050176394809751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593547850637791233",
+          "start": 0,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025050176394809751",
+    "in_reply_to_user_id": "1593547850637791233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025045880802607163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didengshengwu 有时候小孩子太冲动了，而且社会也有认为纹身是不良一类的，所以对年轻人还是要注意啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2025045880802607163",
+        "created_at": "2026-02-21T03:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025050176394809751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025050176394809751",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025045880802607163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 有时候小孩子太冲动了，而且社会也有认为纹身是不良一类的，所以对年轻人还是要注意啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593547850637791233",
+        "conversation_id": "2025045880802607163",
+        "created_at": "2026-02-21T03:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025045880802607163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025045880802607163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "纹身会被大部分人接受吗？\n\n我有个纹身师哥们。\n\n看得过去40多岁，老婆他也没娶。\n\n人家纹身，得先签协议书。\n\n而且，见人下菜碟。\n\n看着年轻，未成年的小孩，人家根本不接待，直接撵走。\n\n并告诉他们，纹身的坏处等等。\n\n有一次，我在他店里，来了个18岁的小女孩。\n\n咋劝不听，非得要在胳膊上纹个花臂。\n\n一问，是寄宿学校的，说是学校不管。\n\n我哥们合计了一下，给他做了个彩绘，就是在皮肤上画画。\n\n给她画了一个花臂 收费350.\n\n我就在旁边骗她，说什么，要纹身，得先测试你的皮肤对不对这个染料过敏。\n所以要先彩绘。\n\n而且骗她说，这个彩绘了，不能破皮出血，如果你去别的店纹身，会有生命危险。\n\nBALBALBBA一大堆，我能忽悠啊 女孩深信不疑。\n\n过了一周，女孩回来了，哭唧唧的，问我们能不能给纹身弄掉。\n\n学校老师看见了，要她退学。\n\n我就吓唬她，洗不掉了！当时给你画的是永久性材料！染料已经进你皮肤里面了。\n\n跟普通的纹身一样了，哈哈，以后你也得当流氓子了。\n\n以后来这个店里来吧，我给你定了，你负责给他（我哥们）打杂。\n\n女孩哇一下子哭了。\n\n我兄弟看了我一眼，多大岁数了，真无趣你！\n掏出个搓澡巾，端了一盆水，给搓掉了。\n\n女孩高高兴兴的走了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1563,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纹身会被大部分人接受吗？\n\n我有个纹身师哥们。\n\n看得过去40多岁，老婆他也没娶。\n\n人家纹身，得先签协议书。\n\n而且，见人下菜碟。\n\n看着年轻，未成年的小孩，人家根本不接待，直接撵走。\n\n并告诉他们，纹身的坏处等等。\n\n有一次，我在他店里，来了个18岁的小女孩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2024452373318656078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 781,
+          "like_count": 4427,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 2463
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187754,
+          "following_count": 1313,
+          "like_count": 3284,
+          "listed_count": 740,
+          "media_count": 3531,
+          "tweet_count": 6544
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015275745086738432"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015275753756414436",
+    "created_at": "2026-01-25T04:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T05:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015275753756414436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tr6YTAY3QA",
+          "end": 40,
+          "expanded_url": "https://x.com/axzamyzed/status/2015275753756414436/photo/1",
+          "media_key": "3_2015275745086738432",
+          "start": 17,
+          "url": "https://t.co/tr6YTAY3QA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015275753756414436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才发现我居然也有，只是在附加那里 https://t.co/tr6YTAY3QA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1046,
+        "media_key": "3_2015275745086738432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_eynN5bEAA9T0y.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015275745086738432"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015275753756414436",
+        "created_at": "2026-01-25T04:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015275753756414436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tr6YTAY3QA",
+              "end": 40,
+              "expanded_url": "https://x.com/axzamyzed/status/2015275753756414436/photo/1",
+              "media_key": "3_2015275745086738432",
+              "start": 17,
+              "url": "https://t.co/tr6YTAY3QA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015275753756414436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才发现我居然也有，只是在附加那里 https://t.co/tr6YTAY3QA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心喵(=･ω･=)♡ 和我熟了我会很粘人｜若愿与我靠近，我会真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 155,
+          "like_count": 1553,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

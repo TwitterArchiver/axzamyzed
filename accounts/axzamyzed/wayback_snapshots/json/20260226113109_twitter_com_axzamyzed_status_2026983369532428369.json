@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2026975700868280384",
+    "created_at": "2026-02-26T11:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026983369532428369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827053984521318400",
+          "start": 0,
+          "username": "C_baba_66ccff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026983369532428369",
+    "in_reply_to_user_id": "1827053984521318400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026975700868280384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C_baba_66ccff 他们那个随机信息有点神经了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2026975691531776000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFDpu4acAAzJtb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2026975700868280384",
+        "created_at": "2026-02-26T11:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026983369532428369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827053984521318400",
+              "start": 0,
+              "username": "C_baba_66ccff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026983369532428369",
+        "in_reply_to_user_id": "1827053984521318400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026975700868280384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C_baba_66ccff 他们那个随机信息有点神经了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026975691531776000"
+          ]
+        },
+        "author_id": "1827053984521318400",
+        "conversation_id": "2026975700868280384",
+        "created_at": "2026-02-26T11:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026975700868280384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can contact @C_baba_tianyi0712 right away.",
+              "display_url": "t.me/C_baba_tianyi0…",
+              "end": 37,
+              "expanded_url": "http://t.me/C_baba_tianyi0712",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2026182429866860544/NhZUgAnf?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026182429866860544/NhZUgAnf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "C_baba",
+              "unwound_url": "https://t.me/C_baba_tianyi0712",
+              "url": "https://t.co/83YdDDy0d7"
+            },
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+CaUykth0MTRjZ…",
+              "end": 61,
+              "expanded_url": "https://t.me/+CaUykth0MTRjZTgx",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2026184512166850561/eG1MB26w?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026184512166850561/eG1MB26w?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+CaUykth0MTRjZTgx",
+              "url": "https://t.co/rrKfR3lFox"
+            },
+            {
+              "display_url": "pic.x.com/UajV50v2Wa",
+              "end": 85,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/2026975700868280384/photo/1",
+              "media_key": "3_2026975691531776000",
+              "start": 62,
+              "url": "https://t.co/UajV50v2Wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026975700868280384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接接接接普瑞巴林处方代开中\nhttps://t.co/83YdDDy0d7\nhttps://t.co/rrKfR3lFox https://t.co/UajV50v2Wa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 808,
+          "like_count": 5089,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 2799
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-23T18:43:22.000Z",
+        "description": "MtF🏳️‍⚧️｜小证含糖｜hrt 2025.8.30🍥｜家长党｜小猫｜ISFP｜重抑重焦｜wota藝初心者｜锦依卫｜洛天依｜停电前夜｜最好的闺蜜@hongjiu_armin｜小号@C_baba_tianyi｜可爱猫猫对象@AGeSang2008喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "hongjiu_armin"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "C_baba_tianyi"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "AGeSang2008"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/C_baba_tianyi0…",
+                "end": 23,
+                "expanded_url": "http://t.me/C_baba_tianyi0712",
+                "start": 0,
+                "url": "https://t.co/J8u13x28mK"
+              }
+            ]
+          }
+        },
+        "id": "1827053984521318400",
+        "location": "距你2km",
+        "name": "C_baba🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2020509877383393497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004745444769828864/6JWhaSvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 865,
+          "like_count": 20914,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/J8u13x28mK",
+        "username": "C_baba_66ccff",
+        "verified": true
+      }
+    ]
+  }
+}

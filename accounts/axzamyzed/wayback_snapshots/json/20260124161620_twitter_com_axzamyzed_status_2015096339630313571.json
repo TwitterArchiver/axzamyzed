@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015070394600841216"
+      ],
+      "media_source_tweet_id": [
+        "2015070403778200001"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015096339630313571",
+    "created_at": "2026-01-24T16:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T17:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015096339630313571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "385598126",
+          "start": 3,
+          "username": "JenSenhjj6"
+        },
+        {
+          "end": 59,
+          "id": "385598126",
+          "start": 48,
+          "username": "JenSenhjj6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JRhn7WpJkS",
+          "end": 133,
+          "expanded_url": "https://x.com/JenSenhjj6/status/2015070403778200001/photo/1",
+          "media_key": "3_2015070394600841216",
+          "start": 110,
+          "url": "https://t.co/JRhn7WpJkS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015096339630313571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015070403778200001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JenSenhjj6: 苟富贵，勿相忘！🐕\n$NIAO鸟币 宠粉空投随机送🎁\n✅ 关注 @JenSenhjj6\n✅ 点赞+转发本条\n评论区甩上你的BSC地址，坐等空投砸脸👇\n土狗发车，有福同享，币圈兄弟一起冲！ https://t.co/JRhn7WpJkS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2015070394600841216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_b32PuW4AASAEW.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015070394600841216"
+          ],
+          "media_source_tweet_id": [
+            "2015070403778200001"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015096339630313571",
+        "created_at": "2026-01-24T16:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015096339630313571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "385598126",
+              "start": 3,
+              "username": "JenSenhjj6"
+            },
+            {
+              "end": 59,
+              "id": "385598126",
+              "start": 48,
+              "username": "JenSenhjj6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRhn7WpJkS",
+              "end": 133,
+              "expanded_url": "https://x.com/JenSenhjj6/status/2015070403778200001/photo/1",
+              "media_key": "3_2015070394600841216",
+              "start": 110,
+              "url": "https://t.co/JRhn7WpJkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015096339630313571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015070403778200001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JenSenhjj6: 苟富贵，勿相忘！🐕\n$NIAO鸟币 宠粉空投随机送🎁\n✅ 关注 @JenSenhjj6\n✅ 点赞+转发本条\n评论区甩上你的BSC地址，坐等空投砸脸👇\n土狗发车，有福同享，币圈兄弟一起冲！ https://t.co/JRhn7WpJkS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015070394600841216"
+          ]
+        },
+        "author_id": "385598126",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015070403778200001",
+        "created_at": "2026-01-24T14:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015070403778200001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "385598126",
+              "start": 32,
+              "username": "JenSenhjj6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRhn7WpJkS",
+              "end": 117,
+              "expanded_url": "https://x.com/JenSenhjj6/status/2015070403778200001/photo/1",
+              "media_key": "3_2015070394600841216",
+              "start": 94,
+              "url": "https://t.co/JRhn7WpJkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015070403778200001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 448,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "苟富贵，勿相忘！🐕\n$NIAO鸟币 宠粉空投随机送🎁\n✅ 关注 @JenSenhjj6\n✅ 点赞+转发本条\n评论区甩上你的BSC地址，坐等空投砸脸👇\n土狗发车，有福同享，币圈兄弟一起冲！ https://t.co/JRhn7WpJkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜对人温柔有耐心喵(=･ω･=)♡ 和我熟了我会很粘人｜若愿与我靠近，我会真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 132,
+          "like_count": 1474,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-05T19:44:35.000Z",
+        "description": "向往和平，自由，厌弃中心化的条条框框，沉迷Web3的自由土壤 玩DeFi不是为了赚钱，是为了掀翻旧规则 现在牵头搭DAO，不问背景不看资历，只认你对自由的执念 想一起改变游戏规则的，速来🤝 #世界和平 #金融平权 #JenSenhjj6",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "世界和平"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "金融平权"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "tag": "JenSenhjj6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "un.org/zh/peaceandsec…",
+                "end": 23,
+                "expanded_url": "https://www.un.org/zh/peaceandsecurity",
+                "start": 0,
+                "url": "https://t.co/VD2TJtwbng"
+              }
+            ]
+          }
+        },
+        "id": "385598126",
+        "location": "Ushuaia, Argentina",
+        "name": "🌏JenSen🔶BNB世界和平🎫",
+        "pinned_tweet_id": "1856002044152406244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015062643707383808/AsoEI40j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 3003,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/VD2TJtwbng",
+        "username": "JenSenhjj6",
+        "verified": false
+      }
+    ]
+  }
+}

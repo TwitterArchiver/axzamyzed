@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2072154304690225365",
+    "created_at": "2026-07-01T03:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072167620191920253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072167620191920253",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072165539703656892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley AOP面向答案编程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2072154304690225365",
+        "created_at": "2026-07-01T03:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072167620191920253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072167620191920253",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072165539703656892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley AOP面向答案编程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "conversation_id": "2072154304690225365",
+        "created_at": "2026-07-01T03:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072165539703656892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072165539703656892",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072154304690225365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 面向结果编程何尝不是一种智慧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3970,
+          "following_count": 925,
+          "like_count": 13805,
+          "listed_count": 11,
+          "media_count": 3022,
+          "tweet_count": 8590
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/auspiceshirley",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/auspiceshirley",
+                "start": 0,
+                "url": "https://t.co/2Fyt0qKe8z"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 531,
+          "like_count": 1167,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 1719
+        },
+        "url": "https://t.co/2Fyt0qKe8z",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

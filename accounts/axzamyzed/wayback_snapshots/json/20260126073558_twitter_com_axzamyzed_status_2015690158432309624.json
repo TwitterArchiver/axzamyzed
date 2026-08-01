@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015688657311858847",
+    "created_at": "2026-01-26T07:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015690158432309624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015690158432309624",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015688657311858847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 这不相当于国企，国企也欠工作了开始"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_2015679957654204416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_kiPfDacAAR51d.png",
+        "width": 711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015688657311858847",
+        "created_at": "2026-01-26T07:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015690158432309624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015690158432309624",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015688657311858847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 这不相当于国企，国企也欠工作了开始"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015679957654204416"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2015688657311858847",
+        "created_at": "2026-01-26T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015688657311858847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqPwxtii7h",
+              "end": 55,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2015688657311858847/photo/1",
+              "media_key": "3_2015679957654204416",
+              "start": 32,
+              "url": "https://t.co/uqPwxtii7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015688657311858847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "work2icu.org",
+                "end": 228,
+                "expanded_url": "http://work2icu.org",
+                "start": 205,
+                "url": "https://t.co/fUncaHw8Zl"
+              }
+            ]
+          },
+          "text": "牛马.icu 投稿\n国安局下属单位北京中科安全渗透工程师投稿：\n公司核心业务服务于中国的国家安全相关单位，干的活就是对海外政府教育机构进行网络渗透获取情报，主要目标有东南亚地区和日、韩、以及中亚五国等地区的国家。公司长期存在无偿加班的情况，实行大小周制度，社保和公积金按照最低额度缴纳，公司提倡无偿加班，加班没有加班费，几乎每天都加班到凌晨1-3点，工资绩效部分是否发放，发放多少高度依赖直属领导的主观判断。\nhttps://t.co/fUncaHw8Zl"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1859,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "牛马.icu 投稿\n国安局下属单位北京中科安全渗透工程师投稿： https://t.co/uqPwxtii7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 244,
+          "like_count": 1722,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186935,
+          "following_count": 1005,
+          "like_count": 8867,
+          "listed_count": 8517,
+          "media_count": 40671,
+          "tweet_count": 47642
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

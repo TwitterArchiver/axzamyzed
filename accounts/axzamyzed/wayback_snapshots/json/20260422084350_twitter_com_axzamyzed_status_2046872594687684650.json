@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2046799653102895245",
+    "created_at": "2026-04-22T08:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T09:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046872594687684650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1315900629110288384",
+          "start": 0,
+          "username": "benny31194674"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046872594687684650",
+    "in_reply_to_user_id": "1315900629110288384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046872464559669623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@benny31194674 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2046799653102895245",
+        "created_at": "2026-04-22T08:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046872594687684650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1315900629110288384",
+              "start": 0,
+              "username": "benny31194674"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046872594687684650",
+        "in_reply_to_user_id": "1315900629110288384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046872464559669623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@benny31194674 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315900629110288384",
+        "conversation_id": "2046799653102895245",
+        "created_at": "2026-04-22T08:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046872464559669623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046872464559669623",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046799653102895245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 难道念错了发音？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 865,
+          "like_count": 9806,
+          "listed_count": 8,
+          "media_count": 949,
+          "tweet_count": 5746
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-13T06:24:15.000Z",
+        "description": "币圈老韭菜，胆小的交易玩家，佛系养生撸毛玩家，斯诺克爱好者。。。欢迎朋友们一起交流学习。。",
+        "id": "1315900629110288384",
+        "name": "小马",
+        "pinned_tweet_id": "2027701511468552493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927897263885688833/t1HYvNPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 1845,
+          "like_count": 4805,
+          "listed_count": 10,
+          "media_count": 78,
+          "tweet_count": 5898
+        },
+        "username": "benny31194674",
+        "verified": true
+      }
+    ]
+  }
+}

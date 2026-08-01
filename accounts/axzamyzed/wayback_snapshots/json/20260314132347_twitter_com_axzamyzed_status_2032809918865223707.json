@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2032763119676829767",
+    "created_at": "2026-03-14T13:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T14:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032809918865223707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2008736589183377408",
+          "start": 0,
+          "username": "Keji715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032809918865223707",
+    "in_reply_to_user_id": "2008736589183377408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032809664870572200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keji715 但是语气欠欠的听着难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2032763119676829767",
+        "created_at": "2026-03-14T13:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032809918865223707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2008736589183377408",
+              "start": 0,
+              "username": "Keji715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032809918865223707",
+        "in_reply_to_user_id": "2008736589183377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032809664870572200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keji715 但是语气欠欠的听着难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008736589183377408",
+        "conversation_id": "2032763119676829767",
+        "created_at": "2026-03-14T13:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032809664870572200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032809664870572200",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032763119676829767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 主要还是为了吸引更多人关注吧，感觉已经是个固定话术了。（我不是尊贵的P+ 🤣）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜小号 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2032407335965274563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 907,
+          "like_count": 6484,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 3825
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T03:05:13.000Z",
+        "description": "望京某大厂程序员｜ 记录AI实践｜认知提升｜学习构建｜探索第二收入中                                           公众号：柯基的思考笔记",
+        "id": "2008736589183377408",
+        "name": "柯基是只猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028976611618615296/EoR-6wJS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 173,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 821
+        },
+        "username": "Keji715",
+        "verified": true
+      }
+    ]
+  }
+}

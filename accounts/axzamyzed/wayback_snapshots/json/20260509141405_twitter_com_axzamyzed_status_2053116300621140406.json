@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2053111140318679456",
+    "created_at": "2026-05-09T14:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053116300621140406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053116300621140406",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053111140318679456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel talkatone免费版已经不再支持接收短信眼验证码只能拨打电话，需要接收短信验证码的得4.99usd/mo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2053111140318679456",
+        "created_at": "2026-05-09T14:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053116300621140406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053116300621140406",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053111140318679456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel talkatone免费版已经不再支持接收短信眼验证码只能拨打电话，需要接收短信验证码的得4.99usd/mo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835139537418567680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2053111140318679456",
+        "created_at": "2026-05-09T13:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053111140318679456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YiJin_0v0/stat…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/YiJin_0v0/status/2053101991115845869",
+              "start": 117,
+              "url": "https://t.co/XIjoVDGf0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053111140318679456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053101991115845869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果自己没能力搞到外卡时，有些不愿意动脑子的人还真就会买\n\n不过自己翻墙的时候找那么起劲，现在不愿意去App Store下载一个Talkatone的，也是个人物\n\n或者用Android设备的人折腾在Google Play添加付款方式 https://t.co/XIjoVDGf0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3190,
+          "following_count": 924,
+          "like_count": 10989,
+          "listed_count": 10,
+          "media_count": 1390,
+          "tweet_count": 6411
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "Quam multi afflicti ante auroram cecidērunt?\nNox immensa nomina eōrum cruōre tinxit.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "https://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/u4ZrWlpK4l"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Comodoro Rivadavia, Argentina",
+        "name": "🇹🇼Wellington † Pixel",
+        "pinned_tweet_id": "2052413005866954786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052427514560073734/hukZtxSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 4839,
+          "like_count": 16472,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 3194
+        },
+        "url": "https://t.co/u4ZrWlpK4l",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

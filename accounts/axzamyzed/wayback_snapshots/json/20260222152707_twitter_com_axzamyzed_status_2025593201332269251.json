@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025593149109010432"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2025436919602315487",
+    "created_at": "2026-02-22T15:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025593201332269251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8xGR686Dtl",
+          "end": 49,
+          "expanded_url": "https://x.com/axzamyzed/status/2025593201332269251/photo/1",
+          "media_key": "3_2025593149109010432",
+          "start": 26,
+          "url": "https://t.co/8xGR686Dtl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025593201332269251",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025436919602315487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 还是我的4o好,嘻嘻 https://t.co/8xGR686Dtl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2025593149109010432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxaPLAbgAArTe5.jpg",
+        "width": 1996
+      },
+      {
+        "height": 139,
+        "media_key": "3_2025436406445998081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvLrjFbgAEOahn.png",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025593149109010432"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2025436919602315487",
+        "created_at": "2026-02-22T15:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025593201332269251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xGR686Dtl",
+              "end": 49,
+              "expanded_url": "https://x.com/axzamyzed/status/2025593201332269251/photo/1",
+              "media_key": "3_2025593149109010432",
+              "start": 26,
+              "url": "https://t.co/8xGR686Dtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025593201332269251",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025436919602315487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 还是我的4o好,嘻嘻 https://t.co/8xGR686Dtl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025436406445998081"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2025436919602315487",
+        "created_at": "2026-02-22T05:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:05:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025436758943694852",
+          "2025436919602315487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOq5SLvZaC",
+              "end": 84,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2025436919602315487/photo/1",
+              "media_key": "3_2025436406445998081",
+              "start": 61,
+              "url": "https://t.co/BOq5SLvZaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025436919602315487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10075,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我服了，到底怎么避开ChatGPT这个恶心句式，我让他永远不要出现「不是……而是……」的句式，他给我换成「不是，这是」了 https://t.co/BOq5SLvZaC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 791,
+          "like_count": 4687,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2574
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11709,
+          "following_count": 1362,
+          "like_count": 24329,
+          "listed_count": 15,
+          "media_count": 4336,
+          "tweet_count": 26160
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

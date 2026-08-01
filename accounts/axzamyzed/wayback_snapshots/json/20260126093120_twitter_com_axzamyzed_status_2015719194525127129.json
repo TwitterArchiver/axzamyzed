@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015719184999776256"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015719194525127129",
+    "created_at": "2026-01-26T09:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T10:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015719194525127129"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "腾讯元宝"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "微信红包"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KSmGoRVzKv",
+          "end": 76,
+          "expanded_url": "https://x.com/axzamyzed/status/2015719194525127129/photo/1",
+          "media_key": "3_2015719184999776256",
+          "start": 53,
+          "url": "https://t.co/KSmGoRVzKv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015719194525127129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "马化腾：希望重现当年微信红包盛况\n\n当年微信红包刚推出的时候内部员工可是抢着玩啊\n#腾讯元宝 #微信红包 https://t.co/KSmGoRVzKv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2015719184999776256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lF60TaAAAYghj.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015719184999776256"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015719194525127129",
+        "created_at": "2026-01-26T09:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015719194525127129"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "腾讯元宝"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "微信红包"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSmGoRVzKv",
+              "end": 76,
+              "expanded_url": "https://x.com/axzamyzed/status/2015719194525127129/photo/1",
+              "media_key": "3_2015719184999776256",
+              "start": 53,
+              "url": "https://t.co/KSmGoRVzKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015719194525127129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马化腾：希望重现当年微信红包盛况\n\n当年微信红包刚推出的时候内部员工可是抢着玩啊\n#腾讯元宝 #微信红包 https://t.co/KSmGoRVzKv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 254,
+          "like_count": 1769,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

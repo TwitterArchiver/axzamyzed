@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2027393033348788342",
+    "created_at": "2026-02-28T12:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027719443057349021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "850937205040087040",
+          "start": 0,
+          "username": "HarukawaSayaka"
+        },
+        {
+          "end": 29,
+          "id": "2012914101987762177",
+          "start": 16,
+          "username": "TeamTransmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027719443057349021",
+    "in_reply_to_user_id": "850937205040087040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027718084409364786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarukawaSayaka @TeamTransmtf 已经release,刷新页面或重新安装PWA查看,感谢您的贡献"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2027393033348788342",
+        "created_at": "2026-02-28T12:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027719443057349021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "850937205040087040",
+              "start": 0,
+              "username": "HarukawaSayaka"
+            },
+            {
+              "end": 29,
+              "id": "2012914101987762177",
+              "start": 16,
+              "username": "TeamTransmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027719443057349021",
+        "in_reply_to_user_id": "850937205040087040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027718084409364786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarukawaSayaka @TeamTransmtf 已经release,刷新页面或重新安装PWA查看,感谢您的贡献"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850937205040087040",
+        "conversation_id": "2027393033348788342",
+        "created_at": "2026-02-28T12:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027718084409364786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012914101987762177",
+              "start": 0,
+              "username": "TeamTransmtf"
+            },
+            {
+              "end": 24,
+              "id": "1758324617838788608",
+              "start": 14,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "description": "概要 修复移动端 PWA 中底部导航栏跟随页面滚动的问题。 问题 当网站作为 PWA 在移动设备上使用时，底部导航栏会跟随页面内容滚动，而正常行为应该是始终固定在屏幕底部。 原因 导航栏使用的是 shrink-0（相对定位），而不是 fixed 定位。 修复 将导航栏的 CSS 类从： - shrink-0 md:hidden ... + fixed bottom-0 left-0 righ...",
+              "display_url": "github.com/TransmtfTeam/T…",
+              "end": 73,
+              "expanded_url": "https://github.com/TransmtfTeam/Transmtf-HRT-Tracker/pull/1",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2027718087722819584/KAOEstOT?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027718087722819584/KAOEstOT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "🐛 fix: 底部导航栏在移动端 PWA 中固定定位 by BBleae · Pull Request #1 · TransmtfTeam/Transmtf-HRT-Tracker",
+              "unwound_url": "https://github.com/TransmtfTeam/Transmtf-HRT-Tracker/pull/1",
+              "url": "https://t.co/1b9TVEVbIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027718084409364786",
+        "in_reply_to_user_id": "2012914101987762177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027717424410464706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamTransmtf @axzamyzed 抱歉，我刚刚找到 repo 了，已经提交 PR：\nhttps://t.co/1b9TVEVbIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 839,
+          "like_count": 5346,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 2961
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-09T05:03:34.000Z",
+        "description": "e/acc | harukawa.eth | sayaka.sol | 東方好き @touhou_works | 🦋https://t.co/2AAZSRcbGd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "touhou_works"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "harukawasayaka.bsky.social",
+                "end": 81,
+                "expanded_url": "http://harukawasayaka.bsky.social",
+                "start": 58,
+                "url": "https://t.co/2AAZSRcbGd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baka.studio",
+                "end": 23,
+                "expanded_url": "https://baka.studio",
+                "start": 0,
+                "url": "https://t.co/5cRUMpg22J"
+              }
+            ]
+          }
+        },
+        "id": "850937205040087040",
+        "location": "Machida-shi, Tokyo",
+        "name": "晴猫@幻夢結社",
+        "pinned_tweet_id": "1954584081175658619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004808436408832000/_O8KiHpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21587,
+          "following_count": 11415,
+          "like_count": 48864,
+          "listed_count": 52,
+          "media_count": 2046,
+          "tweet_count": 13254
+        },
+        "url": "https://t.co/5cRUMpg22J",
+        "username": "HarukawaSayaka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号，本号暂不做蓝v互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 8,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

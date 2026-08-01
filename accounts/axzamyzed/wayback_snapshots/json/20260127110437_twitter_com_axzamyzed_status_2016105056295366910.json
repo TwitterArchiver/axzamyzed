@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016103906237878723",
+    "created_at": "2026-01-27T11:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016105056295366910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016105056295366910",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016103906237878723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 赔点钱之后还有其他人来"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 91533,
+        "height": 1280,
+        "media_key": "13_2015890576244097025",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015890576244097025/img/ZW6AUVbuhODK6c_t.jpg",
+        "public_metrics": {
+          "view_count": 529
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015890576244097025/vid/avc1/320x568/iX809XWGq2TZDCq6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015890576244097025/vid/avc1/480x852/tlVVoE18wr0hUA6l.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015890576244097025/vid/avc1/720x1280/ZtTAgR4bSMEThDKY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015890576244097025/pl/GztmJmPr_Jk9rSrN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016103906237878723",
+        "created_at": "2026-01-27T11:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016105056295366910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016105056295366910",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016103906237878723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 赔点钱之后还有其他人来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015890576244097025"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2016103906237878723",
+        "created_at": "2026-01-27T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016103906237878723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OyDfmY0r6t",
+              "end": 91,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2016103906237878723/video/1",
+              "media_key": "13_2015890576244097025",
+              "start": 68,
+              "url": "https://t.co/OyDfmY0r6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016103906237878723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1月26日，广东省佛山市南海区，桂城街道招商青云台。\n工人贺东民反映，其在广东佛山六建工地务工时不慎跌伤，伤情随后加重并被确诊为骨折。\n事发后，对方仅提出赔偿3000元试图了结，其拒绝并要求养伤期间按焊工每天400元标准发放工资，待身体康复后再行了结，但未获同意。随后对方否认事故经过，并多次威胁其不得发布相关视频。\n其还反映工地存在未签劳动合同、未购买保险、未进行三级安全教育等问题，为证明其属于工伤，其在视频中出示了佛山市第一人民医院出具的诊断报告，以及工伤认定申请受理决定书进行维权。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1303,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1月26日，广东省佛山市南海区，桂城街道招商青云台。\n工人贺东民反映，其在广东佛山六建工地务工时不慎跌伤，伤情随后加重并被确诊为骨折。 https://t.co/OyDfmY0r6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 320,
+          "like_count": 1989,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1057
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187822,
+          "following_count": 1005,
+          "like_count": 8867,
+          "listed_count": 8518,
+          "media_count": 40716,
+          "tweet_count": 47687
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

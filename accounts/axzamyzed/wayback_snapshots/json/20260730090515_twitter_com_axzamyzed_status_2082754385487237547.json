@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2082731451225870645",
+    "created_at": "2026-07-30T09:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082754385487237547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082754385487237547",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082754108201877671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae 注意力惊人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2082731451225870645",
+        "created_at": "2026-07-30T09:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082754385487237547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082754385487237547",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082754108201877671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 注意力惊人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813768883540725760",
+        "conversation_id": "2082731451225870645",
+        "created_at": "2026-07-30T09:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082754108201877671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082754108201877671",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082731451225870645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 答案是114514，因为：注意到P(x)=​4+3(x−1)+23​(x−1)(x−2)+21​(x−1)(x−2)(x−3)+81​(x−1)(x−2)(x−3)(x−4)+21907​(x−1)(x−2)(x−3)(x−4)(x−5)​满足P(1)=4,P(2)=7,P(3)=13,P(4)=25,P(5)=49，代入x=6得，P（6）=114514"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4223,
+          "following_count": 933,
+          "like_count": 14822,
+          "listed_count": 12,
+          "media_count": 3534,
+          "tweet_count": 9365
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "距你11.4km",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2082073672802767121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 1153,
+          "like_count": 8871,
+          "listed_count": 4,
+          "media_count": 388,
+          "tweet_count": 4083
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

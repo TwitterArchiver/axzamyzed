@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2070019193291067858",
+    "created_at": "2026-06-25T16:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070177346687229982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1410936828467712002",
+          "start": 0,
+          "username": "Blitz24053575"
+        },
+        {
+          "end": 30,
+          "id": "1716309956670971904",
+          "start": 15,
+          "username": "long_lian61521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070177346687229982",
+    "in_reply_to_user_id": "1410936828467712002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070176734784442750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blitz24053575 @long_lian61521 啧啧啧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2070019193291067858",
+        "created_at": "2026-06-25T16:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070177346687229982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1410936828467712002",
+              "start": 0,
+              "username": "Blitz24053575"
+            },
+            {
+              "end": 30,
+              "id": "1716309956670971904",
+              "start": 15,
+              "username": "long_lian61521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070177346687229982",
+        "in_reply_to_user_id": "1410936828467712002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070176734784442750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blitz24053575 @long_lian61521 啧啧啧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410936828467712002",
+        "conversation_id": "2070019193291067858",
+        "created_at": "2026-06-25T16:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070176734784442750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1716309956670971904",
+              "start": 0,
+              "username": "long_lian61521"
+            },
+            {
+              "end": 26,
+              "id": "1758324617838788608",
+              "start": 16,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070176734784442750",
+        "in_reply_to_user_id": "1716309956670971904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070167516174016577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@long_lian61521 @axzamyzed 哪里淫秽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3903,
+          "following_count": 925,
+          "like_count": 13505,
+          "listed_count": 10,
+          "media_count": 2891,
+          "tweet_count": 8389
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-02T12:22:17.000Z",
+        "description": "碎碎念丨雄性动物丨我是个恶俗的人，善良都是装的丨想骂我的我宣布你获胜了，别骂我丨鼠鼠日留丨梦见啥发啥丨私信互fo丨不割手，不od丨资深米学长，崩，原，铁，绝四修丨hoyomix忠实听众丨吃货努力减肥中丨新晋索狗，欢迎加我psn好友和steam好友一起打游戏呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blitz24053575",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blitz24053575",
+                "start": 0,
+                "url": "https://t.co/fO3ZqKoeuC"
+              }
+            ]
+          }
+        },
+        "id": "1410936828467712002",
+        "location": "给我说悄悄话吧→",
+        "name": "我只是只企鹅别难为我",
+        "pinned_tweet_id": "2063477212268118272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027489355464634368/l0ooMpQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 155,
+          "like_count": 647,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 2725
+        },
+        "url": "https://t.co/fO3ZqKoeuC",
+        "username": "Blitz24053575",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-23T04:26:30.000Z",
+        "description": "钱是我的家人",
+        "id": "1716309956670971904",
+        "name": "sabioverloxd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032131679205408773/sUKa-970_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 85,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1131
+        },
+        "url": "",
+        "username": "long_lian61521",
+        "verified": false
+      }
+    ]
+  }
+}

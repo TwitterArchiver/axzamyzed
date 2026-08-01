@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2037720704595239363",
+    "created_at": "2026-03-28T02:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037722097187774614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037722097187774614",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037720704595239363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 今天是创作者发钱的日子好像大赦了🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037720701705371648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdwLpCbwAAyCOC.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2037720704595239363",
+        "created_at": "2026-03-28T02:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037722097187774614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037722097187774614",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037720704595239363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 今天是创作者发钱的日子好像大赦了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037720701705371648"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2037720704595239363",
+        "created_at": "2026-03-28T02:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037720704595239363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WiwZTJV01",
+              "end": 41,
+              "expanded_url": "https://x.com/aaarjkk/status/2037720704595239363/photo/1",
+              "media_key": "3_2037720701705371648",
+              "start": 18,
+              "url": "https://t.co/3WiwZTJV01"
+            },
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2037709297564422353",
+              "start": 42,
+              "url": "https://t.co/kU1ReJclXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037720704595239363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037709297564422353",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也在今天解除ghostBan版😃 https://t.co/3WiwZTJV01 https://t.co/kU1ReJclXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 928,
+          "like_count": 7680,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 4621
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║📌成绩倒数(𝙱𝚞𝚝 有些科目还挺好)║✍️写字缓慢║⏳𝟸𝟼年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互𝑭𝒐𝒍𝒍𝒐𝒘║𝟷𝟽𝟷𝚌𝚖║𝟻𝟶𝚔𝚐║𝟷𝟶/𝟷𝟺/𝟸𝟶𝟷𝟶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(解除ghostBan开心版)",
+        "pinned_tweet_id": "2037699204601319798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037677546356293632/tCDDUB5z_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 458,
+          "like_count": 6970,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

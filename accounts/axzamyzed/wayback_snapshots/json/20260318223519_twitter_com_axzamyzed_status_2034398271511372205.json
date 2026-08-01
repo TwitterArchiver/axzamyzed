@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2034396544707817521",
+    "created_at": "2026-03-18T22:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T23:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034398271511372205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034398271511372205",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034396544707817521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2034396544707817521",
+        "created_at": "2026-03-18T22:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T23:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034398271511372205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034398271511372205",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034396544707817521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2034396544707817521",
+        "created_at": "2026-03-18T22:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T23:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034396544707817521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bassimawsy/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/bassimawsy/status/2034394217943011836",
+              "start": 18,
+              "url": "https://t.co/4OTpCvB27O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034396544707817521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034394217943011836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那入手小米的最佳途径是看小米圣经吗 https://t.co/4OTpCvB27O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2033059853720236538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 909,
+          "like_count": 6806,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 4137
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "你的生活不够甜蜜吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "STN",
+        "name": "Nagi想去拉美",
+        "pinned_tweet_id": "2032888053820191103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032924101828837376/3WGhvK6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5210,
+          "following_count": 2245,
+          "like_count": 24620,
+          "listed_count": 7,
+          "media_count": 2126,
+          "tweet_count": 20787
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2057686219111469203",
+    "created_at": "2026-05-22T11:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057781521352958217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750739738682945537",
+          "start": 0,
+          "username": "Ad_closeNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057781521352958217",
+    "in_reply_to_user_id": "1750739738682945537",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057779868524593485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ad_closeNN 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2057686219111469203",
+        "created_at": "2026-05-22T11:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057781521352958217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750739738682945537",
+              "start": 0,
+              "username": "Ad_closeNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057781521352958217",
+        "in_reply_to_user_id": "1750739738682945537",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057779868524593485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ad_closeNN 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750739738682945537",
+        "conversation_id": "2057686219111469203",
+        "created_at": "2026-05-22T11:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057779868524593485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057779868524593485",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057686219111469203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 你弄脏我屏幕了😡 （我看到的红圈在蓝圈之上，与屏幕同级）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3459,
+          "following_count": 952,
+          "like_count": 11576,
+          "listed_count": 10,
+          "media_count": 1705,
+          "tweet_count": 6829
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T04:37:49.000Z",
+        "description": "👋 你好呀，远方的朋友 (๑•̀ㅂ•́) ✧\n那个......\n关注塔菲喵\n关注塔菲谢谢喵（）",
+        "id": "1750739738682945537",
+        "location": "One Microsoft Way, Earth",
+        "name": "Ad_closeNN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042972689477046276/_c2vHGhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 121,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 296
+        },
+        "username": "Ad_closeNN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018641593612583017",
+    "created_at": "2026-02-03T11:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T12:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018646384396919093"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "ChatGPT",
+          "probability": 0.8373,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 85,
+          "normalized_text": "claude",
+          "probability": 0.4568,
+          "start": 80,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899011546505998336",
+          "start": 0,
+          "username": "AstraeaSZK"
+        },
+        {
+          "end": 20,
+          "id": "1618557658163970049",
+          "start": 12,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018646384396919093",
+    "in_reply_to_user_id": "1899011546505998336",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018645559108882723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AstraeaSZK @qqqqqf5 ChatGPT team or plus is enough for a spot of using because claude has planned of the progress，at least for me is so"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018641593612583017",
+        "created_at": "2026-02-03T11:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018646384396919093"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "ChatGPT",
+              "probability": 0.8373,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "claude",
+              "probability": 0.4568,
+              "start": 80,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899011546505998336",
+              "start": 0,
+              "username": "AstraeaSZK"
+            },
+            {
+              "end": 20,
+              "id": "1618557658163970049",
+              "start": 12,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018646384396919093",
+        "in_reply_to_user_id": "1899011546505998336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018645559108882723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AstraeaSZK @qqqqqf5 ChatGPT team or plus is enough for a spot of using because claude has planned of the progress，at least for me is so"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899011546505998336",
+        "conversation_id": "2018641593612583017",
+        "created_at": "2026-02-03T11:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018645559108882723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 19,
+              "id": "1618557658163970049",
+              "start": 11,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018645559108882723",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018645431308472472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed @qqqqqf5 300😧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 485,
+          "like_count": 2987,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1598
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-10T08:17:03.000Z",
+        "description": "18歳|アメリカの大学生|バックエンド開発|EN/JP|ロボットアニメ(ガンダム/エバンゲリオン/マジンカーZ/ゲッターロボ/機動警察) 百合作品(ささ恋/citrus/志乃と恋)|ゲーム(CS2/ゼルダの伝説/Fate Stay Night/Loopers|皆さんと仲良くなりたいですね！🥹🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "astraea.nexus",
+                "end": 23,
+                "expanded_url": "http://astraea.nexus",
+                "start": 0,
+                "url": "https://t.co/RpfJ6sh5x9"
+              }
+            ]
+          }
+        },
+        "id": "1899011546505998336",
+        "location": "Anaheim Electronics",
+        "name": "𝓐𝓼𝓽𝓻𝓪𝓮𝓪🏳️‍⚧️🌸",
+        "pinned_tweet_id": "2004819420359925959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993422452400308224/0mRcMmFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 698,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/RpfJ6sh5x9",
+        "username": "AstraeaSZK",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手不恶俗\n爱发梗图和生活日常 ｜ 偶尔爆照\n欢迎私信投稿内容\nPython/Rust/JS后端个人开发者 | 学生\nAgent | 量化 | 交易\nGithub求follow\n个人网站(博客):https://t.co/FF4XPq1mIy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 128,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 105,
+                "url": "https://t.co/FF4XPq1mIy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2017155636442869790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7378,
+          "following_count": 1999,
+          "like_count": 13272,
+          "listed_count": 16,
+          "media_count": 1833,
+          "tweet_count": 4508
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

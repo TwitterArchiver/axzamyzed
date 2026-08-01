@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017043178067574965",
+    "created_at": "2026-01-30T02:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T03:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017056000478720099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017056000478720099",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017043178067574965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 郭有才到底是个啥，从来没感兴趣过"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15700,
+        "height": 1138,
+        "media_key": "13_2017043105426423809",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017043105426423809/img/Vshrw9qSBq-j9ZPi.jpg",
+        "public_metrics": {
+          "view_count": 2403
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017043105426423809/vid/avc1/320x504/X6GxB1rda5QMZRtl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017043105426423809/vid/avc1/480x758/2jYM9xlckMPSwG47.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017043105426423809/vid/avc1/720x1138/AbpAXmV3kovOjYrb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017043105426423809/pl/n99Mq9UqYiZT7IFV.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017043178067574965",
+        "created_at": "2026-01-30T02:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017056000478720099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017056000478720099",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017043178067574965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 郭有才到底是个啥，从来没感兴趣过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017043105426423809"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2017043178067574965",
+        "created_at": "2026-01-30T01:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017043178067574965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aB0MchcyB9",
+              "end": 59,
+              "expanded_url": "https://x.com/maoshen/status/2017043178067574965/video/1",
+              "media_key": "13_2017043105426423809",
+              "start": 36,
+              "url": "https://t.co/aB0MchcyB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017043178067574965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5377,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "郭有才直播跳舞时记不住动作，还安排一个小姐姐在前面领舞，这算是作弊吗？ https://t.co/aB0MchcyB9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 421,
+          "like_count": 2331,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点，守住内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194621,
+          "following_count": 3666,
+          "like_count": 3840,
+          "listed_count": 514,
+          "media_count": 2503,
+          "tweet_count": 4598
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

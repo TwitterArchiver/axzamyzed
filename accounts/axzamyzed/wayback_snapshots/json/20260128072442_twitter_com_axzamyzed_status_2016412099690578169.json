@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016402128420679728",
+    "created_at": "2026-01-28T07:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T08:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016412099690578169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1641725995446325248",
+          "start": 0,
+          "username": "arnoldzhao71341"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016412099690578169",
+    "in_reply_to_user_id": "1641725995446325248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016402128420679728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arnoldzhao71341 不要compact 不要compact 不要compact\n重要的话说三遍，如果自动conpact了就该考虑开一个新对话了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016402128420679728",
+        "created_at": "2026-01-28T07:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016412099690578169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1641725995446325248",
+              "start": 0,
+              "username": "arnoldzhao71341"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016412099690578169",
+        "in_reply_to_user_id": "1641725995446325248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016402128420679728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arnoldzhao71341 不要compact 不要compact 不要compact\n重要的话说三遍，如果自动conpact了就该考虑开一个新对话了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641725995446325248",
+        "conversation_id": "2016402128420679728",
+        "created_at": "2026-01-28T06:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T07:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016402128420679728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arnoldzhao7134…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/arnoldzhao71341/status/2016401769535045662",
+              "start": 57,
+              "url": "https://t.co/VhSrHwH7q5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016402128420679728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016401769535045662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "避免Claude Code上下文溢出，遗忘系统提示词的要求。哈哈。这样可以更精准的判断，什么时候该开启新窗口了！ https://t.co/VhSrHwH7q5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 362,
+          "like_count": 2138,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-31T08:56:14.000Z",
+        "description": "👨‍💻现专注 AI 赋能个体与智能硬件 ⚡️正在研究：Web3 / AI Agent / 个人IP ✍️公众号：贾克斯的平行世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhaozhihao.com",
+                "end": 23,
+                "expanded_url": "http://zhaozhihao.com",
+                "start": 0,
+                "url": "https://t.co/osev5TTUdz"
+              }
+            ]
+          }
+        },
+        "id": "1641725995446325248",
+        "location": "🚀冷启动福利，前 600 个关注，全部回关。不信来试试😁",
+        "name": "贾克斯的平行世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993476792464875520/qkHhLw3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 437,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/osev5TTUdz",
+        "username": "arnoldzhao71341",
+        "verified": true
+      }
+    ]
+  }
+}

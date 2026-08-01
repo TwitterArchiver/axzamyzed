@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017157423325237737",
+    "created_at": "2026-01-30T09:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017173951966007486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1255901168758222848",
+          "start": 0,
+          "username": "luxuryzuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017173951966007486",
+    "in_reply_to_user_id": "1255901168758222848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017157423325237737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luxuryzuo 用App Store订阅用完了也能退🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_2017156900811415552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5hg5EXoAAOftJ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017157423325237737",
+        "created_at": "2026-01-30T09:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017173951966007486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1255901168758222848",
+              "start": 0,
+              "username": "luxuryzuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017173951966007486",
+        "in_reply_to_user_id": "1255901168758222848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017157423325237737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luxuryzuo 用App Store订阅用完了也能退🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017156900811415552"
+          ]
+        },
+        "author_id": "1255901168758222848",
+        "conversation_id": "2017157423325237737",
+        "created_at": "2026-01-30T08:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T09:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017157423325237737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVLAb1PDza",
+              "end": 135,
+              "expanded_url": "https://x.com/luxuryzuo/status/2017157423325237737/photo/1",
+              "media_key": "3_2017156900811415552",
+              "start": 112,
+              "url": "https://t.co/sVLAb1PDza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017157423325237737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "告诉大家一个有关Premium不为人知的秘密，如果开通会员充值冲错了，一天之内是可以填写表单退费的。一般规则是不可以退，但是如果你联系他们团队，会给你一个填写退款申请链接，我去年2月份第一次弄错了就成功退款了，后面重开的。 https://t.co/sVLAb1PDza"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 430,
+          "like_count": 2376,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-30T16:45:57.000Z",
+        "description": "喜欢数学喜欢金融，人生经历有点复杂，质疑一切，理解一切。赚钱从来不辛苦，辛苦的时候都是在亏钱。\n【INTJ，蓝V互关】",
+        "id": "1255901168758222848",
+        "location": "China",
+        "name": "紫气东来",
+        "pinned_tweet_id": "2016553853114581087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920885904149016576/EjTxRpFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 2674,
+          "like_count": 4110,
+          "listed_count": 6,
+          "media_count": 106,
+          "tweet_count": 3444
+        },
+        "username": "luxuryzuo",
+        "verified": true
+      }
+    ]
+  }
+}

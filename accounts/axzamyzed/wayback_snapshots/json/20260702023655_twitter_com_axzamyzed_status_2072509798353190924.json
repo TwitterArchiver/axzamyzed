@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2072208645358825633",
+    "created_at": "2026-07-02T02:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T03:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072509798353190924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "870784594118721537",
+          "start": 0,
+          "username": "lazyshooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072509798353190924",
+    "in_reply_to_user_id": "870784594118721537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072501057536872455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lazyshooo 真有这样的人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2072208645358825633",
+        "created_at": "2026-07-02T02:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072509798353190924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "870784594118721537",
+              "start": 0,
+              "username": "lazyshooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072509798353190924",
+        "in_reply_to_user_id": "870784594118721537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072501057536872455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lazyshooo 真有这样的人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "870784594118721537",
+        "conversation_id": "2072208645358825633",
+        "created_at": "2026-07-02T02:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072501057536872455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072501057536872455",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1457,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072208645358825633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 还没说要让男方父母的退休卡让她去管理呢\n差评👎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4000,
+          "following_count": 927,
+          "like_count": 13852,
+          "listed_count": 12,
+          "media_count": 3047,
+          "tweet_count": 8623
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-02T23:30:00.000Z",
+        "description": "",
+        "id": "870784594118721537",
+        "name": "一群飞鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910476950298386434/IO73K-F8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 97,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1134
+        },
+        "url": "",
+        "username": "lazyshooo",
+        "verified": false
+      }
+    ]
+  }
+}

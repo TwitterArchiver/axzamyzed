@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030107517402198016"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2030110826997448840",
+    "created_at": "2026-03-07T02:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T03:25:25.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030107524071088463",
+      "2030110826997448840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J22pqB8btp",
+          "end": 52,
+          "expanded_url": "https://x.com/axzamyzed/status/2030110826997448840/photo/1",
+          "media_key": "3_2030107517402198016",
+          "start": 29,
+          "url": "https://t.co/J22pqB8btp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030110826997448840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雷军：这次两会我带来五个建议…\n视频下面怎么清一色的都是 https://t.co/J22pqB8btp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2030107517402198016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCxkB_absAAaHKz.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030107517402198016"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2030107524071088463",
+        "created_at": "2026-03-07T02:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:25:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030107524071088463",
+          "2030110826997448840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/28ra9a5X1m",
+              "end": 50,
+              "expanded_url": "https://x.com/axzamyzed/status/2030107524071088463/photo/1",
+              "media_key": "3_2030107517402198016",
+              "start": 27,
+              "url": "https://t.co/28ra9a5X1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030107524071088463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雷军：这次两会我带来五个建议…\n视频下面回复清一色的 https://t.co/28ra9a5X1m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030107517402198016"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2030110826997448840",
+        "created_at": "2026-03-07T02:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:25:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030107524071088463",
+          "2030110826997448840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J22pqB8btp",
+              "end": 52,
+              "expanded_url": "https://x.com/axzamyzed/status/2030110826997448840/photo/1",
+              "media_key": "3_2030107517402198016",
+              "start": 29,
+              "url": "https://t.co/J22pqB8btp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030110826997448840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雷军：这次两会我带来五个建议…\n视频下面怎么清一色的都是 https://t.co/J22pqB8btp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 939,
+          "like_count": 6041,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 3453
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

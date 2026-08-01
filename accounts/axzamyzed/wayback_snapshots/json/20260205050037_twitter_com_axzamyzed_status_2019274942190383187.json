@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2019238954596471003",
+    "created_at": "2026-02-05T05:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T06:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019274942190383187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593547850637791233",
+          "start": 0,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019274942190383187",
+    "in_reply_to_user_id": "1593547850637791233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019238954596471003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didengshengwu 我们老师说“我这辈子都不可能买电车，等电车的历史什么时候有油车那么长了再说”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2019238940230971398",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXHHiUacAYWDbQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2019238954596471003",
+        "created_at": "2026-02-05T05:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T06:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019274942190383187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019274942190383187",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019238954596471003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 我们老师说“我这辈子都不可能买电车，等电车的历史什么时候有油车那么长了再说”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019238940230971398"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "2019238954596471003",
+        "created_at": "2026-02-05T02:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019238954596471003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVipoVRsWo",
+              "end": 41,
+              "expanded_url": "https://x.com/didengshengwu/status/2019238954596471003/photo/1",
+              "media_key": "3_2019238940230971398",
+              "start": 18,
+              "url": "https://t.co/bVipoVRsWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019238954596471003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 41633,
+          "like_count": 231,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "他说的对吗？ \n\n我个人是不太认可 https://t.co/bVipoVRsWo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 506,
+          "like_count": 3132,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187230,
+          "following_count": 1298,
+          "like_count": 3280,
+          "listed_count": 740,
+          "media_count": 3472,
+          "tweet_count": 6440
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

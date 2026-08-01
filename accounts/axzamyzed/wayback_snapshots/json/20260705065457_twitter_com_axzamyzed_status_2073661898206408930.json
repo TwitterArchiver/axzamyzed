@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2073616797644046769",
+    "created_at": "2026-07-05T06:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073661898206408930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062372266613338112",
+          "start": 0,
+          "username": "polun0o3h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073661898206408930",
+    "in_reply_to_user_id": "2062372266613338112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073648641085186217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@polun0o3h 容易急性铜中毒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_2073648635179630592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcUcnDbAAAeHIe.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2073616797644046769",
+        "created_at": "2026-07-05T06:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073661898206408930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062372266613338112",
+              "start": 0,
+              "username": "polun0o3h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073661898206408930",
+        "in_reply_to_user_id": "2062372266613338112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073648641085186217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@polun0o3h 容易急性铜中毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073648635179630592"
+          ]
+        },
+        "author_id": "2062372266613338112",
+        "conversation_id": "2073616797644046769",
+        "created_at": "2026-07-05T06:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073648641085186217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nCIfaIzamh",
+              "end": 48,
+              "expanded_url": "https://x.com/polun0o3h/status/2073648641085186217/photo/1",
+              "media_key": "3_2073648635179630592",
+              "start": 25,
+              "url": "https://t.co/nCIfaIzamh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073648641085186217",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073616797644046769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 为什么没有毒瘾，好难猜🤣🤣 https://t.co/nCIfaIzamh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4023,
+          "following_count": 920,
+          "like_count": 14021,
+          "listed_count": 12,
+          "media_count": 3138,
+          "tweet_count": 8753
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-04T03:15:29.000Z",
+        "description": "🔍 互联网野生观察员 | 专门收集各种反人类设计与奇葩槽点。\n🧠 关注我，每天带你看点人类迷惑行为，专治各种不开心。\n👇 你的MBTI是什么？测测你的奇葩指数：https://t.co/22EYJL8dOm\n我的discord服务器：https://t.co/WmoPFZl1xA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "16personalities.com",
+                "end": 103,
+                "expanded_url": "https://www.16personalities.com",
+                "start": 80,
+                "url": "https://t.co/22EYJL8dOm"
+              },
+              {
+                "display_url": "discord.gg/QBbCYht86Y",
+                "end": 140,
+                "expanded_url": "https://discord.gg/QBbCYht86Y",
+                "start": 117,
+                "url": "https://t.co/WmoPFZl1xA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "16personalities.com/ch/%E7%BB%93%E…",
+                "end": 23,
+                "expanded_url": "https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/intp-a/m/jhzplf1dq",
+                "start": 0,
+                "url": "https://t.co/tLRrRzYGFi"
+              }
+            ]
+          }
+        },
+        "id": "2062372266613338112",
+        "location": "缅甸北部",
+        "name": "赵飞也要飞",
+        "pinned_tweet_id": "2071539651735851451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070800508663844864/ao16f2lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 146,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/tLRrRzYGFi",
+        "username": "polun0o3h",
+        "verified": false
+      }
+    ]
+  }
+}

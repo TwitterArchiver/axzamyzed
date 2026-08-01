@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2014558025953198081",
+    "created_at": "2026-01-23T04:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T05:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014559674033701309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911055843715682304",
+          "start": 0,
+          "username": "Huang_Yut1ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014559674033701309",
+    "in_reply_to_user_id": "1911055843715682304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014559191604822358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huang_Yut1ng 应该不用吧…我是没遇到过，电脑上装icloud然后授权登录一次就会出现在设备列表了，我目前没遇到自己掉的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2014558025953198081",
+        "created_at": "2026-01-23T04:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014559674033701309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911055843715682304",
+              "start": 0,
+              "username": "Huang_Yut1ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014559674033701309",
+        "in_reply_to_user_id": "1911055843715682304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014559191604822358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huang_Yut1ng 应该不用吧…我是没遇到过，电脑上装icloud然后授权登录一次就会出现在设备列表了，我目前没遇到自己掉的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911055843715682304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2014558025953198081",
+        "created_at": "2026-01-23T04:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014559191604822358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014559191604822358",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014558800179822781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 之前用过苹果提供的密码插件…\n经常需要重新登录iCloud…\n后面巴拉巴拉有点影响体验就删掉了…\n回去我再试下…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 90,
+          "like_count": 1359,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T13:56:54.000Z",
+        "description": "🏳️‍⚧️MTF/出厂日期07/HRT.2025.11.7/山东/高三牲/有证含糖/抑郁/Web开发/INFP/社交老鼠人/不政不黄/不割手/咱不管你是友跨反跨还是什么 都不要发任何攻击 引战的内容 不要在咱的评论区里吵架 咱看到都会block的 咱不会拒绝任何一个心诚的宝宝 欢迎私信要咱qq喵",
+        "id": "1911055843715682304",
+        "location": "在你心中",
+        "name": "Huang_Yut1ng🍥",
+        "pinned_tweet_id": "1995501596621582588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911055933926776832/W8nW0Db6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 810,
+          "like_count": 1551,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 469
+        },
+        "username": "Huang_Yut1ng",
+        "verified": true
+      }
+    ]
+  }
+}

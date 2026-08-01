@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2034534334150087157",
+    "created_at": "2026-03-19T09:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034567415867261143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034567415867261143",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034553600186388856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 还有色环电阻读数"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2034534334150087157",
+        "created_at": "2026-03-19T09:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034567415867261143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034567415867261143",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034553600186388856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 还有色环电阻读数"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989517742127652866",
+        "conversation_id": "2034534334150087157",
+        "created_at": "2026-03-19T08:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034553600186388856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034553600186388856",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034534334150087157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 270k±5%("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2033059853720236538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 908,
+          "like_count": 6872,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 4185
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "2025.11 重生喵~\n一般路过 可以叫我553\n09 MTX / ADHD / PhOer\n简繁中/EN ok\n大多数时候图文无关qwq\n求聊天什么都行\n查成分回fo 没回是没看到可以评论咪\n看黄男&粉红勿扰\n简介编辑中…\n2026.3.2 因备考 淡推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/317vzs3dk…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/317vzs3dkqdzhvxdjzsfi66wwp2i",
+                "start": 0,
+                "url": "https://t.co/QS5wTtdK10"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "A&B/GTL开荒 私信   歌单01➡️",
+        "name": "AG553🏳️‍⚧️(互fo喵)",
+        "pinned_tweet_id": "2025915693078901021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009425649296134149/7XVRu4Xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 1335,
+          "like_count": 24828,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/QS5wTtdK10",
+        "username": "AGNK_553",
+        "verified": false
+      }
+    ]
+  }
+}

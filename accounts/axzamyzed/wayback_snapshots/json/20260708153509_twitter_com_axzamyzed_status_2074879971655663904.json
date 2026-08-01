@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2074546475665945027",
+    "created_at": "2026-07-08T15:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074879971655663904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1598684577924775937",
+          "start": 0,
+          "username": "white88com"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074879971655663904",
+    "in_reply_to_user_id": "1598684577924775937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074874189031637214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@white88com 你浏览记录让我看看\n别看了，都是我干的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2074546475665945027",
+        "created_at": "2026-07-08T15:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074879971655663904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1598684577924775937",
+              "start": 0,
+              "username": "white88com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074879971655663904",
+        "in_reply_to_user_id": "1598684577924775937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074874189031637214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@white88com 你浏览记录让我看看\n别看了，都是我干的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598684577924775937",
+        "conversation_id": "2074546475665945027",
+        "created_at": "2026-07-08T15:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074874189031637214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074874189031637214",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074546475665945027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 警察：21 号晚上你做什么了？\n我：在家玩手机啊怎么了？\n警察：详细说一下手机上都用了哪些软件，看了什么网站。\n我：是我干的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4072,
+          "following_count": 929,
+          "like_count": 14200,
+          "listed_count": 12,
+          "media_count": 3213,
+          "tweet_count": 8885
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-02T14:24:49.000Z",
+        "description": "原互联网产品经理。神评论，段子手。\n实用内容持续输出，分享各种实用软件，热门影视，网络教程，网站推荐等等。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "White88.com",
+                "end": 23,
+                "expanded_url": "http://White88.com",
+                "start": 0,
+                "url": "https://t.co/w04cEXVIHS"
+              }
+            ]
+          }
+        },
+        "id": "1598684577924775937",
+        "name": "宝库",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016189616877875204/x6WU8q99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3478,
+          "following_count": 2255,
+          "like_count": 4843,
+          "listed_count": 5,
+          "media_count": 1143,
+          "tweet_count": 9461
+        },
+        "url": "https://t.co/w04cEXVIHS",
+        "username": "white88com",
+        "verified": true
+      }
+    ]
+  }
+}

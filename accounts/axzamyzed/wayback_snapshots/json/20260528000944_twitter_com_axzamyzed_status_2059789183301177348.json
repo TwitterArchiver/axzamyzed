@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2059626031250911586",
+    "created_at": "2026-05-28T00:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059789183301177348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911382504214323200",
+          "start": 0,
+          "username": "barrakuga0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059789183301177348",
+    "in_reply_to_user_id": "1911382504214323200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059736886302871897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barrakuga0427 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2059626031250911586",
+        "created_at": "2026-05-28T00:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059789183301177348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911382504214323200",
+              "start": 0,
+              "username": "barrakuga0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059789183301177348",
+        "in_reply_to_user_id": "1911382504214323200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059736886302871897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barrakuga0427 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911382504214323200",
+        "conversation_id": "2059626031250911586",
+        "created_at": "2026-05-27T20:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059736886302871897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059736886302871897",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1214,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059626031250911586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 网上搜了下这玩意还有专用的单词 bindle😮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 950,
+          "like_count": 11934,
+          "listed_count": 11,
+          "media_count": 1884,
+          "tweet_count": 7095
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-13T11:35:03.000Z",
+        "description": "☮️🙏🏻✌🏻💟\n\n😸❤️🎸&🏎️\n    \n😻 🌹🐉  \n\n😺🎮 GTA/NFS/Monster Hunter\n\n🐈💤🌠 a VW van or Cadillac SUV",
+        "id": "1911382504214323200",
+        "location": "Around the world for rocknroll",
+        "name": "barracuda24",
+        "pinned_tweet_id": "2056386289101054187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911383750782439424/Wh2dtkny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 94,
+          "like_count": 27321,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 2225
+        },
+        "username": "barrakuga0427",
+        "verified": false
+      }
+    ]
+  }
+}

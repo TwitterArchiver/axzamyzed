@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037076219188174854"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2037046860943417718",
+    "created_at": "2026-03-26T07:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037076277245698429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2i4OJgYmgc",
+          "end": 55,
+          "expanded_url": "https://x.com/axzamyzed/status/2037076277245698429/photo/1",
+          "media_key": "3_2037076219188174854",
+          "start": 32,
+          "url": "https://t.co/2i4OJgYmgc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037076277245698429",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037046860943417718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu 我做的一个长这样可以焊接cuid卡，卡贴太丑了 https://t.co/2i4OJgYmgc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037076219188174854",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUmB0kbYAYh5Xy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1558,
+        "media_key": "3_2037046694291099648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEULLPwa0AAeckj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1535,
+        "media_key": "3_2037046694291087360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEULLPwaoAAJebN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037076219188174854"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2037046860943417718",
+        "created_at": "2026-03-26T07:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037076277245698429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2i4OJgYmgc",
+              "end": 55,
+              "expanded_url": "https://x.com/axzamyzed/status/2037076277245698429/photo/1",
+              "media_key": "3_2037076219188174854",
+              "start": 32,
+              "url": "https://t.co/2i4OJgYmgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037076277245698429",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037046860943417718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu 我做的一个长这样可以焊接cuid卡，卡贴太丑了 https://t.co/2i4OJgYmgc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037046694291099648",
+            "3_2037046694291087360"
+          ]
+        },
+        "author_id": "1617523246144053251",
+        "conversation_id": "2037046860943417718",
+        "created_at": "2026-03-26T05:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037046860943417718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0tQm8TMHdv",
+              "end": 54,
+              "expanded_url": "https://x.com/s1nyvu/status/2037046860943417718/photo/1",
+              "media_key": "3_2037046694291099648",
+              "start": 31,
+              "url": "https://t.co/0tQm8TMHdv"
+            },
+            {
+              "display_url": "pic.x.com/0tQm8TMHdv",
+              "end": 54,
+              "expanded_url": "https://x.com/s1nyvu/status/2037046860943417718/photo/1",
+              "media_key": "3_2037046694291087360",
+              "start": 31,
+              "url": "https://t.co/0tQm8TMHdv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037046860943417718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "订做个这玩意的模板，再用nfc卡贴代替焊接，成本会不会更低🤔 https://t.co/0tQm8TMHdv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2036711147639103633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 925,
+          "like_count": 7658,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 4609
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "庚子 癸未 癸酉\n乙巳 癸未 己亥\n下一个是……？",
+        "id": "1617523246144053251",
+        "location": "骂我长得像冰棍的死全家😅",
+        "name": "❄️雪梦歆屿☯️",
+        "pinned_tweet_id": "2033471880611631256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028363115445043200/SxrKcvKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 63,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 2100
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

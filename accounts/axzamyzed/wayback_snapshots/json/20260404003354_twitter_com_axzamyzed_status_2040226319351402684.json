@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2040068206316961869",
+    "created_at": "2026-04-04T00:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T01:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040226319351402684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952435985347956736",
+          "start": 0,
+          "username": "Zhang_ming_qing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040226319351402684",
+    "in_reply_to_user_id": "1952435985347956736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040135210239729793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhang_ming_qing 确实诶，好像还没人回答这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040068206316961869",
+        "created_at": "2026-04-04T00:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T01:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040226319351402684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1952435985347956736",
+              "start": 0,
+              "username": "Zhang_ming_qing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040226319351402684",
+        "in_reply_to_user_id": "1952435985347956736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040135210239729793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhang_ming_qing 确实诶，好像还没人回答这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952435985347956736",
+        "conversation_id": "2040068206316961869",
+        "created_at": "2026-04-03T18:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040135210239729793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040135210239729793",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1541,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040068206316961869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 九横六竖是啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 933,
+          "like_count": 8306,
+          "listed_count": 3,
+          "media_count": 576,
+          "tweet_count": 4991
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-04T18:26:40.000Z",
+        "description": "温和的自由派。对任何事任何人保持相对客观。我的态度取决于你的态度，欢迎友好交流讨论，不主动骂人，但是如果你骂我我会骂的更狠。",
+        "id": "1952435985347956736",
+        "location": "中華民國上海市",
+        "name": "紀小念Official🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030150911650402304/WbUuZXq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 95,
+          "like_count": 7020,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1646
+        },
+        "username": "Zhang_ming_qing",
+        "verified": false
+      }
+    ]
+  }
+}

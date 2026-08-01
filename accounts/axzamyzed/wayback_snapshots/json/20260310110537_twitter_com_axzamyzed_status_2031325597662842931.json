@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031325576817242112",
+        "3_2031325576804564992"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2031325597662842931",
+    "created_at": "2026-03-10T11:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031325597662842931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NgPTH4PziI",
+          "end": 31,
+          "expanded_url": "https://x.com/axzamyzed/status/2031325597662842931/photo/1",
+          "media_key": "3_2031325576817242112",
+          "start": 8,
+          "url": "https://t.co/NgPTH4PziI"
+        },
+        {
+          "display_url": "pic.x.com/NgPTH4PziI",
+          "end": 31,
+          "expanded_url": "https://x.com/axzamyzed/status/2031325597662842931/photo/1",
+          "media_key": "3_2031325576804564992",
+          "start": 8,
+          "url": "https://t.co/NgPTH4PziI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031325597662842931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两面派grok https://t.co/NgPTH4PziI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2031325576817242112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDC32YVbcAA8JoM.jpg",
+        "width": 750
+      },
+      {
+        "height": 752,
+        "media_key": "3_2031325576804564992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDC32YSaAAAUwxx.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031325576817242112",
+            "3_2031325576804564992"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2031325597662842931",
+        "created_at": "2026-03-10T11:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031325597662842931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgPTH4PziI",
+              "end": 31,
+              "expanded_url": "https://x.com/axzamyzed/status/2031325597662842931/photo/1",
+              "media_key": "3_2031325576817242112",
+              "start": 8,
+              "url": "https://t.co/NgPTH4PziI"
+            },
+            {
+              "display_url": "pic.x.com/NgPTH4PziI",
+              "end": 31,
+              "expanded_url": "https://x.com/axzamyzed/status/2031325597662842931/photo/1",
+              "media_key": "3_2031325576804564992",
+              "start": 8,
+              "url": "https://t.co/NgPTH4PziI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031325597662842931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两面派grok https://t.co/NgPTH4PziI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 902,
+          "like_count": 6221,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 3587
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

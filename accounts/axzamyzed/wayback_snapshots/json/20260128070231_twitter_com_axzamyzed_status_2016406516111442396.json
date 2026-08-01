@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2012945481022996538",
+    "created_at": "2026-01-28T07:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T08:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016406516111442396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762547422642003968",
+          "start": 0,
+          "username": "zhouzhou1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016406516111442396",
+    "in_reply_to_user_id": "1762547422642003968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012945481022996538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouzhou1008 还能这样玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_2012945470851616768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9rPZ5XkAATZ-K.jpg",
+        "width": 395
+      },
+      {
+        "height": 380,
+        "media_key": "3_2012945470830637057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9rPZ0XcAEyDM8.jpg",
+        "width": 394
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012945470801248257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9rPZtXAAEMDf3.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012945470939643905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9rPaOWwAE2q3C.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2012945481022996538",
+        "created_at": "2026-01-28T07:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016406516111442396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762547422642003968",
+              "start": 0,
+              "username": "zhouzhou1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016406516111442396",
+        "in_reply_to_user_id": "1762547422642003968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012945481022996538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouzhou1008 还能这样玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012945470851616768",
+            "3_2012945470830637057",
+            "3_2012945470801248257",
+            "3_2012945470939643905"
+          ]
+        },
+        "author_id": "1762547422642003968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2012945481022996538",
+        "created_at": "2026-01-18T17:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T18:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012945481022996538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rhwCVz027",
+              "end": 172,
+              "expanded_url": "https://x.com/zhouzhou1008/status/2012945481022996538/photo/1",
+              "media_key": "3_2012945470851616768",
+              "start": 149,
+              "url": "https://t.co/8rhwCVz027"
+            },
+            {
+              "display_url": "pic.x.com/8rhwCVz027",
+              "end": 172,
+              "expanded_url": "https://x.com/zhouzhou1008/status/2012945481022996538/photo/1",
+              "media_key": "3_2012945470830637057",
+              "start": 149,
+              "url": "https://t.co/8rhwCVz027"
+            },
+            {
+              "display_url": "pic.x.com/8rhwCVz027",
+              "end": 172,
+              "expanded_url": "https://x.com/zhouzhou1008/status/2012945481022996538/photo/1",
+              "media_key": "3_2012945470801248257",
+              "start": 149,
+              "url": "https://t.co/8rhwCVz027"
+            },
+            {
+              "display_url": "pic.x.com/8rhwCVz027",
+              "end": 172,
+              "expanded_url": "https://x.com/zhouzhou1008/status/2012945481022996538/photo/1",
+              "media_key": "3_2012945470939643905",
+              "start": 149,
+              "url": "https://t.co/8rhwCVz027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012945481022996538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "教你没有信用卡、没有加密货币，低价开通X会员的方法。\n1、梯子一定要用美国节点，开全局模式\n2、找一个美区ID，登录app store里面\n3、打开X去开通premium，等待出现订阅界面，大陆正常价格11美刀/月，低价方法大约49人民币（图1）\n4、重点！！！先停留在订阅界面，后台切换到app store退出美区ID，换回大陆ID\n5、切回到X，如果突然变空白等会还会显示订阅套餐界面\n6、点击订阅等待几秒，弹出订阅界面，看清楚价格49人民币，还有大陆ID（图2）\n7、正常付款就可以了，支持支付宝、信用卡、抖音月付等等，主要是看你账号ID设置的付款方式。我这个账号默认是抖音（图3），图4是再次查询已开通\n这个方法价格有优惠，有想法的祝早日开通成功！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2576,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教你没有信用卡、没有加密货币，低价开通X会员的方法。\n1、梯子一定要用美国节点，开全局模式\n2、找一个美区ID，登录app store里面\n3、打开X去开通premium，等待出现订阅界面，大陆正常价格11美刀/月，低价方法大约49人民币（图1）\n4、重点！！！先停留在订阅界面，后台切换到app https://t.co/8rhwCVz027"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 350,
+          "like_count": 2097,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1115
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-27T18:37:40.000Z",
+        "description": "",
+        "id": "1762547422642003968",
+        "name": "周周",
+        "pinned_tweet_id": "2012945481022996538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927005673063116800/dvsoX9eE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 2,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1067
+        },
+        "username": "zhouzhou1008",
+        "verified": true
+      }
+    ]
+  }
+}

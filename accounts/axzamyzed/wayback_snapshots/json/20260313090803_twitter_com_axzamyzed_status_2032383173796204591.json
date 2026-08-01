@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2032383173796204591",
+    "created_at": "2026-03-13T09:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T10:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032383173796204591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mxyzcdb/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/mxyzcdb/status/2032370390987915329",
+          "start": 24,
+          "url": "https://t.co/yqpL7QctTB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032383173796204591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032370390987915329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欢迎大家关注我的小号，msk最近杀的号有点多喵 https://t.co/yqpL7QctTB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2032383173796204591",
+        "created_at": "2026-03-13T09:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T10:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032383173796204591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mxyzcdb/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mxyzcdb/status/2032370390987915329",
+              "start": 24,
+              "url": "https://t.co/yqpL7QctTB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032383173796204591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032370390987915329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欢迎大家关注我的小号，msk最近杀的号有点多喵 https://t.co/yqpL7QctTB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893167873209856000",
+        "conversation_id": "2032370390987915329",
+        "created_at": "2026-03-13T08:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032370390987915329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032370390987915329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近封号太猛了，启用一下小号\n小号可能日常发一些个人向的东西吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 94,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 905,
+          "like_count": 6356,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 3736
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "",
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "mxyzcdb",
+        "verified": false
+      }
+    ]
+  }
+}

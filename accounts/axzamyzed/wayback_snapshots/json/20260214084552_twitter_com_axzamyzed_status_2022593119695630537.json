@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2022592082368668009",
+    "created_at": "2026-02-14T08:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T09:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022593119695630537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1364200446080913413",
+          "start": 0,
+          "username": "andy88988696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022593119695630537",
+    "in_reply_to_user_id": "1364200446080913413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022592082368668009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andy88988696 说实话你这样的人机回复看得我要难受死了，容易被b或者report spam，尤其是“这根本不是…”“这简直就是…”一股子5.2的味道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_2022588642519396353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGtp3wbsAEM8Fb.png",
+        "width": 625
+      },
+      {
+        "height": 120,
+        "media_key": "3_2022590892897673216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGvs3EbIAAeL8t.png",
+        "width": 393
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2022592082368668009",
+        "created_at": "2026-02-14T08:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022593119695630537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1364200446080913413",
+              "start": 0,
+              "username": "andy88988696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022593119695630537",
+        "in_reply_to_user_id": "1364200446080913413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022592082368668009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andy88988696 说实话你这样的人机回复看得我要难受死了，容易被b或者report spam，尤其是“这根本不是…”“这简直就是…”一股子5.2的味道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022588642519396353",
+            "3_2022590892897673216"
+          ]
+        },
+        "author_id": "1364200446080913413",
+        "conversation_id": "2022592082368668009",
+        "created_at": "2026-02-14T08:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022592082368668009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwvWZH8Qsx",
+              "end": 176,
+              "expanded_url": "https://x.com/andy88988696/status/2022592082368668009/photo/1",
+              "media_key": "3_2022588642519396353",
+              "start": 153,
+              "url": "https://t.co/AwvWZH8Qsx"
+            },
+            {
+              "display_url": "pic.x.com/AwvWZH8Qsx",
+              "end": 176,
+              "expanded_url": "https://x.com/andy88988696/status/2022592082368668009/photo/1",
+              "media_key": "3_2022590892897673216",
+              "start": 153,
+              "url": "https://t.co/AwvWZH8Qsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022592082368668009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 423,
+                "start": 413,
+                "tag": "imprssion"
+              },
+              {
+                "end": 427,
+                "start": 424,
+                "tag": "流量"
+              },
+              {
+                "end": 431,
+                "start": 428,
+                "tag": "藍V"
+              }
+            ]
+          },
+          "text": "两周22M；最高一天2.8M的impression怎麽来？\n\n对于想要突破5M的蓝V朋友们，下面跟大家分享一下我自己的心得：\n\n从下面的图可以看到我最近一个月的imprssion的量，可以看到有一天我最高有达到2.8M其余几天也都有每天1M左右，下面说的方法每天大概会需要花费四小时以达到2周22M的流量\n\n首先时间点，我自己是每天早上大约7-8；12-13；17-18；23-24这几个时间点，挑几个流量高的大V看他们比较爆流量的推文并且在底下留言；通常一则推留个两到三则回复\n\n再来我会在隔一段时间回去看一下自己的回复流量如何；如果流量不好代表这个大V跟你八字不合比较没办法带来流量；有一些大V的推文很奇怪怎麽回都有流量，所以我就会在他的推文底下几乎每篇都留言\n\n回应的内容也尽量不要乱回，我自己是有稍微设定机器人来帮我快速生成回复，然后再生成后再稍微看一下内容之后再推送；当然也有乱回的时候结局就是在评论区被一堆人骂\n\n#imprssion #流量 #藍V"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两周22M；最高一天2.8M的impression怎麽来？\n\n对于想要突破5M的蓝V朋友们，下面跟大家分享一下我自己的心得：\n\n从下面的图可以看到我最近一个月的imprssion的量，可以看到有一天我最高有达到2.8M其余几天也都有每天1M左右，下面说的方法每天大概会需要花费四小时以达到2周22M的流量 https://t.co/AwvWZH8Qsx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 637,
+          "like_count": 3823,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-23T13:08:34.000Z",
+        "description": "健康｜醫學｜撕糖衣｜拆邏輯｜只談現實｜藍V｜偶爾分享一些有趣的影片",
+        "id": "1364200446080913413",
+        "name": "DIABETE_PANDA",
+        "pinned_tweet_id": "2021868267393196460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897447830480097280/q4Do2mUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 1890,
+          "like_count": 4021,
+          "listed_count": 7,
+          "media_count": 138,
+          "tweet_count": 7722
+        },
+        "username": "andy88988696",
+        "verified": true
+      }
+    ]
+  }
+}

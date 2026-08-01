@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2014668922415636685",
+    "created_at": "2026-01-25T05:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T06:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015293460056883525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1399618092511100929",
+          "start": 0,
+          "username": "ChachaCryptoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015293460056883525",
+    "in_reply_to_user_id": "1399618092511100929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014668922415636685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChachaCryptoX 关了，回一下，一起加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014668913976737794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_WKs_2bAAIZwHs.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2014668922415636685",
+        "created_at": "2026-01-25T05:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T06:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015293460056883525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1399618092511100929",
+              "start": 0,
+              "username": "ChachaCryptoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015293460056883525",
+        "in_reply_to_user_id": "1399618092511100929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014668922415636685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChachaCryptoX 关了，回一下，一起加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014668913976737794"
+          ]
+        },
+        "author_id": "1399618092511100929",
+        "conversation_id": "2014668922415636685",
+        "created_at": "2026-01-23T11:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T12:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014668922415636685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BWzdNmp8f",
+              "end": 50,
+              "expanded_url": "https://x.com/ChachaCryptoX/status/2014668922415636685/photo/1",
+              "media_key": "3_2014668913976737794",
+              "start": 27,
+              "url": "https://t.co/8BWzdNmp8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014668922415636685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6128,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 182,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还差三个蓝V就达成500粉丝标准了，一起增长，加油👏 https://t.co/8BWzdNmp8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心喵(=･ω･=)♡ 和我熟了我会很粘人｜若愿与我靠近，我会真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 162,
+          "like_count": 1558,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-01T06:45:43.000Z",
+        "description": "Building products Breaking systems, Full-stack dev Content Creator | AI & Bitcoin Long-term thinker | ₿ 构建产品, 拆解系统, 全栈开发｜内容创作者｜AI × 比特币 长期主义者 ₿ 出入金业务$",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com/activity/refer…",
+                "end": 23,
+                "expanded_url": "https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00Z4Z6C8UI",
+                "start": 0,
+                "url": "https://t.co/bt4BvgXZW4"
+              }
+            ]
+          }
+        },
+        "id": "1399618092511100929",
+        "location": "Mount Olympus",
+        "name": "Chacha",
+        "pinned_tweet_id": "2012412459001524623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994774849097732096/ou_cOTLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 2730,
+          "like_count": 9767,
+          "listed_count": 8,
+          "media_count": 948,
+          "tweet_count": 7079
+        },
+        "url": "https://t.co/bt4BvgXZW4",
+        "username": "ChachaCryptoX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031239166353354756"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2031239172279968010",
+    "created_at": "2026-03-10T05:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031239172279968010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sPbgH5NeQb",
+          "end": 111,
+          "expanded_url": "https://x.com/axzamyzed/status/2031239172279968010/photo/1",
+          "media_key": "3_2031239166353354756",
+          "start": 88,
+          "url": "https://t.co/sPbgH5NeQb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031239172279968010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到这个我就在想\n下一代小孩子\n会不会看到门上贴的福\n然后开始笑\n\n感觉现在十二三岁的小孩子\n张口闭口网络烂梗\n不管男生女生线上线下\n好多都是开口cnm\n把脏话当逗号用\n…… https://t.co/sPbgH5NeQb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 80,
+        "media_key": "3_2031239166353354756",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBpQoRaMAQOEdQ.jpg",
+        "width": 130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031239166353354756"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2031239172279968010",
+        "created_at": "2026-03-10T05:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031239172279968010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sPbgH5NeQb",
+              "end": 111,
+              "expanded_url": "https://x.com/axzamyzed/status/2031239172279968010/photo/1",
+              "media_key": "3_2031239166353354756",
+              "start": 88,
+              "url": "https://t.co/sPbgH5NeQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031239172279968010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个我就在想\n下一代小孩子\n会不会看到门上贴的福\n然后开始笑\n\n感觉现在十二三岁的小孩子\n张口闭口网络烂梗\n不管男生女生线上线下\n好多都是开口cnm\n把脏话当逗号用\n…… https://t.co/sPbgH5NeQb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 902,
+          "like_count": 6216,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 3578
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

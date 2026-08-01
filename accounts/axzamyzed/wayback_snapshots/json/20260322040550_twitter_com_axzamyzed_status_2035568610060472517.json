@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2035567986078347724",
+    "created_at": "2026-03-22T04:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035568610060472517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1435286041259167753",
+          "start": 0,
+          "username": "Luckyjudy666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035568610060472517",
+    "in_reply_to_user_id": "1435286041259167753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035567986078347724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luckyjudy666 不是需要安装一个微信的插件吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 979,
+        "media_key": "3_2035567964087570432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_KR0ea0AA8wFc.jpg",
+        "width": 825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2035567986078347724",
+        "created_at": "2026-03-22T04:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035568610060472517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1435286041259167753",
+              "start": 0,
+              "username": "Luckyjudy666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035568610060472517",
+        "in_reply_to_user_id": "1435286041259167753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035567986078347724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luckyjudy666 不是需要安装一个微信的插件吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035567964087570432"
+          ]
+        },
+        "author_id": "1435286041259167753",
+        "conversation_id": "2035567986078347724",
+        "created_at": "2026-03-22T04:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035567986078347724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VITdl54iP9",
+              "end": 47,
+              "expanded_url": "https://x.com/Luckyjudy666/status/2035567986078347724/photo/1",
+              "media_key": "3_2035567964087570432",
+              "start": 24,
+              "url": "https://t.co/VITdl54iP9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035567986078347724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我这个云服务小龙虾没有 对接微信 的选项？ https://t.co/VITdl54iP9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2035188782904090938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 917,
+          "like_count": 7150,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 4370
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-07T16:59:48.000Z",
+        "description": "Master of Finance| ex-Deloitte Auditor| Now crypto Trader| Meme Hunter| Founder of Vision Capital| BlueBirds Community 🕊️ | TG: jiamixiaojiucai",
+        "id": "1435286041259167753",
+        "name": "加密小韭菜",
+        "pinned_tweet_id": "2034479279287992829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939182307169996800/XBspOq6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7901,
+          "following_count": 4202,
+          "like_count": 93493,
+          "listed_count": 72,
+          "media_count": 1214,
+          "tweet_count": 33370
+        },
+        "username": "Luckyjudy666",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      }
+    ],
+    "conversation_id": "2015848045850857886",
+    "created_at": "2026-01-27T06:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T07:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016036971202978126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016036971202978126",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015848045850857886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup “平均？平均有什么用？蔡英文和赖清德还平均一个睾丸呢”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1397,
+        "media_key": "3_2015848041778221056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_m7HRNbkAAgUkr.jpg",
+        "width": 1133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          }
+        ],
+        "conversation_id": "2015848045850857886",
+        "created_at": "2026-01-27T06:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016036971202978126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016036971202978126",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015848045850857886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup “平均？平均有什么用？蔡英文和赖清德还平均一个睾丸呢”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015848041778221056"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2015848045850857886",
+        "created_at": "2026-01-26T18:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015848045850857886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvgYoqZaR1",
+              "end": 34,
+              "expanded_url": "https://x.com/jianlvup/status/2015848045850857886/photo/1",
+              "media_key": "3_2015848041778221056",
+              "start": 11,
+              "url": "https://t.co/RvgYoqZaR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015848045850857886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5203,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "平均值易受极端值影响 https://t.co/RvgYoqZaR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 300,
+          "like_count": 1950,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2015570512399974905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16896,
+          "following_count": 1429,
+          "like_count": 75886,
+          "listed_count": 61,
+          "media_count": 2617,
+          "tweet_count": 5725
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

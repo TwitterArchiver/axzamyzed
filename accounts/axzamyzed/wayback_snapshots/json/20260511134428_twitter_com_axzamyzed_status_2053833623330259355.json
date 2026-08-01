@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2053707946207383819",
+    "created_at": "2026-05-11T13:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053833623330259355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897282242483027968",
+          "start": 0,
+          "username": "TheBitGlow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053833623330259355",
+    "in_reply_to_user_id": "1897282242483027968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053829725173526679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheBitGlow 有的学校隔板都没有…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2053707946207383819",
+        "created_at": "2026-05-11T13:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053833623330259355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897282242483027968",
+              "start": 0,
+              "username": "TheBitGlow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053833623330259355",
+        "in_reply_to_user_id": "1897282242483027968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053829725173526679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheBitGlow 有的学校隔板都没有…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897282242483027968",
+        "conversation_id": "2053707946207383819",
+        "created_at": "2026-05-11T13:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053829725173526679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053829725173526679",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053707946207383819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 隔板设置有问题，太暴露隐私了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3249,
+          "following_count": 928,
+          "like_count": 11111,
+          "listed_count": 10,
+          "media_count": 1437,
+          "tweet_count": 6478
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-05T13:50:29.000Z",
+        "description": "💼 白天：金融\\IT圈搬砖，精于Ctrl+C/V\n🐬 晚上：AI\\投资圈漫游，热衷Prompt\n📈 正在探索让 AI 帮助实现“睡后”增长",
+        "id": "1897282242483027968",
+        "name": "BitGlow",
+        "pinned_tweet_id": "2030446080333435041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028426564187328512/dt3UhLVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 2679,
+          "like_count": 12884,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 4189
+        },
+        "username": "TheBitGlow",
+        "verified": true
+      }
+    ]
+  }
+}

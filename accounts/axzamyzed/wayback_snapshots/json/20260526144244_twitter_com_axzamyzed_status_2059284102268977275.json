@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2059280204133249195",
+    "created_at": "2026-05-26T14:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059284102268977275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059284102268977275",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059280204133249195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange 可以，我支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2059280204133249195",
+        "created_at": "2026-05-26T14:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059284102268977275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059284102268977275",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059280204133249195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 可以，我支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806849464386416640",
+        "conversation_id": "2059280204133249195",
+        "created_at": "2026-05-26T14:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059280204133249195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2059161554931900475",
+              "start": 7,
+              "url": "https://t.co/BdwWSTH2qN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059280204133249195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059161554931900475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打一顿面试官 https://t.co/BdwWSTH2qN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3491,
+          "following_count": 949,
+          "like_count": 11851,
+          "listed_count": 11,
+          "media_count": 1835,
+          "tweet_count": 7034
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 y.o.\n尝试不死 | \nbff @maoxian1527 @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "tangeror"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056276486991368192/tMDwIk9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 2736,
+          "like_count": 8548,
+          "listed_count": 4,
+          "media_count": 1174,
+          "tweet_count": 8086
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

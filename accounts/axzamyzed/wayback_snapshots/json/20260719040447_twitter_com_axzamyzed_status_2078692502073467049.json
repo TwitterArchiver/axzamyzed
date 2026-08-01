@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078692490270617601"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2078692502073467049",
+    "created_at": "2026-07-19T04:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078692502073467049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uGsZsW4X6s",
+          "end": 39,
+          "expanded_url": "https://x.com/axzamyzed/status/2078692502073467049/photo/1",
+          "media_key": "3_2078692490270617601",
+          "start": 16,
+          "url": "https://t.co/uGsZsW4X6s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078692502073467049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "医生：没人说上班了还要考历史啊 https://t.co/uGsZsW4X6s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1369,
+        "media_key": "3_2078692490270617601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNj_znfaMAEoi_c.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078692490270617601"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2078692502073467049",
+        "created_at": "2026-07-19T04:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078692502073467049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGsZsW4X6s",
+              "end": 39,
+              "expanded_url": "https://x.com/axzamyzed/status/2078692502073467049/photo/1",
+              "media_key": "3_2078692490270617601",
+              "start": 16,
+              "url": "https://t.co/uGsZsW4X6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078692502073467049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生：没人说上班了还要考历史啊 https://t.co/uGsZsW4X6s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4262,
+          "following_count": 931,
+          "like_count": 14719,
+          "listed_count": 12,
+          "media_count": 3466,
+          "tweet_count": 9274
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

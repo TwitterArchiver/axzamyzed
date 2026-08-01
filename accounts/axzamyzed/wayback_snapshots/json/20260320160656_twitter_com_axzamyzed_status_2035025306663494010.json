@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035025289437474816",
+        "3_2035025289437466624"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2035025306663494010",
+    "created_at": "2026-03-20T16:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T17:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035025306663494010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qZVbLpGq2t",
+          "end": 125,
+          "expanded_url": "https://x.com/axzamyzed/status/2035025306663494010/photo/1",
+          "media_key": "3_2035025289437474816",
+          "start": 102,
+          "url": "https://t.co/qZVbLpGq2t"
+        },
+        {
+          "display_url": "pic.x.com/qZVbLpGq2t",
+          "end": 125,
+          "expanded_url": "https://x.com/axzamyzed/status/2035025306663494010/photo/1",
+          "media_key": "3_2035025289437466624",
+          "start": 102,
+          "url": "https://t.co/qZVbLpGq2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035025306663494010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚开始我还在想到底谁会信这些\n然后我同学前几天问我tg注册要钱怎么办\n倒腾半天把他买的号骗过来登录上收验证码\n我忘记退出登录了\n结果发现这货要tg竟然只是为了…\n嗯，我们现在都管他叫23岁小～哥～哥～😂 https://t.co/qZVbLpGq2t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_2035025289437474816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3ct_3bcAA6zts.jpg",
+        "width": 750
+      },
+      {
+        "height": 314,
+        "media_key": "3_2035025289437466624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3ct_3bUAAJyaI.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035025289437474816",
+            "3_2035025289437466624"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2035025306663494010",
+        "created_at": "2026-03-20T16:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035025306663494010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZVbLpGq2t",
+              "end": 125,
+              "expanded_url": "https://x.com/axzamyzed/status/2035025306663494010/photo/1",
+              "media_key": "3_2035025289437474816",
+              "start": 102,
+              "url": "https://t.co/qZVbLpGq2t"
+            },
+            {
+              "display_url": "pic.x.com/qZVbLpGq2t",
+              "end": 125,
+              "expanded_url": "https://x.com/axzamyzed/status/2035025306663494010/photo/1",
+              "media_key": "3_2035025289437466624",
+              "start": 102,
+              "url": "https://t.co/qZVbLpGq2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035025306663494010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚开始我还在想到底谁会信这些\n然后我同学前几天问我tg注册要钱怎么办\n倒腾半天把他买的号骗过来登录上收验证码\n我忘记退出登录了\n结果发现这货要tg竟然只是为了…\n嗯，我们现在都管他叫23岁小～哥～哥～😂 https://t.co/qZVbLpGq2t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2033059853720236538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 913,
+          "like_count": 6975,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 4267
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

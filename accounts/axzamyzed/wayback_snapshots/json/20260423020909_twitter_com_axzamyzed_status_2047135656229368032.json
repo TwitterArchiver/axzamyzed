@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2047133722881990744",
+    "created_at": "2026-04-23T02:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047135656229368032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047135656229368032",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047133722881990744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 嗯这两天可以降降频率，大概这周发钱的时候差不多就没问题了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 467,
+        "media_key": "3_2047133011641356288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjgoL7b0AAoDie.png",
+        "width": 1649
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047133701780492288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjhQW5bUAA9IDQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2047133722881990744",
+        "created_at": "2026-04-23T02:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047135656229368032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047135656229368032",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047133722881990744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 嗯这两天可以降降频率，大概这周发钱的时候差不多就没问题了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047133011641356288",
+            "3_2047133701780492288"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2047133722881990744",
+        "created_at": "2026-04-23T02:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047133722881990744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlzOvz6Itc",
+              "end": 123,
+              "expanded_url": "https://x.com/TOOBE775/status/2047133722881990744/photo/1",
+              "media_key": "3_2047133011641356288",
+              "start": 100,
+              "url": "https://t.co/PlzOvz6Itc"
+            },
+            {
+              "display_url": "pic.x.com/PlzOvz6Itc",
+              "end": 123,
+              "expanded_url": "https://x.com/TOOBE775/status/2047133722881990744/photo/1",
+              "media_key": "3_2047133701780492288",
+              "start": 100,
+              "url": "https://t.co/PlzOvz6Itc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047133722881990744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "兄弟姐妹们大家好啊，美好的一天又开始了！🌞☀️\n\n昨天发的早安帖流量断崖下跌，感觉不好，怕是被限制了。又发了几个帖子试试，果然被老马宠幸了~~~😭😭\n\n果断关闭电脑，去做我这段时间推迟了很久的事情。\n\n先自己驾车到省心脑血管中心复查，确定身体状态目前还不错。跟医生聊了一会，约了下次吃饭时间。🤝\n\n回家后打开电视，看了两部电影。一部郭达.斯坦森的《庇护之地》，一部连姆.尼森大爷的《极速营救》。\n\n这两部片子早就想看了，但这段时间忙着X平台的事情，一直没来得及看，今天终于如愿了。\n\n虽然不知道为啥又遭到限制了，但这回感谢X平台，治疗了我的拖延症，度过了美好又充实的一天。😛\n\n就像医生朋友说的，你现在最好学会控制情绪，不要有太大波动。我说我已经学会了阿Q似的自嘲能力，朋友大笑说好~~~😁😆\n\n凡事都有两面性，我们要学会摒弃不好的负面，去看它好的一面。既然都已经这样的结果了，生气也没用，也不会改变什么。那不如坦然接受，用自嘲化解怨气。\n\n总之一句话，多给内心抚慰，少给添堵。\n\n所以每天都是美好的一天，加油吧，我的兄弟姐妹们！💪💪"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟姐妹们大家好啊，美好的一天又开始了！🌞☀️\n\n昨天发的早安帖流量断崖下跌，感觉不好，怕是被限制了。又发了几个帖子试试，果然被老马宠幸了~~~😭😭\n\n果断关闭电脑，去做我这段时间推迟了很久的事情。 https://t.co/PlzOvz6Itc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 864,
+          "like_count": 9839,
+          "listed_count": 8,
+          "media_count": 964,
+          "tweet_count": 5767
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2039160301560709442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2873,
+          "following_count": 1960,
+          "like_count": 21315,
+          "listed_count": 8,
+          "media_count": 439,
+          "tweet_count": 16782
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

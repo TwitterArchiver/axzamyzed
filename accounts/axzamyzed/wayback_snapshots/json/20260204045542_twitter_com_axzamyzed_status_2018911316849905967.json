@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "1879898659191681195",
+    "created_at": "2026-02-04T04:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018911316849905967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018911316849905967",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879898659191681195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 欲加之罪 何患无辞"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74676,
+        "height": 1280,
+        "media_key": "7_1879898436872572928",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1879898436872572928/pu/img/ELg2j6zcdM5-yaKK.jpg",
+        "public_metrics": {
+          "view_count": 107819
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879898436872572928/pu/vid/avc1/320x568/ZDn08ANLb8rUZC0B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879898436872572928/pu/vid/avc1/480x852/xzFfVct1BToct_-E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879898436872572928/pu/vid/avc1/720x1280/3I_kR8He32J8qb61.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1879898436872572928/pu/pl/Puro-UUQgI0P2t1f.m3u8?tag=12&v=662"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1183,
+        "media_key": "3_1879898445127032832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gha9rPubIAAETK2.jpg",
+        "width": 690
+      },
+      {
+        "duration_ms": 164188,
+        "height": 1272,
+        "media_key": "7_1879898469336547328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1879898469336547328/pu/img/9rJ29LMlTzysopgF.jpg",
+        "public_metrics": {
+          "view_count": 4186
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879898469336547328/pu/vid/avc1/320x564/3mZOdghYXlL0qh6m.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879898469336547328/pu/vid/avc1/480x848/xodUrUhQA9CyTUdb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879898469336547328/pu/vid/avc1/720x1272/qWvXTn4IidEvZ583.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1879898469336547328/pu/pl/jeWygR9IcRCF79cV.m3u8?tag=12&v=8c5"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 990,
+        "media_key": "3_1879898488882028544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gha9tyubYAAj-oI.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "1879898659191681195",
+        "created_at": "2026-02-04T04:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018911316849905967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018911316849905967",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879898659191681195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 欲加之罪 何患无辞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1879898436872572928",
+            "3_1879898445127032832",
+            "7_1879898469336547328",
+            "3_1879898488882028544"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1879898659191681195",
+        "created_at": "2025-01-16T14:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T15:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879898659191681195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILOcQhIEM1",
+              "end": 94,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1879898659191681195/video/1",
+              "media_key": "7_1879898436872572928",
+              "start": 71,
+              "url": "https://t.co/ILOcQhIEM1"
+            },
+            {
+              "display_url": "pic.x.com/ILOcQhIEM1",
+              "end": 94,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1879898659191681195/video/1",
+              "media_key": "3_1879898445127032832",
+              "start": 71,
+              "url": "https://t.co/ILOcQhIEM1"
+            },
+            {
+              "display_url": "pic.x.com/ILOcQhIEM1",
+              "end": 94,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1879898659191681195/video/1",
+              "media_key": "7_1879898469336547328",
+              "start": 71,
+              "url": "https://t.co/ILOcQhIEM1"
+            },
+            {
+              "display_url": "pic.x.com/ILOcQhIEM1",
+              "end": 94,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1879898659191681195/video/1",
+              "media_key": "3_1879898488882028544",
+              "start": 71,
+              "url": "https://t.co/ILOcQhIEM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879898659191681195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1月15日，湖北黄石。女子发视频，称多次被政府人员强制送进精神病院，黄石市精神病医院为为骗取国家医疗补贴，伪造签名和病例，将正常人非法关押。\n 女子发布的《住院情况说明》显示：女子刘清香出院后每天在网上上访，发投诉信，政府部门无奈强制将其送入医院，收入院后等待家属作进一步同意知情，在院期间没进行治疗，16 点左右政府工作人员及家属将其接出院。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 259804,
+          "like_count": 1007,
+          "quote_count": 12,
+          "reply_count": 72,
+          "retweet_count": 244
+        },
+        "reply_settings": "everyone",
+        "text": "1月15日，湖北黄石。女子发视频，称多次被政府人员强制送进精神病院，黄石市精神病医院为为骗取国家医疗补贴，伪造签名和病例，将正常人非法关押。 https://t.co/ILOcQhIEM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 500,
+          "like_count": 3075,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1655
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192282,
+          "following_count": 1014,
+          "like_count": 8913,
+          "listed_count": 8547,
+          "media_count": 41021,
+          "tweet_count": 48005
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

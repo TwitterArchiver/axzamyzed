@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2052776681266425996",
+    "created_at": "2026-05-08T16:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052782714160320721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 19,
+          "id": "1893167873209856000",
+          "start": 11,
+          "username": "mxyzcdb"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Are you shadowbanned on Twitter?",
+          "display_url": "shadowban.yuzurisa.com",
+          "end": 57,
+          "expanded_url": "https://shadowban.yuzurisa.com",
+          "start": 34,
+          "status": 200,
+          "title": "Twitter Shadowban Test",
+          "unwound_url": "https://shadowban.yuzurisa.com",
+          "url": "https://t.co/indtsUntbJ"
+        },
+        {
+          "description": "You can check if your X account is shadowbanned and if your latest 20 posts are hidden.",
+          "display_url": "x-shadowban-checker.fia-s.com",
+          "end": 82,
+          "expanded_url": "https://x-shadowban-checker.fia-s.com/",
+          "start": 59,
+          "status": 200,
+          "title": "Shadowban Checker F",
+          "unwound_url": "https://x-shadowban-checker.fia-s.com/",
+          "url": "https://t.co/NyuqHOPXvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052782714160320721",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052781835609166161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka @mxyzcdb 我服了我的回复全被隐藏了\n\nhttps://t.co/indtsUntbJ\n\nhttps://t.co/NyuqHOPXvQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2052776681266425996",
+        "created_at": "2026-05-08T16:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052782714160320721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 19,
+              "id": "1893167873209856000",
+              "start": 11,
+              "username": "mxyzcdb"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Are you shadowbanned on Twitter?",
+              "display_url": "shadowban.yuzurisa.com",
+              "end": 57,
+              "expanded_url": "https://shadowban.yuzurisa.com",
+              "start": 34,
+              "status": 200,
+              "title": "Twitter Shadowban Test",
+              "unwound_url": "https://shadowban.yuzurisa.com",
+              "url": "https://t.co/indtsUntbJ"
+            },
+            {
+              "description": "You can check if your X account is shadowbanned and if your latest 20 posts are hidden.",
+              "display_url": "x-shadowban-checker.fia-s.com",
+              "end": 82,
+              "expanded_url": "https://x-shadowban-checker.fia-s.com/",
+              "start": 59,
+              "status": 200,
+              "title": "Shadowban Checker F",
+              "unwound_url": "https://x-shadowban-checker.fia-s.com/",
+              "url": "https://t.co/NyuqHOPXvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052782714160320721",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052781835609166161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @mxyzcdb 我服了我的回复全被隐藏了\n\nhttps://t.co/indtsUntbJ\n\nhttps://t.co/NyuqHOPXvQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2052776681266425996",
+        "created_at": "2026-05-08T16:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052781835609166161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893167873209856000",
+              "start": 0,
+              "username": "mxyzcdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052781835609166161",
+        "in_reply_to_user_id": "1893167873209856000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052776681266425996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxyzcdb 这个网站链接是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 923,
+          "like_count": 10895,
+          "listed_count": 10,
+          "media_count": 1362,
+          "tweet_count": 6350
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "家长党"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "MTF"
+              },
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "HRT"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "Les"
+              },
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "双相"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ADHD"
+              },
+              {
+                "end": 143,
+                "start": 137,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8267,
+          "following_count": 2189,
+          "like_count": 29147,
+          "listed_count": 27,
+          "media_count": 1215,
+          "tweet_count": 4844
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mxyzcdb_chatbot",
+                "end": 23,
+                "expanded_url": "https://t.me/mxyzcdb_chatbot",
+                "start": 0,
+                "url": "https://t.co/rpnd1q3uqu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "pinned_tweet_id": "2048978988438011994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 392,
+          "like_count": 5222,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 2498
+        },
+        "url": "https://t.co/rpnd1q3uqu",
+        "username": "mxyzcdb",
+        "verified": true
+      }
+    ]
+  }
+}

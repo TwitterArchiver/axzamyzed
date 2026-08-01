@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2037712576877146437",
+    "created_at": "2026-03-28T02:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037713680389796003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037713680389796003",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037712576877146437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 你第一期有35就不错了，我第一期都直接低于最低付款金额"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2037709866752679936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdmU9saIAAW-Sl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037712569964847104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdoyT8aYAA53H_.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2037712576877146437",
+        "created_at": "2026-03-28T02:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037713680389796003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037713680389796003",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037712576877146437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 你第一期有35就不错了，我第一期都直接低于最低付款金额"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037709866752679936",
+            "3_2037712569964847104"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2037712576877146437",
+        "created_at": "2026-03-28T02:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037712576877146437"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 114,
+              "tag": "灰度社会观察"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "流量笔记"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d9tWrbCK0C",
+              "end": 151,
+              "expanded_url": "https://x.com/TOOBE775/status/2037712576877146437/photo/1",
+              "media_key": "3_2037709866752679936",
+              "start": 128,
+              "url": "https://t.co/d9tWrbCK0C"
+            },
+            {
+              "display_url": "pic.x.com/d9tWrbCK0C",
+              "end": 151,
+              "expanded_url": "https://x.com/TOOBE775/status/2037712576877146437/photo/1",
+              "media_key": "3_2037712569964847104",
+              "start": 128,
+              "url": "https://t.co/d9tWrbCK0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037712576877146437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，这钱数不对啊！\n不应该27万吗？\n怎么就给了35呢？\n算了，先放老马那里，\n等啥时候心情好再给我吧！\n首先感谢兄弟姐妹们的支持！\n终于给老马个机会，\n让他成为我的老板。\n也感谢自己的努力，\n付出终于有了35美元的回报！\n#灰度社会观察 #流量笔记 https://t.co/d9tWrbCK0C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 927,
+          "like_count": 7671,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 4614
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2037380034592428051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 1843,
+          "like_count": 9039,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 7631
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

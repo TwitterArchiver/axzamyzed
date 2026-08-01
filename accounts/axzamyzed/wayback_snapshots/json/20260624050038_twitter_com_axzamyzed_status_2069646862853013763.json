@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2069632864145330182",
+    "created_at": "2026-06-24T05:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069646862853013763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1736678245544919040",
+          "start": 0,
+          "username": "PengjianZ5710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069646862853013763",
+    "in_reply_to_user_id": "1736678245544919040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069632864145330182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PengjianZ5710 看看分行代码和银行码有没有写错，按理来说hkd的应该已经到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_2069632276544045057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjPlxMXQAE0-Dg.jpg",
+        "width": 1329
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2069632864145330182",
+        "created_at": "2026-06-24T05:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069646862853013763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1736678245544919040",
+              "start": 0,
+              "username": "PengjianZ5710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069646862853013763",
+        "in_reply_to_user_id": "1736678245544919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069632864145330182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PengjianZ5710 看看分行代码和银行码有没有写错，按理来说hkd的应该已经到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069632276544045057"
+          ]
+        },
+        "author_id": "1736678245544919040",
+        "conversation_id": "2069632864145330182",
+        "created_at": "2026-06-24T04:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:04:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069632792926011699",
+          "2069632864145330182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r1x0MZWxs1",
+              "end": 62,
+              "expanded_url": "https://x.com/PengjianZ5710/status/2069632864145330182/photo/1",
+              "media_key": "3_2069632276544045057",
+              "start": 39,
+              "url": "https://t.co/r1x0MZWxs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069632864145330182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们有没有遇到这种情况的？\n\n向WISE提款成功，wise这边一直没收到。 https://t.co/r1x0MZWxs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3868,
+          "following_count": 923,
+          "like_count": 13359,
+          "listed_count": 10,
+          "media_count": 2831,
+          "tweet_count": 8275
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-18T09:22:36.000Z",
+        "description": "1、海军陆战队退役，军人品质保持初心。遨游在web圈10年，日常记录所思所想、交易策略和投资研究 ，价值输出，实事求是，不割韭菜。\n\n2、你我本身平等，关注我的我会回关，双向奔赴，共赴星辰大海。\n希望乘着web3这波红利，大家一起成长，成财。\n\n3、男人四十，不惧风浪，重新起航，不过尔尔。",
+        "id": "1736678245544919040",
+        "name": "沧海老张",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996114609380724736/9RIb0PAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13273,
+          "following_count": 11986,
+          "like_count": 31670,
+          "listed_count": 20,
+          "media_count": 587,
+          "tweet_count": 17106
+        },
+        "url": "",
+        "username": "PengjianZ5710",
+        "verified": true
+      }
+    ]
+  }
+}

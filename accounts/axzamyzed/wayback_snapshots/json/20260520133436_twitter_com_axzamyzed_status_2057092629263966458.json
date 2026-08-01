@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057092617087938560"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2057092629263966458",
+    "created_at": "2026-05-20T13:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:34:17.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057092550989947024",
+      "2057092629263966458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZKJGB8WWz1",
+          "end": 30,
+          "expanded_url": "https://x.com/axzamyzed/status/2057092629263966458/photo/1",
+          "media_key": "3_2057092617087938560",
+          "start": 7,
+          "url": "https://t.co/ZKJGB8WWz1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057092629263966458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要欺负鼠鼠 https://t.co/ZKJGB8WWz1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1502,
+        "media_key": "3_2057092617087938560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxC1hea8AAeTi3.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057092539208130560"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2057092550989947024",
+        "created_at": "2026-05-20T13:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:34:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057092550989947024",
+          "2057092629263966458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WWnx5aI9A",
+              "end": 30,
+              "expanded_url": "https://x.com/axzamyzed/status/2057092550989947024/photo/1",
+              "media_key": "3_2057092539208130560",
+              "start": 7,
+              "url": "https://t.co/3WWnx5aI9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057092550989947024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要欺负鼠鼠 https://t.co/3WWnx5aI9A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057092617087938560"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2057092629263966458",
+        "created_at": "2026-05-20T13:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:34:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057092550989947024",
+          "2057092629263966458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZKJGB8WWz1",
+              "end": 30,
+              "expanded_url": "https://x.com/axzamyzed/status/2057092629263966458/photo/1",
+              "media_key": "3_2057092617087938560",
+              "start": 7,
+              "url": "https://t.co/ZKJGB8WWz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057092629263966458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要欺负鼠鼠 https://t.co/ZKJGB8WWz1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3442,
+          "following_count": 941,
+          "like_count": 11499,
+          "listed_count": 10,
+          "media_count": 1664,
+          "tweet_count": 6778
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

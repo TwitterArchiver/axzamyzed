@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2025202240437584360",
+    "created_at": "2026-02-21T13:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025204304181666064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830775691375218688",
+          "start": 0,
+          "username": "YunoQiu56649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025204304181666064",
+    "in_reply_to_user_id": "1830775691375218688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "抱抱～哭一哭也好呢，只要还在哭就还有得救，只要哭就有哭完的时候\n不管遇到什么事情都要好好的哦，别人对你不好那是他们的问题，你做好自己，无愧于自己就已经够了呢，只要无愧于本心，就已经很好了呢\n虽然我不明白发生了什么，但你在我眼里都超棒的哦\n只要活着就已经是圆满的完成任务了呢，其他的事情嘛，都是支线任务啦，高兴了就去做，不高兴就不做嘛\n如果离开了，那他们就胜利了，人活在世不争馒头争口气，他们这样对你，怎么能这样就算了呢😡\n答应我，好好地过下去好嘛，做一些让自己开心的事情就好啦"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025202240437584360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunoQiu56649 抱抱～哭一哭也好呢，只要还在哭就还有得救，只要哭就有哭完的时候\n不管遇到什么事情都要好好的哦，别人对你不好那是他们的问题，你做好自己，无愧于自己就已经够了呢，只要无愧于本心，就已经很好了呢\n虽然我不明白发生了什么，但你在我眼里都超棒的哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2025202240437584360",
+        "created_at": "2026-02-21T13:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025204304181666064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830775691375218688",
+              "start": 0,
+              "username": "YunoQiu56649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025204304181666064",
+        "in_reply_to_user_id": "1830775691375218688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "抱抱～哭一哭也好呢，只要还在哭就还有得救，只要哭就有哭完的时候\n不管遇到什么事情都要好好的哦，别人对你不好那是他们的问题，你做好自己，无愧于自己就已经够了呢，只要无愧于本心，就已经很好了呢\n虽然我不明白发生了什么，但你在我眼里都超棒的哦\n只要活着就已经是圆满的完成任务了呢，其他的事情嘛，都是支线任务啦，高兴了就去做，不高兴就不做嘛\n如果离开了，那他们就胜利了，人活在世不争馒头争口气，他们这样对你，怎么能这样就算了呢😡\n答应我，好好地过下去好嘛，做一些让自己开心的事情就好啦"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025202240437584360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunoQiu56649 抱抱～哭一哭也好呢，只要还在哭就还有得救，只要哭就有哭完的时候\n不管遇到什么事情都要好好的哦，别人对你不好那是他们的问题，你做好自己，无愧于自己就已经够了呢，只要无愧于本心，就已经很好了呢\n虽然我不明白发生了什么，但你在我眼里都超棒的哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830775691375218688",
+        "conversation_id": "2025202240437584360",
+        "created_at": "2026-02-21T13:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025202240437584360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025202240437584360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在哭 我好难受 我究竟做错了什么 为什么要这么对我 都是我的错我就不该活着 只有我死了才能恢复正常是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 785,
+          "like_count": 4514,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 2485
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo求求了喵~🥺｜除了初始头像外无视成分回fo🤓锁推的回不了喵｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜中焦 中抑｜如果感觉我的言论冒犯到了你 请和我说 我道歉🥹｜给这当QQ空间用了 QQ不能说的在这说 记录日常喵(负能量慎入)💤｜看我的帖不喜勿喷，喷我也要发😋",
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2008910689658966299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 1104,
+          "like_count": 4615,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 7564
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2045121411333972254",
+    "created_at": "2026-04-17T13:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045133228881957296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1723588608425402368",
+          "start": 0,
+          "username": "mmk_btc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045133228881957296",
+    "in_reply_to_user_id": "1723588608425402368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045121411333972254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmk_btc 历史遗留问题吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045121397601796096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG7E1qbAAA6rlM.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2045121411333972254",
+        "created_at": "2026-04-17T13:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045133228881957296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1723588608425402368",
+              "start": 0,
+              "username": "mmk_btc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045133228881957296",
+        "in_reply_to_user_id": "1723588608425402368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045121411333972254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmk_btc 历史遗留问题吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045121397601796096"
+          ]
+        },
+        "author_id": "1723588608425402368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045121411333972254",
+        "created_at": "2026-04-17T12:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045121411333972254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWVmz6SNp5",
+              "end": 41,
+              "expanded_url": "https://x.com/mmk_btc/status/2045121411333972254/photo/1",
+              "media_key": "3_2045121397601796096",
+              "start": 18,
+              "url": "https://t.co/wWVmz6SNp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045121411333972254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这酒店设置的房卡进楼层的意义在哪😥 https://t.co/wWVmz6SNp5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 874,
+          "like_count": 9298,
+          "listed_count": 7,
+          "media_count": 849,
+          "tweet_count": 5563
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-12T06:28:53.000Z",
+        "description": "Vaulta & exSat Asia BD Lead\n\n🌏 链接亚洲顶级 BTC 生态资源。 💎 100 ETH 长期持仓。\n\n业务合作/商务对接 (DM Open) 👇 ✈️ @mmk7891 🟢 btc30Wd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 90,
+                "username": "mmk7891"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D4BKlzPmEWI2Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D4BKlzPmEWI2ZTdl",
+                "start": 0,
+                "url": "https://t.co/N9HIJKFyFL"
+              }
+            ]
+          }
+        },
+        "id": "1723588608425402368",
+        "name": "MMK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993901399575547911/tNtzDz-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5211,
+          "following_count": 1151,
+          "like_count": 5432,
+          "listed_count": 16,
+          "media_count": 687,
+          "tweet_count": 4354
+        },
+        "url": "https://t.co/N9HIJKFyFL",
+        "username": "mmk_btc",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2020649074773664068",
+    "created_at": "2026-02-09T01:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T02:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020665653150302431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1672419552666460160",
+          "start": 0,
+          "username": "lixinbao_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020665653150302431",
+    "in_reply_to_user_id": "1672419552666460160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020649074773664068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lixinbao_X 中国大陆app语言改成英文广告就少了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2020649074773664068",
+        "created_at": "2026-02-09T01:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T02:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020665653150302431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1672419552666460160",
+              "start": 0,
+              "username": "lixinbao_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020665653150302431",
+        "in_reply_to_user_id": "1672419552666460160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020649074773664068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lixinbao_X 中国大陆app语言改成英文广告就少了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672419552666460160",
+        "conversation_id": "2020649074773664068",
+        "created_at": "2026-02-09T00:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T01:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020649074773664068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020649074773664068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么海外的 APP 都没有开屏广告？但是中国大陆的 APP，基本上除了微信之外都有开屏广告，包括 TikTok。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 581,
+          "like_count": 3373,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-24T01:41:28.000Z",
+        "description": "原金融从业者，现在基本全职自媒体人，使用AI技术赋能，2025年5月份到现在粉丝从零涨到：微信视频号35万，抖音17万，B站1.5万，小红书5万。百度1万，快手及其他加总还有一万左右。全网粉丝数破60万。 我会在这里分享我作品，及相关制作经验技巧和心得。",
+        "id": "1672419552666460160",
+        "location": "Beijing",
+        "name": "李新宝（持续互关）",
+        "pinned_tweet_id": "2013827555514892722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823246478170836992/JMZpWqoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6416,
+          "following_count": 5132,
+          "like_count": 14404,
+          "listed_count": 15,
+          "media_count": 1556,
+          "tweet_count": 18130
+        },
+        "username": "lixinbao_X",
+        "verified": true
+      }
+    ]
+  }
+}

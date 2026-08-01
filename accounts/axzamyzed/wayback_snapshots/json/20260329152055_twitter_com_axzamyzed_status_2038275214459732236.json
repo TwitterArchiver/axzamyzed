@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038275214459732236",
+    "created_at": "2026-03-29T15:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038275214459732236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1732724006787420160",
+          "start": 3,
+          "username": "Venti718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038275214459732236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038270815091986766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Venti718: 上班工资是不是公司调用你这个模型的费用\n模型参数越大  token价格越高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038275214459732236",
+        "created_at": "2026-03-29T15:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038275214459732236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1732724006787420160",
+              "start": 3,
+              "username": "Venti718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038275214459732236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038270815091986766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Venti718: 上班工资是不是公司调用你这个模型的费用\n模型参数越大  token价格越高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732724006787420160",
+        "conversation_id": "2038270815091986766",
+        "created_at": "2026-03-29T15:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038270815091986766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038270815091986766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上班工资是不是公司调用你这个模型的费用\n模型参数越大  token价格越高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 935,
+          "like_count": 7936,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 4754
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "高二牲/友跨/简中/繁中/English/蓝v互fo 看到马上回/Ciallo～",
+        "id": "1732724006787420160",
+        "location": "Tianjin",
+        "name": "澪老师不是零老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 1992,
+          "like_count": 18351,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 5618
+        },
+        "username": "Venti718",
+        "verified": false
+      }
+    ]
+  }
+}

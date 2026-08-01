@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2058873619883958347",
+    "created_at": "2026-05-25T13:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058896793732300815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058896793732300815",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058889148539494693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2058873619883958347",
+        "created_at": "2026-05-25T13:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058896793732300815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058896793732300815",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058889148539494693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844025283676094464",
+        "conversation_id": "2058873619883958347",
+        "created_at": "2026-05-25T12:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058889148539494693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058889148539494693",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058873619883958347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 这不是旱厕么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3470,
+          "following_count": 950,
+          "like_count": 11743,
+          "listed_count": 11,
+          "media_count": 1787,
+          "tweet_count": 6953
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "独立社会研究员，一个理想主义的小说家，喜欢AI绘图的乐子人，头像为OC角色，防失联小号@yexinstory YouTube频道同名，搜索“枫糖小猫”，分享我的独立观点和观察到的社会百态https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "yexinstory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 116,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 93,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "2054950564195422309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021092251036942337/Y-kSi9A8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16235,
+          "following_count": 2342,
+          "like_count": 13397,
+          "listed_count": 101,
+          "media_count": 6796,
+          "tweet_count": 25695
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2014684546294546931",
+    "created_at": "2026-01-23T13:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T14:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014686582721413131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014686582721413131",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014684546294546931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 到最后可能变成初中也得只考语文数学…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_2014616720342917120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VbO7aaIAA3UmL.jpg",
+        "width": 1017
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2014616759995920384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VbRPIa8AA6jO7.jpg",
+        "width": 1218
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2014616802383511552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VbTtCaQAAsPbf.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2014616866136981508",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VbXaibAAQEdE9.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2014684546294546931",
+        "created_at": "2026-01-23T13:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014686582721413131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014686582721413131",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014684546294546931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 到最后可能变成初中也得只考语文数学…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014616720342917120",
+            "3_2014616759995920384",
+            "3_2014616802383511552",
+            "3_2014616866136981508"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2014684546294546931",
+        "created_at": "2026-01-23T13:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014684546294546931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzrWV7FdyW",
+              "end": 96,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014684546294546931/photo/1",
+              "media_key": "3_2014616720342917120",
+              "start": 73,
+              "url": "https://t.co/CzrWV7FdyW"
+            },
+            {
+              "display_url": "pic.x.com/CzrWV7FdyW",
+              "end": 96,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014684546294546931/photo/1",
+              "media_key": "3_2014616759995920384",
+              "start": 73,
+              "url": "https://t.co/CzrWV7FdyW"
+            },
+            {
+              "display_url": "pic.x.com/CzrWV7FdyW",
+              "end": 96,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014684546294546931/photo/1",
+              "media_key": "3_2014616802383511552",
+              "start": 73,
+              "url": "https://t.co/CzrWV7FdyW"
+            },
+            {
+              "display_url": "pic.x.com/CzrWV7FdyW",
+              "end": 96,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014684546294546931/photo/1",
+              "media_key": "3_2014616866136981508",
+              "start": 73,
+              "url": "https://t.co/CzrWV7FdyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014684546294546931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2259,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "上海部分中小学取消了英语的期末考试\n|网友投稿：上海多所中小学接到上级教育部门通知，将取消部分年级的英语期末考试安排，调整为只考语文和数学两科。 https://t.co/CzrWV7FdyW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 90,
+          "like_count": 1365,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184942,
+          "following_count": 1004,
+          "like_count": 8836,
+          "listed_count": 8519,
+          "media_count": 40549,
+          "tweet_count": 47509
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

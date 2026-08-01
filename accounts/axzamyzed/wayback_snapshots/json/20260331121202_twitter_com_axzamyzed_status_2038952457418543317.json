@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038950357389181096",
+    "created_at": "2026-03-31T12:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038952457418543317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Yujiudu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038952457418543317",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038951897047195826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yujiudu 最最最起码前两个不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038950357389181096",
+        "created_at": "2026-03-31T12:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038952457418543317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Yujiudu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038952457418543317",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038951897047195826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yujiudu 最最最起码前两个不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593799138893873152",
+        "conversation_id": "2038950357389181096",
+        "created_at": "2026-03-31T12:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038951897047195826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038951897047195826",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038950357389181096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 这不是生物学遗传里的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 928,
+          "like_count": 8039,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 4824
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役  欢迎私信找我交朋友\n买🍬可以找找@Minokakay\n推荐我自己长期使用的动兔VPN加速器https://t.co/vWxMasEtB8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dongtu2.sobotx.com/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://dongtu2.sobotx.com/#/register?code=UX4wscAS",
+                "start": 71,
+                "url": "https://t.co/vWxMasEtB8"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 1948,
+          "like_count": 46145,
+          "listed_count": 7,
+          "media_count": 1210,
+          "tweet_count": 8955
+        },
+        "username": "Yujiudu",
+        "verified": true
+      }
+    ]
+  }
+}

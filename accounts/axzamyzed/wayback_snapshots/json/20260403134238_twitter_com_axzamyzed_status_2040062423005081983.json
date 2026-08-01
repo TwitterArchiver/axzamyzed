@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040062344143720448"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2040062423005081983",
+    "created_at": "2026-04-03T13:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T14:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040062423005081983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xkhC4nCsjb",
+          "end": 45,
+          "expanded_url": "https://x.com/axzamyzed/status/2040062423005081983/video/1",
+          "media_key": "13_2040062344143720448",
+          "start": 22,
+          "url": "https://t.co/xkhC4nCsjb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040062423005081983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你想要的东西有时你已经得到啦\n要珍惜当下哦 https://t.co/xkhC4nCsjb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16638,
+        "height": 510,
+        "media_key": "13_2040062344143720448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040062344143720448/img/SLN7iJTySiNq84qw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040062344143720448/vid/avc1/396x270/LWcLM5LxAiBKnIzn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040062344143720448/vid/avc1/528x360/2ExfUrgC0XlmkylB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040062344143720448/vid/avc1/748x510/Z7QJfiTFEAbrkOF0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040062344143720448/pl/j2xRuEF0rEN3jNZV.m3u8"
+          }
+        ],
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040062344143720448"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040062423005081983",
+        "created_at": "2026-04-03T13:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040062423005081983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkhC4nCsjb",
+              "end": 45,
+              "expanded_url": "https://x.com/axzamyzed/status/2040062423005081983/video/1",
+              "media_key": "13_2040062344143720448",
+              "start": 22,
+              "url": "https://t.co/xkhC4nCsjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040062423005081983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你想要的东西有时你已经得到啦\n要珍惜当下哦 https://t.co/xkhC4nCsjb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 932,
+          "like_count": 8289,
+          "listed_count": 3,
+          "media_count": 573,
+          "tweet_count": 4978
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2030237021093163320",
+    "created_at": "2026-03-07T11:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030241468284301723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030241468284301723",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030237021093163320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI 叫x总觉得有歧义，推特就没有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2028345228420423680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYhPRXboAADLgS.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2030237021093163320",
+        "created_at": "2026-03-07T11:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030241468284301723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030241468284301723",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030237021093163320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 叫x总觉得有歧义，推特就没有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028345228420423680"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2030237021093163320",
+        "created_at": "2026-03-07T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030237021093163320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCRYf8jdly",
+              "end": 47,
+              "expanded_url": "https://x.com/BI3BXI/status/2030237021093163320/photo/1",
+              "media_key": "3_2028345228420423680",
+              "start": 24,
+              "url": "https://t.co/KCRYf8jdly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030237021093163320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xitter\n\n这玩意早就不是twitter了 https://t.co/KCRYf8jdly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 942,
+          "like_count": 6080,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只Enby🏳️‍⚧️｜有法律问题可以问我～｜在创业｜AI/ML在修｜本体@yqua_｜QQ小群链接：https://t.co/9ZD7jPC8bX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 41,
+                "username": "yqua_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 78,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 55,
+                "url": "https://t.co/9ZD7jPC8bX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "军粮城北站",
+        "name": "你是要气死铨酱么（淡推中）",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7818,
+          "following_count": 3570,
+          "like_count": 33304,
+          "listed_count": 20,
+          "media_count": 1854,
+          "tweet_count": 6981
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

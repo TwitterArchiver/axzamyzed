@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028283657627287789",
+    "created_at": "2026-03-02T13:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T14:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028468858823336323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965448764686303235",
+          "start": 0,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028468858823336323",
+    "in_reply_to_user_id": "1965448764686303235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "非常非常感谢您的宝贵建议，您的反馈对我们改进工作具有重要意义。首先，由于我个人设置的问题，未能及时查看到您的引用信息，在此向您致以诚挚的歉意。为确保后续能够及时关注您的评价，我已关注您，并将密切跟进您的意见。\n以下是针对您提出建议的回复，请查阅：\n1. 关于应用化问题：目前项目的计算逻辑几乎全部集中在前端，若完全重新开发为独立应用，成本较高且性价比不高。项目现已支持PWA，用户可以直接安装使用，若主要需求是提醒功能，建议使用相关提醒类应用可能更为合适。我们会考虑允许用户自行设置推送逻辑的功能，以提升应用体验。\n2. 关于自动缺省功能：您提出的建议非常中肯，此前确实未充分考虑该功能的重要性。我们也认为可以显著提升用户操作效率，预计很快上线，请您持续关注。\n3. 关于数学模型及医学相关问题：我们的数学模型是该项目独立于其他版本的核心特色之一，这也是我们引以为傲的地方。然而您提到的SRS后数据较少等问题确实存在挑战，尤其涉及到医学推荐用量等方面。这部分内容需谨慎处理，以避免因非医学严谨模型导致潜在误导。项目的目标在于提供估算数据，而非医学决策工具，我们将继续对此进行研究与评估。\n4. 关于视觉设计及无障碍相关问题：在页面设计方面，我们确实存在考虑不周之处，仅选择了我个人认为较为美观的样式，忽视了视觉障碍群体的需求及无障碍功能的优化。在此向您表示歉意，我们将积极调整设计，确保页面对更多用户更加友好。\n5. 关于计算逻辑及性能权衡：正如前述，目前项目的大量计算集中在前端，旨在减少服务器后端负担并提升整体效率。由于计算压力集中在前端，为了保障用户体验，我们需在复杂计算与性能之间进行权衡。后续将继续优化相关逻辑，力求在精度与性能之间找到更好的平衡点。\n最后，看到您主页中的相关动态，我们衷心祝愿您早日康复出院！再次感谢您对我们项目的关注与支持，期待与您保持沟通，共同进步！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028292018506785041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_negimeow 非常非常感谢您的宝贵建议，您的反馈对我们改进工作具有重要意义。首先，由于我个人设置的问题，未能及时查看到您的引用信息，在此向您致以诚挚的歉意。为确保后续能够及时关注您的评价，我已关注您，并将密切跟进您的意见。\n以下是针对您提出建议的回复，请查阅：\n1."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028283657627287789",
+        "created_at": "2026-03-02T13:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028468858823336323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965448764686303235",
+              "start": 0,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028468858823336323",
+        "in_reply_to_user_id": "1965448764686303235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "非常非常感谢您的宝贵建议，您的反馈对我们改进工作具有重要意义。首先，由于我个人设置的问题，未能及时查看到您的引用信息，在此向您致以诚挚的歉意。为确保后续能够及时关注您的评价，我已关注您，并将密切跟进您的意见。\n以下是针对您提出建议的回复，请查阅：\n1. 关于应用化问题：目前项目的计算逻辑几乎全部集中在前端，若完全重新开发为独立应用，成本较高且性价比不高。项目现已支持PWA，用户可以直接安装使用，若主要需求是提醒功能，建议使用相关提醒类应用可能更为合适。我们会考虑允许用户自行设置推送逻辑的功能，以提升应用体验。\n2. 关于自动缺省功能：您提出的建议非常中肯，此前确实未充分考虑该功能的重要性。我们也认为可以显著提升用户操作效率，预计很快上线，请您持续关注。\n3. 关于数学模型及医学相关问题：我们的数学模型是该项目独立于其他版本的核心特色之一，这也是我们引以为傲的地方。然而您提到的SRS后数据较少等问题确实存在挑战，尤其涉及到医学推荐用量等方面。这部分内容需谨慎处理，以避免因非医学严谨模型导致潜在误导。项目的目标在于提供估算数据，而非医学决策工具，我们将继续对此进行研究与评估。\n4. 关于视觉设计及无障碍相关问题：在页面设计方面，我们确实存在考虑不周之处，仅选择了我个人认为较为美观的样式，忽视了视觉障碍群体的需求及无障碍功能的优化。在此向您表示歉意，我们将积极调整设计，确保页面对更多用户更加友好。\n5. 关于计算逻辑及性能权衡：正如前述，目前项目的大量计算集中在前端，旨在减少服务器后端负担并提升整体效率。由于计算压力集中在前端，为了保障用户体验，我们需在复杂计算与性能之间进行权衡。后续将继续优化相关逻辑，力求在精度与性能之间找到更好的平衡点。\n最后，看到您主页中的相关动态，我们衷心祝愿您早日康复出院！再次感谢您对我们项目的关注与支持，期待与您保持沟通，共同进步！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028292018506785041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_negimeow 非常非常感谢您的宝贵建议，您的反馈对我们改进工作具有重要意义。首先，由于我个人设置的问题，未能及时查看到您的引用信息，在此向您致以诚挚的歉意。为确保后续能够及时关注您的评价，我已关注您，并将密切跟进您的意见。\n以下是针对您提出建议的回复，请查阅：\n1."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965448764686303235",
+        "conversation_id": "2028283657627287789",
+        "created_at": "2026-03-02T02:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028292018506785041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028292018506785041",
+        "in_reply_to_user_id": "1965448764686303235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028291335938281959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后面回家拿到电脑之后，状态好的话，也许我会看看，能力允许的范围内可以提供一点微薄的技术帮助。我不是什么技术大牛，只是个恰好懂点电脑的大二休学学生，但作为一个上岸的人，我好想成为一把能遮风挡雨的小伞，这是我想传递的善念。（End）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 867,
+          "like_count": 5594,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 3111
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "aka. Snowmiku❄️｜姛｜Feminist ｜喜欢探索世界的理工女 ｜ 日常碎碎念\n是什么呢？顾名思义是一只葱，那为什么是酱葱呢，因为葱酱很可爱！（无端//）",
+        "id": "1965448764686303235",
+        "name": "酱葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 48,
+          "like_count": 374,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 266
+        },
+        "username": "mio_negimeow",
+        "verified": false
+      }
+    ]
+  }
+}

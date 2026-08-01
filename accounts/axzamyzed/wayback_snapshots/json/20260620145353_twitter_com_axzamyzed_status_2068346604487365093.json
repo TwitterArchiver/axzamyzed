@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2067963369454551473",
+    "created_at": "2026-06-20T14:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068346604487365093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003828388629495808",
+          "start": 0,
+          "username": "youknownot52424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068346604487365093",
+    "in_reply_to_user_id": "2003828388629495808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068030652633477494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youknownot52424 啊？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2068030649781342208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMe60jWUAAI4tq.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2067963369454551473",
+        "created_at": "2026-06-20T14:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068346604487365093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003828388629495808",
+              "start": 0,
+              "username": "youknownot52424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068346604487365093",
+        "in_reply_to_user_id": "2003828388629495808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068030652633477494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youknownot52424 啊？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068030649781342208"
+          ]
+        },
+        "author_id": "2003828388629495808",
+        "conversation_id": "2067963369454551473",
+        "created_at": "2026-06-19T17:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068030652633477494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E84Jy7fffi",
+              "end": 40,
+              "expanded_url": "https://x.com/youknownot52424/status/2068030652633477494/photo/1",
+              "media_key": "3_2068030649781342208",
+              "start": 17,
+              "url": "https://t.co/E84Jy7fffi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068030652633477494",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19197,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067963369454551473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 那可不一定 https://t.co/E84Jy7fffi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 921,
+          "like_count": 13143,
+          "listed_count": 10,
+          "media_count": 2719,
+          "tweet_count": 8114
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-24T14:01:47.000Z",
+        "description": "",
+        "id": "2003828388629495808",
+        "name": "youknownot4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004619464575234048/Nuaaw5Lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 75,
+          "like_count": 25527,
+          "listed_count": 6,
+          "media_count": 736,
+          "tweet_count": 2111
+        },
+        "url": "",
+        "username": "youknownot52424",
+        "verified": false
+      }
+    ]
+  }
+}

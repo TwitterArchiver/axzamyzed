@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2045861870620565578",
+    "created_at": "2026-04-19T14:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045866106351464490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045866106351464490",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045861870620565578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 为啥没我se系列"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1451,
+        "media_key": "3_2045861857299427328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRchQ_acAAZlRq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2045861870620565578",
+        "created_at": "2026-04-19T14:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045866106351464490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045866106351464490",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045861870620565578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 为啥没我se系列"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045861857299427328"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2045861870620565578",
+        "created_at": "2026-04-19T13:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045861870620565578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfhQXEo22k",
+              "end": 42,
+              "expanded_url": "https://x.com/codyhunk/status/2045861870620565578/photo/1",
+              "media_key": "3_2045861857299427328",
+              "start": 19,
+              "url": "https://t.co/vfhQXEo22k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045861870620565578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "iPhone13干什么了，销量这么顶 https://t.co/vfhQXEo22k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 869,
+          "like_count": 9513,
+          "listed_count": 7,
+          "media_count": 892,
+          "tweet_count": 5649
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12792,
+          "following_count": 1284,
+          "like_count": 23606,
+          "listed_count": 32,
+          "media_count": 5809,
+          "tweet_count": 8828
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2054768678462234934",
+    "created_at": "2026-05-14T04:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054777511058587820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "894382598004199425",
+          "start": 0,
+          "username": "jinglian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054777511058587820",
+    "in_reply_to_user_id": "894382598004199425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054768678462234934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinglian max比pro容易封"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 894,
+        "media_key": "3_2054768419728207872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQA_bmXMAA8G43.png",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2054768678462234934",
+        "created_at": "2026-05-14T04:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054777511058587820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "894382598004199425",
+              "start": 0,
+              "username": "jinglian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054777511058587820",
+        "in_reply_to_user_id": "894382598004199425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054768678462234934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinglian max比pro容易封"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054768419728207872"
+          ]
+        },
+        "author_id": "894382598004199425",
+        "conversation_id": "2054768678462234934",
+        "created_at": "2026-05-14T03:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054768678462234934"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 3,
+              "tag": "ClaudeCode"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0tiD5mQUCs",
+              "end": 183,
+              "expanded_url": "https://x.com/jinglian/status/2054768678462234934/photo/1",
+              "media_key": "3_2054768419728207872",
+              "start": 160,
+              "url": "https://t.co/0tiD5mQUCs"
+            },
+            {
+              "display_url": "x.com/jinglian/statu…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/jinglian/status/2035737579937734931",
+              "start": 184,
+              "url": "https://t.co/yvQA8tPAnw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054768678462234934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 3,
+                "tag": "ClaudeCode"
+              }
+            ]
+          },
+          "text": "我的 #ClaudeCode 已经安全度过2个月了。当然Claude code 的封号机制相当复杂。分享一下我目前的保号方法。\n\n付款：是通过野卡复活版\nIP：链式代理：普通✈️+ 静态住宅代理（落地访问）\n设备：系统地区改成美国，语言改成英文，时区调整为纽约。 单一设备登录，不用手机端，只使用Claude code 终端和网页端混用。\n用量：一般，用力过猛听说更容易封号。\n\n最后再分享一个小技巧，现在买服务，遇到填写折扣码的时候，第一时间用AI 搜索，帮你找一下，成功率非常高。\n\n今天续费静态住宅代理，用ai 搜了一个，直接可以用"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035737579937734931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的 #ClaudeCode 已经安全度过2个月了。当然Claude code 的封号机制相当复杂。分享一下我目前的保号方法。\n\n付款：是通过野卡复活版\nIP：链式代理：普通✈️+ 静态住宅代理（落地访问）\n设备：系统地区改成美国，语言改成英文，时区调整为纽约。 单一设备登录，不用手机端，只使用Claude code https://t.co/0tiD5mQUCs https://t.co/yvQA8tPAnw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3362,
+          "following_count": 928,
+          "like_count": 11252,
+          "listed_count": 10,
+          "media_count": 1502,
+          "tweet_count": 6567
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-07T02:20:02.000Z",
+        "description": "11年前端开发者 & AI 重度用户｜\nAI工具 + X运营，我踩过的坑都帮你避开｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tobemaster56.me",
+                "end": 23,
+                "expanded_url": "https://www.tobemaster56.me",
+                "start": 0,
+                "url": "https://t.co/tsA2sIACYu"
+              }
+            ]
+          }
+        },
+        "id": "894382598004199425",
+        "name": "前端哥Liam",
+        "pinned_tweet_id": "2053677282548453833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012000885275344896/pw0eqfmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6693,
+          "following_count": 3660,
+          "like_count": 15888,
+          "listed_count": 24,
+          "media_count": 957,
+          "tweet_count": 11155
+        },
+        "url": "https://t.co/tsA2sIACYu",
+        "username": "jinglian",
+        "verified": true
+      }
+    ]
+  }
+}

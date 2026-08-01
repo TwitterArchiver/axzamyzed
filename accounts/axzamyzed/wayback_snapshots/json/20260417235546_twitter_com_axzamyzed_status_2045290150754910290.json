@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2045145261836779663",
+    "created_at": "2026-04-17T23:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T00:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045290150754910290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031097520840167424",
+          "start": 0,
+          "username": "Ciallo_114_514"
+        },
+        {
+          "end": 27,
+          "id": "1792706054889025536",
+          "start": 16,
+          "username": "Dr_CrazyAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045290150754910290",
+    "in_reply_to_user_id": "2031097520840167424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045220164388663578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciallo_114_514 @Dr_CrazyAI 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2045145261836779663",
+        "created_at": "2026-04-17T23:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045290150754910290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031097520840167424",
+              "start": 0,
+              "username": "Ciallo_114_514"
+            },
+            {
+              "end": 27,
+              "id": "1792706054889025536",
+              "start": 16,
+              "username": "Dr_CrazyAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045290150754910290",
+        "in_reply_to_user_id": "2031097520840167424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045220164388663578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciallo_114_514 @Dr_CrazyAI 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031097520840167424",
+        "conversation_id": "2045145261836779663",
+        "created_at": "2026-04-17T19:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T20:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045220164388663578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 22,
+              "id": "1792706054889025536",
+              "start": 11,
+              "username": "Dr_CrazyAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045220164388663578",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045149056167813318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed @Dr_CrazyAI 还好我早就把我的地址泄露了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 874,
+          "like_count": 9317,
+          "listed_count": 7,
+          "media_count": 851,
+          "tweet_count": 5573
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649｜互fo喵(人机gun)\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜超级天残党+家长不管党｜中焦重抑｜全部立场中立｜碎碎念｜我又不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵★🍥🏳️‍⚧️（互fo寻回ing）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 656,
+          "like_count": 1649,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 3197
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T23:56:57.000Z",
+        "description": "AI Agent 龙虾开发者 | 知识分享者 | 美股投资｜特斯拉｜社会经济｜社科研究 | 中国问题| X工作者｜职场建议",
+        "id": "1792706054889025536",
+        "location": "California",
+        "name": "ABing 阿炳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040289803523301376/_wrBCl9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 2456,
+          "like_count": 6698,
+          "listed_count": 1,
+          "media_count": 916,
+          "tweet_count": 16256
+        },
+        "username": "Dr_CrazyAI",
+        "verified": true
+      }
+    ]
+  }
+}

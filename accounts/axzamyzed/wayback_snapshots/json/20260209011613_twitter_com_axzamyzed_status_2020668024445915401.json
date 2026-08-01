@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2020471750891311149",
+    "created_at": "2026-02-09T01:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T02:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020668024445915401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1324198319535521795",
+          "start": 0,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020668024445915401",
+    "in_reply_to_user_id": "1324198319535521795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020471750891311149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKaWSB 一旦有了kpi做什么事情都会有效率但没效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2020471750891311149",
+        "created_at": "2026-02-09T01:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T02:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020668024445915401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1324198319535521795",
+              "start": 0,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020668024445915401",
+        "in_reply_to_user_id": "1324198319535521795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020471750891311149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKaWSB 一旦有了kpi做什么事情都会有效率但没效果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324198319535521795",
+        "conversation_id": "2020471750891311149",
+        "created_at": "2026-02-08T12:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020471750891311149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020471750891311149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在苏联时期。\n\n有一家拥有先进设备的钉子厂。\n\n计划委员会给厂长下达了一个指标：\n\n“为了保证产量，你们今年必须生产 1000 吨 钉子。”\n\n厂长一算账。\n\n如果生产普通钉子，太费工时，很难凑够重量。\n\n于是，他命令全厂只做一件事——\n\n生产那种 巨型铁路道钉。\n\n每个钉子重达几公斤。\n\n很快，1000 吨的任务完成了。\n\n但结果是：全国的木匠都没钉子用，全是这种没用的铁疙瘩。\n\n委员会发现了这个问题。\n\n第二年，他们修改了指标：\n\n“不管重量多少，你们今年必须生产 1000 万个 钉子。”\n\n厂长又一算账。\n\n这回要的是数量。\n\n于是，他命令全厂——\n\n把钉子做得像针一样细小。\n\n很快，1000 万个的任务也完成了。\n\n但结果是：这些钉子一敲就弯，根本没法用。\n\n🖊️这就是著名的“古德哈特定律”。\n\n当一个指标成为了目标，它就不再是一个好的措施。\n\n一旦你设定了单一的考核标准。\n\n人们就会为了达成这个数字，而牺牲掉原本真正的目标。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 252974,
+          "like_count": 1401,
+          "quote_count": 12,
+          "reply_count": 71,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "在苏联时期。\n\n有一家拥有先进设备的钉子厂。\n\n计划委员会给厂长下达了一个指标：\n\n“为了保证产量，你们今年必须生产 1000 吨 钉子。”\n\n厂长一算账。\n\n如果生产普通钉子，太费工时，很难凑够重量。\n\n于是，他命令全厂只做一件事——\n\n生产那种 巨型铁路道钉。\n\n每个钉子重达几公斤。\n\n很快，1000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 581,
+          "like_count": 3390,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto) | 硅谷 P 将军｜金狗投研｜深绿 Agent👽｜Learn in public📖｜ 科技｜宇宙｜经济学｜趣闻｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 23,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 0,
+                "url": "https://t.co/QsTW1lsaMp"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56718,
+          "following_count": 2728,
+          "like_count": 8180,
+          "listed_count": 554,
+          "media_count": 3028,
+          "tweet_count": 6894
+        },
+        "url": "https://t.co/QsTW1lsaMp",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

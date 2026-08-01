@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2040068206316961869",
+    "created_at": "2026-04-03T16:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040098995649843706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827300588834492416",
+          "start": 0,
+          "username": "gerdueurope"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040098995649843706",
+    "in_reply_to_user_id": "1827300588834492416",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040096124170605032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gerdueurope ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040068206316961869",
+        "created_at": "2026-04-03T16:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040098995649843706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827300588834492416",
+              "start": 0,
+              "username": "gerdueurope"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040098995649843706",
+        "in_reply_to_user_id": "1827300588834492416",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040096124170605032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gerdueurope ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827300588834492416",
+        "conversation_id": "2040068206316961869",
+        "created_at": "2026-04-03T15:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040096124170605032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040096124170605032",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040068206316961869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 女同事还要钱？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 933,
+          "like_count": 8303,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 4989
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-24T11:03:18.000Z",
+        "description": "提醒各位推友一句，如果是小粉红，远离我这里，小粉红或者二极管跑我这里留言的，一律骂死你。本人油管ID：哏儿都欧洲办公室。欢迎大家关注。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@gerdueurope?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@gerdueurope?si=8Fl2gY-yz_tnS2RB",
+                "start": 0,
+                "url": "https://t.co/hwX1GrKQef"
+              }
+            ]
+          }
+        },
+        "id": "1827300588834492416",
+        "location": "地中海水下的沉船里的一条鲸鱼肚子里",
+        "name": "哏儿都欧洲办公室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891912822516252673/wzU3k9g3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 667,
+          "like_count": 1551,
+          "listed_count": 5,
+          "media_count": 241,
+          "tweet_count": 4056
+        },
+        "url": "https://t.co/hwX1GrKQef",
+        "username": "gerdueurope",
+        "verified": true
+      }
+    ]
+  }
+}

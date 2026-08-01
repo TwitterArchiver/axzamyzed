@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2013265447756677201",
+    "created_at": "2026-01-24T15:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015079224231809370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2002394753363808256",
+          "start": 0,
+          "username": "GQ6668_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015079224231809370",
+    "in_reply_to_user_id": "2002394753363808256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013265447756677201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GQ6668_ 互关互关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2013265438004637696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_COP8bWcAA6ijJ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2013265447756677201",
+        "created_at": "2026-01-24T15:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015079224231809370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2002394753363808256",
+              "start": 0,
+              "username": "GQ6668_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015079224231809370",
+        "in_reply_to_user_id": "2002394753363808256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013265447756677201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GQ6668_ 互关互关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013265438004637696"
+          ]
+        },
+        "author_id": "2002394753363808256",
+        "conversation_id": "2013265447756677201",
+        "created_at": "2026-01-19T15:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013265447756677201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "蓝V认证"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "互关互赞"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FphOWAt6mh",
+              "end": 88,
+              "expanded_url": "https://x.com/GQ6668_/status/2013265447756677201/photo/1",
+              "media_key": "3_2013265438004637696",
+              "start": 65,
+              "url": "https://t.co/FphOWAt6mh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013265447756677201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16131,
+          "like_count": 353,
+          "quote_count": 6,
+          "reply_count": 432,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V 互关 🧧🧧\n\n随机抽 18个人 ，每个人给 10U 红包\n\n点赞➕转发➕随机评论\n\n#蓝V互关  #蓝V认证  #互关互赞 https://t.co/FphOWAt6mh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 94,
+          "like_count": 1430,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-20T15:04:59.000Z",
+        "description": "信息差❇️资源分享❇️副业大亨 全能分享官…",
+        "id": "2002394753363808256",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "魔盒君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002399485998346240/rexUl0mB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 133,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 88
+        },
+        "username": "GQ6668_",
+        "verified": true
+      }
+    ]
+  }
+}

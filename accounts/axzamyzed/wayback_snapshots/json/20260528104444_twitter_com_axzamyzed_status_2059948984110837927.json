@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059948975667736576"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2059948984110837927",
+    "created_at": "2026-05-28T10:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059948984110837927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cPesBipGtM",
+          "end": 36,
+          "expanded_url": "https://x.com/axzamyzed/status/2059948984110837927/photo/1",
+          "media_key": "3_2059948975667736576",
+          "start": 13,
+          "url": "https://t.co/cPesBipGtM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059948984110837927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是用吸管喝芝麻酱那哥们 https://t.co/cPesBipGtM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2059948975667736576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZoreYa8AAcTPK.jpg",
+        "width": 667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059948975667736576"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2059948984110837927",
+        "created_at": "2026-05-28T10:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059948984110837927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cPesBipGtM",
+              "end": 36,
+              "expanded_url": "https://x.com/axzamyzed/status/2059948984110837927/photo/1",
+              "media_key": "3_2059948975667736576",
+              "start": 13,
+              "url": "https://t.co/cPesBipGtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059948984110837927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是用吸管喝芝麻酱那哥们 https://t.co/cPesBipGtM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3547,
+          "following_count": 948,
+          "like_count": 11966,
+          "listed_count": 11,
+          "media_count": 1911,
+          "tweet_count": 7126
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2022960845563859205",
+    "created_at": "2026-02-15T10:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022985974150754599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        },
+        {
+          "end": 23,
+          "id": "1929416262989557760",
+          "start": 11,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022985974150754599",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022985872896111092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ @maoxian1527 喵喵喵🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2022960845563859205",
+        "created_at": "2026-02-15T10:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022985974150754599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            },
+            {
+              "end": 23,
+              "id": "1929416262989557760",
+              "start": 11,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022985974150754599",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022985872896111092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ @maoxian1527 喵喵喵🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "2022960845563859205",
+        "created_at": "2026-02-15T10:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022985872896111092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 23,
+              "id": "1929416262989557760",
+              "start": 11,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022985872896111092",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022979388636319866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed @maoxian1527 （她不是本来就o嘛。。。）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 660,
+          "like_count": 3879,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 位于常州 | 过年回上海 | 不见证 | 不割手 | 或许会o？ | 生产日期2010.3.16 | 无证含糖 | 🍥hrt 2025.11 | 已炸柜 | 家长不管党 | | b站：屑冷雪 / 屑冷雪_ | emo也在用这个号 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2019404944802300334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1408,
+          "like_count": 41462,
+          "listed_count": 3,
+          "media_count": 560,
+          "tweet_count": 4196
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍｜并不可爱小宅女（猫娘…？｜碎碎念ing… | 顺女｜简体｜ 脾气不好 极讨厌私信 | 看成分互fo｜负能｜ @mao_xian1527 ｜含🍥友跨顺女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "mao_xian1527"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華民國",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2006745052245274725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021082119691534336/-FUI5SF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 267,
+          "like_count": 2369,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

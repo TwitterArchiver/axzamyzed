@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044078421173776384"
+      ],
+      "media_source_tweet_id": [
+        "2044078423367442607"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2044082228884316576",
+    "created_at": "2026-04-14T15:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044082228884316576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FkgL94E02o",
+          "end": 105,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2044078423367442607/photo/1",
+          "media_key": "3_2044078421173776384",
+          "start": 82,
+          "url": "https://t.co/FkgL94E02o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044082228884316576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044078423367442607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 以防大家不知道科比真喝过冰红茶：\n2008年北京奥运会，科比在男篮比赛间隙，来到北京朝阳公园沙滩排球场，现场观战美国沙滩排球的比赛。 https://t.co/FkgL94E02o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2044078421173776384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4GfnsasAAOJYG.jpg",
+        "width": 415
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044078421173776384"
+          ],
+          "media_source_tweet_id": [
+            "2044078423367442607"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2044082228884316576",
+        "created_at": "2026-04-14T15:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044082228884316576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkgL94E02o",
+              "end": 105,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2044078423367442607/photo/1",
+              "media_key": "3_2044078421173776384",
+              "start": 82,
+              "url": "https://t.co/FkgL94E02o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044082228884316576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044078423367442607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 以防大家不知道科比真喝过冰红茶：\n2008年北京奥运会，科比在男篮比赛间隙，来到北京朝阳公园沙滩排球场，现场观战美国沙滩排球的比赛。 https://t.co/FkgL94E02o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044078421173776384"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2044078423367442607",
+        "created_at": "2026-04-14T15:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044078423367442607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkgL94E02o",
+              "end": 90,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2044078423367442607/photo/1",
+              "media_key": "3_2044078421173776384",
+              "start": 67,
+              "url": "https://t.co/FkgL94E02o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044078423367442607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以防大家不知道科比真喝过冰红茶：\n2008年北京奥运会，科比在男篮比赛间隙，来到北京朝阳公园沙滩排球场，现场观战美国沙滩排球的比赛。 https://t.co/FkgL94E02o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 891,
+          "like_count": 9025,
+          "listed_count": 6,
+          "media_count": 770,
+          "tweet_count": 5435
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6909,
+          "following_count": 2077,
+          "like_count": 25734,
+          "listed_count": 28,
+          "media_count": 691,
+          "tweet_count": 3665
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061434841758105600"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2061434850171826240",
+    "created_at": "2026-06-01T13:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061434850171826240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wNxQan9ToO",
+          "end": 35,
+          "expanded_url": "https://x.com/axzamyzed/status/2061434850171826240/photo/1",
+          "media_key": "3_2061434841758105600",
+          "start": 12,
+          "url": "https://t.co/wNxQan9ToO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061434850171826240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么喜欢喝奶的会长草 https://t.co/wNxQan9ToO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_2061434841758105600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuwEQ6bAAARcwA.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061434841758105600"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2061434850171826240",
+        "created_at": "2026-06-01T13:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061434850171826240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNxQan9ToO",
+              "end": 35,
+              "expanded_url": "https://x.com/axzamyzed/status/2061434850171826240/photo/1",
+              "media_key": "3_2061434841758105600",
+              "start": 12,
+              "url": "https://t.co/wNxQan9ToO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061434850171826240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么喜欢喝奶的会长草 https://t.co/wNxQan9ToO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3630,
+          "following_count": 949,
+          "like_count": 12117,
+          "listed_count": 10,
+          "media_count": 2029,
+          "tweet_count": 7265
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

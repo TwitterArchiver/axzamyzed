@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2022882258366140805",
+    "created_at": "2026-02-15T07:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T08:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022939509261004867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1621259482704625671",
+          "start": 0,
+          "username": "Qinioo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022939509261004867",
+    "in_reply_to_user_id": "1621259482704625671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022882258366140805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qinioo 26还是可以的,除了电池健康飞速掉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2022882248916373506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBK4sA0akAIux9E.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2022882258366140805",
+        "created_at": "2026-02-15T07:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022939509261004867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1621259482704625671",
+              "start": 0,
+              "username": "Qinioo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022939509261004867",
+        "in_reply_to_user_id": "1621259482704625671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022882258366140805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qinioo 26还是可以的,除了电池健康飞速掉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022882248916373506"
+          ]
+        },
+        "author_id": "1621259482704625671",
+        "conversation_id": "2022882258366140805",
+        "created_at": "2026-02-15T03:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022882258366140805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDs4jApSp9",
+              "end": 36,
+              "expanded_url": "https://x.com/Qinioo/status/2022882258366140805/photo/1",
+              "media_key": "3_2022882248916373506",
+              "start": 13,
+              "url": "https://t.co/QDs4jApSp9"
+            },
+            {
+              "display_url": "x.com/gebiubiu/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/gebiubiu/status/2022172523828498556",
+              "start": 37,
+              "url": "https://t.co/aHgUf9ZmjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022882258366140805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022172523828498556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这辈子不会更新ios26 https://t.co/QDs4jApSp9 https://t.co/aHgUf9ZmjX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 660,
+          "like_count": 3875,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-02T21:29:55.000Z",
+        "description": "正體🇹🇼/简体🇨🇳 | 音游人 | 业余无线电（备考中）\nフォローをくれてありがとうございます!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayaneqin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://ayaneqin.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/eL7t3GeW91"
+              }
+            ]
+          }
+        },
+        "id": "1621259482704625671",
+        "name": "綾音Io",
+        "pinned_tweet_id": "2021457179392475283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929662964526993411/I6Qra0xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 2246,
+          "like_count": 30820,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/eL7t3GeW91",
+        "username": "Qinioo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2042737705713570065",
+    "created_at": "2026-04-10T23:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T00:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042743595669582136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042743595669582136",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042737705713570065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 我服了你咋每天都发个这"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042737692660895744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlDG8xakAAAOah.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042737692656701443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlDG8wakAMOYbt.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2042737705713570065",
+        "created_at": "2026-04-10T23:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042743595669582136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042743595669582136",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042737705713570065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 我服了你咋每天都发个这"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042737692660895744",
+            "3_2042737692656701443"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2042737705713570065",
+        "created_at": "2026-04-10T22:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T23:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042737705713570065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JZhAOpZq9",
+              "end": 159,
+              "expanded_url": "https://x.com/TOOBE775/status/2042737705713570065/photo/1",
+              "media_key": "3_2042737692660895744",
+              "start": 136,
+              "url": "https://t.co/9JZhAOpZq9"
+            },
+            {
+              "display_url": "pic.x.com/9JZhAOpZq9",
+              "end": 159,
+              "expanded_url": "https://x.com/TOOBE775/status/2042737705713570065/photo/1",
+              "media_key": "3_2042737692656701443",
+              "start": 136,
+              "url": "https://t.co/9JZhAOpZq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042737705713570065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 347,
+                "start": 340,
+                "tag": "灰度社会观察"
+              },
+              {
+                "end": 354,
+                "start": 349,
+                "tag": "流量日记"
+              }
+            ]
+          },
+          "text": "兄弟姐妹们，又是新的一天开始了！\n细想一下，我开通X快三个月了，心里挺有感触的。我也是纯新手，该踩的坑一个没少，该被限流一次没落下。\n\n刚来的时候，眼里全是星辰大海，天天忙着互粉、蹭大V流量。大V基本不回我，但我还是硬蹭了二十多天，连滚带爬的过了新手门槛，这是第一阶段。\n\n过门槛后，我直接把铃铛里的大V全删了。热脸贴冷屁股没意思，老子不伺候了！转而把铃铛里，都换成了真正有趣的小账号。\n\n现在进入第三阶段，目标从“大海”变成了“小圈子”。铃铛里的人越来越少，只剩下真正互相托举的兄弟姐妹。我现在每天发帖不多，大部分时间都在和大家互动。\n你推我一次，我顶你一下，默契拉满。\n\n帮了别人，也帮了自己，这种感觉太舒服了，再次谢谢大家的抬举！🙏\n\n能认识你们，真的是我的荣幸！🙏❤️😄\n#灰度社会观察  #流量日记 \n\no"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟姐妹们，又是新的一天开始了！\n细想一下，我开通X快三个月了，心里挺有感触的。我也是纯新手，该踩的坑一个没少，该被限流一次没落下。\n\n刚来的时候，眼里全是星辰大海，天天忙着互粉、蹭大V流量。大V基本不回我，但我还是硬蹭了二十多天，连滚带爬的过了新手门槛，这是第一阶段。 https://t.co/9JZhAOpZq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 925,
+          "like_count": 8715,
+          "listed_count": 4,
+          "media_count": 691,
+          "tweet_count": 5259
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2039160301560709442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 1895,
+          "like_count": 17619,
+          "listed_count": 10,
+          "media_count": 363,
+          "tweet_count": 14016
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

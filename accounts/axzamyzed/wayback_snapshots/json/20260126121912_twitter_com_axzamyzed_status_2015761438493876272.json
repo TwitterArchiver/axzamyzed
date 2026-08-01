@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015586133292507229",
+    "created_at": "2026-01-26T12:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015761438493876272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1993040127376211968",
+          "start": 0,
+          "username": "tako_516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015761438493876272",
+    "in_reply_to_user_id": "1993040127376211968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015586133292507229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tako_516 关喽，回一下哦～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2015586121758224384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jM5hGbMAAl_Ua.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015586133292507229",
+        "created_at": "2026-01-26T12:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015761438493876272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1993040127376211968",
+              "start": 0,
+              "username": "tako_516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015761438493876272",
+        "in_reply_to_user_id": "1993040127376211968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015586133292507229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tako_516 关喽，回一下哦～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015586121758224384"
+          ]
+        },
+        "author_id": "1993040127376211968",
+        "conversation_id": "2015586133292507229",
+        "created_at": "2026-01-26T00:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T01:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015586133292507229"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "蓝V"
+            },
+            {
+              "end": 139,
+              "start": 128,
+              "tag": "FollowBack"
+            },
+            {
+              "end": 145,
+              "start": 140,
+              "tag": "有关必回"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxIIjyJkKx",
+              "end": 175,
+              "expanded_url": "https://x.com/tako_516/status/2015586133292507229/photo/1",
+              "media_key": "3_2015586121758224384",
+              "start": 152,
+              "url": "https://t.co/DxIIjyJkKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015586133292507229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1925,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要你是蓝v，互关、评论区留痕必回关，顺手点赞这帖就好～\n\n每天关注量有限怕频繁，评论区的留言我都会逐一核对，不漏一个，感谢各位配合！\n\n前两天关注频繁被限制了，这次慢慢来。成长本就靠点滴积累，从非一蹴而就，多给彼此一点耐心，双向奔赴终有收获～\n\n#蓝V #FollowBack #有关必回 #蓝v互关 https://t.co/DxIIjyJkKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 260,
+          "like_count": 1805,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 945
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-24T19:33:03.000Z",
+        "description": "一个嗜好太多，能力太小的普通人",
+        "id": "1993040127376211968",
+        "location": "Hino-shi, Tokyo",
+        "name": "TAKO",
+        "pinned_tweet_id": "2015586133292507229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000115783704457216/wOH4OiDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 736,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 126
+        },
+        "username": "tako_516",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2044385510039167234",
+    "created_at": "2026-04-16T00:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T01:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044573285191397424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1686233679344066560",
+          "start": 0,
+          "username": "calvin_zhangxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044573285191397424",
+    "in_reply_to_user_id": "1686233679344066560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044417055152288136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@calvin_zhangxq 唔？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2044385510039167234",
+        "created_at": "2026-04-16T00:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T01:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044573285191397424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1686233679344066560",
+              "start": 0,
+              "username": "calvin_zhangxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044573285191397424",
+        "in_reply_to_user_id": "1686233679344066560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044417055152288136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@calvin_zhangxq 唔？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686233679344066560",
+        "conversation_id": "2044385510039167234",
+        "created_at": "2026-04-15T14:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044417055152288136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044417055152288136",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044385510039167234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 我眼拙了，感觉都不像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147,
+          "following_count": 890,
+          "like_count": 9109,
+          "listed_count": 6,
+          "media_count": 807,
+          "tweet_count": 5483
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-01T04:33:45.000Z",
+        "description": "Database Operations Engineer | SRE 🗄️\n\n14+ years managing mission-critical infrastructures.\nSpecializing in MySQL, K8s, and high-availability clusters.",
+        "id": "1686233679344066560",
+        "location": "Los Angeles, CA",
+        "name": "calvin_zhagxq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686234662195351552/X_jy9jNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 2336,
+          "like_count": 192183,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 6739
+        },
+        "username": "calvin_zhangxq",
+        "verified": true
+      }
+    ]
+  }
+}

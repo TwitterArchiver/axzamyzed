@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2019375128430481547",
+    "created_at": "2026-02-05T11:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019375128430481547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/axzamyzed/stat…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/axzamyzed/status/2017047539665789044",
+          "start": 113,
+          "url": "https://t.co/hD0SwPWNKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019375128430481547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017047539665789044",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天下午，hrt-cloud 曾短暂不可用\n由于后端服务供应商进行服务器迁移并更换 IP，我方未能及时完成域名解析更新，导致服务中断\n目前相关配置已完成调整，服务已恢复正常\n如给您带来的不便，我们深表歉意，感谢您的理解与支持 https://t.co/hD0SwPWNKk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2019375128430481547",
+        "created_at": "2026-02-05T11:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019375128430481547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2017047539665789044",
+              "start": 113,
+              "url": "https://t.co/hD0SwPWNKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019375128430481547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017047539665789044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天下午，hrt-cloud 曾短暂不可用\n由于后端服务供应商进行服务器迁移并更换 IP，我方未能及时完成域名解析更新，导致服务中断\n目前相关配置已完成调整，服务已恢复正常\n如给您带来的不便，我们深表歉意，感谢您的理解与支持 https://t.co/hD0SwPWNKk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2017047537228890112"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017047539665789044",
+        "created_at": "2026-01-30T01:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017047539665789044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "hrt-cloud.transmtf.com",
+              "end": 45,
+              "expanded_url": "https://hrt-cloud.transmtf.com",
+              "start": 22,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt-cloud.transmtf.com",
+              "url": "https://t.co/x6LdmT2TCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017047539665789044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1319,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "调查一下 hrt-trscker云同步版本 https://t.co/x6LdmT2TCC 用户群体有多少\n如果用户量较少，我可能会从4H4G降低服务器配置至2H2G来达成更长久的服务时间喝更好的服务质量\n———\n自己造孽没有写用户统计awa（虽然用户统计未必可信吧）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 507,
+          "like_count": 3150,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1704
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

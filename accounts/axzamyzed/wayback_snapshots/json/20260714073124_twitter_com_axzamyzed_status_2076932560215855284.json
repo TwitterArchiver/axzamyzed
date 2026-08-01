@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2076918690440957978",
+    "created_at": "2026-07-14T07:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076932560215855284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076932560215855284",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076918690440957978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wesley10032 未成年要么就是找家长kyc用u卡，要么就是家长带着办内地万事达"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2076918690440957978",
+        "created_at": "2026-07-14T07:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076932560215855284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076932560215855284",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076918690440957978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 未成年要么就是找家长kyc用u卡，要么就是家长带着办内地万事达"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2076918690440957978",
+        "created_at": "2026-07-14T06:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076918690440957978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076918690440957978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未成年可以办香港银行卡吗\n好多订阅都要VISA或MasterCard\n烦死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4169,
+          "following_count": 926,
+          "like_count": 14488,
+          "listed_count": 13,
+          "media_count": 3367,
+          "tweet_count": 9116
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 547,
+          "like_count": 4041,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 865
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2021723481516458038",
+    "created_at": "2026-02-12T00:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T01:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021741967017988598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1783995979143815168",
+          "start": 0,
+          "username": "yyynomad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021741967017988598",
+    "in_reply_to_user_id": "1783995979143815168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021723481516458038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyynomad 身份证申请的好像没发开卡啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2021723481516458038",
+        "created_at": "2026-02-12T00:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021741967017988598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1783995979143815168",
+              "start": 0,
+              "username": "yyynomad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021741967017988598",
+        "in_reply_to_user_id": "1783995979143815168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021723481516458038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyynomad 身份证申请的好像没发开卡啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783995979143815168",
+        "conversation_id": "2021723481516458038",
+        "created_at": "2026-02-11T23:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:02:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021721578594312639",
+          "2021723481516458038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyynomad/statu…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/yyynomad/status/2020419433026687063",
+              "start": 145,
+              "url": "https://t.co/It1yTh6PZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021723481516458038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "wise.com/invite/dic/w87…",
+                "end": 395,
+                "expanded_url": "https://wise.com/invite/dic/w87i57i",
+                "start": 372,
+                "url": "https://t.co/8wV57ElHNG"
+              }
+            ]
+          },
+          "text": "第二弹\n想开通 Wise 虚拟港卡（HKD 账户）？一篇带你快速搞定👇\n\n✅ 注册账号：官网或 App 注册，地区建议选中国大陆，用邮箱/手机号即可。\n✅ 身份验证（KYC）：用身份证实名认证；若提示首次入金，按要求完成激活。\n✅ 获取港币账户：\n点击「添加货币」→ 选择「港元 HKD」\n完成验证后，可获得香港星展银行（DBS HK）账户信息，用于接收港币转账\n\n✅ 激活账户：向港币账户充值等值人民币，功能即可全面开启。\n✅ 申请虚拟卡：进入「卡」申请；若暂时无法申请，可先办实体卡再开虚拟卡。\n💡 补充提示：\n\n虚拟卡可绑定 Apple Pay / Google Pay，线上线下都能刷。\n非欧美地址有时无法直接开虚拟卡，走“实体卡→虚拟卡”更稳。\n\n一套流程下来，就能拥有可收港币、可消费的 Wise 港卡 👍\n\n可以使用我的邀请链接：https://t.co/8wV57ElHNG"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020419433026687063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二弹\n想开通 Wise 虚拟港卡（HKD 账户）？一篇带你快速搞定👇\n\n✅ 注册账号：官网或 App 注册，地区建议选中国大陆，用邮箱/手机号即可。\n✅ 身份验证（KYC）：用身份证实名认证；若提示首次入金，按要求完成激活。\n✅ 获取港币账户：\n点击「添加货币」→ 选择「港元 HKD」 https://t.co/It1yTh6PZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 615,
+          "like_count": 3697,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-26T23:06:20.000Z",
+        "description": "👨‍💻 remote dev | full-stack | vibe-coding | wlb | japanese learner",
+        "id": "1783995979143815168",
+        "name": "Yao",
+        "pinned_tweet_id": "2019200863546536404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007365673404772352/VUExVvX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 1621,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 487
+        },
+        "username": "yyynomad",
+        "verified": true
+      }
+    ]
+  }
+}

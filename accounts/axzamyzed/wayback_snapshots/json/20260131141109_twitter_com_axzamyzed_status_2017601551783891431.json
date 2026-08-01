@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017268516068700462",
+    "created_at": "2026-01-31T14:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T15:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017601551783891431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017601551783891431",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017268516068700462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 我怎么感觉像hydro开发者啊…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2071,
+        "media_key": "3_2017268504538583040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7HBFWbEAAKYzf.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017268516068700462",
+        "created_at": "2026-01-31T14:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017601551783891431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017601551783891431",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017268516068700462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 我怎么感觉像hydro开发者啊…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017268504538583040"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2017268516068700462",
+        "created_at": "2026-01-30T16:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017268516068700462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j2RndMyoqd",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2017268516068700462/photo/1",
+              "media_key": "3_2017268504538583040",
+              "start": 0,
+              "url": "https://t.co/j2RndMyoqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017268516068700462",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17188,
+          "like_count": 192,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j2RndMyoqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 442,
+          "like_count": 2511,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1354
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116054,
+          "following_count": 1043,
+          "like_count": 51336,
+          "listed_count": 267,
+          "media_count": 18875,
+          "tweet_count": 28722
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

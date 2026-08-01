@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048342044582854656"
+      ],
+      "media_source_tweet_id": [
+        "2048342162333733018"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2048351083186008188",
+    "created_at": "2026-04-26T10:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048351083186008188"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "蓝v互关"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5UxRXpX4uR",
+          "end": 65,
+          "expanded_url": "https://x.com/bghtnya/status/2048342162333733018/photo/1",
+          "media_key": "3_2048342044582854656",
+          "start": 42,
+          "url": "https://t.co/5UxRXpX4uR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048351083186008188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048342162333733018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: 蓝V来互关啦\n你关我，我必回\n一起混个脸熟👀\n#蓝v互关 https://t.co/5UxRXpX4uR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2048342044582854656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0sPKnbwAA_qbm.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048342044582854656"
+          ],
+          "media_source_tweet_id": [
+            "2048342162333733018"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2048351083186008188",
+        "created_at": "2026-04-26T10:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048351083186008188"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "蓝v互关"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5UxRXpX4uR",
+              "end": 65,
+              "expanded_url": "https://x.com/bghtnya/status/2048342162333733018/photo/1",
+              "media_key": "3_2048342044582854656",
+              "start": 42,
+              "url": "https://t.co/5UxRXpX4uR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048351083186008188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048342162333733018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: 蓝V来互关啦\n你关我，我必回\n一起混个脸熟👀\n#蓝v互关 https://t.co/5UxRXpX4uR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048342044582854656"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2048342162333733018",
+        "created_at": "2026-04-26T10:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048342162333733018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5UxRXpX4uR",
+              "end": 52,
+              "expanded_url": "https://x.com/bghtnya/status/2048342162333733018/photo/1",
+              "media_key": "3_2048342044582854656",
+              "start": 29,
+              "url": "https://t.co/5UxRXpX4uR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048342162333733018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 472,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V来互关啦\n你关我，我必回\n一起混个脸熟👀\n#蓝v互关 https://t.co/5UxRXpX4uR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 848,
+          "like_count": 10059,
+          "listed_count": 11,
+          "media_count": 1035,
+          "tweet_count": 5888
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9104,
+          "following_count": 2152,
+          "like_count": 177571,
+          "listed_count": 19,
+          "media_count": 3867,
+          "tweet_count": 47349
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

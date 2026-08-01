@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2034596456133476431",
+    "created_at": "2026-03-19T13:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T14:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034617280466669736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034617280466669736",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034596456133476431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ 5.4pro+deepresearch提出方案并用claude opus4.6规划+codex mcp实现试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2034596456133476431",
+        "created_at": "2026-03-19T13:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034617280466669736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034617280466669736",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034596456133476431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ 5.4pro+deepresearch提出方案并用claude opus4.6规划+codex mcp实现试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818257539886460928",
+        "conversation_id": "2034596456133476431",
+        "created_at": "2026-03-19T11:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034596456133476431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034596456133476431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一个看起来不怎么刁钻的任务，不管是gpt5.4 还是 opus4.6，都避免不了重复造轮子，理解不了意思，嗯...human in the loop 还是必要的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2033059853720236538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 910,
+          "like_count": 6881,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 4197
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "创作 Arkloop 中\n\n博客:https://t.co/4xjp1fLrtP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 40,
+                "expanded_url": "http://xn--l9qq99d.fun",
+                "start": 17,
+                "url": "https://t.co/4xjp1fLrtP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "location": "Arkloop,Github ",
+        "name": "清凤",
+        "pinned_tweet_id": "2032756028933288298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 314,
+          "like_count": 4150,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": true
+      }
+    ]
+  }
+}

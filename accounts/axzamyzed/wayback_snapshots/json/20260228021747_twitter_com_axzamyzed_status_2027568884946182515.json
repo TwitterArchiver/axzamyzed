@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2027393033348788342",
+    "created_at": "2026-02-28T02:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027568884946182515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "hrt.transmtf.com",
+          "end": 28,
+          "expanded_url": "https://hrt.transmtf.com",
+          "start": 5,
+          "status": 200,
+          "title": "HRT Tracker",
+          "unwound_url": "https://hrt.transmtf.com",
+          "url": "https://t.co/ORSecTY0Oj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027568884946182515",
+    "in_reply_to_user_id": "1758324617838788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027393033348788342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在线体验：https://t.co/ORSecTY0Oj\n支持添加到桌面作为WPA应用哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2027393033348788342",
+        "created_at": "2026-02-28T02:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027568884946182515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "hrt.transmtf.com",
+              "end": 28,
+              "expanded_url": "https://hrt.transmtf.com",
+              "start": 5,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.transmtf.com",
+              "url": "https://t.co/ORSecTY0Oj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027568884946182515",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027393033348788342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在线体验：https://t.co/ORSecTY0Oj\n支持添加到桌面作为WPA应用哦"
+      },
+      {
+        "article": {
+          "title": "Transmtf HRT Tracker正式发布"
+        },
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2027393033348788342",
+        "created_at": "2026-02-27T14:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027393033348788342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2025…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2025494995080290304",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2025494995080290304",
+              "url": "https://t.co/evo2GwGfCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027393033348788342",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1327,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/evo2GwGfCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 823,
+          "like_count": 5313,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 2928
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

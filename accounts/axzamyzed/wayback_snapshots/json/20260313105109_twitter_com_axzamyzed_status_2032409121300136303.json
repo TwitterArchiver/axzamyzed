@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032409115583213568"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2032128220670410912",
+    "created_at": "2026-03-13T10:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T11:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032409121300136303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "414E4E4F"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JpvfJyQSJ2",
+          "end": 58,
+          "expanded_url": "https://x.com/axzamyzed/status/2032409121300136303/photo/1",
+          "media_key": "3_2032409115583213568",
+          "start": 35,
+          "url": "https://t.co/JpvfJyQSJ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032409121300136303",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032128220670410912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@414E4E4F 把点赞在这里关掉就好啦，反正点赞通知也没什么价值 https://t.co/JpvfJyQSJ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 538,
+        "media_key": "3_2032409115583213568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSRUoyacAACitC.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032409115583213568"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2032128220670410912",
+        "created_at": "2026-03-13T10:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032409121300136303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "414E4E4F"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpvfJyQSJ2",
+              "end": 58,
+              "expanded_url": "https://x.com/axzamyzed/status/2032409121300136303/photo/1",
+              "media_key": "3_2032409115583213568",
+              "start": 35,
+              "url": "https://t.co/JpvfJyQSJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032409121300136303",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032128220670410912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@414E4E4F 把点赞在这里关掉就好啦，反正点赞通知也没什么价值 https://t.co/JpvfJyQSJ2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426015810472972298",
+        "conversation_id": "2032128220670410912",
+        "created_at": "2026-03-12T16:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032128220670410912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032128220670410912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 24363,
+          "like_count": 203,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "短时间（1min）内连续点赞我超过5条帖子的\n直接拉黑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜小号 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 905,
+          "like_count": 6371,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 3748
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 超かぐや姫 | ナチョ､フブキ推し | ガジェット | チュウマイ | 撮影 | \nDM⇒フォロバ",
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴￴ ￴￴ ￴￴ ￴￴︎アノ￴",
+        "pinned_tweet_id": "2032128220670410912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024268033854984192/Vd_6AW6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2216,
+          "following_count": 876,
+          "like_count": 180591,
+          "listed_count": 0,
+          "media_count": 4648,
+          "tweet_count": 19678
+        },
+        "username": "414E4E4F",
+        "verified": true
+      }
+    ]
+  }
+}

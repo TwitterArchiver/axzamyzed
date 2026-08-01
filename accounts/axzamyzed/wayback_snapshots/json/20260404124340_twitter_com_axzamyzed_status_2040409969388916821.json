@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2040373101649617063",
+    "created_at": "2026-04-04T12:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T13:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040409969388916821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/mxyzcdb/status…",
+          "end": 33,
+          "expanded_url": "https://x.com/mxyzcdb/status/2039306953521000715?s=46",
+          "start": 10,
+          "url": "https://t.co/GgqSRu255Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040409969388916821",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039306953521000715",
+        "type": "quoted"
+      },
+      {
+        "id": "2040409804116734414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 https://t.co/GgqSRu255Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040373101649617063",
+        "created_at": "2026-04-04T12:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040409969388916821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mxyzcdb/status…",
+              "end": 33,
+              "expanded_url": "https://x.com/mxyzcdb/status/2039306953521000715?s=46",
+              "start": 10,
+              "url": "https://t.co/GgqSRu255Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040409969388916821",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039306953521000715",
+            "type": "quoted"
+          },
+          {
+            "id": "2040409804116734414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 https://t.co/GgqSRu255Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893167873209856000",
+        "conversation_id": "2039306953521000715",
+        "created_at": "2026-04-01T11:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039306953521000715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039306953521000715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1316,
+          "like_count": 28,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜我月考成绩还没年级排名高\n6科453年级排名576\n甚至物理只有28\n是不是没救了\n呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871529139720863744",
+        "conversation_id": "2040373101649617063",
+        "created_at": "2026-04-04T12:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040409804116734414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040409804116734414",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040409666702717014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 那你这么有时间？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 932,
+          "like_count": 8338,
+          "listed_count": 3,
+          "media_count": 588,
+          "tweet_count": 5021
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2039160301560709442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 1889,
+          "like_count": 13752,
+          "listed_count": 3,
+          "media_count": 318,
+          "tweet_count": 11139
+        },
+        "username": "TOOBE775",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "高一物化生在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜看成分回fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 89,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 253,
+          "like_count": 1463,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 945
+        },
+        "username": "mxyzcdb",
+        "verified": true
+      }
+    ]
+  }
+}

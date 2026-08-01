@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039497013008667074",
+    "created_at": "2026-04-02T11:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039664432692031797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1695904684110983169",
+          "start": 0,
+          "username": "zhouyu1516921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039664432692031797",
+    "in_reply_to_user_id": "1695904684110983169",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039664171139334321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouyu1516921 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039497013008667074",
+        "created_at": "2026-04-02T11:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039664432692031797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1695904684110983169",
+              "start": 0,
+              "username": "zhouyu1516921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039664432692031797",
+        "in_reply_to_user_id": "1695904684110983169",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039664171139334321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouyu1516921 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695904684110983169",
+        "conversation_id": "2039497013008667074",
+        "created_at": "2026-04-02T11:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039664171139334321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039664171139334321",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039497013008667074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 第一季收视率不好，砍掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 934,
+          "like_count": 8227,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 4920
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-27T21:03:28.000Z",
+        "description": "一个人的生命，在时代的大潮下只是一颗尘埃。除了自己最至爱的人会心痛，不会掀起太大的风浪，很快就会被遗忘。所以还是自己珍惜生命吧。",
+        "id": "1695904684110983169",
+        "name": "我要吃两碗！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696066270406623232/RSpSNBLb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 74,
+          "like_count": 782,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 5389
+        },
+        "username": "zhouyu1516921",
+        "verified": false
+      }
+    ]
+  }
+}

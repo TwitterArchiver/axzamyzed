@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2054165311658639739",
+    "created_at": "2026-05-12T13:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054195840395141336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1792706054889025536",
+          "start": 0,
+          "username": "Dr_CrazyAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054195840395141336",
+    "in_reply_to_user_id": "1792706054889025536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054195265335333232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dr_CrazyAI 好想法诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2054165311658639739",
+        "created_at": "2026-05-12T13:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054195840395141336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1792706054889025536",
+              "start": 0,
+              "username": "Dr_CrazyAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054195840395141336",
+        "in_reply_to_user_id": "1792706054889025536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054195265335333232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dr_CrazyAI 好想法诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792706054889025536",
+        "conversation_id": "2054165311658639739",
+        "created_at": "2026-05-12T13:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054195265335333232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054195265335333232",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054165311658639739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 等到冬天来挂香肠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3318,
+          "following_count": 927,
+          "like_count": 11182,
+          "listed_count": 10,
+          "media_count": 1461,
+          "tweet_count": 6520
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-20T23:56:57.000Z",
+        "description": "AI Agent | 港美股投资｜特斯拉｜社会经济｜人文研究 | 中国问题| X工作者｜职场建议",
+        "id": "1792706054889025536",
+        "location": "California",
+        "name": "ABing 阿丙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040289803523301376/_wrBCl9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2923,
+          "following_count": 2503,
+          "like_count": 6885,
+          "listed_count": 1,
+          "media_count": 971,
+          "tweet_count": 18964
+        },
+        "username": "Dr_CrazyAI",
+        "verified": true
+      }
+    ]
+  }
+}

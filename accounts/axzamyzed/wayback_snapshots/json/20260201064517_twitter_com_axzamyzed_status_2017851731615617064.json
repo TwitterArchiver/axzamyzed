@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017744239938179465",
+    "created_at": "2026-02-01T06:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T07:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017851731615617064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828632343680294916",
+          "start": 0,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017851731615617064",
+    "in_reply_to_user_id": "1828632343680294916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017744239938179465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvya 其他人学来的永远是表象而不是本质,不过究其原因还是舍不得钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2017744237480304640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAB3sYqa4AAhLYT.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017744239938179465",
+        "created_at": "2026-02-01T06:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017851731615617064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017851731615617064",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017744239938179465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 其他人学来的永远是表象而不是本质,不过究其原因还是舍不得钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017744237480304640"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2017744239938179465",
+        "created_at": "2026-01-31T23:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T00:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017744239938179465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxwcWRn5YL",
+              "end": 35,
+              "expanded_url": "https://x.com/jianlvya/status/2017744239938179465/photo/1",
+              "media_key": "3_2017744237480304640",
+              "start": 12,
+              "url": "https://t.co/uxwcWRn5YL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017744239938179465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 99598,
+          "like_count": 535,
+          "quote_count": 4,
+          "reply_count": 56,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没人效仿胖东来？ https://t.co/uxwcWRn5YL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 447,
+          "like_count": 2620,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 \n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律（私信互fo）",
+        "pinned_tweet_id": "2017381656638967825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 476,
+          "like_count": 1209,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 205
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

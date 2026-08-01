@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2024874598911914247",
+    "created_at": "2026-02-20T16:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T17:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024877847911993738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830775691375218688",
+          "start": 0,
+          "username": "YunoQiu56649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024877847911993738",
+    "in_reply_to_user_id": "1758324617838788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024874598911914247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunoQiu56649 不是说你哈，只是看到你的帖子想起来的quote了一下awq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_2024874591743840256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnMtoObEAAqzil.jpg",
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2024874598911914247",
+        "created_at": "2026-02-20T16:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024877847911993738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830775691375218688",
+              "start": 0,
+              "username": "YunoQiu56649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024877847911993738",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024874598911914247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunoQiu56649 不是说你哈，只是看到你的帖子想起来的quote了一下awq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024874591743840256"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2024874598911914247",
+        "created_at": "2026-02-20T15:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024874598911914247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NL0i9r960N",
+              "end": 131,
+              "expanded_url": "https://x.com/axzamyzed/status/2024874598911914247/photo/1",
+              "media_key": "3_2024874591743840256",
+              "start": 108,
+              "url": "https://t.co/NL0i9r960N"
+            },
+            {
+              "display_url": "x.com/yunoqiu56649/s…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/yunoqiu56649/status/2024863560057376912",
+              "start": 132,
+              "url": "https://t.co/Aw7O056ID3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024874598911914247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024863560057376912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又是个i18n文件都没写完的vibe出来的东西…\n你要么别i18n要么就把语言文件写全了，就两种语言选项还不写完整\n还是那句话，自从ai代码工具出来，着实方便不少，但也让越来越多的大狗屎流向市面\n直接失去做题欲望了 https://t.co/NL0i9r960N https://t.co/Aw7O056ID3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2024452373318656078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 778,
+          "like_count": 4353,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo求求了喵~🥺｜除了初始头像外无视成分回fo🤓锁推的回不了喵｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜中焦 中抑｜如果感觉我的言论冒犯到了你 请和我说 我道歉🥹｜给这当QQ空间用了 QQ不能说的在这说 记录日常喵(负能量慎入)💤｜看我的帖不喜勿喷，喷我也要发😋",
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2008910689658966299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 1060,
+          "like_count": 4343,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 7296
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      }
+    ]
+  }
+}

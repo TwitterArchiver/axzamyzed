@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2037545177162952802",
+    "created_at": "2026-03-28T03:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037726725237272766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012631283898187776",
+          "start": 0,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037726725237272766",
+    "in_reply_to_user_id": "2012631283898187776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037545177162952802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youy1qwq 我同学因为在qq敲latex敲习惯了真的会这么写字"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_2037443124679544832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZzuiCWEAAx1Dh.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2037545177162952802",
+        "created_at": "2026-03-28T03:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037726725237272766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037726725237272766",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037545177162952802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我同学因为在qq敲latex敲习惯了真的会这么写字"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037443124679544832"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2037545177162952802",
+        "created_at": "2026-03-27T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037545177162952802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gu6dCqq04r",
+              "end": 40,
+              "expanded_url": "https://x.com/youy1qwq/status/2037545177162952802/photo/1",
+              "media_key": "3_2037443124679544832",
+              "start": 17,
+              "url": "https://t.co/gu6dCqq04r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037545177162952802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 48752,
+          "like_count": 247,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "bro本地部署了deepseek https://t.co/gu6dCqq04r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 928,
+          "like_count": 7695,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 4629
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8576,
+          "following_count": 1394,
+          "like_count": 3327,
+          "listed_count": 13,
+          "media_count": 1091,
+          "tweet_count": 1513
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

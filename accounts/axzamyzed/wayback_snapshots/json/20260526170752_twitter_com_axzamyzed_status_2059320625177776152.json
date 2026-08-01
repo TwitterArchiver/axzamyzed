@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2058950537044013272",
+    "created_at": "2026-05-26T17:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059320625177776152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2008034704134754304",
+          "start": 0,
+          "username": "kk2b2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059320625177776152",
+    "in_reply_to_user_id": "2008034704134754304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059176949101076884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk2b2t 拼多多只要28"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059176937390559232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOqg7rXUAAOhlW.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2058950537044013272",
+        "created_at": "2026-05-26T17:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059320625177776152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2008034704134754304",
+              "start": 0,
+              "username": "kk2b2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059320625177776152",
+        "in_reply_to_user_id": "2008034704134754304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059176949101076884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk2b2t 拼多多只要28"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059176937390559232"
+          ]
+        },
+        "author_id": "2008034704134754304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058950537044013272",
+        "created_at": "2026-05-26T07:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059176949101076884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "e.tb.cn/h.RVdYvTx3j5t6…",
+              "end": 43,
+              "expanded_url": "https://e.tb.cn/h.RVdYvTx3j5t62FW?tk=7MgF5DU8gs8",
+              "start": 20,
+              "status": 200,
+              "unwound_url": "https://e.tb.cn/h.RVdYvTx3j5t62FW?tk=7MgF5DU8gs8",
+              "url": "https://t.co/HiPqTpINIz"
+            },
+            {
+              "display_url": "pic.x.com/qmJmATFXqm",
+              "end": 128,
+              "expanded_url": "https://x.com/kk2b2t/status/2059176949101076884/photo/1",
+              "media_key": "3_2059176937390559232",
+              "start": 105,
+              "url": "https://t.co/qmJmATFXqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059176949101076884",
+        "in_reply_to_user_id": "2008034704134754304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059176573152940458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 【淘宝】大促价保 https://t.co/HiPqTpINIz MF937 「创意电动遥控老鼠搞怪仿真耗子上课摸鱼恶作剧儿童玩具2025超火」\n点击链接直接打开 或者 淘宝搜索直接打开 https://t.co/qmJmATFXqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3496,
+          "following_count": 949,
+          "like_count": 11860,
+          "listed_count": 11,
+          "media_count": 1842,
+          "tweet_count": 7043
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-05T04:36:05.000Z",
+        "description": "Handcrafting lover 🥰",
+        "id": "2008034704134754304",
+        "name": "k k",
+        "pinned_tweet_id": "2057357041971155222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008034863933472768/G45P1Q3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 210,
+          "like_count": 4067,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 2443
+        },
+        "username": "kk2b2t",
+        "verified": true
+      }
+    ]
+  }
+}

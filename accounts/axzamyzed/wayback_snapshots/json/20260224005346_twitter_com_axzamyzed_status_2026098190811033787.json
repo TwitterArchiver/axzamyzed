@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2026085321625293247",
+    "created_at": "2026-02-24T00:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T01:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026098190811033787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593547850637791233",
+          "start": 0,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026098190811033787",
+    "in_reply_to_user_id": "1593547850637791233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026085321625293247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didengshengwu 高消费的感觉还是不太可取\n\n并且她的高薪也未必能拿一辈子啊\n\n这句话挺真实的，没有高薪了未必调整的过来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2026085321625293247",
+        "created_at": "2026-02-24T00:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026098190811033787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026098190811033787",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026085321625293247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 高消费的感觉还是不太可取\n\n并且她的高薪也未必能拿一辈子啊\n\n这句话挺真实的，没有高薪了未必调整的过来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593547850637791233",
+        "conversation_id": "2026085321625293247",
+        "created_at": "2026-02-24T00:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026085321625293247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026085321625293247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么男性不喜欢收入高消费高的女生？\n\n阿乐：我公司一个单身女工程师，形象很好，工资到手将近3万，\n\n这么好的条件，她们公司的男同事 却没有一个人去追的。\n\n她房租七千多，养宠物每个月固定支出2500以上，这就一万多没了，每天中午点外卖从没见过她点50以下的。\n\n去逛街路过一健身房，直接冲动消费办卡，\n2万9刷卡不带眨一下眼。\n\n办卡之后星期一后悔了，在公司大群里以20000转让，她一次都没有去过。\n\n有一次去做头发 花了6000也不带眨一下眼睛的。\n\n而公司的男同事们，花钱都很谨慎，因为都要攒钱买房买车，以后还要养家，只有不断的存款才能换来心安。\n\n为什么高薪女性在相亲市场不受欢迎？\n\n这就是原因，她的高薪全都用来维持她的个人消费了，因为不需要养家，自己活的潇洒就可以了，\n\n但是如果跟她组建新家庭，这个小家不会因为她的高薪受益，反而很可能因为要维持她的高消费要拖累整个小家，毕竟由奢入简难，不能维持她的消费，这日子肯定不好过。\n\n并且她的高薪也未必能拿一辈子啊"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3530,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么男性不喜欢收入高消费高的女生？\n\n阿乐：我公司一个单身女工程师，形象很好，工资到手将近3万，\n\n这么好的条件，她们公司的男同事 却没有一个人去追的。\n\n她房租七千多，养宠物每个月固定支出2500以上，这就一万多没了，每天中午点外卖从没见过她点50以下的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 799,
+          "like_count": 4745,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 2609
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187852,
+          "following_count": 1312,
+          "like_count": 3284,
+          "listed_count": 741,
+          "media_count": 3537,
+          "tweet_count": 6557
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2066326475817857529",
+    "created_at": "2026-06-15T04:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066374443820367996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "938115028871467009",
+          "start": 0,
+          "username": "samliu0105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066374443820367996",
+    "in_reply_to_user_id": "938115028871467009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066330518761926950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samliu0105 真够了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_2066330501737299968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0UpLibQAA3NYM.jpg",
+        "width": 960
+      },
+      {
+        "height": 1416,
+        "media_key": "3_2066330501733056512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0UpLhagAAUk50.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2066326475817857529",
+        "created_at": "2026-06-15T04:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066374443820367996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "938115028871467009",
+              "start": 0,
+              "username": "samliu0105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066374443820367996",
+        "in_reply_to_user_id": "938115028871467009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066330518761926950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samliu0105 真够了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066330501737299968",
+            "3_2066330501733056512"
+          ]
+        },
+        "author_id": "938115028871467009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066326475817857529",
+        "created_at": "2026-06-15T01:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066330518761926950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3HtnSoRlf",
+              "end": 40,
+              "expanded_url": "https://x.com/samliu0105/status/2066330518761926950/photo/1",
+              "media_key": "3_2066330501737299968",
+              "start": 17,
+              "url": "https://t.co/s3HtnSoRlf"
+            },
+            {
+              "display_url": "pic.x.com/s3HtnSoRlf",
+              "end": 40,
+              "expanded_url": "https://x.com/samliu0105/status/2066330518761926950/photo/1",
+              "media_key": "3_2066330501733056512",
+              "start": 17,
+              "url": "https://t.co/s3HtnSoRlf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066330518761926950",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066326475817857529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 怎么不对😍 https://t.co/s3HtnSoRlf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3710,
+          "following_count": 946,
+          "like_count": 12854,
+          "listed_count": 10,
+          "media_count": 2534,
+          "tweet_count": 7894
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-05T18:37:06.000Z",
+        "description": "欢迎大家来和我做朋友喵🤗关注我我也会回关喵😋",
+        "id": "938115028871467009",
+        "location": "The moon",
+        "name": "Sam liu",
+        "pinned_tweet_id": "2056995444593754520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047609458612908032/Tr9b6tGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 619,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 1021
+        },
+        "username": "samliu0105",
+        "verified": true
+      }
+    ]
+  }
+}

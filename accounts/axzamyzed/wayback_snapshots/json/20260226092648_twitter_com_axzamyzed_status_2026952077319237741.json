@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2026878916195926078",
+    "created_at": "2026-02-26T09:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026952077319237741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026952077319237741",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026878916195926078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 为啥要炫耀这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30334,
+        "height": 746,
+        "media_key": "13_2026878861619675136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026878861619675136/img/LHKYQR2KDgHvC2YU.jpg",
+        "public_metrics": {
+          "view_count": 10047
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026878861619675136/vid/avc1/320x330/c-dfG3CNgxFdpOCQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026878861619675136/vid/avc1/480x496/M5Ui4ciN2KtVrb2w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026878861619675136/vid/avc1/720x746/kevTnKFXd8_ZwRmi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026878861619675136/pl/SnEK7nYDMoV3Hmws.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2026878916195926078",
+        "created_at": "2026-02-26T09:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026952077319237741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026952077319237741",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026878916195926078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 为啥要炫耀这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026878861619675136"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2026878916195926078",
+        "created_at": "2026-02-26T04:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026878916195926078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZKn2GLUsM",
+              "end": 99,
+              "expanded_url": "https://x.com/maoshen/status/2026878916195926078/video/1",
+              "media_key": "13_2026878861619675136",
+              "start": 76,
+              "url": "https://t.co/GZKn2GLUsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026878916195926078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22252,
+          "like_count": 71,
+          "quote_count": 2,
+          "reply_count": 62,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "美国女子在沃尔玛结账时被嘲笑“穷”，随后她掏出手机银行卡，炫耀自己的6504美元巨款😂😂\n\n 的确，美国年轻人，银行卡余额6500美元，已经不错了👍😂 https://t.co/GZKn2GLUsM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 807,
+          "like_count": 5077,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点｜守心明理、知行合一，呵护内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201524,
+          "following_count": 7641,
+          "like_count": 4101,
+          "listed_count": 505,
+          "media_count": 2941,
+          "tweet_count": 6609
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

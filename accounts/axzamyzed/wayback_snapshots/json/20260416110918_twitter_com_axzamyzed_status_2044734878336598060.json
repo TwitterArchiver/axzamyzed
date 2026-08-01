@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2044696217045684256",
+    "created_at": "2026-04-16T11:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044734878336598060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1881374592180404224",
+          "start": 0,
+          "username": "jackchen12450"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044734878336598060",
+    "in_reply_to_user_id": "1881374592180404224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044721504554987583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackchen12450 确实看得透"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2044696217045684256",
+        "created_at": "2026-04-16T11:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044734878336598060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1881374592180404224",
+              "start": 0,
+              "username": "jackchen12450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044734878336598060",
+        "in_reply_to_user_id": "1881374592180404224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044721504554987583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackchen12450 确实看得透"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881374592180404224",
+        "conversation_id": "2044696217045684256",
+        "created_at": "2026-04-16T10:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044721504554987583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044721504554987583",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044696217045684256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 如果這是孩子寫的，我覺得前途無量。好歹那麼小的年紀就看破了事物的本質，算成功一半了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 892,
+          "like_count": 9196,
+          "listed_count": 6,
+          "media_count": 825,
+          "tweet_count": 5518
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-20T16:14:12.000Z",
+        "description": "",
+        "id": "1881374592180404224",
+        "name": "jackchen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892608462129131520/4xwICqwu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 39,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "jackchen12450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T16:14:12.000Z",
+        "description": "",
+        "id": "1881374592180404224",
+        "name": "jackchen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892608462129131520/4xwICqwu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 39,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 133
+        },
+        "username": "jackchen12450",
+        "verified": false
+      }
+    ]
+  }
+}

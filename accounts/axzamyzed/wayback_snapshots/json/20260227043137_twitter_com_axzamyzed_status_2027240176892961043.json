@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2027237375001153974",
+    "created_at": "2026-02-27T04:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027240176892961043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027240176892961043",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027237375001153974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 如果没有mcn被封了赚的也够了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_2027237369947066368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIxpa8XkAAh9DM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1457,
+        "media_key": "3_2027237370102493184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIxpbhbMAAWjmO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2027237375001153974",
+        "created_at": "2026-02-27T04:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027240176892961043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027240176892961043",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027237375001153974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 如果没有mcn被封了赚的也够了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027237369947066368",
+            "3_2027237370102493184"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2027237375001153974",
+        "created_at": "2026-02-27T04:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027237375001153974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zp3CosfcAM",
+              "end": 144,
+              "expanded_url": "https://x.com/maoshen/status/2027237375001153974/photo/1",
+              "media_key": "3_2027237369947066368",
+              "start": 121,
+              "url": "https://t.co/Zp3CosfcAM"
+            },
+            {
+              "display_url": "pic.x.com/Zp3CosfcAM",
+              "end": 144,
+              "expanded_url": "https://x.com/maoshen/status/2027237375001153974/photo/1",
+              "media_key": "3_2027237370102493184",
+              "start": 121,
+              "url": "https://t.co/Zp3CosfcAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027237375001153974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 891,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃瓜🍉，瓜🍉来了！！\n\n快讯：抖音大网红汤圆妈被封了！！\n\n她带儿子去澳门见客户的瓜被实锤了，严重违反抖音自律公约\n\n她的作品就是带着儿子到处拍视频，抖音会员数量1.4万，每月妥妥百万收入\n\n这两天没吃她的🍉，今天就被封了，这速度也太快了吧 https://t.co/Zp3CosfcAM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 813,
+          "like_count": 5180,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 2858
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点｜守心明理、知行合一，呵护内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201819,
+          "following_count": 7693,
+          "like_count": 4103,
+          "listed_count": 507,
+          "media_count": 2955,
+          "tweet_count": 6648
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

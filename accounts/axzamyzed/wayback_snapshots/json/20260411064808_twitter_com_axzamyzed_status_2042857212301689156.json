@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2042826780151812455",
+    "created_at": "2026-04-11T06:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042857212301689156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042857212301689156",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042826780151812455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ 加油哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042826714829746176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmUEuMa8AAVUFJ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2042826780151812455",
+        "created_at": "2026-04-11T06:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042857212301689156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042857212301689156",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042826780151812455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042826714829746176"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2042826780151812455",
+        "created_at": "2026-04-11T04:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042826780151812455"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "蓝v互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNnUYXkKLG",
+              "end": 78,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2042826780151812455/photo/1",
+              "media_key": "3_2042826714829746176",
+              "start": 55,
+              "url": "https://t.co/cNnUYXkKLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042826780151812455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺已经快做到挣马斯克的钱了\n浏览量快到5M，蓝v数量还不够\n蓝v互关喵！关注我的蓝v我都会回关喵🥺#蓝v互关 https://t.co/cNnUYXkKLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 926,
+          "like_count": 8745,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 5282
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 424,
+          "like_count": 6177,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1644
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

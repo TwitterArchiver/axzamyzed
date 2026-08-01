@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2043552589388923103",
+    "created_at": "2026-04-13T14:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043692968981192738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1792706054889025536",
+          "start": 0,
+          "username": "Dr_CrazyAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043692968981192738",
+    "in_reply_to_user_id": "1792706054889025536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043692774680313877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dr_CrazyAI 那倒确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2043552589388923103",
+        "created_at": "2026-04-13T14:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043692968981192738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1792706054889025536",
+              "start": 0,
+              "username": "Dr_CrazyAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043692968981192738",
+        "in_reply_to_user_id": "1792706054889025536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043692774680313877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dr_CrazyAI 那倒确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792706054889025536",
+        "conversation_id": "2043552589388923103",
+        "created_at": "2026-04-13T14:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043692774680313877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043692774680313877",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043552589388923103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 也有可能单纯是镜片脏了要擦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2034,
+          "following_count": 899,
+          "like_count": 8956,
+          "listed_count": 6,
+          "media_count": 744,
+          "tweet_count": 5395
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-20T23:56:57.000Z",
+        "description": "AI Agent 龙虾开发者 | 知识分享者 | 美股投资｜特斯拉｜社会经济｜社科研究 | 中国问题| X工作者｜职场建议",
+        "id": "1792706054889025536",
+        "location": "California",
+        "name": "ABing 阿炳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040289803523301376/_wrBCl9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2815,
+          "following_count": 2692,
+          "like_count": 6643,
+          "listed_count": 1,
+          "media_count": 913,
+          "tweet_count": 15717
+        },
+        "username": "Dr_CrazyAI",
+        "verified": true
+      }
+    ]
+  }
+}

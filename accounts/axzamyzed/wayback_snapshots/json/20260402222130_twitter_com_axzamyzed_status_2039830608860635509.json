@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039721706697400601",
+    "created_at": "2026-04-02T22:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T23:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039830608860635509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1496785166060036098",
+          "start": 0,
+          "username": "Yangrongyong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039830608860635509",
+    "in_reply_to_user_id": "1496785166060036098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039770628568588662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangrongyong 这个有意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039721706697400601",
+        "created_at": "2026-04-02T22:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T23:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039830608860635509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1496785166060036098",
+              "start": 0,
+              "username": "Yangrongyong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039830608860635509",
+        "in_reply_to_user_id": "1496785166060036098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039770628568588662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangrongyong 这个有意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496785166060036098",
+        "conversation_id": "2039721706697400601",
+        "created_at": "2026-04-02T18:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039770628568588662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039770628568588662",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7671,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039721706697400601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 结果两个人在同一个厂区。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 933,
+          "like_count": 8245,
+          "listed_count": 2,
+          "media_count": 563,
+          "tweet_count": 4939
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-24T09:52:57.000Z",
+        "description": "我每天都在吸引好运，\n我的财富会越来越多，\n我的人生会越走越顺利，\n我会越来越年轻有活力，\n我的身体会越来越健康，\n我能吸引到我想要的一切，\n感恩宇宙，感恩贵人，感恩您。",
+        "id": "1496785166060036098",
+        "location": "Beijing",
+        "name": "Mr. Yang",
+        "pinned_tweet_id": "1833949801165316184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991039037688389632/1PTEVQNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 255,
+          "like_count": 1922,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 5661
+        },
+        "username": "Yangrongyong",
+        "verified": false
+      }
+    ]
+  }
+}

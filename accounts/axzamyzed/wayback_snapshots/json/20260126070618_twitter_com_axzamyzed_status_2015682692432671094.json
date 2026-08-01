@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015681978310205751",
+    "created_at": "2026-01-26T07:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015682692432671094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015682692432671094",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015681978310205751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz 小孩子根本不知道是什么，老师就为了拍视频"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28490,
+        "height": 1280,
+        "media_key": "7_2015681725783769088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015681725783769088/pu/img/JettinQi_7G-8lX-.jpg",
+        "public_metrics": {
+          "view_count": 126
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681725783769088/pu/vid/avc1/320x568/HOZhmWv48HgFlUBP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681725783769088/pu/vid/avc1/480x852/SRzfKDSgsXjALZOS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681725783769088/pu/vid/avc1/720x1280/bmMVBgvZizXDB8wB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015681725783769088/pu/pl/D0ufLQuhFdUDvGhl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 55820,
+        "height": 1280,
+        "media_key": "7_2015681807564300289",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015681807564300289/pu/img/4yjFjtBClmHThI0S.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681807564300289/pu/vid/avc1/320x568/cjzBz2jpfRK5ZZSS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681807564300289/pu/vid/avc1/480x852/16c6sbNh6aF9nZiG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681807564300289/pu/vid/avc1/720x1280/nfG0CtCwMgJORxw4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015681807564300289/pu/pl/uCtbilcAlIwx631E.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 34876,
+        "height": 1280,
+        "media_key": "7_2015681877567320064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015681877567320064/pu/img/XvEtAxIsup0BGSB5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681877567320064/pu/vid/avc1/320x568/UUi3C427XmXuemGm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681877567320064/pu/vid/avc1/480x852/O7e34Pw17_UZHIp0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681877567320064/pu/vid/avc1/720x1280/F2Dms3rmy5v4Ddfq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015681877567320064/pu/pl/vZ3sB1Bh7x-uBjX7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 48622,
+        "height": 1280,
+        "media_key": "7_2015681943929516032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015681943929516032/pu/img/2GgkhoswSTuQ1D-s.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681943929516032/pu/vid/avc1/320x568/T_0FZM47zibRrGUE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681943929516032/pu/vid/avc1/480x852/2MzC-5CCPyVHVvYy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015681943929516032/pu/vid/avc1/720x1280/94Dbjg-oaUH0s66_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015681943929516032/pu/pl/0vM1bMy7PTDLg0vy.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015681978310205751",
+        "created_at": "2026-01-26T07:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015682692432671094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015682692432671094",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015681978310205751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 小孩子根本不知道是什么，老师就为了拍视频"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015681725783769088",
+            "7_2015681807564300289",
+            "7_2015681877567320064",
+            "7_2015681943929516032"
+          ]
+        },
+        "author_id": "28940967",
+        "conversation_id": "2015681978310205751",
+        "created_at": "2026-01-26T07:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015681978310205751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKWpMcFt6X",
+              "end": 45,
+              "expanded_url": "https://x.com/lidangzzz/status/2015681978310205751/video/1",
+              "media_key": "7_2015681725783769088",
+              "start": 22,
+              "url": "https://t.co/GKWpMcFt6X"
+            },
+            {
+              "display_url": "pic.x.com/GKWpMcFt6X",
+              "end": 45,
+              "expanded_url": "https://x.com/lidangzzz/status/2015681978310205751/video/1",
+              "media_key": "7_2015681807564300289",
+              "start": 22,
+              "url": "https://t.co/GKWpMcFt6X"
+            },
+            {
+              "display_url": "pic.x.com/GKWpMcFt6X",
+              "end": 45,
+              "expanded_url": "https://x.com/lidangzzz/status/2015681978310205751/video/1",
+              "media_key": "7_2015681877567320064",
+              "start": 22,
+              "url": "https://t.co/GKWpMcFt6X"
+            },
+            {
+              "display_url": "pic.x.com/GKWpMcFt6X",
+              "end": 45,
+              "expanded_url": "https://x.com/lidangzzz/status/2015681978310205751/video/1",
+              "media_key": "7_2015681943929516032",
+              "start": 22,
+              "url": "https://t.co/GKWpMcFt6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015681978310205751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "河南的幼儿园，每天都教小朋友们唱这些歌吗？ https://t.co/GKWpMcFt6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 233,
+          "like_count": 1699,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602315,
+          "following_count": 2705,
+          "like_count": 27855,
+          "listed_count": 3753,
+          "media_count": 9158,
+          "tweet_count": 43658
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

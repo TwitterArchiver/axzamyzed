@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2063193753620480402",
+    "created_at": "2026-06-06T10:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063203234987270337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254442404410621958",
+          "start": 0,
+          "username": "zwh20081"
+        },
+        {
+          "end": 21,
+          "id": "1446002090237513731",
+          "start": 10,
+          "username": "Misaka1042"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xiaosusu456/st…",
+          "end": 91,
+          "expanded_url": "https://x.com/xiaosusu456/status/2060412308002840877?s=46",
+          "start": 68,
+          "url": "https://t.co/mOaHoY6zZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063203234987270337",
+    "in_reply_to_user_id": "1254442404410621958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060412308002840877",
+        "type": "quoted"
+      },
+      {
+        "id": "2063195391907201384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh20081 @Misaka1042 我说opus4.8就算开low都写不出这种代码，不过还是得看人，毕竟这玩意的设计是这样的\n\nhttps://t.co/mOaHoY6zZX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1185,
+        "media_key": "3_2060412305016569856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgOEytbQAAXiWX.jpg",
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2063193753620480402",
+        "created_at": "2026-06-06T10:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063203234987270337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            },
+            {
+              "end": 21,
+              "id": "1446002090237513731",
+              "start": 10,
+              "username": "Misaka1042"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xiaosusu456/st…",
+              "end": 91,
+              "expanded_url": "https://x.com/xiaosusu456/status/2060412308002840877?s=46",
+              "start": 68,
+              "url": "https://t.co/mOaHoY6zZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063203234987270337",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060412308002840877",
+            "type": "quoted"
+          },
+          {
+            "id": "2063195391907201384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh20081 @Misaka1042 我说opus4.8就算开low都写不出这种代码，不过还是得看人，毕竟这玩意的设计是这样的\n\nhttps://t.co/mOaHoY6zZX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060412305016569856"
+          ]
+        },
+        "author_id": "1892789733287460864",
+        "conversation_id": "2060382661122916771",
+        "created_at": "2026-05-29T17:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060412308002840877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054877291633909760",
+              "start": 0,
+              "username": "TransYuwen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2QhFnBrlIs",
+              "end": 44,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2060412308002840877/photo/1",
+              "media_key": "3_2060412305016569856",
+              "start": 21,
+              "url": "https://t.co/2QhFnBrlIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060412308002840877",
+        "in_reply_to_user_id": "2054877291633909760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 201,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060382661122916771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TransYuwen 我不是切块了吗🤔 https://t.co/2QhFnBrlIs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254442404410621958",
+        "conversation_id": "2063193753620480402",
+        "created_at": "2026-06-06T09:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063195391907201384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1446002090237513731",
+              "start": 0,
+              "username": "Misaka1042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063195391907201384",
+        "in_reply_to_user_id": "1446002090237513731",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063193753620480402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaka1042 opus4.8\n🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3640,
+          "following_count": 944,
+          "like_count": 12322,
+          "listed_count": 10,
+          "media_count": 2191,
+          "tweet_count": 7461
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "服务器运维&深度学习业余人士 ＆打工人\n北京素鳞智绘科技有限公司 CEO\nzwh20081@solart.pro 商务\n💖 @Littleloong233\n逃生舱：@zwh18002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "Littleloong233"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "zwh18002"
+              }
+            ]
+          }
+        },
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081🍥",
+        "pinned_tweet_id": "1984571952846283182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015805547640156161/ieeIZz3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 364,
+          "like_count": 18333,
+          "listed_count": 4,
+          "media_count": 559,
+          "tweet_count": 11507
+        },
+        "username": "zwh20081",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-07T06:39:11.000Z",
+        "description": "19yr/out-dated JK/ENFP-T/ADHD?",
+        "id": "1446002090237513731",
+        "name": "Misaka10042🍥",
+        "pinned_tweet_id": "2061789742354882656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900091749701394432/oq_27XDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4818,
+          "following_count": 1225,
+          "like_count": 3204,
+          "listed_count": 15,
+          "media_count": 305,
+          "tweet_count": 1750
+        },
+        "username": "Misaka1042",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI\nMTF世界创始人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf-world.com",
+                "end": 23,
+                "expanded_url": "http://mtf-world.com",
+                "start": 0,
+                "url": "https://t.co/wL0Pqnb7i9"
+              }
+            ]
+          }
+        },
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060953077486858240/uae6848X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 91,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/wL0Pqnb7i9",
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

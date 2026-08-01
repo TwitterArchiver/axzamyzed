@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028098755027968163",
+    "created_at": "2026-03-02T02:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T03:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028300761357242820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753293214826848256",
+          "start": 0,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028300761357242820",
+    "in_reply_to_user_id": "1753293214826848256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028098755027968163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tatanakots 因为消息推送是app发给推送服务,推送服务发给你,目前的墙主要是单向的,大概这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2028098733863518208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVBDZlawAACi81.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028098755027968163",
+        "created_at": "2026-03-02T02:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028300761357242820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028300761357242820",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028098755027968163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 因为消息推送是app发给推送服务,推送服务发给你,目前的墙主要是单向的,大概这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028098733863518208"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028098755027968163",
+        "created_at": "2026-03-01T13:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028098755027968163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQ17rebdij",
+              "end": 48,
+              "expanded_url": "https://x.com/tatanakots/status/2028098755027968163/photo/1",
+              "media_key": "3_2028098733863518208",
+              "start": 25,
+              "url": "https://t.co/uQ17rebdij"
+            },
+            {
+              "display_url": "x.com/stelios199948/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/stelios199948/status/2028036267603304486",
+              "start": 49,
+              "url": "https://t.co/pOh2DpCH6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028098755027968163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2007,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028036267603304486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我刚才发现我的备用机也能不开梯子接收fcm推送诶 https://t.co/uQ17rebdij https://t.co/pOh2DpCH6z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 860,
+          "like_count": 5536,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3073
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 355,
+          "like_count": 25037,
+          "listed_count": 6,
+          "media_count": 1569,
+          "tweet_count": 10972
+        },
+        "username": "tatanakots",
+        "verified": false
+      }
+    ]
+  }
+}

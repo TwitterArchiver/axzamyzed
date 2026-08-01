@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016156894466081118",
+    "created_at": "2026-01-28T07:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T08:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016407521511321660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911055843715682304",
+          "start": 0,
+          "username": "Huang_Yut1ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016407521511321660",
+    "in_reply_to_user_id": "1911055843715682304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016156894466081118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huang_Yut1ng 我高一也得九号才能走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016156894466081118",
+        "created_at": "2026-01-28T07:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016407521511321660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911055843715682304",
+              "start": 0,
+              "username": "Huang_Yut1ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016407521511321660",
+        "in_reply_to_user_id": "1911055843715682304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016156894466081118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huang_Yut1ng 我高一也得九号才能走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911055843715682304",
+        "conversation_id": "2016156894466081118",
+        "created_at": "2026-01-27T14:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016156894466081118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pauldrizzyvlni…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/pauldrizzyvlni/status/2016084284768190923",
+              "start": 45,
+              "url": "https://t.co/A0qSbtJIPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016156894466081118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 472,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016084284768190923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是你们高三怎么考这么早…\n我这期末取消了直接考一模…\n想混都不行😭\n大概10号才放假… https://t.co/A0qSbtJIPX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 352,
+          "like_count": 2100,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-12T13:56:54.000Z",
+        "description": "🏳️‍⚧️MTF/好朋友：@smiroyama/好姐姐：@Kisaragi_Momoe  @RainLemon0715",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "smiroyama"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kisaragi_Momoe"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "RainLemon0715"
+              }
+            ]
+          }
+        },
+        "id": "1911055843715682304",
+        "location": "在你心中",
+        "name": "Huang_Yut1ng🍥",
+        "pinned_tweet_id": "1995501596621582588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015426776747700225/hXDRuwnr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 825,
+          "like_count": 2009,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 536
+        },
+        "username": "Huang_Yut1ng",
+        "verified": true
+      }
+    ]
+  }
+}

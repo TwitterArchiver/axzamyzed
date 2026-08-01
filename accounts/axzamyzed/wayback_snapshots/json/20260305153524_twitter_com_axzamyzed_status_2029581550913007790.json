@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029581540393644032"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2029581550913007790",
+    "created_at": "2026-03-05T15:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T16:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029581550913007790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SyTq2fCpC8",
+          "end": 34,
+          "expanded_url": "https://x.com/axzamyzed/status/2029581550913007790/photo/1",
+          "media_key": "3_2029581540393644032",
+          "start": 11,
+          "url": "https://t.co/SyTq2fCpC8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029581550913007790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不愧是RUBBISH https://t.co/SyTq2fCpC8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2029581540393644032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqFqGXacAA7eit.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029581540393644032"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2029581550913007790",
+        "created_at": "2026-03-05T15:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029581550913007790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyTq2fCpC8",
+              "end": 34,
+              "expanded_url": "https://x.com/axzamyzed/status/2029581550913007790/photo/1",
+              "media_key": "3_2029581540393644032",
+              "start": 11,
+              "url": "https://t.co/SyTq2fCpC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029581550913007790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不愧是RUBBISH https://t.co/SyTq2fCpC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 928,
+          "like_count": 5906,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 3365
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

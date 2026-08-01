@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2046799653102895245",
+    "created_at": "2026-04-22T22:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T23:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047087494143873370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1372562357956734978",
+          "start": 0,
+          "username": "anemoGlyde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047087494143873370",
+    "in_reply_to_user_id": "1372562357956734978",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046870034082083170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anemoGlyde 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2046799653102895245",
+        "created_at": "2026-04-22T22:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T23:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047087494143873370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1372562357956734978",
+              "start": 0,
+              "username": "anemoGlyde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047087494143873370",
+        "in_reply_to_user_id": "1372562357956734978",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046870034082083170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anemoGlyde 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372562357956734978",
+        "conversation_id": "2046799653102895245",
+        "created_at": "2026-04-22T08:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046870034082083170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046870034082083170",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3718,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046799653102895245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 没事，以后就可以叫珏珏子了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 864,
+          "like_count": 9829,
+          "listed_count": 8,
+          "media_count": 957,
+          "tweet_count": 5759
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-18T14:55:56.000Z",
+        "description": "",
+        "id": "1372562357956734978",
+        "name": "Anemo Glyde",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691294496833908736/n5a38CoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 245,
+          "like_count": 3566,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 122
+        },
+        "username": "anemoGlyde",
+        "verified": false
+      }
+    ]
+  }
+}

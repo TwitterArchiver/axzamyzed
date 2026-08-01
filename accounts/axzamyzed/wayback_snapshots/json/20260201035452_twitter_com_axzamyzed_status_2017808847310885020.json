@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017659701287391507",
+    "created_at": "2026-02-01T03:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T04:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017808847310885020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2262723812",
+          "start": 0,
+          "username": "abskoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017808847310885020",
+    "in_reply_to_user_id": "2262723812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017659701287391507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abskoop ai的pro和云盘的pro一直都是一个订阅啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2638,
+        "media_key": "3_2017659607695732736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAquSJbsAAqrCg.jpg",
+        "width": 2288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017659701287391507",
+        "created_at": "2026-02-01T03:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T04:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017808847310885020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2262723812",
+              "start": 0,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017808847310885020",
+        "in_reply_to_user_id": "2262723812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017659701287391507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abskoop ai的pro和云盘的pro一直都是一个订阅啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017659607695732736"
+          ]
+        },
+        "author_id": "2262723812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2017659701287391507",
+        "created_at": "2026-01-31T18:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017659701287391507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VGUMKeMqN",
+              "end": 224,
+              "expanded_url": "https://x.com/abskoop/status/2017659701287391507/photo/1",
+              "media_key": "3_2017659607695732736",
+              "start": 201,
+              "url": "https://t.co/3VGUMKeMqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017659701287391507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家也是这样吗\n\n尊贵的Google One 2TB 用户\n\n订阅了2TB Google One送了 Google AI Plus\n\n刚刚Gemini和我说的\n\nGoogle 刚刚白送了我一份“AI Plus”的会员权益\n\n以前： 你买 $9.99 的 Google One Premium (2TB)，就真的只有存储空间，没有高级 AI 功能。\n\n现在（最新政策）： Google 宣布，所有现有的 Google One Premium (2TB) 用户，自动获得 \"Google AI Plus\" 的所有 AI 权益"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 39254,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家也是这样吗\n\n尊贵的Google One 2TB 用户\n\n订阅了2TB Google One送了 Google AI Plus\n\n刚刚Gemini和我说的\n\nGoogle 刚刚白送了我一份“AI Plus”的会员权益\n\n以前： 你买 $9.99 的 Google One Premium (2TB)，就真的只有存储空间，没有高级 AI 功能。\n\n现在（最新政策）： Google 宣布，所有现有的 https://t.co/3VGUMKeMqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 444,
+          "like_count": 2592,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743148,
+          "following_count": 1204,
+          "like_count": 26093,
+          "listed_count": 2674,
+          "media_count": 23521,
+          "tweet_count": 60406
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015757862379880940",
+    "created_at": "2026-01-26T14:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015786872098947579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3281757618",
+          "start": 0,
+          "username": "feidegao888888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015786872098947579",
+    "in_reply_to_user_id": "3281757618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015757862379880940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feidegao888888 欲速则不达"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2364,
+        "media_key": "3_2015757495848128512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lowzVb0AAyp6g.jpg",
+        "width": 1772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015757862379880940",
+        "created_at": "2026-01-26T14:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015786872098947579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3281757618",
+              "start": 0,
+              "username": "feidegao888888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015786872098947579",
+        "in_reply_to_user_id": "3281757618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015757862379880940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feidegao888888 欲速则不达"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015757495848128512"
+          ]
+        },
+        "author_id": "3281757618",
+        "conversation_id": "2015757862379880940",
+        "created_at": "2026-01-26T12:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015757862379880940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2Sm6uvVB2",
+              "end": 169,
+              "expanded_url": "https://x.com/feidegao888888/status/2015757862379880940/photo/1",
+              "media_key": "3_2015757495848128512",
+              "start": 146,
+              "url": "https://t.co/Q2Sm6uvVB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015757862379880940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前几天看到别人推特发文都赚大钱了。\n看着自己眼红的不行就也想用推特赚钱，就花了100美金把蓝V开了。\n\n我这人心太急。为了快速达到500蓝V目标，和5M曝光量。每天不停的关注互关。频繁的日区评论。\n导致账号被封了好几次。现在评论也被降权了。好几天了也不给解封，导致日区发出的评论都石沉大海。\n\n现在愁得想放弃。\n感觉自己是一个什么都干不了的人。没文化，没知识。没口才。就是个饭桶。\n\n但有个朋友说，把这个‘愁’发出来就是第一步。\n所以，我来了。在坚持试一试吧。\n第一步：我承认自己怂了。想放弃了。\n你们第一次做件事想放弃时，是怎么坚持下来的？有跟我一样的新手吗？评论区聊聊。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 466,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天看到别人推特发文都赚大钱了。\n看着自己眼红的不行就也想用推特赚钱，就花了100美金把蓝V开了。\n\n我这人心太急。为了快速达到500蓝V目标，和5M曝光量。每天不停的关注互关。频繁的日区评论。\n导致账号被封了好几次。现在评论也被降权了。好几天了也不给解封，导致日区发出的评论都石沉大海。 https://t.co/Q2Sm6uvVB2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 273,
+          "like_count": 1854,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2015-07-16T17:45:59.000Z",
+        "description": "🚀 2015年入行，历经三届牛熊的区块链研究员。\n💰 专注挖掘 $TAO $ICP $RENDER $ONDO 等硬核基建。\n👨‍💻 从遍地狼烟到耐性生长，带你用认知差实现降维打击。\n​👇 关注我，看懂Web3底层逻辑，拿该拿的钱。",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 36,
+                "start": 32,
+                "tag": "TAO"
+              },
+              {
+                "end": 41,
+                "start": 37,
+                "tag": "ICP"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "tag": "RENDER"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "ONDO"
+              }
+            ]
+          }
+        },
+        "id": "3281757618",
+        "name": "我要飞的更高",
+        "pinned_tweet_id": "2012167795396469052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009507637742772224/ziToAK-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 1150,
+          "like_count": 877,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 1747
+        },
+        "username": "feidegao888888",
+        "verified": true
+      }
+    ]
+  }
+}

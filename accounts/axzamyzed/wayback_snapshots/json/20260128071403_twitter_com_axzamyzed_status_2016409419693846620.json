@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016378612740767791",
+    "created_at": "2026-01-28T07:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T08:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016409419693846620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "754977305617838084",
+          "start": 0,
+          "username": "balalamoxian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016409419693846620",
+    "in_reply_to_user_id": "754977305617838084",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016409258674553211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@balalamoxian awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016378612740767791",
+        "created_at": "2026-01-28T07:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016409419693846620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "754977305617838084",
+              "start": 0,
+              "username": "balalamoxian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016409419693846620",
+        "in_reply_to_user_id": "754977305617838084",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016409258674553211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@balalamoxian awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "754977305617838084",
+        "conversation_id": "2016378612740767791",
+        "created_at": "2026-01-28T07:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016409258674553211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016409258674553211",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016409141447995423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 厉害🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 357,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1125
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-18T09:53:11.000Z",
+        "description": "Less is more",
+        "id": "754977305617838084",
+        "location": "Jiangsu",
+        "name": "Tili M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012859345881477120/H_61EZ28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 502,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 254
+        },
+        "username": "balalamoxian",
+        "verified": true
+      }
+    ]
+  }
+}

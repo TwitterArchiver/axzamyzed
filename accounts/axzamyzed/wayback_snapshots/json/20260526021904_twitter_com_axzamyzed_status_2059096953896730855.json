@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2059075951254966392",
+    "created_at": "2026-05-26T02:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T03:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059096953896730855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1758942579574374401",
+          "start": 0,
+          "username": "shenmirenjoker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059096953896730855",
+    "in_reply_to_user_id": "1758942579574374401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059095786819088625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenmirenjoker 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2059075951254966392",
+        "created_at": "2026-05-26T02:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059096953896730855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758942579574374401",
+              "start": 0,
+              "username": "shenmirenjoker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059096953896730855",
+        "in_reply_to_user_id": "1758942579574374401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059095786819088625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenmirenjoker 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758942579574374401",
+        "conversation_id": "2059075951254966392",
+        "created_at": "2026-05-26T02:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059095786819088625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059095786819088625",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059075951254966392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 小人指的是自己的成绩吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3477,
+          "following_count": 949,
+          "like_count": 11800,
+          "listed_count": 11,
+          "media_count": 1808,
+          "tweet_count": 6994
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-17T19:52:56.000Z",
+        "description": "飞天意大利面神教主教| mxbc品鉴师🧋| PDD资深买手🏅 | 雅思托福没考📕 |清华北大没上📖 🆔国家级证件持有者💳|诺贝尔物理学奖觊觎者🏆 常年收集各种番号 （欢迎艾特我找，我只收藏整理） | 数据分析| 看相| 算命 | 威士忌| 企业数字转型| | 人类？动物？蜘蛛🕷️？意义之网的虫子",
+        "id": "1758942579574374401",
+        "name": "shenmmie",
+        "pinned_tweet_id": "2038862802870276369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006497042726858753/vtQl-yLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 1121,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2819
+        },
+        "username": "shenmirenjoker",
+        "verified": true
+      }
+    ]
+  }
+}

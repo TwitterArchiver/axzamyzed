@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062114665212321792"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2062114671998672996",
+    "created_at": "2026-06-03T10:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062114671998672996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MlhRu1hyGh",
+          "end": 37,
+          "expanded_url": "https://x.com/axzamyzed/status/2062114671998672996/photo/1",
+          "media_key": "3_2062114665212321792",
+          "start": 14,
+          "url": "https://t.co/MlhRu1hyGh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062114671998672996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要是你的话会从旁边绕过去吗 https://t.co/MlhRu1hyGh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 442,
+        "media_key": "3_2062114665212321792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4aXMoaoAAjtMk.jpg",
+        "width": 478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062114665212321792"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2062114671998672996",
+        "created_at": "2026-06-03T10:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062114671998672996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MlhRu1hyGh",
+              "end": 37,
+              "expanded_url": "https://x.com/axzamyzed/status/2062114671998672996/photo/1",
+              "media_key": "3_2062114665212321792",
+              "start": 14,
+              "url": "https://t.co/MlhRu1hyGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062114671998672996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是你的话会从旁边绕过去吗 https://t.co/MlhRu1hyGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3629,
+          "following_count": 948,
+          "like_count": 12199,
+          "listed_count": 10,
+          "media_count": 2090,
+          "tweet_count": 7335
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

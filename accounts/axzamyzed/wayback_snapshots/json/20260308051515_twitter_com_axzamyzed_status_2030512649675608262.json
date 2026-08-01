@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2030512649675608262",
+    "created_at": "2026-03-08T05:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T06:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030512649675608262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_forab/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/_forab/status/2030473218214228157",
+          "start": 14,
+          "url": "https://t.co/gwWaf5gvbI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030512649675608262",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030473218214228157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "流程我知道了，我的ssn呢 https://t.co/gwWaf5gvbI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22082,
+        "height": 1920,
+        "media_key": "13_2030473096705228800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030473096705228800/img/6xDnCqcxuXag6iqQ.jpg",
+        "public_metrics": {
+          "view_count": 21676
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030473096705228800/vid/avc1/966x1920/KUG0QnhK8BuLiJyJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030473096705228800/vid/avc1/720x1430/_b6V4UwQxO7Hu3JO.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030473096705228800/vid/avc1/320x636/avtcrNn0vs6iydka.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030473096705228800/vid/avc1/480x954/Ov4ehE1Z5HEuXXEV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030473096705228800/pl/0ENEuWdEP7iSh04Z.m3u8?v=cfc"
+          }
+        ],
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2030512649675608262",
+        "created_at": "2026-03-08T05:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030512649675608262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_forab/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/_forab/status/2030473218214228157",
+              "start": 14,
+              "url": "https://t.co/gwWaf5gvbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030512649675608262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030473218214228157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "流程我知道了，我的ssn呢 https://t.co/gwWaf5gvbI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030473096705228800"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2030473218214228157",
+        "created_at": "2026-03-08T02:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030473218214228157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qccwxg0pbk",
+              "end": 135,
+              "expanded_url": "https://x.com/_FORAB/status/2030473218214228157/video/1",
+              "media_key": "13_2030473096705228800",
+              "start": 112,
+              "url": "https://t.co/Qccwxg0pbk"
+            },
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/_FORAB/status/2030261456827277426",
+              "start": 136,
+              "url": "https://t.co/yeXqkPVR1U"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "f0c5de89e3e87780"
+        },
+        "id": "2030473218214228157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 94380,
+          "like_count": 200,
+          "quote_count": 10,
+          "reply_count": 71,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030261456827277426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "X 平台的 X Money 开户流程曝光，全程约 20 秒。\n\n仅需输入姓名、社会安全号（类似身份证件号码）、居住地址即可开通成功。安全验证则依靠苹果面部识别或 PIN 码来完成，进入页面后，会直接显示 6% 的存款收益。 https://t.co/Qccwxg0pbk https://t.co/yeXqkPVR1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 897,
+          "like_count": 6131,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 3515
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110756,
+          "following_count": 579,
+          "like_count": 9742,
+          "listed_count": 1865,
+          "media_count": 2717,
+          "tweet_count": 13270
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

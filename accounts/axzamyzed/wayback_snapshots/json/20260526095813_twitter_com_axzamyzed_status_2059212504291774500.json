@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059212437388451840"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2059212504291774500",
+    "created_at": "2026-05-26T09:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059212504291774500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iFyCQbaeK1",
+          "end": 35,
+          "expanded_url": "https://x.com/axzamyzed/status/2059212504291774500/video/1",
+          "media_key": "13_2059212437388451840",
+          "start": 12,
+          "url": "https://t.co/iFyCQbaeK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059212504291774500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个环到底是往哪边转的 https://t.co/iFyCQbaeK1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7448,
+        "height": 694,
+        "media_key": "13_2059212437388451840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059212437388451840/img/tPSpzheg_bC2P9Aj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059212437388451840/vid/avc1/290x270/NY0OYPlY2vcAhD3G.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059212437388451840/vid/avc1/388x360/r6gppAC5gf3YOKfr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059212437388451840/vid/avc1/750x694/XInG0pLQiBCzD8P1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059212437388451840/pl/vaEtgavRdnwjFFgn.m3u8"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059212437388451840"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2059212504291774500",
+        "created_at": "2026-05-26T09:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059212504291774500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFyCQbaeK1",
+              "end": 35,
+              "expanded_url": "https://x.com/axzamyzed/status/2059212504291774500/video/1",
+              "media_key": "13_2059212437388451840",
+              "start": 12,
+              "url": "https://t.co/iFyCQbaeK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059212504291774500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个环到底是往哪边转的 https://t.co/iFyCQbaeK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3487,
+          "following_count": 950,
+          "like_count": 11838,
+          "listed_count": 11,
+          "media_count": 1825,
+          "tweet_count": 7020
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

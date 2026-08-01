@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015926781979852912",
+    "created_at": "2026-01-27T06:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T07:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016037141030240576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1931971069013045248",
+          "start": 0,
+          "username": "zhuanlaiqu2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016037141030240576",
+    "in_reply_to_user_id": "1931971069013045248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015926781979852912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuanlaiqu2025 关了，请回一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1058,
+        "media_key": "3_2015926775122132992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oCuJxagAAMBbg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015926781979852912",
+        "created_at": "2026-01-27T06:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016037141030240576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1931971069013045248",
+              "start": 0,
+              "username": "zhuanlaiqu2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016037141030240576",
+        "in_reply_to_user_id": "1931971069013045248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015926781979852912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuanlaiqu2025 关了，请回一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015926775122132992"
+          ]
+        },
+        "author_id": "1931971069013045248",
+        "conversation_id": "2015926781979852912",
+        "created_at": "2026-01-26T23:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T00:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015926781979852912"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "Follow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9tTr2x1IdU",
+              "end": 51,
+              "expanded_url": "https://x.com/zhuanlaiqu2025/status/2015926781979852912/photo/1",
+              "media_key": "3_2015926775122132992",
+              "start": 28,
+              "url": "https://t.co/9tTr2x1IdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015926781979852912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1192,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日互关，蓝v关注必回  \n#蓝V互关 #Follow https://t.co/9tTr2x1IdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 301,
+          "like_count": 1951,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-09T07:06:31.000Z",
+        "description": "带你看看中国啦\n部分素材来自网络，侵删。",
+        "id": "1931971069013045248",
+        "name": "喝茶看中国",
+        "pinned_tweet_id": "2007698802237726779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931971358508081152/JalqCYNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 2118,
+          "like_count": 15221,
+          "listed_count": 6,
+          "media_count": 392,
+          "tweet_count": 938
+        },
+        "username": "zhuanlaiqu2025",
+        "verified": true
+      }
+    ]
+  }
+}

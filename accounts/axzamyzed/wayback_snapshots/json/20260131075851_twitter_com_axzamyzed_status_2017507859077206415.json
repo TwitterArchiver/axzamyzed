@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017477951902855342",
+    "created_at": "2026-01-31T07:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T08:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017507859077206415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017507859077206415",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017477951902855342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 割韭菜这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20533,
+        "height": 1280,
+        "media_key": "13_2017412351662690304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017412351662690304/img/RR99KnkxWrUsKdGD.jpg",
+        "public_metrics": {
+          "view_count": 20259
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412351662690304/vid/avc1/320x568/nwU8ov_PdbEEeuJY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412351662690304/vid/avc1/480x852/aWsiGfYtlee4xrhB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412351662690304/vid/avc1/720x1280/xdQWaBUUHBkYx3KD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017412351662690304/pl/YsUU2dwTiYyOp6Dt.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 166185,
+        "height": 960,
+        "media_key": "13_2017412351658426368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017412351658426368/img/f3hoWQUL4qB7yE-u.jpg",
+        "public_metrics": {
+          "view_count": 3252
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412351658426368/vid/avc1/320x564/tW3wIrZR5dIBOdqk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412351658426368/vid/avc1/480x846/UIfTOpRUhcEtAxv4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412351658426368/vid/avc1/544x960/mteilGf1UaO-YUXe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017412351658426368/pl/32wL_8lwrwjeFcoF.m3u8?v=cfc"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 18000,
+        "height": 1024,
+        "media_key": "13_2017412351708848128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017412351708848128/img/VIlJokA9HlCRrKh8.jpg",
+        "public_metrics": {
+          "view_count": 984
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412351708848128/vid/avc1/720x960/PNjfw3KLvaXekr2_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017412351708848128/pl/pFx1Kl_aLBU_2YYQ.m3u8?v=d2c"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412351708848128/vid/avc1/320x426/PjKGsKk5xB4wKYFN.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412351708848128/vid/avc1/768x1024/HrSBpxScLOKbSr4o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412351708848128/vid/avc1/480x640/2MsHvOzGsl7zm2QK.mp4"
+          }
+        ],
+        "width": 768
+      },
+      {
+        "duration_ms": 88233,
+        "height": 1920,
+        "media_key": "13_2017412352245633024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017412352245633024/img/0QSEN9n7SKErqCeP.jpg",
+        "public_metrics": {
+          "view_count": 413
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412352245633024/vid/avc1/480x852/vRlgD7kw4YuMQd5R.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412352245633024/vid/avc1/320x568/mRLecI-V1z29E6eD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412352245633024/vid/avc1/720x1280/ayd5onkfApsjFLeA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017412352245633024/pl/TLGINX3hCZcaVLee.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017412352245633024/vid/avc1/1080x1920/uhQzmiFnakStWfUm.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017477951902855342",
+        "created_at": "2026-01-31T07:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017507859077206415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017507859077206415",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017477951902855342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 割韭菜这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017412351662690304",
+            "13_2017412351658426368",
+            "13_2017412351708848128",
+            "13_2017412352245633024"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2017477951902855342",
+        "created_at": "2026-01-31T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017477951902855342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cyXO7o3tyW",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2017477951902855342/video/1",
+              "media_key": "13_2017412351662690304",
+              "start": 138,
+              "url": "https://t.co/cyXO7o3tyW"
+            },
+            {
+              "display_url": "pic.x.com/cyXO7o3tyW",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2017477951902855342/video/1",
+              "media_key": "13_2017412351658426368",
+              "start": 138,
+              "url": "https://t.co/cyXO7o3tyW"
+            },
+            {
+              "display_url": "pic.x.com/cyXO7o3tyW",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2017477951902855342/video/1",
+              "media_key": "13_2017412351708848128",
+              "start": 138,
+              "url": "https://t.co/cyXO7o3tyW"
+            },
+            {
+              "display_url": "pic.x.com/cyXO7o3tyW",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2017477951902855342/video/1",
+              "media_key": "13_2017412352245633024",
+              "start": 138,
+              "url": "https://t.co/cyXO7o3tyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017477951902855342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚缴租就降价！契约精神去哪了？\n1月28日，云南省昆明市，俊发新螺蛳湾，国际商贸城。\n商户聚集维权。\n商户反映，他们一次性缴纳了五年租金，但铺面刚到手两个月就被开发方委托第三方5~6折低价出售，第一批优质商户被当“软柿子”捏，人均亏损十几万起步，甚至可能高达几十万到几百万。\n商户需确认降价是否属实、是否官方行为，并通过其他方式争取补偿，因此聚集维权，要求降租或补偿损失。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 39622,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "刚缴租就降价！契约精神去哪了？\n1月28日，云南省昆明市，俊发新螺蛳湾，国际商贸城。\n商户聚集维权。\n商户反映，他们一次性缴纳了五年租金，但铺面刚到手两个月就被开发方委托第三方5~6折低价出售，第一批优质商户被当“软柿子”捏，人均亏损十几万起步，甚至可能高达几十万到几百万。 https://t.co/cyXO7o3tyW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 440,
+          "like_count": 2456,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1315
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190990,
+          "following_count": 1011,
+          "like_count": 8880,
+          "listed_count": 8521,
+          "media_count": 40881,
+          "tweet_count": 47858
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017819865545937086",
+    "created_at": "2026-02-01T06:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T07:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017848321638056102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1391650303",
+          "start": 0,
+          "username": "WeipingQin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017848321638056102",
+    "in_reply_to_user_id": "1391650303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017819865545937086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeipingQin 500万流量确实难,不光要互动还要有高质量原创"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017819865545937086",
+        "created_at": "2026-02-01T06:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017848321638056102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1391650303",
+              "start": 0,
+              "username": "WeipingQin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017848321638056102",
+        "in_reply_to_user_id": "1391650303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017819865545937086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeipingQin 500万流量确实难,不光要互动还要有高质量原创"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391650303",
+        "conversation_id": "2017819865545937086",
+        "created_at": "2026-02-01T04:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017819865545937086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017819865545937086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 321,
+                "start": 318,
+                "tag": "平论"
+              }
+            ]
+          },
+          "text": "完全理解新手蓝V用户的心情，恨不得一周之内完成500蓝V关注目标，三个月500万流量，以最快的速度从马斯克X平台领钱。💰💰 \n\n蓝V互关500易，三月500万流量难。\n\n强烈建议与关注的蓝V用户多留言互动，正常交流，特别是多年推特信誉的大V账户留言互动。\n\n一来可以为你的新号带来曝光机会和流量；\n\n二来会被算法归类为正常账户，而不是刷屏邪修账户，可以降低被限流甚至封号风险，万一平台规则突然更改，你的努力可能前功尽弃。\n\n所谓欲速则不达，好好运营自己的账户，打造个人IP，与粉丝互动分享交流，为社群提供有价值的文字和其他作品。\n\n社群健康发展，会吸引更多人加入X平台，也可以吸引更多广告商，这样真正的创作者会迎来更高更稳定的平台收入。#平论 \n\n这才是双赢多赢的未来。\n\n关注秦伟平，一起共建推特中文社区。✌️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1034,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完全理解新手蓝V用户的心情，恨不得一周之内完成500蓝V关注目标，三个月500万流量，以最快的速度从马斯克X平台领钱。💰💰 \n\n蓝V互关500易，三月500万流量难。\n\n强烈建议与关注的蓝V用户多留言互动，正常交流，特别是多年推特信誉的大V账户留言互动。\n\n一来可以为你的新号带来曝光机会和流量；"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 446,
+          "like_count": 2614,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2013-04-30T09:35:58.000Z",
+        "description": "Economist, Columnist, Veteran, Author of 「China’s Crisis Roadmap」 & 「Exodus from the Crisis of China」經濟學者/專欄作家/退伍軍人/中國危機三部曲作者 採訪/咨詢預約：Weipingqin1980@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@WeipingShow",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@WeipingShow",
+                "start": 0,
+                "url": "https://t.co/RSa0CMEBZH"
+              }
+            ]
+          }
+        },
+        "id": "1391650303",
+        "location": "Washington, DC",
+        "name": "Weiping Qin 秦偉平",
+        "pinned_tweet_id": "1223241613138374661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507943953374404609/cbeEgo-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74598,
+          "following_count": 1824,
+          "like_count": 28830,
+          "listed_count": 276,
+          "media_count": 11062,
+          "tweet_count": 41056
+        },
+        "url": "https://t.co/RSa0CMEBZH",
+        "username": "WeipingQin",
+        "verified": true
+      }
+    ]
+  }
+}

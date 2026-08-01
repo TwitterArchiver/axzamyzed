@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015805707355140096",
+        "3_2015805707338362883"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015805728704086301",
+    "created_at": "2026-01-26T15:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T16:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015805728704086301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fUdhEYNW8w",
+          "end": 49,
+          "expanded_url": "https://x.com/axzamyzed/status/2015805728704086301/photo/1",
+          "media_key": "3_2015805707355140096",
+          "start": 26,
+          "url": "https://t.co/fUdhEYNW8w"
+        },
+        {
+          "display_url": "pic.x.com/fUdhEYNW8w",
+          "end": 49,
+          "expanded_url": "https://x.com/axzamyzed/status/2015805728704086301/photo/1",
+          "media_key": "3_2015805707338362883",
+          "start": 26,
+          "url": "https://t.co/fUdhEYNW8w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015805728704086301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成果可观，就是消耗时间有点多awa\n再写篇自介就睡 https://t.co/fUdhEYNW8w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_2015805707355140096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mUnFMbsAAaQ21.jpg",
+        "width": 750
+      },
+      {
+        "height": 902,
+        "media_key": "3_2015805707338362883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mUnFIbsAMtQMs.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015805707355140096",
+            "3_2015805707338362883"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015805728704086301",
+        "created_at": "2026-01-26T15:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015805728704086301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fUdhEYNW8w",
+              "end": 49,
+              "expanded_url": "https://x.com/axzamyzed/status/2015805728704086301/photo/1",
+              "media_key": "3_2015805707355140096",
+              "start": 26,
+              "url": "https://t.co/fUdhEYNW8w"
+            },
+            {
+              "display_url": "pic.x.com/fUdhEYNW8w",
+              "end": 49,
+              "expanded_url": "https://x.com/axzamyzed/status/2015805728704086301/photo/1",
+              "media_key": "3_2015805707338362883",
+              "start": 26,
+              "url": "https://t.co/fUdhEYNW8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015805728704086301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成果可观，就是消耗时间有点多awa\n再写篇自介就睡 https://t.co/fUdhEYNW8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 284,
+          "like_count": 1888,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 994
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2030249645583257790",
+    "created_at": "2026-03-07T13:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030275409749975051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027031128738275328",
+          "start": 0,
+          "username": "NomtfYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030275409749975051",
+    "in_reply_to_user_id": "2027031128738275328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030249645583257790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NomtfYuwen 学习otc只接受实名付款，或者你开个stripe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2030249645583257790",
+        "created_at": "2026-03-07T13:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030275409749975051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027031128738275328",
+              "start": 0,
+              "username": "NomtfYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030275409749975051",
+        "in_reply_to_user_id": "2027031128738275328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030249645583257790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomtfYuwen 学习otc只接受实名付款，或者你开个stripe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027031128738275328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2030249645583257790",
+        "created_at": "2026-03-07T11:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030249645583257790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030249645583257790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我停单\n\n我要暂时停了除usdt付款的所有订单停单\n\n我现在支付宝限制支出 这次我解开了 我不知道下一次能否解开 我要优先保证客户资金安全 我不可能像某些人钱被冻结就跑路吧？\n\n钱我会先全部换成usdt\n\n然后至少直到手头的单子全部处理完再考虑恢复\n\nmtf们够苦了 别再折磨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 943,
+          "like_count": 6081,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 3475
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-26T14:42:39.000Z",
+        "description": "MTF🏳️‍⚧️｜HRT2025.6.30😋｜已净身😈｜反跨🤓｜ENFP｜持证含糖🍥｜低价🍥：https://t.co/Gsq7AeQddl（@shaoxiancao1314）｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "shaoxiancao1314"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qianxian1314520",
+                "end": 70,
+                "expanded_url": "http://t.me/qianxian1314520",
+                "start": 47,
+                "url": "https://t.co/Gsq7AeQddl"
+              }
+            ]
+          }
+        },
+        "id": "2027031128738275328",
+        "name": "唐毓文（糖商）",
+        "pinned_tweet_id": "2029936065260441813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027054709568409600/F6JypHaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 38,
+          "like_count": 21,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 232
+        },
+        "username": "NomtfYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

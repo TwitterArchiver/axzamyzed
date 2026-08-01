@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017048294674092346",
+    "created_at": "2026-01-30T02:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T03:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017061204406259772"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017061204406259772",
+    "in_reply_to_user_id": "1758324617838788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017048294674092346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "0个人参与投票"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017048294674092346",
+        "created_at": "2026-01-30T02:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017061204406259772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017061204406259772",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017048294674092346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "0个人参与投票"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017048294674092346",
+        "created_at": "2026-01-30T01:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017048294674092346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "hrt.transmtf.com",
+              "end": 23,
+              "expanded_url": "https://hrt.transmtf.com",
+              "start": 0,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.transmtf.com",
+              "url": "https://t.co/ORSecTY0Oj"
+            },
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 91,
+              "expanded_url": "https://x.com/axzamyzed/status/2017047539665789044",
+              "start": 68,
+              "url": "https://t.co/D47FEb21n0"
+            },
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/smiroyama/status/2016920956716142876",
+              "start": 92,
+              "url": "https://t.co/1fnrzjlOgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017048294674092346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016920956716142876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ORSecTY0Oj 已同步更改\ncloud版尚未合并完成\n可以点开下面的帖子投一下票让我更好的控制成本嘛🥹\nhttps://t.co/D47FEb21n0 https://t.co/1fnrzjlOgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 421,
+          "like_count": 2335,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

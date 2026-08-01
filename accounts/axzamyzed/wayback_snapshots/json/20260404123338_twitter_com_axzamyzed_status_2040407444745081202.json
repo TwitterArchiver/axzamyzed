@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2040395325312229423",
+    "created_at": "2026-04-04T12:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T13:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040407444745081202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040407444745081202",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040395325312229423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 说实话车除了面子，几十万和几百万差不多"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20108,
+        "height": 1906,
+        "media_key": "13_2040394850156376066",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040394850156376066/img/JJvxwLaEWcWi6faz.jpg",
+        "public_metrics": {
+          "view_count": 60
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040394850156376066/vid/avc1/1080x1906/8eKDoXwF3pYJJeVl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040394850156376066/pl/aIoLh6q7QYw8VBCq.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040394850156376066/vid/avc1/480x846/S_u34EBxlDj6okjI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040394850156376066/vid/avc1/720x1270/Eqe0DkHs1HS2SmFG.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040394850156376066/vid/avc1/320x564/4NRb5JrEKJoZpdsf.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040395325312229423",
+        "created_at": "2026-04-04T12:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040407444745081202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040407444745081202",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040395325312229423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 说实话车除了面子，几十万和几百万差不多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040394850156376066"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040395325312229423",
+        "created_at": "2026-04-04T11:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040395325312229423"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 82,
+              "tag": "灰度社会观察"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "人性毒舌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q797EfvmMf",
+              "end": 119,
+              "expanded_url": "https://x.com/TOOBE775/status/2040395325312229423/video/1",
+              "media_key": "13_2040394850156376066",
+              "start": 96,
+              "url": "https://t.co/Q797EfvmMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040395325312229423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 168,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豪车对于男人意味着什么？\n是你快意江湖的底气，\n是你面对朋友的壕气，\n是你面对女人的傲气。\n一切都取决于一辆豪车，\n其实这车就是阶级的鸿沟\n一辈子难以跨越~~~😢\n#灰度社会观察 #人性毒舌 https://t.co/Q797EfvmMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 932,
+          "like_count": 8335,
+          "listed_count": 3,
+          "media_count": 588,
+          "tweet_count": 5016
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2039160301560709442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2322,
+          "following_count": 1888,
+          "like_count": 13735,
+          "listed_count": 3,
+          "media_count": 318,
+          "tweet_count": 11128
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

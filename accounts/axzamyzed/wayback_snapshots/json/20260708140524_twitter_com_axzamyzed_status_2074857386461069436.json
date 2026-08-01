@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2074538196357317063",
+    "created_at": "2026-07-08T14:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074857386461069436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1926516097185955840",
+          "start": 0,
+          "username": "xinge111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074857386461069436",
+    "in_reply_to_user_id": "1926516097185955840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074750617944289760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinge111 独特的想法🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2074538196357317063",
+        "created_at": "2026-07-08T14:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074857386461069436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1926516097185955840",
+              "start": 0,
+              "username": "xinge111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074857386461069436",
+        "in_reply_to_user_id": "1926516097185955840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074750617944289760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinge111 独特的想法🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926516097185955840",
+        "conversation_id": "2074538196357317063",
+        "created_at": "2026-07-08T07:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074750617944289760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074750617944289760",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4721,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074538196357317063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 这个AI让我可以轻易实现百万梦想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 929,
+          "like_count": 14196,
+          "listed_count": 12,
+          "media_count": 3213,
+          "tweet_count": 8884
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-25T05:50:17.000Z",
+        "description": "💰10 年互联网创业者，30 岁通过互联网赚到第一桶金。\n🤖AI 深度使用者，正在通过 AI 打造超级个体。\n📚日常分享｜ AI 运用｜搞钱机会｜日常思考｜生活碎片",
+        "id": "1926516097185955840",
+        "location": "500 米",
+        "name": "辛格",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033806272877965312/jiCM4abK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 125,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "xinge111",
+        "verified": true
+      }
+    ]
+  }
+}

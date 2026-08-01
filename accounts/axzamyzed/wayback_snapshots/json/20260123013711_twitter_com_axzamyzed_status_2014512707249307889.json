@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012508237262626816"
+      ],
+      "media_source_tweet_id": [
+        "2014503351736541587"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2014512707249307889",
+    "created_at": "2026-01-23T01:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T02:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014512707249307889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FlT8yk2ZkZ",
+          "end": 52,
+          "expanded_url": "https://x.com/BI3BXI/status/2014503351736541587/photo/1",
+          "media_key": "3_2012508237262626816",
+          "start": 29,
+          "url": "https://t.co/FlT8yk2ZkZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014512707249307889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014503351736541587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: 奈飞:我买了 第二季先投10个亿 https://t.co/FlT8yk2ZkZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2276,
+        "media_key": "3_2012508237262626816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3dlD2WIAAU8Xy.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012508237262626816"
+          ],
+          "media_source_tweet_id": [
+            "2014503351736541587"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2014512707249307889",
+        "created_at": "2026-01-23T01:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T02:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014512707249307889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FlT8yk2ZkZ",
+              "end": 52,
+              "expanded_url": "https://x.com/BI3BXI/status/2014503351736541587/photo/1",
+              "media_key": "3_2012508237262626816",
+              "start": 29,
+              "url": "https://t.co/FlT8yk2ZkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014512707249307889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014503351736541587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: 奈飞:我买了 第二季先投10个亿 https://t.co/FlT8yk2ZkZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012508237262626816"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2014503351736541587",
+        "created_at": "2026-01-23T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014503351736541587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FlT8yk2ZkZ",
+              "end": 40,
+              "expanded_url": "https://x.com/BI3BXI/status/2014503351736541587/photo/1",
+              "media_key": "3_2012508237262626816",
+              "start": 17,
+              "url": "https://t.co/FlT8yk2ZkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014503351736541587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "奈飞:我买了 第二季先投10个亿 https://t.co/FlT8yk2ZkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 90,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只MtX🏳️‍⚧️｜@snowfairy011026所属｜前世17kfollowers @ryq59｜本体@yqua_｜除了梗图外 时不时发一些有价值的内容｜点击“查看更多”可以了解我～｜姐姐@mimilinkeyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 55,
+                "start": 49,
+                "username": "ryq59"
+              },
+              {
+                "end": 64,
+                "start": 58,
+                "username": "yqua_"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "mimilinkeyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPBAmp"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "阿彬秘制羊排饭",
+        "name": "你是要气死铨酱么🍥（二代目）",
+        "pinned_tweet_id": "2010144496995258841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6475,
+          "following_count": 3323,
+          "like_count": 30664,
+          "listed_count": 17,
+          "media_count": 1218,
+          "tweet_count": 5574
+        },
+        "url": "https://t.co/9ZD7jPBAmp",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

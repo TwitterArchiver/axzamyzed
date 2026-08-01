@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063553178701107201"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2063555988482130128",
+    "created_at": "2026-06-07T09:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:26:33.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063553185856507907",
+      "2063555988482130128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mmNW1naO7c",
+          "end": 41,
+          "expanded_url": "https://x.com/axzamyzed/status/2063555988482130128/photo/1",
+          "media_key": "3_2063553178701107201",
+          "start": 18,
+          "url": "https://t.co/mmNW1naO7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063555988482130128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有的中文和英文可以混着说，有的不行 https://t.co/mmNW1naO7c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 363,
+        "media_key": "3_2063553178701107201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKM2rs-bkAE_8Gt.jpg",
+        "width": 491
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063553178701107201"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2063553185856507907",
+        "created_at": "2026-06-07T09:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:26:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063553185856507907",
+          "2063555988482130128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBUKykdMNr",
+              "end": 23,
+              "expanded_url": "https://x.com/axzamyzed/status/2063553185856507907/photo/1",
+              "media_key": "3_2063553178701107201",
+              "start": 0,
+              "url": "https://t.co/mBUKykdMNr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063553185856507907",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mBUKykdMNr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063553178701107201"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2063555988482130128",
+        "created_at": "2026-06-07T09:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:26:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063553185856507907",
+          "2063555988482130128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmNW1naO7c",
+              "end": 41,
+              "expanded_url": "https://x.com/axzamyzed/status/2063555988482130128/photo/1",
+              "media_key": "3_2063553178701107201",
+              "start": 18,
+              "url": "https://t.co/mmNW1naO7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063555988482130128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的中文和英文可以混着说，有的不行 https://t.co/mmNW1naO7c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3654,
+          "following_count": 944,
+          "like_count": 12428,
+          "listed_count": 10,
+          "media_count": 2248,
+          "tweet_count": 7542
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

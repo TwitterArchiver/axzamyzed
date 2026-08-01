@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2071394044404805721",
+    "created_at": "2026-06-29T09:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071530292238802945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852662238664069120",
+          "start": 0,
+          "username": "raygogooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071530292238802945",
+    "in_reply_to_user_id": "1852662238664069120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071504202241888283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raygogooo 这样吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2071394044404805721",
+        "created_at": "2026-06-29T09:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071530292238802945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852662238664069120",
+              "start": 0,
+              "username": "raygogooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071530292238802945",
+        "in_reply_to_user_id": "1852662238664069120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071504202241888283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raygogooo 这样吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852662238664069120",
+        "conversation_id": "2071394044404805721",
+        "created_at": "2026-06-29T08:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071504202241888283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071504202241888283",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1106,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071394044404805721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 天线是苹果型新号发射，这么搞没毛病的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3957,
+          "following_count": 925,
+          "like_count": 13728,
+          "listed_count": 11,
+          "media_count": 2985,
+          "tweet_count": 8543
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-02T10:41:29.000Z",
+        "description": "我的键盘为什么在冒烟?\n我看的片子怎么是无码的?\n为什么不用AI就是在用AI?\n为什么让我chill一点? 一点是什么?",
+        "id": "1852662238664069120",
+        "name": "LW_7603",
+        "pinned_tweet_id": "2066714773010726958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071185425377751041/he_mkbI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 610,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1085
+        },
+        "url": "",
+        "username": "raygogooo",
+        "verified": true
+      }
+    ]
+  }
+}

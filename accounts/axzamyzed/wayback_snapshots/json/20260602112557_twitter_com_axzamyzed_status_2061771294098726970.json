@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2061625715968368938",
+    "created_at": "2026-06-02T11:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061771294098726970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "862163491544813568",
+          "start": 0,
+          "username": "ZealotWhiteLich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061771294098726970",
+    "in_reply_to_user_id": "862163491544813568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061740512843874573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZealotWhiteLich 吓哭了🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2061740467222396928",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJzGCAfWwAA86XN.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJzGCAfWwAA86XN.mp4"
+          }
+        ],
+        "width": 320
+      },
+      {
+        "height": 240,
+        "media_key": "16_2061740496112746496",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJzGDsHWgAATg3N.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJzGDsHWgAATg3N.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2061625715968368938",
+        "created_at": "2026-06-02T11:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061771294098726970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "862163491544813568",
+              "start": 0,
+              "username": "ZealotWhiteLich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061771294098726970",
+        "in_reply_to_user_id": "862163491544813568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061740512843874573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZealotWhiteLich 吓哭了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2061740467222396928",
+            "16_2061740496112746496"
+          ]
+        },
+        "author_id": "862163491544813568",
+        "conversation_id": "2061625715968368938",
+        "created_at": "2026-06-02T09:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061740512843874573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuiOI4NYWa",
+              "end": 48,
+              "expanded_url": "https://x.com/ZealotWhiteLich/status/2061740512843874573/photo/1",
+              "media_key": "16_2061740467222396928",
+              "start": 25,
+              "url": "https://t.co/BuiOI4NYWa"
+            },
+            {
+              "display_url": "pic.x.com/BuiOI4NYWa",
+              "end": 48,
+              "expanded_url": "https://x.com/ZealotWhiteLich/status/2061740512843874573/photo/1",
+              "media_key": "16_2061740496112746496",
+              "start": 25,
+              "url": "https://t.co/BuiOI4NYWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061740512843874573",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1260,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061625715968368938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 演讲者和听众belike： https://t.co/BuiOI4NYWa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3629,
+          "following_count": 949,
+          "like_count": 12137,
+          "listed_count": 10,
+          "media_count": 2048,
+          "tweet_count": 7286
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-10T04:32:49.000Z",
+        "description": "上推为了3件事：\n1、看福瑞\n2、看男娘\n3、看福瑞男娘",
+        "id": "862163491544813568",
+        "location": "下北沢",
+        "name": "白附子（已野兽化）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980821281944584192/aZf84tF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 3988,
+          "like_count": 53945,
+          "listed_count": 3,
+          "media_count": 814,
+          "tweet_count": 23838
+        },
+        "username": "ZealotWhiteLich",
+        "verified": true
+      }
+    ]
+  }
+}

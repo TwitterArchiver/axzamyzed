@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2024037784537686318",
+    "created_at": "2026-02-18T09:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T10:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024054122006118493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224020250733268995",
+          "start": 0,
+          "username": "appleneko2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024054122006118493",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024037784537686318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@appleneko2001 有非大陆居民的解决方案"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "QQ forcing me to provide local ID to identify my personality but I don't have LOL \nI'm not living in China yet and I can't have a ID if I'm not living in China\nThis is dumb",
+        "height": 2048,
+        "media_key": "3_2024037779836174336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbTow8bAAAsBRL.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2024037784537686318",
+        "created_at": "2026-02-18T09:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024054122006118493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024054122006118493",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024037784537686318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 有非大陆居民的解决方案"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024037779836174336"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2024037784537686318",
+        "created_at": "2026-02-18T08:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T09:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024037784537686318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GBH7CiXN8",
+              "end": 65,
+              "expanded_url": "https://x.com/appleneko2001/status/2024037784537686318/photo/1",
+              "media_key": "3_2024037779836174336",
+              "start": 42,
+              "url": "https://t.co/4GBH7CiXN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024037784537686318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好好 QQ真的是没事找事\n我一个非大陆居民上哪里给你找身分证号？要国际护照可以有 https://t.co/4GBH7CiXN8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2023990485409268071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 717,
+          "like_count": 4085,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2259
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 327,
+          "like_count": 90656,
+          "listed_count": 2,
+          "media_count": 1495,
+          "tweet_count": 14730
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

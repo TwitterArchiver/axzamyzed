@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015443104413987179",
+    "created_at": "2026-01-26T13:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015773827767378294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775457158563274752",
+          "start": 0,
+          "username": "AshlynHe1129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015773827767378294",
+    "in_reply_to_user_id": "1775457158563274752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015443104413987179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AshlynHe1129 关喽回一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015443104413987179",
+        "created_at": "2026-01-26T13:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015773827767378294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775457158563274752",
+              "start": 0,
+              "username": "AshlynHe1129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015773827767378294",
+        "in_reply_to_user_id": "1775457158563274752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015443104413987179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AshlynHe1129 关喽回一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775457158563274752",
+        "conversation_id": "2015443104413987179",
+        "created_at": "2026-01-25T15:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015443104413987179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dakache01/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/dakache01/status/2015237190914113972",
+              "start": 33,
+              "url": "https://t.co/Xuc89xXwKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015443104413987179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9521,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 113,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015237190914113972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的吗，我5M快到了，但是蓝V还差点。欢迎大家来给我互关啊！！！ https://t.co/Xuc89xXwKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 268,
+          "like_count": 1825,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-03T09:36:03.000Z",
+        "description": "Founder @HeAisling(ZenStellar) | AI x Healing ｜Calm tech ｜Emotional wellness in the digital age｜会讲波兰语 ｜Kickstarter 众筹0-1 ｜智能硬件出海 ｜随缘碎碎念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "HeAisling"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zenstellarshop.com",
+                "end": 23,
+                "expanded_url": "https://zenstellarshop.com/",
+                "start": 0,
+                "url": "https://t.co/i5P2xKoQyA"
+              }
+            ]
+          }
+        },
+        "id": "1775457158563274752",
+        "location": "厦门",
+        "name": "Ashlyn He",
+        "pinned_tweet_id": "1990400329960042995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987110492188360704/DpoD40x-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2865,
+          "following_count": 208,
+          "like_count": 1779,
+          "listed_count": 16,
+          "media_count": 31,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/i5P2xKoQyA",
+        "username": "AshlynHe1129",
+        "verified": true
+      }
+    ]
+  }
+}

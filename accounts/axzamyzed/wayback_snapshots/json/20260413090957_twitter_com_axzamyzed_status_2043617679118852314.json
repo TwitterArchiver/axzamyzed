@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2043605920626667780",
+    "created_at": "2026-04-13T09:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T10:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043617679118852314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1789538112231927808",
+          "start": 0,
+          "username": "AICostEngineer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043617679118852314",
+    "in_reply_to_user_id": "1789538112231927808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043617258099142696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AICostEngineer 那确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2043605920626667780",
+        "created_at": "2026-04-13T09:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043617679118852314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1789538112231927808",
+              "start": 0,
+              "username": "AICostEngineer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043617679118852314",
+        "in_reply_to_user_id": "1789538112231927808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043617258099142696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AICostEngineer 那确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789538112231927808",
+        "conversation_id": "2043605920626667780",
+        "created_at": "2026-04-13T09:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043617258099142696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043617258099142696",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043605920626667780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 笑歸笑，但那一下是真的疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 919,
+          "like_count": 8938,
+          "listed_count": 6,
+          "media_count": 739,
+          "tweet_count": 5386
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T06:08:37.000Z",
+        "description": "AI Systems Engineer  | Cost•Risk•Incentives decoder of power structures | Political double standards exposed | Social resilience engineer",
+        "id": "1789538112231927808",
+        "location": "Los Angeles, CA",
+        "name": "SysEng | 控城獅",
+        "pinned_tweet_id": "2042425896959950858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028030866572894208/8wi5o88L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 1412,
+          "like_count": 1383,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2608
+        },
+        "username": "AICostEngineer",
+        "verified": true
+      }
+    ]
+  }
+}

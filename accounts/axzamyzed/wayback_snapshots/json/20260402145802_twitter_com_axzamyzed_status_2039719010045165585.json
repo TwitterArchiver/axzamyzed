@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039656797120967133",
+    "created_at": "2026-04-02T14:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039719010045165585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4262069174",
+          "start": 0,
+          "username": "Eos_9119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039719010045165585",
+    "in_reply_to_user_id": "4262069174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039703099724730633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eos_9119 吓哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_2039703091973664768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE57J8RbMAA66bj.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039656797120967133",
+        "created_at": "2026-04-02T14:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039719010045165585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4262069174",
+              "start": 0,
+              "username": "Eos_9119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039719010045165585",
+        "in_reply_to_user_id": "4262069174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039703099724730633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eos_9119 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039703091973664768"
+          ]
+        },
+        "author_id": "4262069174",
+        "conversation_id": "2039656797120967133",
+        "created_at": "2026-04-02T13:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039703099724730633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtObRU10W7",
+              "end": 34,
+              "expanded_url": "https://x.com/Eos_9119/status/2039703099724730633/photo/1",
+              "media_key": "3_2039703091973664768",
+              "start": 11,
+              "url": "https://t.co/LtObRU10W7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039703099724730633",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039656797120967133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed https://t.co/LtObRU10W7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 933,
+          "like_count": 8237,
+          "listed_count": 2,
+          "media_count": 561,
+          "tweet_count": 4928
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-17T00:24:12.000Z",
+        "description": "公嬷一体机，杂食且挑食，见人说人话，不建议关注/关注=有趣≠认同/赛博杂记/您打什么tag我就是什么粉/最近厄中心舔盘😋",
+        "id": "4262069174",
+        "name": "人形自走BB机",
+        "pinned_tweet_id": "2037755174899564674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1357954362086096901/4fgvnDe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 457,
+          "like_count": 26760,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 15435
+        },
+        "username": "Eos_9119",
+        "verified": false
+      }
+    ]
+  }
+}

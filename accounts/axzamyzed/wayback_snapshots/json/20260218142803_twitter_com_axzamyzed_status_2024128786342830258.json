@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2024054950167564652",
+    "created_at": "2026-02-18T14:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024128786342830258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1362636470079528967",
+          "start": 0,
+          "username": "Sizhe_bitcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024128786342830258",
+    "in_reply_to_user_id": "1362636470079528967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024054950167564652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sizhe_bitcat 所以他扔出去了哥什么东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24473,
+        "height": 720,
+        "media_key": "13_2024054836858322944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024054836858322944/img/DMMd023QowNT_QyE.jpg",
+        "public_metrics": {
+          "view_count": 130838
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024054836858322944/vid/avc1/320x320/kfjA8YJv4TFVDesI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024054836858322944/vid/avc1/540x540/JuiDm76BDSdDmcn-.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024054836858322944/vid/avc1/720x720/Nb4j2phLBCO6CUJg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024054836858322944/pl/65VdlE2_hzC2-2Vo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2024054950167564652",
+        "created_at": "2026-02-18T14:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024128786342830258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1362636470079528967",
+              "start": 0,
+              "username": "Sizhe_bitcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024128786342830258",
+        "in_reply_to_user_id": "1362636470079528967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024054950167564652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sizhe_bitcat 所以他扔出去了哥什么东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024054836858322944"
+          ]
+        },
+        "author_id": "1362636470079528967",
+        "conversation_id": "2024054950167564652",
+        "created_at": "2026-02-18T09:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024054950167564652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vP8hcPuSuN",
+              "end": 59,
+              "expanded_url": "https://x.com/Sizhe_bitcat/status/2024054950167564652/video/1",
+              "media_key": "13_2024054836858322944",
+              "start": 36,
+              "url": "https://t.co/vP8hcPuSuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024054950167564652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 232381,
+          "like_count": 263,
+          "quote_count": 13,
+          "reply_count": 111,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "很火的视频\n\n测试狗妈妈反应\n\n可是为什么我看着一点都不觉得好笑🫠🫠🫠 https://t.co/vP8hcPuSuN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2023990485409268071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 722,
+          "like_count": 4113,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 2278
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-19T05:33:57.000Z",
+        "description": "Web3 冒险家、gamefi 资深玩家，曾经几万爆赚A8,后退圈投资实体基本归零，回归web3再次起航。慢即是快、永不放弃。",
+        "id": "1362636470079528967",
+        "name": "Sizhe思哲",
+        "pinned_tweet_id": "2009377102483853471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971676890487496704/LrPYG7lH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18124,
+          "following_count": 16914,
+          "like_count": 12893,
+          "listed_count": 36,
+          "media_count": 410,
+          "tweet_count": 11098
+        },
+        "username": "Sizhe_bitcat",
+        "verified": true
+      }
+    ]
+  }
+}

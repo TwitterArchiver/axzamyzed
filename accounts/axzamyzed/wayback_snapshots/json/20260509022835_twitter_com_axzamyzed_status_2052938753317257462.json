@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2052910209291731207",
+    "created_at": "2026-05-09T02:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052938753317257462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstraSpark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052938753317257462",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052910209291731207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstraSpark 美国的税率是多少啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_2052910203302244352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1m8_-a8AAZbQ1.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2052910209291731207",
+        "created_at": "2026-05-09T02:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052938753317257462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstraSpark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052938753317257462",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052910209291731207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstraSpark 美国的税率是多少啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052910203302244352"
+          ]
+        },
+        "author_id": "1775079210484436992",
+        "conversation_id": "2052910209291731207",
+        "created_at": "2026-05-09T00:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052910209291731207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yaXTazA3cf",
+              "end": 86,
+              "expanded_url": "https://x.com/0xAstraSpark/status/2052910209291731207/photo/1",
+              "media_key": "3_2052910203302244352",
+              "start": 63,
+              "url": "https://t.co/yaXTazA3cf"
+            },
+            {
+              "display_url": "x.com/0xastraspark/s…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/0xastraspark/status/2052590144503578667",
+              "start": 87,
+              "url": "https://t.co/3ov7oEuQ65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052910209291731207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 6526,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052590144503578667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当你有了ITIN并把商家设置在美国，你将获得2-3x的推特收益（相对于香港）并且大陆不知道你的美国收入，因为不是crs体系😅 https://t.co/yaXTazA3cf https://t.co/3ov7oEuQ65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 923,
+          "like_count": 10912,
+          "listed_count": 10,
+          "media_count": 1371,
+          "tweet_count": 6363
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "04年连续创业者，澳国立在读。建立了Github 最大的区块链开源基建之一，Top 1加密收款方案，获上万独立站采用并认可，累计处理数亿真实流水。🏗️ 正在打造 @GMWalletApp ｜💻 Keep Building!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "GMWalletApp"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952691600603385856/fL2QZzUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4654,
+          "following_count": 783,
+          "like_count": 33772,
+          "listed_count": 20,
+          "media_count": 237,
+          "tweet_count": 6049
+        },
+        "username": "0xAstraSpark",
+        "verified": true
+      }
+    ]
+  }
+}

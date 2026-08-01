@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2018289539182375003",
+    "created_at": "2026-02-02T12:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T13:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018296379416916420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677270742705270784",
+          "start": 0,
+          "username": "GEACPS1940629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018296379416916420",
+    "in_reply_to_user_id": "1677270742705270784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018289539182375003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GEACPS1940629 咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2018289526834368512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJnoZzakAAO3FK.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2018289539182375003",
+        "created_at": "2026-02-02T12:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018296379416916420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677270742705270784",
+              "start": 0,
+              "username": "GEACPS1940629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018296379416916420",
+        "in_reply_to_user_id": "1677270742705270784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018289539182375003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GEACPS1940629 咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018289526834368512"
+          ]
+        },
+        "author_id": "1677270742705270784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2018289539182375003",
+        "created_at": "2026-02-02T11:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018289539182375003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/szGtcRClkg"
+            },
+            {
+              "display_url": "pic.x.com/MJLYi9GJVH",
+              "end": 64,
+              "expanded_url": "https://x.com/GEACPS1940629/status/2018289539182375003/photo/1",
+              "media_key": "3_2018289526834368512",
+              "start": 41,
+              "url": "https://t.co/MJLYi9GJVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018289539182375003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/szGtcRClkg https://t.co/MJLYi9GJVH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 469,
+          "like_count": 2826,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n提問箱：https://t.co/FbqcTq0Vqx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny",
+                "end": 98,
+                "expanded_url": "https://ngl.link/mr.tenpenny",
+                "start": 75,
+                "url": "https://t.co/FbqcTq0Vqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://t.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/2CsWnNhq0f"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "location": "最近賬號有問題，私信請通過網頁版發送，不然看不到",
+        "name": "Mr.湯普尼",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003522899798269952/v4chWipq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 4921,
+          "like_count": 82620,
+          "listed_count": 2,
+          "media_count": 3471,
+          "tweet_count": 9391
+        },
+        "url": "https://t.co/2CsWnNhq0f",
+        "username": "GEACPS1940629",
+        "verified": false
+      }
+    ]
+  }
+}

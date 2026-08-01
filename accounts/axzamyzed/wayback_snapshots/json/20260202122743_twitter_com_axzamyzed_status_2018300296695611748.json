@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2018189347170967805",
+    "created_at": "2026-02-02T12:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T13:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018300296695611748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018300296695611748",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018189347170967805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 se2现在得七八百呢，低价买的肯定是捡的一类的绕过法"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2018189306419167232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIMezqbQAAER0-.jpg",
+        "width": 3000
+      },
+      {
+        "height": 634,
+        "media_key": "3_2018189306746343424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIMe04bkAAx_oq.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2018189347170967805",
+        "created_at": "2026-02-02T12:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018300296695611748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018300296695611748",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018189347170967805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 se2现在得七八百呢，低价买的肯定是捡的一类的绕过法"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018189306419167232",
+            "3_2018189306746343424"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2018189347170967805",
+        "created_at": "2026-02-02T05:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018189347170967805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t8Av9Xy7C9",
+              "end": 113,
+              "expanded_url": "https://x.com/mwdxj29477/status/2018189347170967805/photo/1",
+              "media_key": "3_2018189306419167232",
+              "start": 90,
+              "url": "https://t.co/t8Av9Xy7C9"
+            },
+            {
+              "display_url": "pic.x.com/t8Av9Xy7C9",
+              "end": 113,
+              "expanded_url": "https://x.com/mwdxj29477/status/2018189347170967805/photo/1",
+              "media_key": "3_2018189306746343424",
+              "start": 90,
+              "url": "https://t.co/t8Av9Xy7C9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018189347170967805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1106,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝要让全世界都看到这绝望的景象 ! \n商家nmsl，你设啥激活锁啊，劳资想从17系统升到26的，nmd有激活锁啊啊啊啊\n窝的iPhone SE 2啊，以后再也不贪小便宜了，呜呜呜 https://t.co/t8Av9Xy7C9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 471,
+          "like_count": 2833,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "翻车顺男/出厂日期:11.13.2011/01.28.2026补🍥02.02色🍥…仅仅只是体验/喜欢xnn xyn/INFP-T/欢迎互fo~/初二牲/家长几乎放养我/161cm  50kg/坐标湖北/社恐/Minecraft玩家/民國派🇹🇼/繁中&简中/\nQQ&B站:私信加/TG:「mwdxj」(随机换头像)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "ROC/东湖北「汉川城」",
+        "name": "MWdxj_🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012764703894671360/6Pvt_xDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 371,
+          "like_count": 4046,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

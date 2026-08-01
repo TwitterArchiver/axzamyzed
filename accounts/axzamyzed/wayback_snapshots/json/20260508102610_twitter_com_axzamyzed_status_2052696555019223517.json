@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052696546358026244"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052696555019223517",
+    "created_at": "2026-05-08T10:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:25:54.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052696487713272192",
+      "2052696555019223517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nr5JzTBtje",
+          "end": 32,
+          "expanded_url": "https://x.com/axzamyzed/status/2052696555019223517/photo/1",
+          "media_key": "3_2052696546358026244",
+          "start": 9,
+          "url": "https://t.co/nr5JzTBtje"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052696555019223517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是用来洗什么的 https://t.co/nr5JzTBtje"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2052696546358026244",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHykoh1XYAQ1GCO.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052696478947188736"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2052696487713272192",
+        "created_at": "2026-05-08T10:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:25:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052696487713272192",
+          "2052696555019223517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgQZyXkdkk",
+              "end": 32,
+              "expanded_url": "https://x.com/axzamyzed/status/2052696487713272192/photo/1",
+              "media_key": "3_2052696478947188736",
+              "start": 9,
+              "url": "https://t.co/JgQZyXkdkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052696487713272192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是用来洗什么的 https://t.co/JgQZyXkdkk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052696546358026244"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052696555019223517",
+        "created_at": "2026-05-08T10:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:25:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052696487713272192",
+          "2052696555019223517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nr5JzTBtje",
+              "end": 32,
+              "expanded_url": "https://x.com/axzamyzed/status/2052696555019223517/photo/1",
+              "media_key": "3_2052696546358026244",
+              "start": 9,
+              "url": "https://t.co/nr5JzTBtje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052696555019223517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是用来洗什么的 https://t.co/nr5JzTBtje"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 917,
+          "like_count": 10874,
+          "listed_count": 10,
+          "media_count": 1358,
+          "tweet_count": 6340
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015331447750664507",
+    "created_at": "2026-01-26T07:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015687172805042297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1295557540323790848",
+          "start": 0,
+          "username": "zawe6hWtCAEkHHe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015687172805042297",
+    "in_reply_to_user_id": "1295557540323790848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015331447750664507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zawe6hWtCAEkHHe 关啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015331443891929088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_flRUHagAA_eQ7.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015331447750664507",
+        "created_at": "2026-01-26T07:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015687172805042297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1295557540323790848",
+              "start": 0,
+              "username": "zawe6hWtCAEkHHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015687172805042297",
+        "in_reply_to_user_id": "1295557540323790848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015331447750664507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zawe6hWtCAEkHHe 关啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015331443891929088"
+          ]
+        },
+        "author_id": "1295557540323790848",
+        "conversation_id": "2015331447750664507",
+        "created_at": "2026-01-25T07:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015331447750664507"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "蓝V"
+            },
+            {
+              "end": 154,
+              "start": 143,
+              "tag": "FollowBack"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pxNs1GeAq",
+              "end": 178,
+              "expanded_url": "https://x.com/zawe6hWtCAEkHHe/status/2015331447750664507/photo/1",
+              "media_key": "3_2015331443891929088",
+              "start": 155,
+              "url": "https://t.co/7pxNs1GeAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015331447750664507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 142,
+                "start": 139,
+                "tag": "蓝V"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "tag": "FollowBack"
+              },
+              {
+                "end": 160,
+                "start": 155,
+                "tag": "有关必回"
+              }
+            ]
+          },
+          "text": "蓝V互关再来一篇！\n\n很多人打着蓝V互关在骗粉，我希望大家既然写了蓝V互关贴就要诚信一点！\n\n因为我每天都会发日常和干货，我这里的蓝V都很活跃，大家可以来借楼互关！一起成长！\n\n因为回关有上限，如果我漏掉了哪一位宝贝，大家可以DM我！或评论区喊我，只要是蓝V我都会诚信回关！\n\n#蓝V #FollowBack #有关必回"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2527,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 71,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互关再来一篇！\n\n很多人打着蓝V互关在骗粉，我希望大家既然写了蓝V互关贴就要诚信一点！\n\n因为我每天都会发日常和干货，我这里的蓝V都很活跃，大家可以来借楼互关！一起成长！\n\n因为回关有上限，如果我漏掉了哪一位宝贝，大家可以DM我！或评论区喊我，只要是蓝V我都会诚信回关！\n\n#蓝V #FollowBack https://t.co/7pxNs1GeAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 242,
+          "like_count": 1717,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-18T03:06:19.000Z",
+        "description": "互关互fo",
+        "id": "1295557540323790848",
+        "name": "Kop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008191981110071296/x5fC2Fh6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 2456,
+          "like_count": 230,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 2664
+        },
+        "username": "zawe6hWtCAEkHHe",
+        "verified": true
+      }
+    ]
+  }
+}

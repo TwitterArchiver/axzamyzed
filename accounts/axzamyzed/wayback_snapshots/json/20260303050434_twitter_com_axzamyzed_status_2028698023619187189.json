@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028421489532506223",
+    "created_at": "2026-03-03T05:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T06:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028698023619187189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028698023619187189",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028683288349753716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 左右右左，这样看是不是好一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028421489532506223",
+        "created_at": "2026-03-03T05:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028698023619187189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028698023619187189",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028683288349753716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 左右右左，这样看是不是好一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2028421489532506223",
+        "created_at": "2026-03-03T04:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028683288349753716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028683288349753716",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028421489532506223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed \"())(\"怎么就成回文了，正读反读也不一样啊🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 882,
+          "like_count": 5661,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 3166
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 146,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 123,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 104,
+          "like_count": 2605,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 1779
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

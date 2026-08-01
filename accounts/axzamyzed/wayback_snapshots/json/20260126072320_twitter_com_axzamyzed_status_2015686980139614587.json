@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10041437724",
+          "name": "Apple - Apple Pay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237094778463858688",
+          "name": "Fintech"
+        }
+      }
+    ],
+    "conversation_id": "2015656073777324322",
+    "created_at": "2026-01-26T07:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015686980139614587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3016619443",
+          "start": 0,
+          "username": "EvanWritesX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015686980139614587",
+    "in_reply_to_user_id": "3016619443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015656073777324322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvanWritesX 只是平台可能对苹果手机用户要价更贵，苹果会抽成的只有app内购服务，所有你用微信支付宝甚至Apple Pay支付的都不抽成，而且Apple抽成也是为了更好的提供服务"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2015653523078479872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_kKMylbgAAayPW.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2015656073777324322",
+        "created_at": "2026-01-26T07:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015686980139614587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3016619443",
+              "start": 0,
+              "username": "EvanWritesX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015686980139614587",
+        "in_reply_to_user_id": "3016619443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015656073777324322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvanWritesX 只是平台可能对苹果手机用户要价更贵，苹果会抽成的只有app内购服务，所有你用微信支付宝甚至Apple Pay支付的都不抽成，而且Apple抽成也是为了更好的提供服务"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015653523078479872"
+          ]
+        },
+        "author_id": "3016619443",
+        "conversation_id": "2015656073777324322",
+        "created_at": "2026-01-26T05:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015656073777324322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7f82WtXjXY",
+              "end": 97,
+              "expanded_url": "https://x.com/EvanWritesX/status/2015656073777324322/photo/1",
+              "media_key": "3_2015653523078479872",
+              "start": 74,
+              "url": "https://t.co/7f82WtXjXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015656073777324322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "做了15年果粉，今天必须给“苹果税”正个名！\n\n关于“苹果税”，很多人都被误导了，我之前有一段时间也被误导，后来查阅了一些资料，发现真相并非如此。\n\n我之前滴滴打车、携程购票、网购之类的，发现iPhone和其他安卓手机，价格有差异，我一直以为是iPhone的锅，直现在网上也是骂声一片，做了一番功课，发现苹果不应该背锅。\n\n资料显，Apple示只抽“数字”不抽“实体”苹果只对游戏道具、会员等虚拟商品抽成。网购、外卖、打车等实体消费，苹果一分不取。\n\n拒绝背锅“大数据杀熟”同款服务在不同设备价格不同，通常是平台自身的定价策略或大数据杀熟，与苹果税无关。\n\n不是纯利，是“物业费”抽成用于维护 API、开发工具、安全审核及隐私保护。且针对中小开发者（年收<100万刀），佣金已降至 15%。\n\n所以我个人觉得，苹果税本质是维持一个安全、公平应用商场的运营成本。理性看待，拒绝跟风。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1944,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了15年果粉，今天必须给“苹果税”正个名！\n\n关于“苹果税”，很多人都被误导了，我之前有一段时间也被误导，后来查阅了一些资料，发现真相并非如此。 https://t.co/7f82WtXjXY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 240,
+          "like_count": 1716,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-10T15:36:40.000Z",
+        "description": "前媒体人 \n联系方式：｜WeChat ID：EvanCreates｜https://t.co/2wytvRVLqf \n读书频道：https://t.co/0fTLS0vAOS \n魔法推荐：https://t.co/YCKVPDMK0o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 57,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 34,
+                "url": "https://t.co/2wytvRVLqf"
+              },
+              {
+                "display_url": "t.me/Book_Scape",
+                "end": 87,
+                "expanded_url": "https://t.me/Book_Scape",
+                "start": 64,
+                "url": "https://t.co/0fTLS0vAOS"
+              },
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 117,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=1696",
+                "start": 94,
+                "url": "https://t.co/YCKVPDMK0o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 23,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 0,
+                "url": "https://t.co/2wytvRVLqf"
+              }
+            ]
+          }
+        },
+        "id": "3016619443",
+        "location": "WeChat ID：EvanCreates",
+        "name": "Jason",
+        "pinned_tweet_id": "2007676380423872646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993562015932334082/50xwYK4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10578,
+          "following_count": 714,
+          "like_count": 3658,
+          "listed_count": 46,
+          "media_count": 835,
+          "tweet_count": 4091
+        },
+        "url": "https://t.co/2wytvRVLqf",
+        "username": "EvanWritesX",
+        "verified": true
+      }
+    ]
+  }
+}

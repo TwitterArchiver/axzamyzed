@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2018327369136968129",
+    "created_at": "2026-02-02T14:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T15:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018328335559070042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018328335559070042",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018327369136968129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 内圈贴贴喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2018327361872412673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKKCsTbQAEu_2a.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2018327369136968129",
+        "created_at": "2026-02-02T14:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018328335559070042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018328335559070042",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018327369136968129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 内圈贴贴喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018327361872412673"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2018327369136968129",
+        "created_at": "2026-02-02T14:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018327369136968129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/hGw6HB0jMb"
+            },
+            {
+              "display_url": "pic.x.com/zaYtCQZQnb",
+              "end": 64,
+              "expanded_url": "https://x.com/smiroyama/status/2018327369136968129/photo/1",
+              "media_key": "3_2018327361872412673",
+              "start": 41,
+              "url": "https://t.co/zaYtCQZQnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018327369136968129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/hGw6HB0jMb https://t.co/zaYtCQZQnb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 474,
+          "like_count": 2879,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1534
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student | Developer of @HRTtracker |  User | 🐱 Lover | Friends 🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "fukui_p26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.uk",
+                "end": 23,
+                "expanded_url": "https://mahiro.uk/",
+                "start": 0,
+                "url": "https://t.co/PpgQBsPRn6"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "🍀🍥Smirnova🍥🍀",
+        "pinned_tweet_id": "2017077146586665078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015097909088567296/r014MYfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 545,
+          "like_count": 2718,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 2015
+        },
+        "url": "https://t.co/PpgQBsPRn6",
+        "username": "smiroyama",
+        "verified": false
+      }
+    ]
+  }
+}

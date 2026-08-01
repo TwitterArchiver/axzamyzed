@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2050409957628244435",
+    "created_at": "2026-05-02T04:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050434344284528969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1695120560999763968",
+          "start": 0,
+          "username": "55oog"
+        },
+        {
+          "end": 17,
+          "id": "830698588036440064",
+          "start": 7,
+          "username": "SilasAIGC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050434344284528969",
+    "in_reply_to_user_id": "1695120560999763968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050433275630600510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@55oog @SilasAIGC 应该是新的限制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2050409957628244435",
+        "created_at": "2026-05-02T04:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050434344284528969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1695120560999763968",
+              "start": 0,
+              "username": "55oog"
+            },
+            {
+              "end": 17,
+              "id": "830698588036440064",
+              "start": 7,
+              "username": "SilasAIGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050434344284528969",
+        "in_reply_to_user_id": "1695120560999763968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050433275630600510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@55oog @SilasAIGC 应该是新的限制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695120560999763968",
+        "conversation_id": "2050409957628244435",
+        "created_at": "2026-05-02T04:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050433275630600510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "830698588036440064",
+              "start": 0,
+              "username": "SilasAIGC"
+            },
+            {
+              "end": 21,
+              "id": "1758324617838788608",
+              "start": 11,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050433275630600510",
+        "in_reply_to_user_id": "830698588036440064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050432850433073625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SilasAIGC @axzamyzed 应该是什么BUG   跟手机版本没啥关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3009,
+          "following_count": 913,
+          "like_count": 10422,
+          "listed_count": 10,
+          "media_count": 1180,
+          "tweet_count": 6091
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-25T17:06:58.000Z",
+        "description": "AI探索｜资讯分享｜日常记录\n所有分享均不是投资建议.",
+        "id": "1695120560999763968",
+        "location": "web3.0",
+        "name": "泥巴熋🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039059267739893760/baYGvzBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4504,
+          "following_count": 4472,
+          "like_count": 13501,
+          "listed_count": 9,
+          "media_count": 727,
+          "tweet_count": 8694
+        },
+        "username": "55oog",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-12T08:42:31.000Z",
+        "description": "AI算法工程师 | 顶级风投+垄断企业背景 | 深耕大模型、Agent、AIGC与技术落地 | 欢迎交流",
+        "id": "830698588036440064",
+        "location": "United States",
+        "name": "Silas",
+        "pinned_tweet_id": "2013981457253814397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014999681357484032/_RSiCid3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 1389,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 113
+        },
+        "username": "SilasAIGC",
+        "verified": true
+      }
+    ]
+  }
+}

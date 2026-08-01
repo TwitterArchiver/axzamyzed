@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2042145540889362519",
+    "created_at": "2026-04-09T09:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042173113753125291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1322365696983003136",
+          "start": 0,
+          "username": "bryanwangxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042173113753125291",
+    "in_reply_to_user_id": "1322365696983003136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042170913156997619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bryanwangxin 你怀疑错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2042145540889362519",
+        "created_at": "2026-04-09T09:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042173113753125291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1322365696983003136",
+              "start": 0,
+              "username": "bryanwangxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042173113753125291",
+        "in_reply_to_user_id": "1322365696983003136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042170913156997619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bryanwangxin 你怀疑错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322365696983003136",
+        "conversation_id": "2042145540889362519",
+        "created_at": "2026-04-09T09:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042170913156997619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042170913156997619",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042145540889362519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 我怀疑你在开车🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 928,
+          "like_count": 8630,
+          "listed_count": 4,
+          "media_count": 671,
+          "tweet_count": 5207
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-31T02:32:14.000Z",
+        "description": "enjoy every day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@justdivewithbw",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@justdivewithbw",
+                "start": 0,
+                "url": "https://t.co/UP6f7cRPxB"
+              }
+            ]
+          }
+        },
+        "id": "1322365696983003136",
+        "location": "Shanghai",
+        "name": "xin",
+        "pinned_tweet_id": "2025841635175850277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019411063331340288/a88f8q1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 736,
+          "like_count": 3804,
+          "listed_count": 5,
+          "media_count": 1121,
+          "tweet_count": 18637
+        },
+        "url": "https://t.co/UP6f7cRPxB",
+        "username": "bryanwangxin",
+        "verified": true
+      }
+    ]
+  }
+}

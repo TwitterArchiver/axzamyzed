@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016331303436878256",
+    "created_at": "2026-01-28T06:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T07:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016402504402251811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "861096798349213696",
+          "start": 0,
+          "username": "hongdudouer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016402504402251811",
+    "in_reply_to_user_id": "861096798349213696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016331303436878256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongdudouer 不能让别人看起来你很闲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016331303436878256",
+        "created_at": "2026-01-28T06:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T07:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016402504402251811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "861096798349213696",
+              "start": 0,
+              "username": "hongdudouer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016402504402251811",
+        "in_reply_to_user_id": "861096798349213696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016331303436878256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdudouer 不能让别人看起来你很闲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "861096798349213696",
+        "conversation_id": "2016331303436878256",
+        "created_at": "2026-01-28T02:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T03:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016331303436878256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016331303436878256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么单位里总有那种看起来忙得要死，但一天真出不了多少活的人？\n\n我以前也挺疑惑的，后来在单位待久了才发现，这些人往往不是不努力，而是特别会“显得很忙”。\n\n每天我一进办公室，就看到他眉头紧锁、鼠标点得飞快，微信、邮箱、OA来回切换，走路都带风，看起来真像核心骨干。\n\n但一天下来一复盘，发现产出几乎为零。文件改了三版，其实就换了个标题；会议开了三小时，结论是“下次再讨论”；邮件抄送十几个人，真正需要行动的事一句没说清。\n\n我有次忍不住观察了一下，发现他们的忙，大多消耗在“过程感”上，真不是“结果感”。\n\n事情越拆越细，沟通越拉越长，看起来特别专业，但就是不往前走。\n\n忙的是自己，感动的是领导，累的却是旁边真干活的人。\n\n更现实的是，在很多单位，“看起来努力”比“真的有效率”更安全。你要是两小时干完活坐那儿发呆，很容易被安排新任务；但你要是一整天都在敲键盘、接电话，哪怕没结果，也没人好意思说你不努力。\n\n所以后来我就懂了，有些人不是不会干活，而是早就摸清了规则：\n\n在单位，忙不忙不重要，看起来忙，才是真的生存技能吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么单位里总有那种看起来忙得要死，但一天真出不了多少活的人？\n\n我以前也挺疑惑的，后来在单位待久了才发现，这些人往往不是不努力，而是特别会“显得很忙”。\n\n每天我一进办公室，就看到他眉头紧锁、鼠标点得飞快，微信、邮箱、OA来回切换，走路都带风，看起来真像核心骨干。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 5,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-07T05:54:09.000Z",
+        "description": "邮箱投稿：chieckhanphieu40@gmail.com 大家好，我是迷人的红肚兜儿，很高兴认识你🤝 我是一个对历史文化非常感兴趣的人，对大陆目前的社会现象、实时政治看在眼中，于是乎本账号主要分享一些从一个“90”后的视角结合当下社会现象给出一些浅薄且主观看法，让我们一起见证时代的发展。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCTquG…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCTquG7Ig7OikUEm4tlouGVg",
+                "start": 0,
+                "url": "https://t.co/ZRUgaD8yK3"
+              }
+            ]
+          }
+        },
+        "id": "861096798349213696",
+        "location": "香港",
+        "name": "迷人的红肚兜儿",
+        "pinned_tweet_id": "2011275956502331815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945823259838058497/iu00-hCl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 921,
+          "like_count": 460,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/ZRUgaD8yK3",
+        "username": "hongdudouer",
+        "verified": true
+      }
+    ]
+  }
+}

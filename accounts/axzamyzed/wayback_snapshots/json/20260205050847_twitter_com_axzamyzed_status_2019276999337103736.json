@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2019232805209665811",
+    "created_at": "2026-02-05T05:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T06:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019276999337103736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019276999337103736",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019232805209665811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog 参考腾讯服务条款，微信账号用户只有使用权…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2019232802219196416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXBiQcXgAAc1cg.jpg",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2019232805209665811",
+        "created_at": "2026-02-05T05:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T06:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019276999337103736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019276999337103736",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019232805209665811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 参考腾讯服务条款，微信账号用户只有使用权…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019232802219196416"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "2019232805209665811",
+        "created_at": "2026-02-05T02:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019232805209665811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 94,
+              "tag": "墙国真理部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SFIQmMyhO0",
+              "end": 124,
+              "expanded_url": "https://x.com/GFWfrog/status/2019232805209665811/photo/1",
+              "media_key": "3_2019232802219196416",
+              "start": 101,
+              "url": "https://t.co/SFIQmMyhO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019232805209665811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 14768,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "微信的监控审查现在已经从群聊、朋友圈进一步渗透到个人对个人的私聊，有推友私信反馈，ta给微信好友发近期爆火的《胡温时代仕途模拟器》游戏链接，结果对方根本看不到，微信直接屏蔽了该消息🤔！\n\n#墙国真理部 https://t.co/SFIQmMyhO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 506,
+          "like_count": 3140,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1697
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/RDqRjAemGp 150岁爷习近平粉丝群：https://t.co/tzbqdA1pKg\n频道：https://t.co/Evu48wmwfT \n#习近平150岁倒计时 #大自爆运动 #大冲塔运动 #大传单运动 \n🐸邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 98,
+                "tag": "习近平150岁倒计时"
+              },
+              {
+                "end": 116,
+                "start": 110,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 130,
+                "start": 124,
+                "tag": "大传单运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/laohuhaha_bot",
+                "end": 33,
+                "expanded_url": "http://t.me/laohuhaha_bot",
+                "start": 10,
+                "url": "https://t.co/RDqRjAemGp"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 69,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 46,
+                "url": "https://t.co/tzbqdA1pKg"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 96,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 73,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸(习近平150岁倒计时⏳)",
+        "pinned_tweet_id": "2019218604982439963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262087,
+          "following_count": 2501,
+          "like_count": 123559,
+          "listed_count": 896,
+          "media_count": 6927,
+          "tweet_count": 13297
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

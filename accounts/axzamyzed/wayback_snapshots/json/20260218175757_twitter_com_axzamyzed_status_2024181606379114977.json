@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2024178780500373698",
+    "created_at": "2026-02-18T17:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024181606379114977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024181606379114977",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024181394260296056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 666"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2024178780500373698",
+        "created_at": "2026-02-18T17:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024181606379114977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024181606379114977",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024181394260296056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 666"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2024178780500373698",
+        "created_at": "2026-02-18T17:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024181394260296056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024181394260296056",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024178780500373698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 你是哪里的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2023990485409268071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 739,
+          "like_count": 4138,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2291
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "你就是那种10句话里有11个表情包看似回复了实际上完全没回复并且是完全不想回复只是在敷衍让对方以为你回复了的人吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2022396120601698464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018463315022774273/QUHBbrKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5046,
+          "following_count": 2224,
+          "like_count": 22779,
+          "listed_count": 7,
+          "media_count": 1960,
+          "tweet_count": 19235
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

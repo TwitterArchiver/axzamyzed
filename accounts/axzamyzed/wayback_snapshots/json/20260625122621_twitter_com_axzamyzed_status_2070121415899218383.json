@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2070019143777358181",
+    "created_at": "2026-06-25T12:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070121415899218383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1785447446770049024",
+          "start": 0,
+          "username": "loxue2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070121415899218383",
+    "in_reply_to_user_id": "1785447446770049024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070089097155350845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loxue2 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2070019143777358181",
+        "created_at": "2026-06-25T12:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070121415899218383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1785447446770049024",
+              "start": 0,
+              "username": "loxue2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070121415899218383",
+        "in_reply_to_user_id": "1785447446770049024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070089097155350845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loxue2 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785447446770049024",
+        "conversation_id": "2070019143777358181",
+        "created_at": "2026-06-25T10:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070089097155350845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070089097155350845",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2202,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070019143777358181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 交警不管飞机场？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3891,
+          "following_count": 925,
+          "like_count": 13485,
+          "listed_count": 10,
+          "media_count": 2886,
+          "tweet_count": 8377
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-30T23:13:56.000Z",
+        "description": "happ every day",
+        "id": "1785447446770049024",
+        "name": "lo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785447636016984064/9_IIARMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 63,
+          "like_count": 2235,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "loxue2",
+        "verified": false
+      }
+    ]
+  }
+}

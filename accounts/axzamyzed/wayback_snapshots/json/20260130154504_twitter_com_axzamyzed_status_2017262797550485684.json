@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017261239215555035",
+    "created_at": "2026-01-30T15:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017262797550485684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017262797550485684",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017261239215555035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 小米门店主理人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017261239215555035",
+        "created_at": "2026-01-30T15:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017262797550485684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017262797550485684",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017261239215555035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 小米门店主理人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2017261239215555035",
+        "created_at": "2026-01-30T15:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017261239215555035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017261239215555035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我也算不上真正意义上的小米店长，因为我不属于小米部门的人，也没有属于小米店长的权限。我曾是合作商门店运营的合作伙伴之一，但自从小米店长离职以后合作商选择将由我来作为门店运营主理人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 432,
+          "like_count": 2426,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1294
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/米家线下运营/互联网小透明/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/最棒的女孩子w @Sokei_ko_nya/ GMT+8/ZH-CN/EN-US is OK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Sokei_ko_nya"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2001491202013827260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6052,
+          "following_count": 728,
+          "like_count": 44666,
+          "listed_count": 6,
+          "media_count": 1000,
+          "tweet_count": 6689
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

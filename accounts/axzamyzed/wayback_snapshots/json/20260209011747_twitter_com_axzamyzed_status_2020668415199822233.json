@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2020667715459993920",
+    "created_at": "2026-02-09T01:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T02:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020668415199822233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020668415199822233",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020667715459993920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 见义勇为？谢礼？霸凌者？这东西能放到一块去？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1113,
+        "media_key": "3_2020627025455644672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAq1kuvWgAA8NyW.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2020667715459993920",
+        "created_at": "2026-02-09T01:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T02:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020668415199822233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020668415199822233",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020667715459993920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 见义勇为？谢礼？霸凌者？这东西能放到一块去？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020627025455644672"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2020667715459993920",
+        "created_at": "2026-02-09T01:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T02:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020667715459993920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZh4cviBZZ",
+              "end": 107,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2020667715459993920/photo/1",
+              "media_key": "3_2020627025455644672",
+              "start": 84,
+              "url": "https://t.co/sZh4cviBZZ"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2020097710129553525",
+              "start": 108,
+              "url": "https://t.co/HpAx2jJKGj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020667715459993920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 778,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020097710129553525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成都世界线漫展霸凌事件后续：\n世界线漫展官方 向涉事的霸凌者 发放了 谢礼，\n警察表彰其 见义勇为。\n当施暴行为被表彰、被正当化，是否等同于官方在事实上为霸凌背书？？ https://t.co/sZh4cviBZZ https://t.co/HpAx2jJKGj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 581,
+          "like_count": 3391,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1875
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191654,
+          "following_count": 1014,
+          "like_count": 8937,
+          "listed_count": 8554,
+          "media_count": 41251,
+          "tweet_count": 48241
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

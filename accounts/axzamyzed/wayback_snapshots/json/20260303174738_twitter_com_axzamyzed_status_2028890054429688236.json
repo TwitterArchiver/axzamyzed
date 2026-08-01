@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028787399153873248",
+    "created_at": "2026-03-03T17:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T18:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028890054429688236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356583549",
+          "start": 0,
+          "username": "kagurazakayashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028890054429688236",
+    "in_reply_to_user_id": "1356583549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028787399153873248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakayashi 关闭是关掉这个消息通知的意思….和右上角的叉试一个东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 212,
+        "media_key": "3_2028787157436084224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCezK7PaMAA8MYi.png",
+        "width": 397
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028787399153873248",
+        "created_at": "2026-03-03T17:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028890054429688236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356583549",
+              "start": 0,
+              "username": "kagurazakayashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028890054429688236",
+        "in_reply_to_user_id": "1356583549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028787399153873248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakayashi 关闭是关掉这个消息通知的意思….和右上角的叉试一个东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028787157436084224"
+          ]
+        },
+        "author_id": "1356583549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028787399153873248",
+        "created_at": "2026-03-03T10:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028787399153873248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kkRzUMYf2y",
+              "end": 38,
+              "expanded_url": "https://x.com/kagurazakayashi/status/2028787399153873248/photo/1",
+              "media_key": "3_2028787157436084224",
+              "start": 15,
+              "url": "https://t.co/kkRzUMYf2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028787399153873248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 892,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两个按钮哪个是不禁用通知？ https://t.co/kkRzUMYf2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 897,
+          "like_count": 5808,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 3290
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "这里是3周目账号(2023.7-)，希望认识更多同好。没头像/没推/发广告/抽象会拉黑。女装不发R18(但有擦边的)，不讨论政治。喜欢女装、COS、KIG，无性SM(Switch)。友跨顺男偶尔发跨权。G+难民。女装和kig照看账号tag #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 120,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 153,
+                "start": 137,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgqV77"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩",
+        "pinned_tweet_id": "2015424289886134737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974773629704708096/lVYzrnzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15585,
+          "following_count": 5992,
+          "like_count": 21765,
+          "listed_count": 66,
+          "media_count": 539,
+          "tweet_count": 4216
+        },
+        "url": "https://t.co/s9yovgqV77",
+        "username": "kagurazakayashi",
+        "verified": true
+      }
+    ]
+  }
+}

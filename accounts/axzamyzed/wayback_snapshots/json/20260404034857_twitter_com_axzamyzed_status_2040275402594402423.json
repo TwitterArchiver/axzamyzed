@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2040247089578279124",
+    "created_at": "2026-04-04T03:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T04:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040275402594402423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1436142639213002752",
+          "start": 0,
+          "username": "mazuya_Yui494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040275402594402423",
+    "in_reply_to_user_id": "1436142639213002752",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040262815592681666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mazuya_Yui494 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040247089578279124",
+        "created_at": "2026-04-04T03:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040275402594402423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1436142639213002752",
+              "start": 0,
+              "username": "mazuya_Yui494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040275402594402423",
+        "in_reply_to_user_id": "1436142639213002752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040262815592681666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mazuya_Yui494 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436142639213002752",
+        "conversation_id": "2040247089578279124",
+        "created_at": "2026-04-04T02:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040262815592681666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040262815592681666",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040247089578279124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 那牛肉能按西红柿价卖我吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 933,
+          "like_count": 8315,
+          "listed_count": 3,
+          "media_count": 579,
+          "tweet_count": 4997
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-10T01:41:26.000Z",
+        "description": "我是柚柚\nshe/her/彼女/她\n简中⭕️繁中⭕️English⭕️日本語⭕️Italian⭕️\\\n性单恋/纸性恋\\07双相情感障碍高中生\\\n身体及人生状况一切糟糕…\n此号是我吐苦水下水道\n互fo欢迎，扩列欢迎，我爱长发男\\长发男凭建模照片免费加v",
+        "id": "1436142639213002752",
+        "name": "鵙屋柚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583437808898752512/bMY5fNpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 76,
+          "like_count": 2928,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 486
+        },
+        "username": "mazuya_Yui494",
+        "verified": false
+      }
+    ]
+  }
+}

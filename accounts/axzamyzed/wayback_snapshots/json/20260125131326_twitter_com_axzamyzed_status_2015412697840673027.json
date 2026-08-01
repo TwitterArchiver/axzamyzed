@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015407789175160995",
+    "created_at": "2026-01-25T13:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T14:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015412697840673027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015412697840673027",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015407789175160995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog 圆脸？方脸？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_2015407786281074689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gqtBrXAAEqbny.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015407789175160995",
+        "created_at": "2026-01-25T13:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015412697840673027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015412697840673027",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015407789175160995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 圆脸？方脸？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015407786281074689"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2015407789175160995",
+        "created_at": "2026-01-25T12:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015407789175160995"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 2,
+              "tag": "牢a"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "大斩杀运动"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7L9wkKUF9t",
+              "end": 95,
+              "expanded_url": "https://x.com/GFWfrog/status/2015407789175160995/photo/1",
+              "media_key": "3_2015407786281074689",
+              "start": 72,
+              "url": "https://t.co/7L9wkKUF9t"
+            },
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/GFWfrog/status/2015402940698177924",
+              "start": 96,
+              "url": "https://t.co/Qmh9eRC32N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015407789175160995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 974,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015402940698177924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由 #牢a 引发的赢学圈 #大斩杀运动 继续🤪\n\n百度贴吧上，122万条帖子集体批斗波士顿圆脸眼红牢a口碑塌方，话题登上热点榜top3😅😆🥳！ https://t.co/7L9wkKUF9t https://t.co/Qmh9eRC32N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 211,
+          "like_count": 1642,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/RDqRjAemGp 150岁爷习近平粉丝群：https://t.co/tzbqdA1pKg\n频道：https://t.co/Evu48wmwfT \n#大自爆运动 #大冲塔运动 #大传单运动 全中国🇨🇳 #遍地开花 进行中…\n🐸邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 98,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 118,
+                "start": 112,
+                "tag": "大传单运动"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "遍地开花"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/laohuhaha_bot",
+                "end": 33,
+                "expanded_url": "http://t.me/laohuhaha_bot",
+                "start": 10,
+                "url": "https://t.co/RDqRjAemGp"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 69,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 46,
+                "url": "https://t.co/tzbqdA1pKg"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 96,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 73,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2015044639670026332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260251,
+          "following_count": 2449,
+          "like_count": 120461,
+          "listed_count": 890,
+          "media_count": 6709,
+          "tweet_count": 12824
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

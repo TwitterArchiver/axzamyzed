@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2042506587726819836",
+    "created_at": "2026-04-10T12:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042580510959112549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042580510959112549",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042580350476644439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt 然后发现就没赚过🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2042506587726819836",
+        "created_at": "2026-04-10T12:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042580510959112549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042580510959112549",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042580350476644439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt 然后发现就没赚过🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "2042506587726819836",
+        "created_at": "2026-04-10T12:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042580350476644439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042580350476644439",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042506587726819836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 赚了及时收手就不会亏，一直玩下去大概率会破产"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 928,
+          "like_count": 8707,
+          "listed_count": 4,
+          "media_count": 691,
+          "tweet_count": 5254
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 现役JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3886,
+          "following_count": 909,
+          "like_count": 61730,
+          "listed_count": 11,
+          "media_count": 1283,
+          "tweet_count": 15036
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

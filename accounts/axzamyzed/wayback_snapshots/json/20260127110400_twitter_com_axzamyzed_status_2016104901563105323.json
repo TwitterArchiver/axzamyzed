@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016104886279274497"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016104901563105323",
+    "created_at": "2026-01-27T11:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016104901563105323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6FXxtdLyg",
+          "end": 212,
+          "expanded_url": "https://x.com/axzamyzed/status/2016104901563105323/photo/1",
+          "media_key": "3_2016104886279274497",
+          "start": 189,
+          "url": "https://t.co/G6FXxtdLyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016104901563105323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 544,
+            "start": 539,
+            "tag": "kimi"
+          },
+          {
+            "end": 548,
+            "start": 545,
+            "tag": "开源"
+          },
+          {
+            "end": 553,
+            "start": 549,
+            "tag": "大模型"
+          },
+          {
+            "end": 564,
+            "start": 554,
+            "tag": "moonshoot"
+          },
+          {
+            "end": 570,
+            "start": 565,
+            "tag": "月之暗面"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "linux.do/t/topic/1520853",
+            "end": 538,
+            "expanded_url": "https://linux.do/t/topic/1520853",
+            "start": 515,
+            "url": "https://t.co/alqb8b8SOq"
+          }
+        ]
+      },
+      "text": "“The soul never thinks without a mental image.” \n “灵魂如果没有图像，就无法思考。\n\n今天月之暗面科技发布并开源 Kimi K2.5 模型。官方介绍称：\n“它是 Kimi 迄今最智能的模型”，并表示在 Agent、代码、图像、视频及一系列通用智能任务 上取得“开源 state-of-the-art 表现”\n\n“也是 Kimi 迄今最全能的模型”，采用“原生的多模态架构设计”，支持“视觉与文本输入、思考与非思考模式、对话与 Agent 任务”\n\n官方认为更智能、更全能、代码能力更强的模型有助于推动“技术平权”，并提到两点应用方向：\n1.将视觉理解与推理、代码、Agent 等能力结合，降低交互门槛；当语言难以准确描述时，可“拍照、截图或录屏传给 Kimi”\n2.将 Agent 能力扩展到日常办公领域，开始掌握 Word、Excel、PPT、PDF 等常用软件的“中高阶技能”，用于交付“准专业水平”的办公文档\n\n官方还称 K2.5 引入“Agent 集群”能力：模型可自主创建“分身”，按需组成不同角色团队并行工作，以获得“10 倍、100 倍”的效率提升\n\n———\n原文：https://t.co/alqb8b8SOq\n#kimi #开源 #大模型 #moonshoot #月之暗面"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“The soul never thinks without a mental image.” \n “灵魂如果没有图像，就无法思考。\n\n今天月之暗面科技发布并开源 Kimi K2.5 模型。官方介绍称：\n“它是 Kimi 迄今最智能的模型”，并表示在 Agent、代码、图像、视频及一系列通用智能任务 上取得“开源 state-of-the-art 表现”\n\n“也是 Kimi https://t.co/G6FXxtdLyg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2016104886279274497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qktlibAAE5f8n.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016104886279274497"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016104901563105323",
+        "created_at": "2026-01-27T11:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016104901563105323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6FXxtdLyg",
+              "end": 212,
+              "expanded_url": "https://x.com/axzamyzed/status/2016104901563105323/photo/1",
+              "media_key": "3_2016104886279274497",
+              "start": 189,
+              "url": "https://t.co/G6FXxtdLyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016104901563105323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 544,
+                "start": 539,
+                "tag": "kimi"
+              },
+              {
+                "end": 548,
+                "start": 545,
+                "tag": "开源"
+              },
+              {
+                "end": 553,
+                "start": 549,
+                "tag": "大模型"
+              },
+              {
+                "end": 564,
+                "start": 554,
+                "tag": "moonshoot"
+              },
+              {
+                "end": 570,
+                "start": 565,
+                "tag": "月之暗面"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linux.do/t/topic/1520853",
+                "end": 538,
+                "expanded_url": "https://linux.do/t/topic/1520853",
+                "start": 515,
+                "url": "https://t.co/alqb8b8SOq"
+              }
+            ]
+          },
+          "text": "“The soul never thinks without a mental image.” \n “灵魂如果没有图像，就无法思考。\n\n今天月之暗面科技发布并开源 Kimi K2.5 模型。官方介绍称：\n“它是 Kimi 迄今最智能的模型”，并表示在 Agent、代码、图像、视频及一系列通用智能任务 上取得“开源 state-of-the-art 表现”\n\n“也是 Kimi 迄今最全能的模型”，采用“原生的多模态架构设计”，支持“视觉与文本输入、思考与非思考模式、对话与 Agent 任务”\n\n官方认为更智能、更全能、代码能力更强的模型有助于推动“技术平权”，并提到两点应用方向：\n1.将视觉理解与推理、代码、Agent 等能力结合，降低交互门槛；当语言难以准确描述时，可“拍照、截图或录屏传给 Kimi”\n2.将 Agent 能力扩展到日常办公领域，开始掌握 Word、Excel、PPT、PDF 等常用软件的“中高阶技能”，用于交付“准专业水平”的办公文档\n\n官方还称 K2.5 引入“Agent 集群”能力：模型可自主创建“分身”，按需组成不同角色团队并行工作，以获得“10 倍、100 倍”的效率提升\n\n———\n原文：https://t.co/alqb8b8SOq\n#kimi #开源 #大模型 #moonshoot #月之暗面"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“The soul never thinks without a mental image.” \n “灵魂如果没有图像，就无法思考。\n\n今天月之暗面科技发布并开源 Kimi K2.5 模型。官方介绍称：\n“它是 Kimi 迄今最智能的模型”，并表示在 Agent、代码、图像、视频及一系列通用智能任务 上取得“开源 state-of-the-art 表现”\n\n“也是 Kimi https://t.co/G6FXxtdLyg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 319,
+          "like_count": 1988,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

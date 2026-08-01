@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2046022441827238213",
+    "created_at": "2026-04-20T16:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046268030745747638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1396156609",
+          "start": 0,
+          "username": "pinfan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046268030745747638",
+    "in_reply_to_user_id": "1396156609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046245130034905328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinfan1 到老了就老实了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2046022441827238213",
+        "created_at": "2026-04-20T16:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046268030745747638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1396156609",
+              "start": 0,
+              "username": "pinfan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046268030745747638",
+        "in_reply_to_user_id": "1396156609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046245130034905328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinfan1 到老了就老实了😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396156609",
+        "conversation_id": "2046022441827238213",
+        "created_at": "2026-04-20T15:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046245130034905328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046245130034905328",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1040,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046022441827238213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 有好多年轻人都愿意去当职业背债人，就是为了赚取中间的抽成。而且他们在年轻时也不会考虑将来是否要贷款之类的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 75,
+                "start": 60,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 879,
+          "like_count": 9607,
+          "listed_count": 7,
+          "media_count": 921,
+          "tweet_count": 5695
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-02T03:13:56.000Z",
+        "description": "碎片化内容、资源分享\n我的油管频道：https://t.co/Qt57QJZOjf\n资源分享频道：https://t.co/7RXy2ZAoJO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@pingfan",
+                "end": 41,
+                "expanded_url": "https://youtube.com/@pingfan",
+                "start": 18,
+                "url": "https://t.co/Qt57QJZOjf"
+              },
+              {
+                "display_url": "t.me/+CQ6JhI0VWW8wN…",
+                "end": 72,
+                "expanded_url": "https://t.me/+CQ6JhI0VWW8wNTc1",
+                "start": 49,
+                "url": "https://t.co/7RXy2ZAoJO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pingfan01.feishu.cn/docx/GiwxdGINu…",
+                "end": 23,
+                "expanded_url": "https://pingfan01.feishu.cn/docx/GiwxdGINuonYljx4y7Vc1SEknwe?from=from_copylink",
+                "start": 0,
+                "url": "https://t.co/TJOzYQX6xO"
+              }
+            ]
+          }
+        },
+        "id": "1396156609",
+        "name": "pin fan",
+        "pinned_tweet_id": "1936810951426335161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1152886964065931264/zx_wCFCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7172,
+          "following_count": 2577,
+          "like_count": 10865,
+          "listed_count": 48,
+          "media_count": 2062,
+          "tweet_count": 16770
+        },
+        "url": "https://t.co/TJOzYQX6xO",
+        "username": "pinfan1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016029701249155375",
+    "created_at": "2026-01-27T06:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T07:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016035506174492957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        },
+        {
+          "end": 14,
+          "id": "1720665183188922368",
+          "start": 9,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016035506174492957",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016029701249155375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen @grok 猫神能不能送我五百万流量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016029701249155375",
+        "created_at": "2026-01-27T06:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016035506174492957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            },
+            {
+              "end": 14,
+              "id": "1720665183188922368",
+              "start": 9,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016035506174492957",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016029701249155375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen @grok 猫神能不能送我五百万流量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1154174763918606339",
+        "conversation_id": "2016029701249155375",
+        "created_at": "2026-01-27T06:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016029701249155375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/maoshen/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/maoshen/status/2016027739472466251",
+              "start": 42,
+              "url": "https://t.co/khGswbS5PM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016029701249155375",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016027739472466251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok ，你全球粉丝超700万！能不能送猫神500万？再每天帮我冲三个热搜？🤝 https://t.co/khGswbS5PM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 300,
+          "like_count": 1948,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点，守住内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192658,
+          "following_count": 3592,
+          "like_count": 3830,
+          "listed_count": 507,
+          "media_count": 2434,
+          "tweet_count": 4299
+        },
+        "username": "maoshen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7683362,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5910,
+          "media_count": 7931445,
+          "tweet_count": 95546649
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

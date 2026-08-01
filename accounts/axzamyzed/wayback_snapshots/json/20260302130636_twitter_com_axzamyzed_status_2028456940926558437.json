@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028337197825630517",
+    "created_at": "2026-03-02T13:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T14:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028456940926558437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3636117680",
+          "start": 0,
+          "username": "SanGeDotAI"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028456940926558437",
+    "in_reply_to_user_id": "3636117680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028337197825630517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SanGeDotAI @grok 你去研究x算法的开源你就知道了，黄推会对账号降权"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2028337174312259584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYZ6deaEAA9U41.jpg",
+        "width": 365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028337197825630517",
+        "created_at": "2026-03-02T13:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028456940926558437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3636117680",
+              "start": 0,
+              "username": "SanGeDotAI"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028456940926558437",
+        "in_reply_to_user_id": "3636117680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028337197825630517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SanGeDotAI @grok 你去研究x算法的开源你就知道了，黄推会对账号降权"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028337174312259584"
+          ]
+        },
+        "author_id": "3636117680",
+        "conversation_id": "2028337197825630517",
+        "created_at": "2026-03-02T05:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028337197825630517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1720665183188922368",
+              "start": 40,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSqnAkXGq9",
+              "end": 75,
+              "expanded_url": "https://x.com/SanGeDotAI/status/2028337197825630517/photo/1",
+              "media_key": "3_2028337174312259584",
+              "start": 52,
+              "url": "https://t.co/TSqnAkXGq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028337197825630517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 862,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想插边了，调研一下为什么没看到黄推晒创作者收益的？是因为太可观了，低调做人么？@grok 你了解么？ https://t.co/TSqnAkXGq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 866,
+          "like_count": 5592,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 3108
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-21T09:00:53.000Z",
+        "description": "一个撸代码的文科生｜AI 学习分享｜探索第二增长曲线中... 战果：币圈-爆仓 5 次｜美股-50%",
+        "id": "3636117680",
+        "location": "Los Angeles, CA",
+        "name": "SanGe.AI",
+        "pinned_tweet_id": "2027775352886727150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807063728199991296/NPZbo9VD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1261,
+          "like_count": 100,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 371
+        },
+        "username": "SanGeDotAI",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8198019,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6267,
+          "media_count": 8521961,
+          "tweet_count": 111117278
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028119463389020192",
+    "created_at": "2026-03-01T14:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T15:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028119463389020192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012914101987762177",
+          "start": 3,
+          "username": "TeamTransmtf"
+        },
+        {
+          "end": 66,
+          "id": "1444716723978981380",
+          "start": 50,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028119463389020192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028116615280431255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TeamTransmtf: 感谢大家的关注与支持！我们很高兴地宣布，我们的团队迎来了新成员 @EleanorAnatidae \n她的团队邮箱是 eleanor1018@transmtf.com，官网账号的邮箱验证也可以发邮件联系她哦\n如果您在使用我们的项目时发现任何问题…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028119463389020192",
+        "created_at": "2026-03-01T14:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028119463389020192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012914101987762177",
+              "start": 3,
+              "username": "TeamTransmtf"
+            },
+            {
+              "end": 66,
+              "id": "1444716723978981380",
+              "start": 50,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028119463389020192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028116615280431255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TeamTransmtf: 感谢大家的关注与支持！我们很高兴地宣布，我们的团队迎来了新成员 @EleanorAnatidae \n她的团队邮箱是 eleanor1018@transmtf.com，官网账号的邮箱验证也可以发邮件联系她哦\n如果您在使用我们的项目时发现任何问题…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012914101987762177",
+        "conversation_id": "2028116615280431255",
+        "created_at": "2026-03-01T14:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028116615280431255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1444716723978981380",
+              "start": 32,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028116615280431255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 48,
+                "id": "1444716723978981380",
+                "start": 32,
+                "username": "EleanorAnatidae"
+              },
+              {
+                "end": 183,
+                "id": "1758324617838788608",
+                "start": 173,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 202,
+                "id": "1444716723978981380",
+                "start": 186,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "text": "感谢大家的关注与支持！我们很高兴地宣布，我们的团队迎来了新成员 @EleanorAnatidae \n她的团队邮箱是 eleanor1018@transmtf.com，官网账号的邮箱验证也可以发邮件联系她哦\n如果您在使用我们的项目时发现任何问题或 bug，也可以向我们团队任意成员或直接@本账号反馈\n截至目前，我们的团队成员已经扩展至两人，分别是 @axzamyzed 和 @EleanorAnatidae\n未来，我们将继续努力，为大家提供更优质的服务。感谢您的理解与支持"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感谢大家的关注与支持！我们很高兴地宣布，我们的团队迎来了新成员 @EleanorAnatidae \n她的团队邮箱是 eleanor1018@transmtf.com，官网账号的邮箱验证也可以发邮件联系她哦\n如果您在使用我们的项目时发现任何问题或 bug，也可以向我们团队任意成员或直接@本账号反馈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 857,
+          "like_count": 5478,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 3042
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号，本号暂不做蓝v互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 10,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcP7Mz"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3702,
+          "following_count": 1991,
+          "like_count": 25831,
+          "listed_count": 10,
+          "media_count": 128,
+          "tweet_count": 6407
+        },
+        "url": "https://t.co/pE8yXcP7Mz",
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

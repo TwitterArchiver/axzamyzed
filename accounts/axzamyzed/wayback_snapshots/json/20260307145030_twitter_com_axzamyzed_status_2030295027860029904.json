@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2030288059225575634",
+    "created_at": "2026-03-07T14:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030295027860029904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030295027860029904",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "抱抱🥺\n这几天也在tl上看到了你好多回，想了想，还是简单说两句吧\n首先我要肯定的是你这种舍得花时间花精力去帮朋友出口气也好，去和恶势力一战也好，都是很棒的\n但是吧…来网上和这群人杠太耗人了\n而且…而且呢…有些时候网友确实很容易被炒作的东西影响，然后啊可能就会过来骂你什么的吧\n不过我想说的是这样的争执是没有意义和价值的，到最后不管你是赢了还是输了，都没有什么用，不会因为你最后赢了他们就不去伤害其他人，如果你输了可能也会有很大的心理压力啊一类的\n该做的呢，大概是大事化小，小事化了，如果能这样呢就最好了\n当然了，既然已经到这个程度了，看起来似乎如果现在架势下来就和输了一样，不过嘛…有时候服软不是服输，适时淡出就蛮好的\n\n（不好意思可能语言不太流畅或者我的表达不太准确，反正意思就是那个意思…嗯对）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030288059225575634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo 抱抱🥺\n这几天也在tl上看到了你好多回，想了想，还是简单说两句吧\n首先我要肯定的是你这种舍得花时间花精力去帮朋友出口气也好，去和恶势力一战也好，都是很棒的\n但是吧…来网上和这群人杠太耗人了\n而且…而且呢…有些时候网友确实很容易被炒作的东西影响，然后啊可能就会过来骂你什么的吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 403,
+        "media_key": "3_2030288054972547072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0IOqRbgAA_WoM.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2030288059225575634",
+        "created_at": "2026-03-07T14:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030295027860029904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030295027860029904",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "抱抱🥺\n这几天也在tl上看到了你好多回，想了想，还是简单说两句吧\n首先我要肯定的是你这种舍得花时间花精力去帮朋友出口气也好，去和恶势力一战也好，都是很棒的\n但是吧…来网上和这群人杠太耗人了\n而且…而且呢…有些时候网友确实很容易被炒作的东西影响，然后啊可能就会过来骂你什么的吧\n不过我想说的是这样的争执是没有意义和价值的，到最后不管你是赢了还是输了，都没有什么用，不会因为你最后赢了他们就不去伤害其他人，如果你输了可能也会有很大的心理压力啊一类的\n该做的呢，大概是大事化小，小事化了，如果能这样呢就最好了\n当然了，既然已经到这个程度了，看起来似乎如果现在架势下来就和输了一样，不过嘛…有时候服软不是服输，适时淡出就蛮好的\n\n（不好意思可能语言不太流畅或者我的表达不太准确，反正意思就是那个意思…嗯对）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030288059225575634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo 抱抱🥺\n这几天也在tl上看到了你好多回，想了想，还是简单说两句吧\n首先我要肯定的是你这种舍得花时间花精力去帮朋友出口气也好，去和恶势力一战也好，都是很棒的\n但是吧…来网上和这群人杠太耗人了\n而且…而且呢…有些时候网友确实很容易被炒作的东西影响，然后啊可能就会过来骂你什么的吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030288054972547072"
+          ]
+        },
+        "author_id": "1882563916632666112",
+        "conversation_id": "2030288059225575634",
+        "created_at": "2026-03-07T14:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030288059225575634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4kszdy1jQw",
+              "end": 161,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/2030288059225575634/photo/1",
+              "media_key": "3_2030288054972547072",
+              "start": 138,
+              "url": "https://t.co/4kszdy1jQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030288059225575634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位朋友们，大家好，最近我因为曝光孔主席这个开盒的人，而被他们算机，他现在正在支黑群里煽动所有人，给我编制剧本，我以后会被很多人叫做炒作狗，他们也是这么对待我很多朋友的，只是手法不同，我是什么样的人你们心里最清楚，其实很多被他们栽赃的人本来就没有罪，那些所谓的证据都是假的。 https://t.co/4kszdy1jQw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜需要回fo请私信我，麻烦了｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2029591714110071011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 943,
+          "like_count": 6090,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 3484
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "说出来的“善良”绝非善良，讲出来“正义”断非正义，人生最重要的是把握当下，你的善恶不需要你自己证明。🍵😋",
+        "id": "1882563916632666112",
+        "name": "顾云沫",
+        "pinned_tweet_id": "2030246315763134554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009577466348949504/Jb01L601_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 841,
+          "like_count": 478182,
+          "listed_count": 8,
+          "media_count": 342,
+          "tweet_count": 39961
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

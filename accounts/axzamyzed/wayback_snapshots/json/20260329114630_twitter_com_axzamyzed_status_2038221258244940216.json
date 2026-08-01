@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038150337094127821",
+    "created_at": "2026-03-29T11:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T12:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038221258244940216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "930034888148840448",
+          "start": 0,
+          "username": "david1989_zhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038221258244940216",
+    "in_reply_to_user_id": "930034888148840448",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038220443736568140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@david1989_zhu but it's really interesting"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038150337094127821",
+        "created_at": "2026-03-29T11:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038221258244940216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "930034888148840448",
+              "start": 0,
+              "username": "david1989_zhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038221258244940216",
+        "in_reply_to_user_id": "930034888148840448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038220443736568140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@david1989_zhu but it's really interesting"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "930034888148840448",
+        "conversation_id": "2038150337094127821",
+        "created_at": "2026-03-29T11:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038220443736568140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038220443736568140",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038150337094127821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed I can't stop laughing at this"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 935,
+          "like_count": 7866,
+          "listed_count": 2,
+          "media_count": 517,
+          "tweet_count": 4730
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-13T11:29:31.000Z",
+        "description": "AI × 区块链 × 趋势洞察 × 商业模式\n前CEX技术总监 | 10年Java架构\nWeb3+AI实战转型中\n每天分享: 技术干货 | 转型经验 | 行业洞察\n\n#AI #Blockchain #Web3 #AIGC",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 83,
+                "tag": "AI"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "tag": "Blockchain"
+              },
+              {
+                "end": 104,
+                "start": 99,
+                "tag": "Web3"
+              },
+              {
+                "end": 110,
+                "start": 105,
+                "tag": "AIGC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forest-random-acf.notion.site/4610f63eb9454f…",
+                "end": 23,
+                "expanded_url": "https://forest-random-acf.notion.site/4610f63eb9454f5ea9b09ef1762fcf67",
+                "start": 0,
+                "url": "https://t.co/LZjbvCTnF1"
+              }
+            ]
+          }
+        },
+        "id": "930034888148840448",
+        "location": "Hong Kong",
+        "name": "大伟链金社",
+        "pinned_tweet_id": "2020064029855855081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980534697894494208/vtwj0l_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 3676,
+          "like_count": 22617,
+          "listed_count": 4,
+          "media_count": 652,
+          "tweet_count": 10964
+        },
+        "url": "https://t.co/LZjbvCTnF1",
+        "username": "david1989_zhu",
+        "verified": true
+      }
+    ]
+  }
+}

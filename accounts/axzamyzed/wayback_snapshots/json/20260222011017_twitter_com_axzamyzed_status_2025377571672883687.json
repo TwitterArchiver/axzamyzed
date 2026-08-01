@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2025212693142274083",
+    "created_at": "2026-02-22T01:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025377571672883687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899011546505998336",
+          "start": 0,
+          "username": "AstraeaSZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025377571672883687",
+    "in_reply_to_user_id": "1899011546505998336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025280799076155831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AstraeaSZK 肯定是写了处理不了的狗屎代码，这个时候让他重写效果更好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2025212693142274083",
+        "created_at": "2026-02-22T01:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025377571672883687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899011546505998336",
+              "start": 0,
+              "username": "AstraeaSZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025377571672883687",
+        "in_reply_to_user_id": "1899011546505998336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025280799076155831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AstraeaSZK 肯定是写了处理不了的狗屎代码，这个时候让他重写效果更好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899011546505998336",
+        "conversation_id": "2025212693142274083",
+        "created_at": "2026-02-21T18:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025280799076155831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025280799076155831",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025212693142274083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed Claude幹啥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 787,
+          "like_count": 4590,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-10T08:17:03.000Z",
+        "description": "18歳|アメリカの大学生|バックエンド開発|EN/JP|ロボットアニメ(ガンダム/エバンゲリオン/マジンカーZ/ゲッターロボ/機動警察) 百合作品(ささ恋/citrus/志乃と恋)|ゲーム(CS2/ゼルダの伝説/Fate Stay Night/Loopers|皆さんと仲良くなりたいですね！🥹🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "astraea.nexus",
+                "end": 23,
+                "expanded_url": "http://astraea.nexus",
+                "start": 0,
+                "url": "https://t.co/RpfJ6sh5x9"
+              }
+            ]
+          }
+        },
+        "id": "1899011546505998336",
+        "location": "Anaheim Electronics",
+        "name": "𝓐𝓼𝓽𝓻𝓪𝓮𝓪🏳️‍⚧️🌸",
+        "pinned_tweet_id": "2004819420359925959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993422452400308224/0mRcMmFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 816,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1177
+        },
+        "url": "https://t.co/RpfJ6sh5x9",
+        "username": "AstraeaSZK",
+        "verified": true
+      }
+    ]
+  }
+}

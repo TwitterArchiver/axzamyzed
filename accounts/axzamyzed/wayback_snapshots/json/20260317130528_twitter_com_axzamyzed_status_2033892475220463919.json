@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033892468304027648"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2033892475220463919",
+    "created_at": "2026-03-17T13:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T14:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033892475220463919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YXZweqB5fG",
+          "end": 35,
+          "expanded_url": "https://x.com/axzamyzed/status/2033892475220463919/photo/1",
+          "media_key": "3_2033892468304027648",
+          "start": 12,
+          "url": "https://t.co/YXZweqB5fG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033892475220463919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他竟然还敢同时谈好几个 https://t.co/YXZweqB5fG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_2033892468304027648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnWbISaoAA5xVK.jpg",
+        "width": 539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033892468304027648"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2033892475220463919",
+        "created_at": "2026-03-17T13:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033892475220463919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXZweqB5fG",
+              "end": 35,
+              "expanded_url": "https://x.com/axzamyzed/status/2033892475220463919/photo/1",
+              "media_key": "3_2033892468304027648",
+              "start": 12,
+              "url": "https://t.co/YXZweqB5fG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033892475220463919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他竟然还敢同时谈好几个 https://t.co/YXZweqB5fG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2033059853720236538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 907,
+          "like_count": 6697,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 4032
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

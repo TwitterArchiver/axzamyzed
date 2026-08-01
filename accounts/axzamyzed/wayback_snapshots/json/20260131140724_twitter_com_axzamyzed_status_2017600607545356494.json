@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017596506841530412",
+    "created_at": "2026-01-31T14:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T15:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017600607545356494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3517682413",
+          "start": 0,
+          "username": "beicanword"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017600607545356494",
+    "in_reply_to_user_id": "3517682413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017600033848447486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beicanword emm确实，之前的天涯论坛就是真正百花齐放，但是我觉得吧，国内现在主要是有关部门介入才能搞成这样，现在的保胎技术还是太强了，尤其是下一代更多的脑子有问题的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017596506841530412",
+        "created_at": "2026-01-31T14:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017600607545356494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3517682413",
+              "start": 0,
+              "username": "beicanword"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017600607545356494",
+        "in_reply_to_user_id": "3517682413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017600033848447486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beicanword emm确实，之前的天涯论坛就是真正百花齐放，但是我觉得吧，国内现在主要是有关部门介入才能搞成这样，现在的保胎技术还是太强了，尤其是下一代更多的脑子有问题的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3517682413",
+        "conversation_id": "2017596506841530412",
+        "created_at": "2026-01-31T14:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017600033848447486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017600033848447486",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017599305226588592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 也不一定，当真正的百花齐放的时候，自然就会有很多理性的声音\n不像墙内，各种错别字代号 \n类似  外面言论自由的国家\n10几年前的互联网，很多网站很多经典文章，很值得读\n后面。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 441,
+          "like_count": 2509,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-10T17:17:08.000Z",
+        "description": "於無聲處驚雷處",
+        "id": "3517682413",
+        "name": "哈哈的风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007988631282069504/CE6ZnqMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1399,
+          "like_count": 591,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 3063
+        },
+        "username": "beicanword",
+        "verified": true
+      }
+    ]
+  }
+}

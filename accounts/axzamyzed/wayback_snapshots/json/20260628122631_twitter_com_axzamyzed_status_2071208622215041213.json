@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2071128125262741983",
+    "created_at": "2026-06-28T12:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071208622215041213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032792248333852672",
+          "start": 0,
+          "username": "l4712284471246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071208622215041213",
+    "in_reply_to_user_id": "2032792248333852672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071146483064213567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l4712284471246 高情商表达"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2071128125262741983",
+        "created_at": "2026-06-28T12:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071208622215041213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032792248333852672",
+              "start": 0,
+              "username": "l4712284471246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071208622215041213",
+        "in_reply_to_user_id": "2032792248333852672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071146483064213567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l4712284471246 高情商表达"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032792248333852672",
+        "conversation_id": "2071128125262741983",
+        "created_at": "2026-06-28T08:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071146483064213567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071146483064213567",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071128125262741983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 很有分寸👍👍👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3957,
+          "following_count": 926,
+          "like_count": 13692,
+          "listed_count": 10,
+          "media_count": 2969,
+          "tweet_count": 8517
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T12:13:56.000Z",
+        "description": "我不會寫簡介ㄟ，歡迎私信(畢竟很閒)，因為每週都有五天時間是住宿在學校裡面，所以說只有週五週六和週日可以回復私信的說|大號「@KOISHI514_514」\ntg聊天群💬：https://t.co/STTR2S6p5E\ndiscord聊天群💬：\nhttps://t.co/aZiJKBSD1r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "KOISHI514_514"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+v-mdMXFDP9k0O…",
+                "end": 108,
+                "expanded_url": "https://t.me/+v-mdMXFDP9k0OTll",
+                "start": 85,
+                "url": "https://t.co/STTR2S6p5E"
+              },
+              {
+                "display_url": "discord.gg/H8WXVvhKcA",
+                "end": 145,
+                "expanded_url": "https://discord.gg/H8WXVvhKcA",
+                "start": 122,
+                "url": "https://t.co/aZiJKBSD1r"
+              }
+            ]
+          }
+        },
+        "id": "2032792248333852672",
+        "name": "孔雀石",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067798163944083456/pn5U0QEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 100,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "l4712284471246",
+        "verified": false
+      }
+    ]
+  }
+}

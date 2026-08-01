@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017150670768599040"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017047539665789044",
+    "created_at": "2026-01-30T08:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T09:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017150682395267485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008233761763409920",
+          "start": 0,
+          "username": "galaxy1025850"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/178QU3ZP4t",
+          "end": 89,
+          "expanded_url": "https://x.com/axzamyzed/status/2017150682395267485/photo/1",
+          "media_key": "3_2017150670768599040",
+          "start": 66,
+          "url": "https://t.co/178QU3ZP4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017150682395267485",
+    "in_reply_to_user_id": "2008233761763409920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017113348719174011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@galaxy1025850 我是代理商🤓一个月总得开几单\n目前项目在用轻量，倒也不贵其实，只是单纯觉得服务器没负载空在那里很浪费 https://t.co/178QU3ZP4t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 120,
+        "media_key": "3_2017150670768599040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5b2QWacAACHui.jpg",
+        "width": 257
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017150670768599040"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017047539665789044",
+        "created_at": "2026-01-30T08:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T09:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017150682395267485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/178QU3ZP4t",
+              "end": 89,
+              "expanded_url": "https://x.com/axzamyzed/status/2017150682395267485/photo/1",
+              "media_key": "3_2017150670768599040",
+              "start": 66,
+              "url": "https://t.co/178QU3ZP4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017150682395267485",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017113348719174011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 我是代理商🤓一个月总得开几单\n目前项目在用轻量，倒也不贵其实，只是单纯觉得服务器没负载空在那里很浪费 https://t.co/178QU3ZP4t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008233761763409920",
+        "conversation_id": "2017047539665789044",
+        "created_at": "2026-01-30T05:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017113348719174011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017113348719174011",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017047539665789044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 需要赞助一点服务器吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 427,
+          "like_count": 2362,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "喜欢到处乱窜的北方网友。 CST 大二 | AI & 云计算爱好者 | Pansexual | 友跨 & 无性别主义 | 已被Musk干掉两个号 | 光速互fo | 分享生活，聊聊技术，交个朋友？欢迎pm~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "location": "不一定在哪（）",
+        "name": "galaxy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009675365971574784/X6g9BUbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 53,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": false
+      }
+    ]
+  }
+}

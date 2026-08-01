@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074307549130903552"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074307557934690341",
+    "created_at": "2026-07-07T01:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074307557934690341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OYWX1hC9Dl",
+          "end": 30,
+          "expanded_url": "https://x.com/axzamyzed/status/2074307557934690341/photo/1",
+          "media_key": "3_2074307549130903552",
+          "start": 7,
+          "url": "https://t.co/OYWX1hC9Dl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074307557934690341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这下咋怎么回 https://t.co/OYWX1hC9Dl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2074307549130903552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlruczb0AAfPl6.jpg",
+        "width": 815
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074307549130903552"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074307557934690341",
+        "created_at": "2026-07-07T01:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074307557934690341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYWX1hC9Dl",
+              "end": 30,
+              "expanded_url": "https://x.com/axzamyzed/status/2074307557934690341/photo/1",
+              "media_key": "3_2074307549130903552",
+              "start": 7,
+              "url": "https://t.co/OYWX1hC9Dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074307557934690341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这下咋怎么回 https://t.co/OYWX1hC9Dl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4063,
+          "following_count": 929,
+          "like_count": 14107,
+          "listed_count": 12,
+          "media_count": 3167,
+          "tweet_count": 8807
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

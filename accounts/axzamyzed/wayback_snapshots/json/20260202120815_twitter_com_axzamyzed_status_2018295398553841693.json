@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018295381667549185"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2018295398553841693",
+    "created_at": "2026-02-02T12:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T13:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018295398553841693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinitetweet.me/interaction-ci…",
+          "end": 40,
+          "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "start": 17,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/bF7Hp6qcN2"
+        },
+        {
+          "display_url": "pic.x.com/d0wg6ayxHT",
+          "end": 64,
+          "expanded_url": "https://x.com/axzamyzed/status/2018295398553841693/photo/1",
+          "media_key": "3_2018295381667549185",
+          "start": 41,
+          "url": "https://t.co/d0wg6ayxHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018295398553841693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Twitter互动圈\n\n➡️ https://t.co/bF7Hp6qcN2 https://t.co/d0wg6ayxHT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2018295381667549185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJs9MwbEAEZMI4.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018295381667549185"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2018295398553841693",
+        "created_at": "2026-02-02T12:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018295398553841693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/bF7Hp6qcN2"
+            },
+            {
+              "display_url": "pic.x.com/d0wg6ayxHT",
+              "end": 64,
+              "expanded_url": "https://x.com/axzamyzed/status/2018295398553841693/photo/1",
+              "media_key": "3_2018295381667549185",
+              "start": 41,
+              "url": "https://t.co/d0wg6ayxHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018295398553841693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/bF7Hp6qcN2 https://t.co/d0wg6ayxHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 472,
+          "like_count": 2823,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

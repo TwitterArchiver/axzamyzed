@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2023057004500296149",
+    "created_at": "2026-02-15T15:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T16:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023058541742002557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023058541742002557",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023057004500296149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya 哈？高德地图群是啥阴…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1245,
+        "media_key": "3_2023056962326605825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNXlq_bsAE7vLs.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023057001732096001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNXn9ybwAE_4vz.jpg",
+        "width": 1067
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023056988045975553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNXnKzaIAEjIg9.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2023057004500296149",
+        "created_at": "2026-02-15T15:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023058541742002557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023058541742002557",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023057004500296149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 哈？高德地图群是啥阴…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023056962326605825",
+            "3_2023057001732096001",
+            "3_2023056988045975553"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2023057004500296149",
+        "created_at": "2026-02-15T15:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023057004500296149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "无群规 不政审 公开透明 对外开放 友好交流 和睦相处 不搞小团体 不怕👮🏻‍♂️上门",
+              "display_url": "t.me/bghta6",
+              "end": 43,
+              "expanded_url": "https://t.me/bghta6",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2023057047412236288/1i9AvzEu?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2023057047412236288/1i9AvzEu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "氷🧊棍の烧烤🍥摊",
+              "unwound_url": "https://t.me/bghta6",
+              "url": "https://t.co/96mhn8rFKI"
+            },
+            {
+              "display_url": "pic.x.com/D2c07jSxzS",
+              "end": 82,
+              "expanded_url": "https://x.com/bghtnya/status/2023057004500296149/photo/1",
+              "media_key": "3_2023056962326605825",
+              "start": 59,
+              "url": "https://t.co/D2c07jSxzS"
+            },
+            {
+              "display_url": "pic.x.com/D2c07jSxzS",
+              "end": 82,
+              "expanded_url": "https://x.com/bghtnya/status/2023057004500296149/photo/1",
+              "media_key": "3_2023057001732096001",
+              "start": 59,
+              "url": "https://t.co/D2c07jSxzS"
+            },
+            {
+              "display_url": "pic.x.com/D2c07jSxzS",
+              "end": 82,
+              "expanded_url": "https://x.com/bghtnya/status/2023057004500296149/photo/1",
+              "media_key": "3_2023056988045975553",
+              "start": 59,
+              "url": "https://t.co/D2c07jSxzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023057004500296149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高德地图群：111735534\ntg群：https://t.co/96mhn8rFKI\nQQ群：1084294229 https://t.co/D2c07jSxzS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 673,
+          "like_count": 3944,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2149
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2023057004500296149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8918,
+          "following_count": 2074,
+          "like_count": 172693,
+          "listed_count": 18,
+          "media_count": 3731,
+          "tweet_count": 45583
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

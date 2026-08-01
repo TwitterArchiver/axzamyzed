@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015094816061943808"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015094829873782939",
+    "created_at": "2026-01-24T16:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T17:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015094829873782939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Algorithm powering the For You feed on X. Contribute to xai-org/x-algorithm development by creating an account on GitHub.",
+          "display_url": "github.com/xai-org/x-algo…",
+          "end": 32,
+          "expanded_url": "https://github.com/xai-org/x-algorithm",
+          "images": [
+            {
+              "height": 400,
+              "url": "https://pbs.twimg.com/news_img/2013471609990864896/3xnT-0wN?format=png&name=orig",
+              "width": 400
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2013471609990864896/3xnT-0wN?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 9,
+          "status": 200,
+          "title": "GitHub - xai-org/x-algorithm: Algorithm powering the For You feed on X",
+          "unwound_url": "https://github.com/xai-org/x-algorithm",
+          "url": "https://t.co/UqgcvHWczP"
+        },
+        {
+          "display_url": "pic.x.com/rmHuQJBweD",
+          "end": 56,
+          "expanded_url": "https://x.com/axzamyzed/status/2015094829873782939/photo/1",
+          "media_key": "3_2015094816061943808",
+          "start": 33,
+          "url": "https://t.co/rmHuQJBweD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015094829873782939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "x推荐算法开源\n\nhttps://t.co/UqgcvHWczP https://t.co/rmHuQJBweD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_2015094816061943808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cODwwacAAexV5.jpg",
+        "width": 602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015094816061943808"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015094829873782939",
+        "created_at": "2026-01-24T16:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015094829873782939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Algorithm powering the For You feed on X. Contribute to xai-org/x-algorithm development by creating an account on GitHub.",
+              "display_url": "github.com/xai-org/x-algo…",
+              "end": 32,
+              "expanded_url": "https://github.com/xai-org/x-algorithm",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2013471609990864896/3xnT-0wN?format=png&name=orig",
+                  "width": 400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2013471609990864896/3xnT-0wN?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 9,
+              "status": 200,
+              "title": "GitHub - xai-org/x-algorithm: Algorithm powering the For You feed on X",
+              "unwound_url": "https://github.com/xai-org/x-algorithm",
+              "url": "https://t.co/UqgcvHWczP"
+            },
+            {
+              "display_url": "pic.x.com/rmHuQJBweD",
+              "end": 56,
+              "expanded_url": "https://x.com/axzamyzed/status/2015094829873782939/photo/1",
+              "media_key": "3_2015094816061943808",
+              "start": 33,
+              "url": "https://t.co/rmHuQJBweD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015094829873782939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "x推荐算法开源\n\nhttps://t.co/UqgcvHWczP https://t.co/rmHuQJBweD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜对人温柔有耐心喵(=･ω･=)♡ 和我熟了我会很粘人｜若愿与我靠近，我会真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 127,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

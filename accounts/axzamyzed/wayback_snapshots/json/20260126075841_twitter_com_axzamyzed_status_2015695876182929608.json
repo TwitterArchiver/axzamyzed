@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015453146747912525",
+    "created_at": "2026-01-26T07:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015695876182929608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960887301074251776",
+          "start": 0,
+          "username": "pietehao"
+        },
+        {
+          "end": 20,
+          "id": "1597057363697360897",
+          "start": 10,
+          "username": "TermMaxFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015695876182929608",
+    "in_reply_to_user_id": "1960887301074251776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015453146747912525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pietehao @TermMaxFi 关啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015453138829127680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hT85FbMAAlXRj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015453146747912525",
+        "created_at": "2026-01-26T07:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015695876182929608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960887301074251776",
+              "start": 0,
+              "username": "pietehao"
+            },
+            {
+              "end": 20,
+              "id": "1597057363697360897",
+              "start": 10,
+              "username": "TermMaxFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015695876182929608",
+        "in_reply_to_user_id": "1960887301074251776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015453146747912525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pietehao @TermMaxFi 关啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015453138829127680"
+          ]
+        },
+        "author_id": "1960887301074251776",
+        "conversation_id": "2015453146747912525",
+        "created_at": "2026-01-25T15:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015453146747912525"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 67,
+              "tag": "TermMax"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 65,
+              "id": "1597057363697360897",
+              "start": 55,
+              "username": "TermMaxFi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TubqDSqOF4",
+              "end": 99,
+              "expanded_url": "https://x.com/pietehao/status/2015453146747912525/photo/1",
+              "media_key": "3_2015453138829127680",
+              "start": 76,
+              "url": "https://t.co/TubqDSqOF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015453146747912525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2653,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 117,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟萌，互助时间到了\n\n蓝v互关，一起拿上马斯克工资\n\n不要放弃，熊市正是建设的时机\n\n只要关了的，必回！\n\n@TermMaxFi  #TermMax https://t.co/TubqDSqOF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 249,
+          "like_count": 1737,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-28T02:09:15.000Z",
+        "description": "主攻0撸，不赌项目方格局，不挣钱的事不干不想；\nTG: https://t.co/hAtq7IaqrE\n#蓝鸟会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "蓝鸟会"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+rMdOAEqjnV9iN…",
+                "end": 51,
+                "expanded_url": "https://t.me/+rMdOAEqjnV9iNTJl",
+                "start": 28,
+                "url": "https://t.co/hAtq7IaqrE"
+              }
+            ]
+          }
+        },
+        "id": "1960887301074251776",
+        "name": "Money浩",
+        "pinned_tweet_id": "2015083840835088580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000395174753841152/UItOb9tW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2580,
+          "following_count": 1563,
+          "like_count": 42062,
+          "listed_count": 36,
+          "media_count": 702,
+          "tweet_count": 31134
+        },
+        "username": "pietehao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T02:39:23.000Z",
+        "description": "DeFi fixed rate lending & borrowing and looping strategy.\nBacked by @CumberlandSays, @HashKey_Capital, @decimafund, and @MZ_Cryptos.\nIntern @termmax_intern",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "CumberlandSays"
+              },
+              {
+                "end": 101,
+                "start": 85,
+                "username": "HashKey_Capital"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "decimafund"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "MZ_Cryptos"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "termmax_intern"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TermMax",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TermMax",
+                "start": 0,
+                "url": "https://t.co/RXRk72nHi4"
+              }
+            ]
+          }
+        },
+        "id": "1597057363697360897",
+        "location": "Ethereum",
+        "name": "TermMax | Fixed Rate Borrowing & Lending",
+        "pinned_tweet_id": "2013212357212987773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965953863447396352/YMxVicpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42238,
+          "following_count": 80,
+          "like_count": 900,
+          "listed_count": 67,
+          "media_count": 854,
+          "tweet_count": 2298
+        },
+        "url": "https://t.co/RXRk72nHi4",
+        "username": "TermMaxFi",
+        "verified": true
+      }
+    ]
+  }
+}

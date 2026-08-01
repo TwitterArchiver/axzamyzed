@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Los Angeles",
+          "id": "856860708847222784",
+          "name": "Los Angeles"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "California",
+          "id": "856860158428798977",
+          "name": "California"
+        }
+      }
+    ],
+    "conversation_id": "2012391580943241222",
+    "created_at": "2026-01-17T05:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T06:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012391580943241222"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 176,
+          "normalized_text": "Los Angeles",
+          "probability": 0.7524,
+          "start": 166,
+          "type": "Place"
+        },
+        {
+          "end": 188,
+          "normalized_text": "California",
+          "probability": 0.8289,
+          "start": 179,
+          "type": "Place"
+        },
+        {
+          "end": 193,
+          "normalized_text": "USA",
+          "probability": 0.9473,
+          "start": 191,
+          "type": "Place"
+        },
+        {
+          "end": 239,
+          "normalized_text": "Cloudflare Workers\n\nKey",
+          "probability": 0.6975,
+          "start": 217,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/axzamyzed/stat…",
+          "end": 300,
+          "expanded_url": "https://twitter.com/axzamyzed/status/2012374232622067755",
+          "start": 277,
+          "url": "https://t.co/C3cQH2FdYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012391580943241222",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "2.Data",
+            "end": 518,
+            "expanded_url": "http://2.Data",
+            "start": 495,
+            "url": "https://t.co/RdMYdidbrV"
+          },
+          {
+            "display_url": "3.Data",
+            "end": 669,
+            "expanded_url": "http://3.Data",
+            "start": 646,
+            "url": "https://t.co/aZBKr4I66q"
+          },
+          {
+            "display_url": "hrt-cloud.transmtf.com",
+            "end": 1301,
+            "expanded_url": "https://hrt-cloud.transmtf.com/",
+            "start": 1278,
+            "url": "https://t.co/bgkJOaARgF"
+          }
+        ]
+      },
+      "text": "Good morning, everyone! After a few weeks of development, hrt-tracker-cloud (cloud-sync version) is now available as a test release 🎉\n\nDeployment\n•Backend: hosted in Los Angeles, California (USA)\n•Frontend: hosted on Cloudflare Workers\n\nKey Features\n1.Multi-device cloud sync: After logging in, your data automatically syncs across all your devices. When changes occur, they’ll sync to every logged-in device in up to ~5 seconds. You can also view and manage your logged-in devices at any time.\nhttps://t.co/RdMYdidbrV sharing: You can create shareable copies of your data—or even enable real-time sharing (available only for unencrypted users).\nhttps://t.co/aZBKr4I66q security: Your data is stored securely on the server. If you set a security passcode, your data will be encrypted and protected. Without both your login password and security passcode, no one can access your data.\n4.Backup strategy: The server backs up data to Cloudflare R2 every 8 hours and keeps the most recent 20 backups to reduce the risk of accidents or data loss.\n5.PWA icon support: When installed as a PWA app, it now displays an app icon (see the example image).\n\nFor now, this feature is being rolled out experimentally only at the deployment locations listed above. To try it out, please visit:\nhttps://t.co/bgkJOaARgF\n\n⸻\n\nFeedback & Support\n\nWe know that for a project to grow long-term, ongoing communication with users is essential. If you run into any issues, feel free to reply in this thread or DM me directly.\n\nHowever, for security reasons, we did not build any backend admin tools (unless we inspect the database directly, we can’t even tell how many users are in the system). Because of that, we’re unable to handle requests including—but not limited to—forgotten passwords or account recovery. Sorry for the inconvenience, and please make sure to keep your passwords in a safe place.\n\nDue to personal constraints, I used Codex Cloud to help fix some bugs. Because of time limits, I haven’t completed a line-by-line review of that portion of the code yet. I’ll complete the review process as soon as I’m able to. That said, I want to state clearly: the current version’s usability and security are within a controlled and assured range.\n\nI can also promise that cloud sync will be free during this stage. If we ever need to introduce paid plans in the future due to operating costs, we’ll announce it at least one month in advance, and we’ll do our best to keep pricing very low.\n\nThanks for taking the time to read this. Wishing you all the best, and I hope you have a smooth experience!\nSincerely,\naxzamyzed"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012374232622067755",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Good morning, everyone! After a few weeks of development, hrt-tracker-cloud (cloud-sync version) is now available as a test release 🎉\n\nDeployment\n•Backend: hosted in Los Angeles, California (USA)\n•Frontend: hosted on Cloudflare Workers\n\nKey Features\n1.Multi-device cloud sync: https://t.co/C3cQH2FdYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2012374214418763776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1jr52WEAAF3Ka.jpg",
+        "width": 750
+      },
+      {
+        "height": 1192,
+        "media_key": "3_2012374214427209728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1jr54W8AABw35.jpg",
+        "width": 750
+      },
+      {
+        "height": 974,
+        "media_key": "3_2012374215815516161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1jr_DW0AEvptQ.jpg",
+        "width": 750
+      },
+      {
+        "height": 342,
+        "media_key": "3_2012374214490087424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1jr6HWYAAsad-.jpg",
+        "width": 319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "2012391580943241222",
+        "created_at": "2026-01-17T05:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012391580943241222"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 176,
+              "normalized_text": "Los Angeles",
+              "probability": 0.7524,
+              "start": 166,
+              "type": "Place"
+            },
+            {
+              "end": 188,
+              "normalized_text": "California",
+              "probability": 0.8289,
+              "start": 179,
+              "type": "Place"
+            },
+            {
+              "end": 193,
+              "normalized_text": "USA",
+              "probability": 0.9473,
+              "start": 191,
+              "type": "Place"
+            },
+            {
+              "end": 239,
+              "normalized_text": "Cloudflare Workers\n\nKey",
+              "probability": 0.6975,
+              "start": 217,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2012374232622067755",
+              "start": 277,
+              "url": "https://t.co/C3cQH2FdYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012391580943241222",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "2.Data",
+                "end": 518,
+                "expanded_url": "http://2.Data",
+                "start": 495,
+                "url": "https://t.co/RdMYdidbrV"
+              },
+              {
+                "display_url": "3.Data",
+                "end": 669,
+                "expanded_url": "http://3.Data",
+                "start": 646,
+                "url": "https://t.co/aZBKr4I66q"
+              },
+              {
+                "display_url": "hrt-cloud.transmtf.com",
+                "end": 1301,
+                "expanded_url": "https://hrt-cloud.transmtf.com/",
+                "start": 1278,
+                "url": "https://t.co/bgkJOaARgF"
+              }
+            ]
+          },
+          "text": "Good morning, everyone! After a few weeks of development, hrt-tracker-cloud (cloud-sync version) is now available as a test release 🎉\n\nDeployment\n•Backend: hosted in Los Angeles, California (USA)\n•Frontend: hosted on Cloudflare Workers\n\nKey Features\n1.Multi-device cloud sync: After logging in, your data automatically syncs across all your devices. When changes occur, they’ll sync to every logged-in device in up to ~5 seconds. You can also view and manage your logged-in devices at any time.\nhttps://t.co/RdMYdidbrV sharing: You can create shareable copies of your data—or even enable real-time sharing (available only for unencrypted users).\nhttps://t.co/aZBKr4I66q security: Your data is stored securely on the server. If you set a security passcode, your data will be encrypted and protected. Without both your login password and security passcode, no one can access your data.\n4.Backup strategy: The server backs up data to Cloudflare R2 every 8 hours and keeps the most recent 20 backups to reduce the risk of accidents or data loss.\n5.PWA icon support: When installed as a PWA app, it now displays an app icon (see the example image).\n\nFor now, this feature is being rolled out experimentally only at the deployment locations listed above. To try it out, please visit:\nhttps://t.co/bgkJOaARgF\n\n⸻\n\nFeedback & Support\n\nWe know that for a project to grow long-term, ongoing communication with users is essential. If you run into any issues, feel free to reply in this thread or DM me directly.\n\nHowever, for security reasons, we did not build any backend admin tools (unless we inspect the database directly, we can’t even tell how many users are in the system). Because of that, we’re unable to handle requests including—but not limited to—forgotten passwords or account recovery. Sorry for the inconvenience, and please make sure to keep your passwords in a safe place.\n\nDue to personal constraints, I used Codex Cloud to help fix some bugs. Because of time limits, I haven’t completed a line-by-line review of that portion of the code yet. I’ll complete the review process as soon as I’m able to. That said, I want to state clearly: the current version’s usability and security are within a controlled and assured range.\n\nI can also promise that cloud sync will be free during this stage. If we ever need to introduce paid plans in the future due to operating costs, we’ll announce it at least one month in advance, and we’ll do our best to keep pricing very low.\n\nThanks for taking the time to read this. Wishing you all the best, and I hope you have a smooth experience!\nSincerely,\naxzamyzed"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012374232622067755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Good morning, everyone! After a few weeks of development, hrt-tracker-cloud (cloud-sync version) is now available as a test release 🎉\n\nDeployment\n•Backend: hosted in Los Angeles, California (USA)\n•Frontend: hosted on Cloudflare Workers\n\nKey Features\n1.Multi-device cloud sync: https://t.co/C3cQH2FdYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012374214418763776",
+            "3_2012374214427209728",
+            "3_2012374215815516161",
+            "3_2012374214490087424"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2012374232622067755",
+        "created_at": "2026-01-17T03:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012374232622067755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MuxLR78U0U",
+              "end": 169,
+              "expanded_url": "https://x.com/axzamyzed/status/2012374232622067755/photo/1",
+              "media_key": "3_2012374214418763776",
+              "start": 146,
+              "url": "https://t.co/MuxLR78U0U"
+            },
+            {
+              "display_url": "pic.x.com/MuxLR78U0U",
+              "end": 169,
+              "expanded_url": "https://x.com/axzamyzed/status/2012374232622067755/photo/1",
+              "media_key": "3_2012374214427209728",
+              "start": 146,
+              "url": "https://t.co/MuxLR78U0U"
+            },
+            {
+              "display_url": "pic.x.com/MuxLR78U0U",
+              "end": 169,
+              "expanded_url": "https://x.com/axzamyzed/status/2012374232622067755/photo/1",
+              "media_key": "3_2012374215815516161",
+              "start": 146,
+              "url": "https://t.co/MuxLR78U0U"
+            },
+            {
+              "display_url": "pic.x.com/MuxLR78U0U",
+              "end": 169,
+              "expanded_url": "https://x.com/axzamyzed/status/2012374232622067755/photo/1",
+              "media_key": "3_2012374214490087424",
+              "start": 146,
+              "url": "https://t.co/MuxLR78U0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012374232622067755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 845,
+                "id": "1882678524596867072",
+                "start": 837,
+                "username": "gdioiui"
+              },
+              {
+                "end": 856,
+                "id": "1982449259774656512",
+                "start": 846,
+                "username": "smiroyama"
+              },
+              {
+                "end": 872,
+                "id": "1982449259774656512",
+                "start": 862,
+                "username": "smiroyama"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt-cloud.transmtf.com",
+                "end": 446,
+                "expanded_url": "https://hrt-cloud.transmtf.com/",
+                "start": 423,
+                "url": "https://t.co/bgkJOaAjr7"
+              },
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 925,
+                "expanded_url": "https://hrt.transmtf.com",
+                "start": 902,
+                "url": "https://t.co/YYr1MIa8X8"
+              }
+            ]
+          },
+          "text": "大家中午好呀，经过几周的开发，hrt-tracker-cloud（云同步版）现已开启测试发布 🎉\n\n部署架构：\n后端服务器架设于美国加利福尼亚州·洛杉矶\n前端托管于Cloudflare Workers\n\n功能特性：\n1.多设备云同步：登录后可在多个设备间自动同步数据；发生变更后，最多约 5 秒即可同步到所有已登录设备。同时支持随时查看与管理您的登录设备\n2.数据分享：您可以创建数据的分享副本，甚至是实时分享（仅未加密用户）\n3.数据安全：您的数据会安全存储在服务器上。尤其当您设置了安全密码后，数据将进入加密保护状态。除非同时掌握登录密码与安全密码，否则任何人都无法获取您的数据\n4.备份策略：服务器每 8 小时将数据备份至 Cloudflare R2，并保留最近 20 个备份副本，以降低意外风险\n5.PWA 图标支持：现在以 PWA 安装为 App 时已具备图标显示（示例见图）\n\n目前仅在以下部署点试验性开放该功能。如需体验，请访问：\nhttps://t.co/bgkJOaAjr7\n\n反馈与支持\n\n我们深知一个项目要想长远发展，离不开与用户的持续交流，故如果您在使用中遇到任何问题，欢迎直接在本帖回复，或私聊向我反馈\n\n不过，出于安全考虑，我们没有为后端加入任何管理员操作功能（除非直接查看数据库，否则我们甚至无法得知系统中有多少用户）。\n因此，我们也无法处理包括但不限于：忘记密码、找回账号等请求。对此带来的不便，敬请理解，因此也请您务必妥善保管密码信息。\n\n由于个人原因，部分 Bug 使用 Codex Cloud 辅助修复；受时间限制，我尚未对这部分代码完成逐行审查。\n我会在有时间后第一时间补齐审查流程。同时我郑重承诺：当前版本的可用性与安全性处于可控、可保障的范围内。\n\n我可以承诺：现阶段云同步功能不会向您收取任何费用。\n即便未来确实因成本压力需要引入收费机制，也将至少提前 1 个月公告，并尽量将价格维持在非常低的水平。\n\n下面是一些截图\n\n致谢：@gdioiui @smiroyama \n\n另：\n@smiroyama 开发的部分新功能还没来得及适配，我正在抽空跟进适配，但 \nhttps://t.co/YYr1MIa8X8\n与其官网保持一致\n\n最后，感谢您抽出宝贵时间阅读。祝您生活愉快、使用顺利！\naxzamyzed 敬上"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家中午好呀，经过几周的开发，hrt-tracker-cloud（云同步版）现已开启测试发布 🎉\n\n部署架构：\n后端服务器架设于美国加利福尼亚州·洛杉矶\n前端托管于Cloudflare Workers\n\n功能特性：\n1.多设备云同步：登录后可在多个设备间自动同步数据；发生变更后，最多约 5 https://t.co/MuxLR78U0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 92,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "1991704709523206396",
+    "created_at": "2026-01-24T15:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015090704977166654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593547850637791233",
+          "start": 0,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015090704977166654",
+    "in_reply_to_user_id": "1593547850637791233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991704709523206396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didengshengwu 虽然晚了，希望互关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_1991704701067472896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6P034SaMAAwe47.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "1991704709523206396",
+        "created_at": "2026-01-24T15:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015090704977166654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015090704977166654",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991704709523206396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 虽然晚了，希望互关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991704701067472896"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "1991704709523206396",
+        "created_at": "2025-11-21T03:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T04:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991704709523206396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbtQ7OuX20",
+              "end": 171,
+              "expanded_url": "https://x.com/didengshengwu/status/1991704709523206396/photo/1",
+              "media_key": "3_1991704701067472896",
+              "start": 148,
+              "url": "https://t.co/rbtQ7OuX20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991704709523206396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 92214,
+          "like_count": 386,
+          "quote_count": 2,
+          "reply_count": 609,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我看挺多粉丝朋友 想要得到我的关注\n\n而我仅仅关注了几百个人\n\n所以这条帖子就当成 蓝v 互关帖了\n\n有需要我关注的蓝v 在这条帖子下面留言\n\n我看到就关注了\n\n刚看了一下我的后台数据，\n\n今年只有四亿多浏览量，去年好像是6亿+\n\n都是大家的功劳 还是要感谢大家的支持\n\n祝大家运营账号一切顺利 https://t.co/rbtQ7OuX20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 116,
+          "like_count": 1442,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187228,
+          "following_count": 1291,
+          "like_count": 3270,
+          "listed_count": 733,
+          "media_count": 3411,
+          "tweet_count": 6365
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2035978857346678880",
+    "created_at": "2026-03-23T07:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035986586475913706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035986586475913706",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035978857346678880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 x的算法就是你点赞一个人的帖子，你tl上就会出现好多好多他的帖子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2035978295347683328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEE_ePiaoAAUsBr.jpg",
+        "width": 1101
+      },
+      {
+        "height": 632,
+        "media_key": "3_2035978403741138944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEE_kjVbgAAZ7T9.jpg",
+        "width": 1053
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2035978631114276864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEE_xyXaQAATUG9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2035978857346678880",
+        "created_at": "2026-03-23T07:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035986586475913706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035986586475913706",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035978857346678880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 x的算法就是你点赞一个人的帖子，你tl上就会出现好多好多他的帖子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035978295347683328",
+            "3_2035978403741138944",
+            "3_2035978631114276864"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2035978857346678880",
+        "created_at": "2026-03-23T07:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035978857346678880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsSAJvJmPp",
+              "end": 166,
+              "expanded_url": "https://x.com/TOOBE775/status/2035978857346678880/photo/1",
+              "media_key": "3_2035978295347683328",
+              "start": 143,
+              "url": "https://t.co/rsSAJvJmPp"
+            },
+            {
+              "display_url": "pic.x.com/rsSAJvJmPp",
+              "end": 166,
+              "expanded_url": "https://x.com/TOOBE775/status/2035978857346678880/photo/1",
+              "media_key": "3_2035978403741138944",
+              "start": 143,
+              "url": "https://t.co/rsSAJvJmPp"
+            },
+            {
+              "display_url": "pic.x.com/rsSAJvJmPp",
+              "end": 166,
+              "expanded_url": "https://x.com/TOOBE775/status/2035978857346678880/photo/1",
+              "media_key": "3_2035978631114276864",
+              "start": 143,
+              "url": "https://t.co/rsSAJvJmPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035978857346678880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 227,
+                "start": 220,
+                "tag": "灰度社会观察"
+              },
+              {
+                "end": 233,
+                "start": 228,
+                "tag": "流量笔记"
+              }
+            ]
+          },
+          "text": "兄弟们，帮我看看怎么个事？\n前段时间有个妹妹给我的评论点赞，\n我看到了也没在意，\n也没有互加关注。\n后来她的点赞越来越多，\n我也开始注意她了。\n点开她的主页一看，\n还是个纯黄推。\n这下更吸引我了，\n马上就点击关注她，\n她也没回我，\n就这样一直默默点赞我的回复。\n大家可以去她主页看看，\n给她捧个人场，\n也捎带刺激一下多巴胺。\n我始终想不明白为什么不回话，\n难道我这该死的才华，\n难道都传到黄推圈了吗？\n我是不是该大胆表白一下我的爱慕之情？\n#灰度社会观察 #流量笔记"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，帮我看看怎么个事？\n前段时间有个妹妹给我的评论点赞，\n我看到了也没在意，\n也没有互加关注。\n后来她的点赞越来越多，\n我也开始注意她了。\n点开她的主页一看，\n还是个纯黄推。\n这下更吸引我了，\n马上就点击关注她，\n她也没回我，\n就这样一直默默点赞我的回复。\n大家可以去她主页看看， https://t.co/rsSAJvJmPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2035705129505267929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 921,
+          "like_count": 7286,
+          "listed_count": 2,
+          "media_count": 466,
+          "tweet_count": 4441
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2035612413190717658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1751,
+          "like_count": 5823,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 5700
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

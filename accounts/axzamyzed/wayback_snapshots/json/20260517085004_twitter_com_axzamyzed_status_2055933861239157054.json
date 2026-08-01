@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2055820507644309680",
+    "created_at": "2026-05-17T08:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055933861239157054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045786351459602432",
+          "start": 0,
+          "username": "caiji0lalala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055933861239157054",
+    "in_reply_to_user_id": "2045786351459602432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055893142881308692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caiji0lalala 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2055820507644309680",
+        "created_at": "2026-05-17T08:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055933861239157054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045786351459602432",
+              "start": 0,
+              "username": "caiji0lalala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055933861239157054",
+        "in_reply_to_user_id": "2045786351459602432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055893142881308692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caiji0lalala 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045786351459602432",
+        "conversation_id": "2055820507644309680",
+        "created_at": "2026-05-17T06:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055893142881308692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055893142881308692",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1641,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055820507644309680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 昨天刚听别人说，没想到今天就刷到了。就是卖淫的，加上学校名称可能是说自己是高中生，很嫩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3435,
+          "following_count": 935,
+          "like_count": 11429,
+          "listed_count": 10,
+          "media_count": 1585,
+          "tweet_count": 6677
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T08:49:14.000Z",
+        "description": "",
+        "id": "2045786351459602432",
+        "name": "zx z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046122595314184193/F8UjCgMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "caiji0lalala",
+        "verified": false
+      }
+    ]
+  }
+}

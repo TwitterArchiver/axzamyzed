@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2025247123349151806",
+    "created_at": "2026-02-22T00:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T01:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025364062088094177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025364062088094177",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025359332943028573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 没有义务告知😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2025247123349151806",
+        "created_at": "2026-02-22T00:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T01:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025364062088094177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025364062088094177",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025359332943028573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 没有义务告知😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2025247123349151806",
+        "created_at": "2026-02-21T23:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T00:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025359332943028573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025359332943028573",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025247123349151806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 我去不早说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 787,
+          "like_count": 4586,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2518
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人 /paradox社战犯/超级地球赛博斯坦指定冻肉 正在为bvvd服役 Anti-trans，德皇kaiser：@sanitf1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 79,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑣𝑜𝑛 𝑉𝑒𝑟𝑑𝑢𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2006384462209142895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993498827278401536/FkldZrF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 110,
+          "like_count": 2408,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 2091
+        },
+        "username": "RX_Xron28390",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2039860326854705327",
+    "created_at": "2026-04-03T02:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039893742933745742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1404454972775825415",
+          "start": 0,
+          "username": "foxing_zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039893742933745742",
+    "in_reply_to_user_id": "1404454972775825415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039878234784080060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foxing_zzz 所以说九年义务教育真挺重要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2039860326854705327",
+        "created_at": "2026-04-03T02:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039893742933745742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1404454972775825415",
+              "start": 0,
+              "username": "foxing_zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039893742933745742",
+        "in_reply_to_user_id": "1404454972775825415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039878234784080060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxing_zzz 所以说九年义务教育真挺重要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404454972775825415",
+        "conversation_id": "2039860326854705327",
+        "created_at": "2026-04-03T01:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039878234784080060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039878234784080060",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 690,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039860326854705327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 100個15塊 一天1000個也就150 還不算滯銷\n30天就4500"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 932,
+          "like_count": 8263,
+          "listed_count": 3,
+          "media_count": 568,
+          "tweet_count": 4957
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-14T15:05:40.000Z",
+        "description": "早安午安晚上好，這裡狐離~ \n\nTag\n作畫： #快樂狐離\n狐狸廢文： #狐離愛搞怪\n18+的東西： #香狐離\n棉花糖:https://t.co/BYZtgzRwYz\n\n聯絡信箱：foxingring910126@gmail.com\n\n防機器人咒語: 8964",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "快樂狐離"
+              },
+              {
+                "end": 42,
+                "start": 36,
+                "tag": "狐離愛搞怪"
+              },
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "香狐離"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/YVl5yl",
+                "end": 83,
+                "expanded_url": "https://reurl.cc/YVl5yl",
+                "start": 60,
+                "url": "https://t.co/BYZtgzRwYz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@foxych.travel…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@foxych.travelingclub116/about",
+                "start": 0,
+                "url": "https://t.co/ROL4onkmDV"
+              }
+            ]
+          }
+        },
+        "id": "1404454972775825415",
+        "name": "狐離Foxy VT 精神狀況逐漸離譜",
+        "pinned_tweet_id": "1788813336873963736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009270433552683008/5fPLontR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 908,
+          "like_count": 4833,
+          "listed_count": 4,
+          "media_count": 604,
+          "tweet_count": 6005
+        },
+        "url": "https://t.co/ROL4onkmDV",
+        "username": "foxing_zzz",
+        "verified": false
+      }
+    ]
+  }
+}

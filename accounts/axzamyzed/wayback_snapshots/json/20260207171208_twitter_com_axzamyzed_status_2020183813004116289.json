@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2020162160421130750",
+    "created_at": "2026-02-07T17:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T18:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020183813004116289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020183813004116289",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020162160421130750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 十年了假的也成真的了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2020162157107703808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkOx1MXcAAAP7P.jpg",
+        "width": 1200
+      },
+      {
+        "height": 353,
+        "media_key": "3_2020162157111881728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkOx1NXMAAdHL6.jpg",
+        "width": 540
+      },
+      {
+        "height": 407,
+        "media_key": "3_2020162157116002304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkOx1OWEAAvbf6.jpg",
+        "width": 491
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2020162160421130750",
+        "created_at": "2026-02-07T17:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T18:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020183813004116289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020183813004116289",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020162160421130750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 十年了假的也成真的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020162157107703808",
+            "3_2020162157111881728",
+            "3_2020162157116002304"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2020162160421130750",
+        "created_at": "2026-02-07T15:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T16:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020162160421130750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2QiYUP3iXP",
+              "end": 172,
+              "expanded_url": "https://x.com/maoshen/status/2020162160421130750/photo/1",
+              "media_key": "3_2020162157107703808",
+              "start": 149,
+              "url": "https://t.co/2QiYUP3iXP"
+            },
+            {
+              "display_url": "pic.x.com/2QiYUP3iXP",
+              "end": 172,
+              "expanded_url": "https://x.com/maoshen/status/2020162160421130750/photo/1",
+              "media_key": "3_2020162157111881728",
+              "start": 149,
+              "url": "https://t.co/2QiYUP3iXP"
+            },
+            {
+              "display_url": "pic.x.com/2QiYUP3iXP",
+              "end": 172,
+              "expanded_url": "https://x.com/maoshen/status/2020162160421130750/photo/1",
+              "media_key": "3_2020162157116002304",
+              "start": 149,
+              "url": "https://t.co/2QiYUP3iXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020162160421130750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "爆个瓜🍉\n\n大强子为了避免婚前财产纠纷，启动“1元年薪”计划即将到期\n\n2015年8月，京东董事会宣布了一项针对刘强东的薪酬计划。在未来的10年内，他的年薪为 1 元人民币，且没有现金红利。\n\n同时，京东还授予刘强东 2600 万股期权。按当时的股价折算，这笔期权的价值约为 26.5 亿人民币。\n\n在消息公布的第二天，刘强东宣布和章泽天领证结婚。\n\n当时这个消息轰动全网，网友们替章泽天盘算：如果 10 年内离婚，奶茶妹妹只能分到 5 元分手费。\n\n现在这个 1 元协议到期了，后面会不会有什么变数呢？\n\n奶茶妹妹现在身价到底有多少？她持有京东股权吗？\n\n大强子是继续喝奶茶🥤，还是中途换人呢？\n👇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 46517,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "爆个瓜🍉\n\n大强子为了避免婚前财产纠纷，启动“1元年薪”计划即将到期\n\n2015年8月，京东董事会宣布了一项针对刘强东的薪酬计划。在未来的10年内，他的年薪为 1 元人民币，且没有现金红利。\n\n同时，京东还授予刘强东 2600 万股期权。按当时的股价折算，这笔期权的价值约为 26.5 亿人民币。 https://t.co/2QiYUP3iXP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 551,
+          "like_count": 3303,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点，守住内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197104,
+          "following_count": 4707,
+          "like_count": 3918,
+          "listed_count": 518,
+          "media_count": 2654,
+          "tweet_count": 5320
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

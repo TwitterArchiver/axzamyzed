@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986989264064929792"
+      ],
+      "media_source_tweet_id": [
+        "1986989271136477465"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015427164469100806",
+    "created_at": "2026-01-25T14:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T15:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015427164469100806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1791585754755350528",
+          "start": 3,
+          "username": "RainLemon0715"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pcmgCa6HLA",
+          "end": 99,
+          "expanded_url": "https://x.com/RainLemon0715/status/1986989271136477465/photo/1",
+          "media_key": "3_1986989264064929792",
+          "start": 76,
+          "url": "https://t.co/pcmgCa6HLA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015427164469100806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 186
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986989271136477465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainLemon0715: 不要转贴！不要转贴！不要转贴！\n转贴会变成超级可爱的猫猫\n檬檬已经变成猫猫了～\n喵呜～\n（尝试停止诅咒）（失败） https://t.co/pcmgCa6HLA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1986989264064929792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5M0NUka4AAMAg4.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986989264064929792"
+          ],
+          "media_source_tweet_id": [
+            "1986989271136477465"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015427164469100806",
+        "created_at": "2026-01-25T14:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015427164469100806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1791585754755350528",
+              "start": 3,
+              "username": "RainLemon0715"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pcmgCa6HLA",
+              "end": 99,
+              "expanded_url": "https://x.com/RainLemon0715/status/1986989271136477465/photo/1",
+              "media_key": "3_1986989264064929792",
+              "start": 76,
+              "url": "https://t.co/pcmgCa6HLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015427164469100806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 186
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986989271136477465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainLemon0715: 不要转贴！不要转贴！不要转贴！\n转贴会变成超级可爱的猫猫\n檬檬已经变成猫猫了～\n喵呜～\n（尝试停止诅咒）（失败） https://t.co/pcmgCa6HLA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986989264064929792"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "conversation_id": "1986989271136477465",
+        "created_at": "2025-11-08T02:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T03:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986989271136477465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pcmgCa6HLA",
+              "end": 80,
+              "expanded_url": "https://x.com/RainLemon0715/status/1986989271136477465/photo/1",
+              "media_key": "3_1986989264064929792",
+              "start": 57,
+              "url": "https://t.co/pcmgCa6HLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986989271136477465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 53414,
+          "like_count": 387,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "不要转贴！不要转贴！不要转贴！\n转贴会变成超级可爱的猫猫\n檬檬已经变成猫猫了～\n喵呜～\n（尝试停止诅咒）（失败） https://t.co/pcmgCa6HLA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 218,
+          "like_count": 1658,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜持证含糖，hrt21.1.10-22.12/扭转⚠️/2023.7.15恢复｜半家长党…吗？｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜暂不圆角｜无政治立场｜努力rle中｜🚪50，可加好友（QQ）｜清水推｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”",
+        "id": "1791585754755350528",
+        "location": "未來由自己書寫",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2010535213299048582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523715638931458/M5oGaoU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 292,
+          "like_count": 7511,
+          "listed_count": 4,
+          "media_count": 172,
+          "tweet_count": 1916
+        },
+        "username": "RainLemon0715",
+        "verified": false
+      }
+    ]
+  }
+}

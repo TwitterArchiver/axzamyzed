@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2054773820410802490",
+    "created_at": "2026-05-14T04:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054775464024248425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053360211948109826",
+          "start": 0,
+          "username": "axzameyzed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054775464024248425",
+    "in_reply_to_user_id": "2053360211948109826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054773820410802490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzameyzed 测试"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2054773805252505600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQF46PacAASt2o.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2054773820410802490",
+        "created_at": "2026-05-14T04:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054775464024248425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054775464024248425",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054773820410802490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 测试"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054773805252505600"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2054773820410802490",
+        "created_at": "2026-05-14T04:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054773820410802490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1223415775278428160",
+              "start": 33,
+              "username": "sophhhsama"
+            },
+            {
+              "end": 60,
+              "id": "1894461745277931524",
+              "start": 45,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 70,
+              "id": "1954966290424111104",
+              "start": 61,
+              "username": "zemumiao"
+            },
+            {
+              "end": 86,
+              "id": "1624039574702899202",
+              "start": 71,
+              "username": "lingluoloveyou"
+            },
+            {
+              "end": 102,
+              "id": "1243590342911410176",
+              "start": 87,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxThk5ugMk",
+              "end": 194,
+              "expanded_url": "https://x.com/axzameyzed/status/2054773820410802490/photo/1",
+              "media_key": "3_2054773805252505600",
+              "start": 171,
+              "url": "https://t.co/hxThk5ugMk"
+            },
+            {
+              "display_url": "x.com/mxyzcdb/status…",
+              "end": 218,
+              "expanded_url": "https://twitter.com/mxyzcdb/status/2053125993196294575",
+              "start": 195,
+              "url": "https://t.co/yJnw8zsLUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054773820410802490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 44,
+                "id": "1223415775278428160",
+                "start": 33,
+                "username": "sophhhsama"
+              },
+              {
+                "end": 60,
+                "id": "1894461745277931524",
+                "start": 45,
+                "username": "Rain_Antar1121"
+              },
+              {
+                "end": 70,
+                "id": "1954966290424111104",
+                "start": 61,
+                "username": "zemumiao"
+              },
+              {
+                "end": 86,
+                "id": "1624039574702899202",
+                "start": 71,
+                "username": "lingluoloveyou"
+              },
+              {
+                "end": 102,
+                "id": "1243590342911410176",
+                "start": 87,
+                "username": "bing2000100830"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai/share/bf238d24…",
+                "end": 245,
+                "expanded_url": "https://claude.ai/share/bf238d24-89fa-4595-bf90-f1b506f0dffb",
+                "start": 222,
+                "url": "https://t.co/5sJhK4jd9d"
+              },
+              {
+                "display_url": "chatgpt.com/s/t_6a05473353…",
+                "end": 482,
+                "expanded_url": "https://chatgpt.com/s/t_6a05473353188191b11817e780bb9f88",
+                "start": 459,
+                "url": "https://t.co/XgziTYpAo4"
+              }
+            ]
+          },
+          "text": "周四了开个奖吧（什么疯狂星期四）\n先说结论（奇奇怪怪的语法）\n恭喜@sophhhsama @Rain_Antar1121 @zemumiao @lingluoloveyou @bing2000100830 中奖，每人10u，请私信我链上地址或IBAN，不怎么支持微信支付宝（但也有待商榷）还请尽快联系我\n抽奖方式如下（还挺有意思的，供参考）\n由Claude生成一个童话故事取其sha256（utf8-hex）作为随机数种子\n种子故事链接如下：\nhttps://t.co/5sJhK4jd9d\n故事sha256（utf8-hex）如下：\n079d48e1cc41c2e277015282c363dc0ccad14ac077a03dc72ab0a4db908492b5\n最终种子如下：\n079d48e1c079d48e1cc41c2e277015282c363dc0ccad14ac077a03dc72ab0a4db908492b5-Crazy-Thursday-2026-05-14\n抽取由ChatGPT完成，对话如下\nhttps://t.co/XgziTYpAo4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053125993196294575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "周四了开个奖吧（什么疯狂星期四）\n先说结论（奇奇怪怪的语法）\n恭喜@sophhhsama @Rain_Antar1121 @zemumiao @lingluoloveyou @bing2000100830 中奖，每人10u，请私信我链上地址或IBAN，不怎么支持微信支付宝（但也有待商榷）还请尽快联系我\n抽奖方式如下（还挺有意思的，供参考） https://t.co/hxThk5ugMk https://t.co/yJnw8zsLUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3361,
+          "following_count": 928,
+          "like_count": 11251,
+          "listed_count": 10,
+          "media_count": 1502,
+          "tweet_count": 6567
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 108,
+          "like_count": 417,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 206
+        },
+        "username": "axzameyzed",
+        "verified": true
+      }
+    ]
+  }
+}

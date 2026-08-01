@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016386506399871051",
+    "created_at": "2026-01-28T06:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T07:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016404197395333261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "754977305617838084",
+          "start": 0,
+          "username": "balalamoxian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016404197395333261",
+    "in_reply_to_user_id": "754977305617838084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016386506399871051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@balalamoxian 等价原则"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016386506399871051",
+        "created_at": "2026-01-28T06:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T07:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016404197395333261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "754977305617838084",
+              "start": 0,
+              "username": "balalamoxian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016404197395333261",
+        "in_reply_to_user_id": "754977305617838084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016386506399871051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@balalamoxian 等价原则"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "754977305617838084",
+        "conversation_id": "2016386506399871051",
+        "created_at": "2026-01-28T05:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016386506399871051"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "黄金"
+            },
+            {
+              "end": 107,
+              "start": 101,
+              "tag": "白银LOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016386506399871051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "月入10000元以下的朋友\n其实根本没必要讨论黄金白银股票\n没有任何意义\n现阶段最好的理财方式就是不吃晚饭\n晚饭一天不吃省20元\n一年就是7000元\n按照银行的利率 \n等于你在银行有70万存款\n#黄金 #白银LOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 7,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1111
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-18T09:53:11.000Z",
+        "description": "Less is more",
+        "id": "754977305617838084",
+        "location": "Jiangsu",
+        "name": "Tili M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012859345881477120/H_61EZ28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 497,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 251
+        },
+        "username": "balalamoxian",
+        "verified": true
+      }
+    ]
+  }
+}

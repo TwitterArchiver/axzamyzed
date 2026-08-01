@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017956491018535060",
+    "created_at": "2026-02-01T15:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T16:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017977246955577769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017977246955577769",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017956491018535060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 1key还是太权威了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2017956321002483712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAE4lRWbcAAf6Oy.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017956491018535060",
+        "created_at": "2026-02-01T15:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017977246955577769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017977246955577769",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017956491018535060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 1key还是太权威了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017956321002483712"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          }
+        ],
+        "conversation_id": "2017956491018535060",
+        "created_at": "2026-02-01T13:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:41:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017956401323126902",
+          "2017956491018535060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "Gemini"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ourl.co/111680?x",
+              "end": 163,
+              "expanded_url": "https://ourl.co/111680?x",
+              "start": 140,
+              "unwound_url": "https://www.landiannews.com/archives/111680.html?utm_source=x.com&utm_medium=social&utm_campaign=%E8%B0%B7%E6%AD%8C%E6%B8%85%E9%80%80%E9%83%A8%E5%88%86Gemini+AI%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E8%AE%A2%E9%98%85+%E5%8F%97%E5%BD%B1%E5%93%8D%E7%9A%84%E4%BB%A51Key%E8%AE%A4%E8%AF%81%E6%96%B9%E5%BC%8F%E5%B1%85%E5%A4%9A",
+              "url": "https://t.co/AscFdn9Cuy"
+            },
+            {
+              "display_url": "pic.x.com/pKD8d6QdvP",
+              "end": 187,
+              "expanded_url": "https://x.com/landiantech/status/2017956491018535060/photo/1",
+              "media_key": "3_2017956321002483712",
+              "start": 164,
+              "url": "https://t.co/pKD8d6QdvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017956491018535060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4921,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谷歌清退部分 #Gemini AI 学生订阅，受影响的似乎以 1Key 认证居多，EDU 认证被清退的少些。说起来目前并未看到规模特别大的清退，从去年 9 月起谷歌其实就在逐渐检查不合规的学生订阅，所幸谷歌不至于动用封号政策，但如果想要继续白嫖的用户建议还是新号操作以免影响主号：https://t.co/AscFdn9Cuy https://t.co/pKD8d6QdvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 449,
+          "like_count": 2695,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1443
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/landiansub",
+                "end": 48,
+                "expanded_url": "https://t.me/landiansub",
+                "start": 25,
+                "url": "https://t.co/xzeoUEoPcU"
+              },
+              {
+                "display_url": "t.me/id7371",
+                "end": 77,
+                "expanded_url": "https://t.me/id7371",
+                "start": 54,
+                "url": "https://t.co/LJK1g3biPp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31588,
+          "following_count": 646,
+          "like_count": 3884,
+          "listed_count": 254,
+          "media_count": 4674,
+          "tweet_count": 13583
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

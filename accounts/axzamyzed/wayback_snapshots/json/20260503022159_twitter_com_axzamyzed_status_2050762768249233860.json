@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2050762420839170103",
+    "created_at": "2026-05-03T02:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T03:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050762768249233860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2031715041196875776",
+          "start": 0,
+          "username": "YiJin_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050762768249233860",
+    "in_reply_to_user_id": "2031715041196875776",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050762527295131981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiJin_0v0 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2050762420839170103",
+        "created_at": "2026-05-03T02:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050762768249233860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2031715041196875776",
+              "start": 0,
+              "username": "YiJin_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050762768249233860",
+        "in_reply_to_user_id": "2031715041196875776",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050762527295131981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiJin_0v0 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031715041196875776",
+        "conversation_id": "2050762420839170103",
+        "created_at": "2026-05-03T02:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050762527295131981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050762527295131981",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050762420839170103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 还是白丝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3058,
+          "following_count": 912,
+          "like_count": 10485,
+          "listed_count": 10,
+          "media_count": 1207,
+          "tweet_count": 6127
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "本体：@rinii165892 【私信回fo】\n不发帖就是去享福了\n我是小学生，不要欺负我/精神病很严重已放弃治疗，一碰就碎/情商低智商低素质低文化低耐心为0/持续犯病中，欢迎互殴/传奇炸柜王/天天被晶的小学生/无证含糖/家暴党",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "少管所",
+        "name": "霖/伊井酱酱酱🍥",
+        "pinned_tweet_id": "2049137147219968346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 465,
+          "like_count": 3637,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 2151
+        },
+        "username": "YiJin_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

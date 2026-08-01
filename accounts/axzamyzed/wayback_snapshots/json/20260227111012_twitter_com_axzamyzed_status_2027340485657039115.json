@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2027264902839067049",
+    "created_at": "2026-02-27T11:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027340485657039115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027340485657039115",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027264902839067049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 擦边的话付费的人就会多,有些东西只能羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_2027264899559153664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJKr2vXYAA6o3Y.jpg",
+        "width": 576
+      },
+      {
+        "height": 1457,
+        "media_key": "3_2027264899546570752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJKr2sXYAAfAEU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1148,
+        "media_key": "3_2027264899697795075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJKr3Qa4AMtBfV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2027264902839067049",
+        "created_at": "2026-02-27T11:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027340485657039115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027340485657039115",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027264902839067049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 擦边的话付费的人就会多,有些东西只能羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027264899559153664",
+            "3_2027264899546570752",
+            "3_2027264899697795075"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2027264902839067049",
+        "created_at": "2026-02-27T06:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027264902839067049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSLTTKVCN4",
+              "end": 175,
+              "expanded_url": "https://x.com/maoshen/status/2027264902839067049/photo/1",
+              "media_key": "3_2027264899559153664",
+              "start": 152,
+              "url": "https://t.co/KSLTTKVCN4"
+            },
+            {
+              "display_url": "pic.x.com/KSLTTKVCN4",
+              "end": 175,
+              "expanded_url": "https://x.com/maoshen/status/2027264902839067049/photo/1",
+              "media_key": "3_2027264899546570752",
+              "start": 152,
+              "url": "https://t.co/KSLTTKVCN4"
+            },
+            {
+              "display_url": "pic.x.com/KSLTTKVCN4",
+              "end": 175,
+              "expanded_url": "https://x.com/maoshen/status/2027264902839067049/photo/1",
+              "media_key": "3_2027264899697795075",
+              "start": 152,
+              "url": "https://t.co/KSLTTKVCN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027264902839067049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【猫神漫谈】抖音“汤圆妈”约200万粉丝，付费会员就有14000人，按照98元/月，光会员费一个月 就有137万\n\n如果加上带货、广告、打赏这些常规收入，猫神估计她每月300万起步，差不多40万美元\n\n这是什么概念？\n\n再看看外网卷得一塌糊涂，就算是油管，月收入40万美元也是凤毛麟角，大部分还在几千元\n\n至于其它平台，几乎就是打发要饭的，推特以前每月几十块钱，现在多一点，也就几百块，就有这么多人涌进来薅低保\n\n相对于国内平台来说，真是天差地别\n\n汤圆妈有什么水平？一个中年妇女，拍几个擦边视频，赚得盆满钵满，付费会员就有14000人，会员率接近1%\n\n海外平台谁有这样的水平？哪个博主有1%付费会员？而且汤圆妈98元会员费，相当于15美元，也远远超过外媒\n\n王局是油管顶流，会员费也就“7️⃣刀会”，估计也没有1%付费会员，推特付费会员更少，很多人一个都没有\n\n什么时候20万粉丝的猫神，有2000个付费会员？海枯石烂也不可能吧？\n\n再看看国内那些微信公众号，写一篇啥都不通的文章，喊几句口号，或者卖卖惨，动不动就收到打赏几万甚至几十万\n\n再看看推特，猫神搜肠刮肚写一篇文章，自认为写得还不错，却几乎一毛钱都没有，完全是免费劳动，还要倒贴网络费\n\n有些事就是不能比较，汤圆妈赚得盆满钵满，不是其视频内容多高级，而是市场更大，网友钱包更鼓，大家舍得花钱订阅\n\n一个残酷的现实是：国内自媒体在印钞，赚钱就像玩儿似的，海外华语圈在乞讨，卷得一塌糊涂\n\n当“汤圆妈”的收入，碾压海外所有自媒体大V的时候，你就知道这个世界有多么荒唐～～😂\n\n事实证明：\n\n国内赚钱太容易，有钱人太多，你不得不承认，\n\n海外的华人群体，收入真的不高，和国内差距明显\n\n付费会员太少，也算是间接证明了消费水平吧\n\n同样是做内容，一个是赚钱的生意，一个是虚无缥缈的信仰\n\n在这些数据面前，不服也得服，呵呵😏"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 87323,
+          "like_count": 118,
+          "quote_count": 5,
+          "reply_count": 108,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "【猫神漫谈】抖音“汤圆妈”约200万粉丝，付费会员就有14000人，按照98元/月，光会员费一个月 就有137万\n\n如果加上带货、广告、打赏这些常规收入，猫神估计她每月300万起步，差不多40万美元\n\n这是什么概念？\n\n再看看外网卷得一塌糊涂，就算是油管，月收入40万美元也是凤毛麟角，大部分还在几千元 https://t.co/KSLTTKVCN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 815,
+          "like_count": 5231,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 2879
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点｜守心明理、知行合一，呵护内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201939,
+          "following_count": 7744,
+          "like_count": 4103,
+          "listed_count": 507,
+          "media_count": 2960,
+          "tweet_count": 6683
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

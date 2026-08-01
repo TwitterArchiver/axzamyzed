@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2022349723332747411",
+    "created_at": "2026-02-13T17:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T18:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022359810705100956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1364200446080913413",
+          "start": 0,
+          "username": "andy88988696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022359810705100956",
+    "in_reply_to_user_id": "1364200446080913413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022349723332747411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andy88988696 我一直在想你在那么多帖子下怎么评论那么多，这样很容易被shdowban"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2022349561558355968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDUNhxaUAAzU3j.jpg",
+        "width": 1284
+      },
+      {
+        "height": 546,
+        "media_key": "3_2022349561617125376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDUNh_bEAAr5yP.jpg",
+        "width": 1180
+      },
+      {
+        "height": 504,
+        "media_key": "3_2022349561571020800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDUNh0bkAAGuvw.jpg",
+        "width": 1284
+      },
+      {
+        "duration_ms": 15125,
+        "height": 1920,
+        "media_key": "13_2022349561587728384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022349561587728384/img/G_4ksaVk8Z1qgXje.jpg",
+        "public_metrics": {
+          "view_count": 38
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022349561587728384/vid/avc1/480x1036/3CIYl2work06V-q8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022349561587728384/pl/8gQeQt-6qrpJMapa.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022349561587728384/vid/avc1/888x1920/dgOP7QWOw5fiEprg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022349561587728384/vid/avc1/720x1556/n6EY4dS0j1k95g8a.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022349561587728384/vid/avc1/320x690/Io3Wgks_PncdjrcC.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2022349723332747411",
+        "created_at": "2026-02-13T17:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022359810705100956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1364200446080913413",
+              "start": 0,
+              "username": "andy88988696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022359810705100956",
+        "in_reply_to_user_id": "1364200446080913413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022349723332747411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andy88988696 我一直在想你在那么多帖子下怎么评论那么多，这样很容易被shdowban"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022349561558355968",
+            "3_2022349561617125376",
+            "3_2022349561571020800",
+            "13_2022349561587728384"
+          ]
+        },
+        "author_id": "1364200446080913413",
+        "conversation_id": "2022349723332747411",
+        "created_at": "2026-02-13T16:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022349723332747411"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 127,
+              "start": 116,
+              "tag": "followback"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "互fo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWXfCuYIaO",
+              "end": 156,
+              "expanded_url": "https://x.com/andy88988696/status/2022349723332747411/video/1",
+              "media_key": "3_2022349561558355968",
+              "start": 133,
+              "url": "https://t.co/bWXfCuYIaO"
+            },
+            {
+              "display_url": "pic.x.com/bWXfCuYIaO",
+              "end": 156,
+              "expanded_url": "https://x.com/andy88988696/status/2022349723332747411/video/1",
+              "media_key": "3_2022349561617125376",
+              "start": 133,
+              "url": "https://t.co/bWXfCuYIaO"
+            },
+            {
+              "display_url": "pic.x.com/bWXfCuYIaO",
+              "end": 156,
+              "expanded_url": "https://x.com/andy88988696/status/2022349723332747411/video/1",
+              "media_key": "3_2022349561571020800",
+              "start": 133,
+              "url": "https://t.co/bWXfCuYIaO"
+            },
+            {
+              "display_url": "pic.x.com/bWXfCuYIaO",
+              "end": 156,
+              "expanded_url": "https://x.com/andy88988696/status/2022349723332747411/video/1",
+              "media_key": "13_2022349561587728384",
+              "start": 133,
+              "url": "https://t.co/bWXfCuYIaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022349723332747411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被shadow down 了 \n\n希望互关文可以救救流量\n\n继续冲击2500蓝V\n\n你若关注我必回关\n\n需要互关的，请留言！如有遗漏，请留言！！！    诚信互关\n\n非诚勿扰！一旦发现不诚信者，取关并一律拉黑！   \n\n#蓝V互关 #followback #互fo https://t.co/bWXfCuYIaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 628,
+          "like_count": 3800,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2072
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-23T13:08:34.000Z",
+        "description": "健康｜醫學｜撕糖衣｜拆邏輯｜只談現實｜藍V｜偶爾分享一些有趣的影片",
+        "id": "1364200446080913413",
+        "name": "DIABETE_PANDA",
+        "pinned_tweet_id": "2021868267393196460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897447830480097280/q4Do2mUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 1873,
+          "like_count": 3972,
+          "listed_count": 7,
+          "media_count": 136,
+          "tweet_count": 7680
+        },
+        "username": "andy88988696",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038483580096323766",
+    "created_at": "2026-03-30T09:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038547988075643095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2017482571106451456",
+          "start": 0,
+          "username": "liuliu489588"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038547988075643095",
+    "in_reply_to_user_id": "2017482571106451456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038510184008454292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuliu489588 这首诗没听过嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038483580096323766",
+        "created_at": "2026-03-30T09:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038547988075643095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2017482571106451456",
+              "start": 0,
+              "username": "liuliu489588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038547988075643095",
+        "in_reply_to_user_id": "2017482571106451456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038510184008454292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuliu489588 这首诗没听过嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017482571106451456",
+        "conversation_id": "2038483580096323766",
+        "created_at": "2026-03-30T06:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038510184008454292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038510184008454292",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6363,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038483580096323766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 这谁写的诗，看不懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 934,
+          "like_count": 7952,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 4767
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-31T06:18:54.000Z",
+        "description": "🤖 追更科技前沿 | ☕ 用咖啡和代码对抗生活",
+        "id": "2017482571106451456",
+        "location": "Wales, United Kingdom",
+        "name": "Jack Liu",
+        "pinned_tweet_id": "2034313297638613428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022562692087848960/05pGz61U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 743,
+          "like_count": 476,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 555
+        },
+        "username": "liuliu489588",
+        "verified": true
+      }
+    ]
+  }
+}

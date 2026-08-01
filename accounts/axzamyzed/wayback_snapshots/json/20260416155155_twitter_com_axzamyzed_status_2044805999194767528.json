@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2044581993422197224",
+    "created_at": "2026-04-16T15:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044805999194767528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751596254776455168",
+          "start": 0,
+          "username": "Lambo_1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044805999194767528",
+    "in_reply_to_user_id": "1751596254776455168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044692094636167674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lambo_1008 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2044581993422197224",
+        "created_at": "2026-04-16T15:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044805999194767528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751596254776455168",
+              "start": 0,
+              "username": "Lambo_1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044805999194767528",
+        "in_reply_to_user_id": "1751596254776455168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044692094636167674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lambo_1008 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751596254776455168",
+        "conversation_id": "2044581993422197224",
+        "created_at": "2026-04-16T08:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044692094636167674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044692094636167674",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12618,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044581993422197224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 和华子学的，这些所谓的大厂HR都是一套体系进修的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 892,
+          "like_count": 9235,
+          "listed_count": 6,
+          "media_count": 829,
+          "tweet_count": 5534
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T13:21:29.000Z",
+        "description": "运动狂热+美食 + 吐槽 + ICT方案狗",
+        "id": "1751596254776455168",
+        "name": "Lambo_1008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008724952296689664/aQO1XziM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 826,
+          "like_count": 228,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1686
+        },
+        "username": "Lambo_1008",
+        "verified": true
+      }
+    ]
+  }
+}

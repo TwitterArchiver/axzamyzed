@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2014887953949196532",
+    "created_at": "2026-01-25T07:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T08:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015332745409663103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1309402071355912192",
+          "start": 0,
+          "username": "Tenet418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015332745409663103",
+    "in_reply_to_user_id": "1309402071355912192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015329672607977521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tenet418 趁着感兴趣做做，以后虽然有时间但可能就没兴趣了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2014887953949196532",
+        "created_at": "2026-01-25T07:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015332745409663103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1309402071355912192",
+              "start": 0,
+              "username": "Tenet418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015332745409663103",
+        "in_reply_to_user_id": "1309402071355912192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015329672607977521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tenet418 趁着感兴趣做做，以后虽然有时间但可能就没兴趣了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1309402071355912192",
+        "conversation_id": "2014887953949196532",
+        "created_at": "2026-01-25T07:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015329672607977521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015329672607977521",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015328525465813390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 确实牛逼，我高中时候像个傻逼一样天天做卷纸呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 184,
+          "like_count": 1608,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 824
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-25T07:59:25.000Z",
+        "description": "目前专注5件事：炒币、打飞机、学习Price Action、找番号、小红书和咸鱼卖货｜币安返佣：https://t.co/jxn8GZfggz｜交易Memecoin 推荐使用币安Web3钱包：https://t.co/fGhu1QCVuB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/gnANOX",
+                "end": 71,
+                "expanded_url": "https://reurl.cc/gnANOX",
+                "start": 48,
+                "url": "https://t.co/jxn8GZfggz"
+              },
+              {
+                "display_url": "reurl.cc/zKaOx6",
+                "end": 119,
+                "expanded_url": "https://reurl.cc/zKaOx6",
+                "start": 96,
+                "url": "https://t.co/fGhu1QCVuB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bmwweb.academy/referral/earn-…",
+                "end": 23,
+                "expanded_url": "https://www.bmwweb.academy/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_NMHQX",
+                "start": 0,
+                "url": "https://t.co/FmjRgq82hs"
+              }
+            ]
+          }
+        },
+        "id": "1309402071355912192",
+        "location": "交易所返佣链接→",
+        "name": "王多鱼",
+        "pinned_tweet_id": "2012439873748422977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013170534318587904/0UqNJwPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 1608,
+          "like_count": 1424,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/FmjRgq82hs",
+        "username": "Tenet418",
+        "verified": true
+      }
+    ]
+  }
+}

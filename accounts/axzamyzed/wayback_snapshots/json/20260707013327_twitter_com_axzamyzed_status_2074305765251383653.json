@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2074305765251383653",
+    "created_at": "2026-07-07T01:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074305765251383653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552213521253150720",
+          "start": 3,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074305765251383653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074301855363219895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acnekot: “师傅，你现在是什么境界”\n“师傅笑而不语过了一刻钟后才淡淡道：徒儿打开你系统看看”\n“徒儿瞳孔猛缩，要知道系统只有自己一人知道，师傅是唯一一个能道出系统的人，不免在内心思索：难道师傅的修为已经凌驾这方天地了”\n“随后打开系统，看了看系统，又看了看师傅…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2074305765251383653",
+        "created_at": "2026-07-07T01:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074305765251383653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552213521253150720",
+              "start": 3,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074305765251383653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074301855363219895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acnekot: “师傅，你现在是什么境界”\n“师傅笑而不语过了一刻钟后才淡淡道：徒儿打开你系统看看”\n“徒儿瞳孔猛缩，要知道系统只有自己一人知道，师傅是唯一一个能道出系统的人，不免在内心思索：难道师傅的修为已经凌驾这方天地了”\n“随后打开系统，看了看系统，又看了看师傅…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2074301855363219895",
+        "created_at": "2026-07-07T01:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074301855363219895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2073625920263594166",
+              "start": 138,
+              "url": "https://t.co/FUUl3MSDAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074301855363219895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“师傅，你现在是什么境界”\n“师傅笑而不语过了一刻钟后才淡淡道：徒儿打开你系统看看”\n“徒儿瞳孔猛缩，要知道系统只有自己一人知道，师傅是唯一一个能道出系统的人，不免在内心思索：难道师傅的修为已经凌驾这方天地了”\n“随后打开系统，看了看系统，又看了看师傅，不敢置信的看了三次”\n“师傅，你给我下载个火影忍者是什么意思？”\n“单挑”                                                  \n”乐乐”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073625920263594166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“师傅，你现在是什么境界”\n“师傅笑而不语过了一刻钟后才淡淡道：徒儿打开你系统看看”\n“徒儿瞳孔猛缩，要知道系统只有自己一人知道，师傅是唯一一个能道出系统的人，不免在内心思索：难道师傅的修为已经凌驾这方天地了”\n“随后打开系统，看了看系统，又看了看师傅，不敢置信的看了三次” https://t.co/FUUl3MSDAe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4063,
+          "following_count": 929,
+          "like_count": 14104,
+          "listed_count": 12,
+          "media_count": 3165,
+          "tweet_count": 8805
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 814,
+          "like_count": 95865,
+          "listed_count": 9,
+          "media_count": 4077,
+          "tweet_count": 17289
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

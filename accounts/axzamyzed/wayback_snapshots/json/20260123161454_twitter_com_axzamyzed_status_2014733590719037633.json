@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2014729843703775536",
+    "created_at": "2026-01-23T16:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T17:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014733590719037633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014733590719037633",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014729843703775536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 微信除了不可替代性一文不值"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 639,
+        "media_key": "3_2014639692248186881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VwIEbbAAEeHKA.png",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2014729843703775536",
+        "created_at": "2026-01-23T16:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014733590719037633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014733590719037633",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014729843703775536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 微信除了不可替代性一文不值"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014639692248186881"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2014729843703775536",
+        "created_at": "2026-01-23T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014729843703775536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNuooB6FPg",
+              "end": 55,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014729843703775536/photo/1",
+              "media_key": "3_2014639692248186881",
+              "start": 32,
+              "url": "https://t.co/bNuooB6FPg"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2012905317315842203",
+              "start": 56,
+              "url": "https://t.co/LKl0g6sBL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014729843703775536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "腾讯回应投诉下架微信数据解析开源项目：防止用户隐私安全受到威胁\n1月22日，据南都N视频报道，腾讯方面回应称，部分读取微信聊天记录的开源项目，是通过对微信客户端进行逆向工程等手段，破解本地数据库的密钥，以绕过微信客户端的加密措施，威胁用户本人及第三方数据隐私及客户端安全，且极易被黑灰产利用。腾讯依据相关法规向开源平台提出请求，并获得了平台支持，大部分项目也在平台沟通后选择主动移除违规内容。\n此次被下架的项目核心功能为解析微信本地加密数据库，实现聊天记录导出、缓存清理等操作。此前据报道，腾讯在投诉函中援引DMCA（《数字千年版权法》）第1201条，指控此类工具构成“未经授权规避技术保护措施”，同时违反微信服务条款中禁止逆向工程的约定，且可能因代码漏洞导致用户数据被第三方窃取，侵犯微信存储格式、加密协议等知识产权。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5280,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012905317315842203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腾讯回应投诉下架微信数据解析开源项目：防止用户隐私安全受到威胁 https://t.co/bNuooB6FPg https://t.co/LKl0g6sBL1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.axzamy.xyz",
+                "end": 23,
+                "expanded_url": "http://hrt.axzamy.xyz",
+                "start": 0,
+                "url": "https://t.co/yFIBsTFtan"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 90,
+          "like_count": 1373,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/yFIBsTFtan",
+        "username": "axzamyzed",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185048,
+          "following_count": 1004,
+          "like_count": 8841,
+          "listed_count": 8519,
+          "media_count": 40560,
+          "tweet_count": 47521
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

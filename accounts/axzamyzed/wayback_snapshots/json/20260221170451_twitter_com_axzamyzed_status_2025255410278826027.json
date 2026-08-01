@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2025255410278826027",
+    "created_at": "2026-02-21T17:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T18:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025255410278826027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sokei_ko_nya/s…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/sokei_ko_nya/status/2025252501872934943",
+          "start": 75,
+          "url": "https://t.co/cEbT1gjxMs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025255410278826027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025252501872934943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家不要再吃亚硝酸钠了好不好\n如果…有什么不高兴的不开心的话…可以找我聊聊天嘛，没有什么大不了的事情呢，办法总比困难多，总是能解决的，你是最棒的哦～ https://t.co/cEbT1gjxMs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2025255410278826027",
+        "created_at": "2026-02-21T17:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025255410278826027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sokei_ko_nya/s…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/sokei_ko_nya/status/2025252501872934943",
+              "start": 75,
+              "url": "https://t.co/cEbT1gjxMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025255410278826027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025252501872934943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家不要再吃亚硝酸钠了好不好\n如果…有什么不高兴的不开心的话…可以找我聊聊天嘛，没有什么大不了的事情呢，办法总比困难多，总是能解决的，你是最棒的哦～ https://t.co/cEbT1gjxMs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667798970700283904",
+        "conversation_id": "2025252501872934943",
+        "created_at": "2026-02-21T16:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025252501872934943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kagura_Yukikaz…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Kagura_Yukikaze/status/2025226817389691000",
+              "start": 15,
+              "url": "https://t.co/wZy2rCprCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025252501872934943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025226817389691000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家不要再吃亚硝酸钠了好不好 https://t.co/wZy2rCprCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 785,
+          "like_count": 4568,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2511
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T07:41:25.000Z",
+        "description": "Rhythm Game player / Bilibili & Youtube uploader / 无证mtf🏳️‍⚧️(25.2.25)/宝宝@RainEngine2024（不建政/No Politics）\n(https://t.co/uTEFVtqHDn)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "RainEngine2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@Sokei_ko_nya",
+                "end": 130,
+                "expanded_url": "https://www.youtube.com/@Sokei_ko_nya",
+                "start": 107,
+                "url": "https://t.co/uTEFVtqHDn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/298030824",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/298030824",
+                "start": 0,
+                "url": "https://t.co/8RxAlLpdn7"
+              }
+            ]
+          }
+        },
+        "id": "1667798970700283904",
+        "location": "China mainland",
+        "name": "青石巷子喵~🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021597874329661440/a27thIxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 1027,
+          "like_count": 54214,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2422
+        },
+        "url": "https://t.co/8RxAlLpdn7",
+        "username": "Sokei_ko_nya",
+        "verified": false
+      }
+    ]
+  }
+}

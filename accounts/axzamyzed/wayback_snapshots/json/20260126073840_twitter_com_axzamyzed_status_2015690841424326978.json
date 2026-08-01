@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015568789463855595",
+    "created_at": "2026-01-26T07:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015690841424326978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015690841424326978",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015568789463855595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 别让他们知道你是唯一的人类"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2015568785139462144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_i9IZKacAAm4Kl.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015568789463855595",
+        "created_at": "2026-01-26T07:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015690841424326978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015690841424326978",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015568789463855595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 别让他们知道你是唯一的人类"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015568785139462144"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015568789463855595",
+        "created_at": "2026-01-25T23:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T00:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015568789463855595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbwKhWWhHA",
+              "end": 39,
+              "expanded_url": "https://x.com/jianlvup/status/2015568789463855595/photo/1",
+              "media_key": "3_2015568785139462144",
+              "start": 16,
+              "url": "https://t.co/tbwKhWWhHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015568789463855595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 103971,
+          "like_count": 778,
+          "quote_count": 1,
+          "reply_count": 50,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "如果你可以对全体地球人说一句话 https://t.co/tbwKhWWhHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 244,
+          "like_count": 1725,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2015570512399974905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16892,
+          "following_count": 1425,
+          "like_count": 75559,
+          "listed_count": 60,
+          "media_count": 2607,
+          "tweet_count": 5707
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2066178978059256134",
+    "created_at": "2026-06-15T00:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066311851370312111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919266691730804736",
+          "start": 0,
+          "username": "a693131829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066311851370312111",
+    "in_reply_to_user_id": "1919266691730804736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066235638379348013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a693131829 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2066178978059256134",
+        "created_at": "2026-06-15T00:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066311851370312111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919266691730804736",
+              "start": 0,
+              "username": "a693131829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066311851370312111",
+        "in_reply_to_user_id": "1919266691730804736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066235638379348013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a693131829 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919266691730804736",
+        "conversation_id": "2066178978059256134",
+        "created_at": "2026-06-14T19:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066235638379348013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066235638379348013",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8698,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066178978059256134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed A：发信息的“姐姐”不是真正的姐姐\n​ B：房间里有“别的东西”\n如果发信息的确实是姐 她是通过某种方式（比如家用监控）看到了卧室。\n C：姐姐在封锁现场\n姐姐可能在监控里看到了某些极其恐怖的画面（比如弟弟身后站着什么东西，或者房间里多出了不属于弟弟的“垃圾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3710,
+          "following_count": 946,
+          "like_count": 12837,
+          "listed_count": 10,
+          "media_count": 2522,
+          "tweet_count": 7881
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-05T05:44:04.000Z",
+        "description": "东北满虫出东北一米自动死一个妈 请老老实实建设你的满洲别全世界偷渡\n\n周一屠母畜周二阉田力周三操阴阳人周四猎黑鬼周五跟我以色列好兄弟去轰炸炸弹人\n周末出去旅游放松\n365X24全天候灭支non stop",
+        "id": "1919266691730804736",
+        "location": "东北狗窝",
+        "name": "东北满虫防治支式会社",
+        "pinned_tweet_id": "2023371698322780568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057323605827239936/F7tH9eMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 3,
+          "like_count": 276,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1036
+        },
+        "username": "a693131829",
+        "verified": false
+      }
+    ]
+  }
+}

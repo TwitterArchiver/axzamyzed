@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2036460100630749389",
+    "created_at": "2026-03-24T15:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036463255338754493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036463255338754493",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036462929600717265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 的确"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2036460100630749389",
+        "created_at": "2026-03-24T15:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036463255338754493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036463255338754493",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036462929600717265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 的确"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036460100630749389",
+        "created_at": "2026-03-24T15:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036462929600717265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036462929600717265",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036460100630749389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 这盛世如你所愿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2035705129505267929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 923,
+          "like_count": 7514,
+          "listed_count": 2,
+          "media_count": 475,
+          "tweet_count": 4534
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6343,
+          "following_count": 1839,
+          "like_count": 21820,
+          "listed_count": 27,
+          "media_count": 432,
+          "tweet_count": 2219
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

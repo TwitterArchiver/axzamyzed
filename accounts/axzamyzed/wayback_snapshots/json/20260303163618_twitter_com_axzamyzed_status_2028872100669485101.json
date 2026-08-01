@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2028845964971348094",
+    "created_at": "2026-03-03T16:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T17:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028872100669485101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1889695481938448384",
+          "start": 0,
+          "username": "PnKoZCN"
+        },
+        {
+          "end": 22,
+          "id": "1830775691375218688",
+          "start": 9,
+          "username": "YunoQiu56649"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/axzamyzed/stat…",
+          "end": 46,
+          "expanded_url": "https://x.com/axzamyzed/status/2028870909734637685?s=46",
+          "start": 23,
+          "url": "https://t.co/iJgJmqgtP5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028872100669485101",
+    "in_reply_to_user_id": "1889695481938448384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028870909734637685",
+        "type": "quoted"
+      },
+      {
+        "id": "2028845964971348094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PnKoZCN @YunoQiu56649 https://t.co/iJgJmqgtP5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028870897030111232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCf_VNiboAA4a8T.jpg",
+        "width": 553
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028870897009041408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCf_VNdaIAAR0vp.jpg",
+        "width": 632
+      },
+      {
+        "height": 1822,
+        "media_key": "3_2028870897004879873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCf_VNcaoAEA_ZO.jpg",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028845954552705024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfopXkaMAAqmHF.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2028845964971348094",
+        "created_at": "2026-03-03T16:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028872100669485101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1889695481938448384",
+              "start": 0,
+              "username": "PnKoZCN"
+            },
+            {
+              "end": 22,
+              "id": "1830775691375218688",
+              "start": 9,
+              "username": "YunoQiu56649"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 46,
+              "expanded_url": "https://x.com/axzamyzed/status/2028870909734637685?s=46",
+              "start": 23,
+              "url": "https://t.co/iJgJmqgtP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028872100669485101",
+        "in_reply_to_user_id": "1889695481938448384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028870909734637685",
+            "type": "quoted"
+          },
+          {
+            "id": "2028845964971348094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PnKoZCN @YunoQiu56649 https://t.co/iJgJmqgtP5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028870897030111232",
+            "3_2028870897009041408",
+            "3_2028870897004879873"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2028870909734637685",
+        "created_at": "2026-03-03T16:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028870909734637685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdsgITDg77",
+              "end": 136,
+              "expanded_url": "https://x.com/axzamyzed/status/2028870909734637685/photo/1",
+              "media_key": "3_2028870897030111232",
+              "start": 113,
+              "url": "https://t.co/DdsgITDg77"
+            },
+            {
+              "display_url": "pic.x.com/DdsgITDg77",
+              "end": 136,
+              "expanded_url": "https://x.com/axzamyzed/status/2028870909734637685/photo/1",
+              "media_key": "3_2028870897009041408",
+              "start": 113,
+              "url": "https://t.co/DdsgITDg77"
+            },
+            {
+              "display_url": "pic.x.com/DdsgITDg77",
+              "end": 136,
+              "expanded_url": "https://x.com/axzamyzed/status/2028870909734637685/photo/1",
+              "media_key": "3_2028870897004879873",
+              "start": 113,
+              "url": "https://t.co/DdsgITDg77"
+            },
+            {
+              "display_url": "x.com/pnkozcn/status…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/pnkozcn/status/2028845964971348094",
+              "start": 137,
+              "url": "https://t.co/pBFQCQiBU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028870909734637685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "呜哇，这回是真哭了….\n我昨天以为我劝住了然后我就去睡了\n没想到第二天早上六点看一眼推发现又加了1500mg\n自己都知道900mg普瑞巴林就昏迷了，结果这次吃了三倍的量，还有将近0.5g晚安，联用加强抽搐和解离等各种效果….\n希望你还能够醒来…如果能够醒来，那不要再去做一些危险的事情了好嘛，寻找乐趣的方式还有很多呢，不要用生命去冒险\n如果…如果….真的醒不过来的话…那就在那边找到属于自己的兴趣爱好再回来，重新体验属于你的完整人生吧…\n愿一切安好，事皆胜往昔…."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028845964971348094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜哇，这回是真哭了….\n我昨天以为我劝住了然后我就去睡了\n没想到第二天早上六点看一眼推发现又加了1500mg\n自己都知道900mg普瑞巴林就昏迷了，结果这次吃了三倍的量，还有将近0.5g晚安，联用加强抽搐和解离等各种效果…. https://t.co/DdsgITDg77 https://t.co/pBFQCQiBU7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028845954552705024"
+          ]
+        },
+        "author_id": "1889695481938448384",
+        "conversation_id": "2028845964971348094",
+        "created_at": "2026-03-03T14:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028845964971348094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1830775691375218688",
+              "start": 8,
+              "username": "YunoQiu56649"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDBJQ907mx",
+              "end": 98,
+              "expanded_url": "https://x.com/PnKoZCN/status/2028845964971348094/photo/1",
+              "media_key": "3_2028845954552705024",
+              "start": 75,
+              "url": "https://t.co/YDBJQ907mx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028845964971348094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6243,
+          "like_count": 67,
+          "quote_count": 4,
+          "reply_count": 50,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "讣告:\n推特用户@YunoQiu56649 与2026年3月3日元宵节死于2700mg 普瑞巴林加400mg 金刚烷胺的药效，享年19岁。\n晚安—— https://t.co/YDBJQ907mx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 895,
+          "like_count": 5789,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 3272
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-12T15:18:26.000Z",
+        "description": "MtF🏳‍⚧ | 无证🍥 | INFP-T | 生产日期2010/5/4🎂 | 166cm | 45kg | 40码 | LGBT | 重庆 | 私信互fo | 不OD💊 | 不自残🔪 | 不抽烟🚬 | 不喝酒🍻 | 暂无心理以及身体疾病 | ✉️匿名信箱:https://t.co/MQTknnuIgG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pnkozcn",
+                "end": 152,
+                "expanded_url": "https://ngl.link/pnkozcn",
+                "start": 129,
+                "url": "https://t.co/MQTknnuIgG"
+              }
+            ]
+          }
+        },
+        "id": "1889695481938448384",
+        "name": "東雪蓮🍥 🏳‍⚧Official",
+        "pinned_tweet_id": "2028774606740553931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024022645017382912/n0dFsnqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 386,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 565
+        },
+        "username": "PnKoZCN",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo求求了喵~🥺｜除了初始头像外无视成分回fo😘｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜2.25炸柜 家长不管党｜中焦 中抑｜如果感觉我的言论冒犯到了你 请和我说｜给这当QQ空间用了 QQ不能说的在这说 记录日常喵(负能量慎入)💤｜看我的帖不喜勿喷，喷我也要发😋",
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2026635958226211067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 1403,
+          "like_count": 6107,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 9340
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      }
+    ]
+  }
+}

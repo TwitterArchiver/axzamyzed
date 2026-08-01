@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016457825770430474",
+    "created_at": "2026-01-28T13:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T14:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016503798139920438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016503798139920438",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016457825770430474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu 现在你得搞公章和签名，虽然都不难搞但是风险高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016457825770430474",
+        "created_at": "2026-01-28T13:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016503798139920438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016503798139920438",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016457825770430474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu 现在你得搞公章和签名，虽然都不难搞但是风险高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778696847563104256",
+        "conversation_id": "2016457825770430474",
+        "created_at": "2026-01-28T10:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016457825770430474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "处方放这",
+              "display_url": "t.me/dddlg28",
+              "end": 81,
+              "expanded_url": "https://t.me/dddlg28",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2014211965787508736/kGsMHeHm?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014211965787508736/kGsMHeHm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "❤️心爱的猫",
+              "unwound_url": "https://t.me/dddlg28",
+              "url": "https://t.co/MHHqn7r7Hr"
+            },
+            {
+              "display_url": "x.com/gold_bihu/stat…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/gold_bihu/status/1988170703754109082",
+              "start": 82,
+              "url": "https://t.co/a4aYfxeidq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016457825770430474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1417,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988170703754109082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "审核日益严格，之前发的处方都不能用了，有需要可以进我频道拿新的(推上发怕被封）。没tg的直接私信找我要也行，看见就回https://t.co/MHHqn7r7Hr https://t.co/a4aYfxeidq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 397,
+          "like_count": 2222,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "性别是🦖 ｜od区?｜同类互fo｜喜欢一切有意思的东西｜请不要和我吵架｜处方放在https://t.co/MS7VCxzFgu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg28",
+                "end": 63,
+                "expanded_url": "https://t.me/dddlg28",
+                "start": 40,
+                "url": "https://t.co/MS7VCxzFgu"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1999827971180490853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205027009859584/M8J2SLDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 429,
+          "like_count": 10665,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2426
+        },
+        "username": "gold_bihu",
+        "verified": false
+      }
+    ]
+  }
+}

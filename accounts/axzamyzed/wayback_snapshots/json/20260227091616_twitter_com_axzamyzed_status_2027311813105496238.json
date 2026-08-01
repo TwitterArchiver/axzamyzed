@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2027280661091062014",
+    "created_at": "2026-02-27T09:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T10:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027311813105496238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027311813105496238",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "能醒来就已经很好了，下回不可以这样了好嘛，做什么事情之前要多想一想，不要太冲动了，尤其是在这种事情上面，只要活着就还有无限的可能，大抵没有什么事情是完全解决不了的呢，有问题可以试着去解决一下好嘛。大概现在姐姐很难受，不管从哪个角度吧，但是要相信，一切不开心，一切不好的事情都会过去的"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027280661091062014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ 能醒来就已经很好了，下回不可以这样了好嘛，做什么事情之前要多想一想，不要太冲动了，尤其是在这种事情上面，只要活着就还有无限的可能，大抵没有什么事情是完全解决不了的呢，有问题可以试着去解决一下好嘛。大概现在姐姐很难受，不管从哪个角度吧，但是要相信，一切不开心，一切不好的事情都会过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2027280661091062014",
+        "created_at": "2026-02-27T09:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027311813105496238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027311813105496238",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "能醒来就已经很好了，下回不可以这样了好嘛，做什么事情之前要多想一想，不要太冲动了，尤其是在这种事情上面，只要活着就还有无限的可能，大抵没有什么事情是完全解决不了的呢，有问题可以试着去解决一下好嘛。大概现在姐姐很难受，不管从哪个角度吧，但是要相信，一切不开心，一切不好的事情都会过去的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027280661091062014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 能醒来就已经很好了，下回不可以这样了好嘛，做什么事情之前要多想一想，不要太冲动了，尤其是在这种事情上面，只要活着就还有无限的可能，大抵没有什么事情是完全解决不了的呢，有问题可以试着去解决一下好嘛。大概现在姐姐很难受，不管从哪个角度吧，但是要相信，一切不开心，一切不好的事情都会过去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2027280661091062014",
+        "created_at": "2026-02-27T07:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027280661091062014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027280661091062014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1326,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "大家下午好…\n17现在在ICU里面，已经没有危险了哦！\n很抱歉让大家担心了呜呜….\n对不起，非常对不起大家让大家担心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 814,
+          "like_count": 5195,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 2870
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |复活了 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 72,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 49,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 118,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 95,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 203,
+          "like_count": 2974,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 410
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

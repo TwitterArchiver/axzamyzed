@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2060022067807109291",
+    "created_at": "2026-05-29T08:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060275527177654720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2036479426712711168",
+          "start": 0,
+          "username": "Hotel111048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060275527177654720",
+    "in_reply_to_user_id": "2036479426712711168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060192607377178794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hotel111048 我就说是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2060022067807109291",
+        "created_at": "2026-05-29T08:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060275527177654720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2036479426712711168",
+              "start": 0,
+              "username": "Hotel111048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060275527177654720",
+        "in_reply_to_user_id": "2036479426712711168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060192607377178794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hotel111048 我就说是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036479426712711168",
+        "conversation_id": "2060022067807109291",
+        "created_at": "2026-05-29T02:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060192607377178794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060192607377178794",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060022067807109291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 笑死，这图里的确实更“金”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3559,
+          "following_count": 949,
+          "like_count": 12017,
+          "listed_count": 10,
+          "media_count": 1939,
+          "tweet_count": 7163
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-24T16:25:21.000Z",
+        "description": "时刻提醒自己：\n\n                                我是区块链天才\n\n信仰的力量是无穷的。",
+        "id": "2036479426712711168",
+        "name": "区块链天才 🐧✳️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047855209238708224/K5xyTsTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12830,
+          "following_count": 5661,
+          "like_count": 6363,
+          "listed_count": 17,
+          "media_count": 40,
+          "tweet_count": 6543
+        },
+        "username": "Hotel111048",
+        "verified": true
+      }
+    ]
+  }
+}

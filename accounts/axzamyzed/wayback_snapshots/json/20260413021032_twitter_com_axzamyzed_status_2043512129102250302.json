@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2043476013372342535",
+    "created_at": "2026-04-13T02:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T03:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043512129102250302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "918381578",
+          "start": 0,
+          "username": "apieceofmoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043512129102250302",
+    "in_reply_to_user_id": "918381578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043508171608825894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apieceofmoon 我去真假"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2043476013372342535",
+        "created_at": "2026-04-13T02:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043512129102250302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "918381578",
+              "start": 0,
+              "username": "apieceofmoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043512129102250302",
+        "in_reply_to_user_id": "918381578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043508171608825894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apieceofmoon 我去真假"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918381578",
+        "conversation_id": "2043476013372342535",
+        "created_at": "2026-04-13T01:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043508171608825894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043508171608825894",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043476013372342535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 這種有個性的店通常好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023,
+          "following_count": 919,
+          "like_count": 8896,
+          "listed_count": 6,
+          "media_count": 724,
+          "tweet_count": 5362
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2012-11-01T06:32:10.000Z",
+        "description": "国際ニュース、IT情報など情報を収集する雑用アカウント。政治とオタクコンテンツが結構あり、要注意。",
+        "id": "918381578",
+        "name": "ふぃーびー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1513830123752984576/xJ6GeBER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 1825,
+          "like_count": 98820,
+          "listed_count": 14,
+          "media_count": 503,
+          "tweet_count": 35238
+        },
+        "username": "apieceofmoon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2047998528434434103",
+    "created_at": "2026-04-25T11:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047998795795890309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002631807993581569",
+          "start": 0,
+          "username": "YOYOSAMA372185"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047998795795890309",
+    "in_reply_to_user_id": "2002631807993581569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047998528434434103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YOYOSAMA372185 感觉除了屏幕没啥区别吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2047998528434434103",
+        "created_at": "2026-04-25T11:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047998795795890309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002631807993581569",
+              "start": 0,
+              "username": "YOYOSAMA372185"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047998795795890309",
+        "in_reply_to_user_id": "2002631807993581569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047998528434434103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YOYOSAMA372185 感觉除了屏幕没啥区别吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002631807993581569",
+        "conversation_id": "2047998528434434103",
+        "created_at": "2026-04-25T11:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047998528434434103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047998528434434103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想换米环9pro....（面向自己的米环9）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2593,
+          "following_count": 865,
+          "like_count": 9984,
+          "listed_count": 9,
+          "media_count": 1018,
+          "tweet_count": 5857
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-21T06:46:55.000Z",
+        "description": "我是一只猫娘（是/不是？/到底是还是不是）我会在各大帖子下面喵喵叫....喵喵喵!",
+        "id": "2002631807993581569",
+        "name": "YOYOSAMA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043668896759336960/PmtCtUO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 32,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 215
+        },
+        "username": "YOYOSAMA372185",
+        "verified": false
+      }
+    ]
+  }
+}

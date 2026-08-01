@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028421489532506223",
+    "created_at": "2026-03-03T03:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T04:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028676927477923958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760164538677395456",
+          "start": 0,
+          "username": "arrebol263"
+        },
+        {
+          "end": 25,
+          "id": "1830775691375218688",
+          "start": 12,
+          "username": "YunoQiu56649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028676927477923958",
+    "in_reply_to_user_id": "1760164538677395456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028676637160845464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arrebol263 @YunoQiu56649 但是我总觉得()()这个不是那么好区分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028421489532506223",
+        "created_at": "2026-03-03T03:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028676927477923958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760164538677395456",
+              "start": 0,
+              "username": "arrebol263"
+            },
+            {
+              "end": 25,
+              "id": "1830775691375218688",
+              "start": 12,
+              "username": "YunoQiu56649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028676927477923958",
+        "in_reply_to_user_id": "1760164538677395456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028676637160845464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arrebol263 @YunoQiu56649 但是我总觉得()()这个不是那么好区分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760164538677395456",
+        "conversation_id": "2028421489532506223",
+        "created_at": "2026-03-03T03:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028676637160845464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 24,
+              "id": "1830775691375218688",
+              "start": 11,
+              "username": "YunoQiu56649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028676637160845464",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028593671617323234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed @YunoQiu56649 相当于1212和1221（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 883,
+          "like_count": 5659,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 3164
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-21T04:48:49.000Z",
+        "description": "INFJ-A | MtF 🏳️‍⚧️ | les 🏳️‍🌈 | HRT since 25.10.20 🍥 | 敏感 | AuDHD | GNU/Linux | vibe coding | Minecraft | 看成分互fo喵 | 好多管道符喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.stella22.top",
+                "end": 23,
+                "expanded_url": "https://blog.stella22.top",
+                "start": 0,
+                "url": "https://t.co/0mFBaBo01Q"
+              }
+            ]
+          }
+        },
+        "id": "1760164538677395456",
+        "name": "Stella223🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012882046285225984/4e1BOLPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 1119,
+          "like_count": 39914,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/0mFBaBo01Q",
+        "username": "arrebol263",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo求求了喵~🥺｜除了初始头像外无视成分回fo😘｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜2.25炸柜 家长不管党｜中焦 中抑｜如果感觉我的言论冒犯到了你 请和我说｜给这当QQ空间用了 QQ不能说的在这说 记录日常喵(负能量慎入)💤｜看我的帖不喜勿喷，喷我也要发😋",
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2026635958226211067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 1407,
+          "like_count": 6113,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 9340
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      }
+    ]
+  }
+}

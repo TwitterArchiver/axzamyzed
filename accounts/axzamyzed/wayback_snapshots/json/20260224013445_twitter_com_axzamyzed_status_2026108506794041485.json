@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2025874644419727733",
+    "created_at": "2026-02-24T01:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T02:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026108506794041485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1148809412879851520",
+          "start": 0,
+          "username": "0xIanW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026108506794041485",
+    "in_reply_to_user_id": "1148809412879851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025874644419727733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xIanW 怎么没有华为🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_2025874631580917760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1aPm7bIAAFuyf.jpg",
+        "width": 1033
+      },
+      {
+        "height": 1412,
+        "media_key": "3_2025874631585128448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1aPm8bYAArrBw.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2025874644419727733",
+        "created_at": "2026-02-24T01:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026108506794041485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1148809412879851520",
+              "start": 0,
+              "username": "0xIanW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026108506794041485",
+        "in_reply_to_user_id": "1148809412879851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025874644419727733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xIanW 怎么没有华为🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025874631580917760",
+            "3_2025874631585128448"
+          ]
+        },
+        "author_id": "1148809412879851520",
+        "conversation_id": "2025874644419727733",
+        "created_at": "2026-02-23T10:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025874644419727733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhhcnSmG5o",
+              "end": 55,
+              "expanded_url": "https://x.com/0xIanW/status/2025874644419727733/photo/1",
+              "media_key": "3_2025874631580917760",
+              "start": 32,
+              "url": "https://t.co/nhhcnSmG5o"
+            },
+            {
+              "display_url": "pic.x.com/nhhcnSmG5o",
+              "end": 55,
+              "expanded_url": "https://x.com/0xIanW/status/2025874644419727733/photo/1",
+              "media_key": "3_2025874631585128448",
+              "start": 32,
+              "url": "https://t.co/nhhcnSmG5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025874644419727733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这波笑死 \n把极客湾的视频剪辑成单个厂商的 \n看谁先下架😂😂😂 https://t.co/nhhcnSmG5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 800,
+          "like_count": 4759,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-10T04:21:22.000Z",
+        "description": "探索AI中 \n\nVibe Coding \n\n理想是自由职业 \n\n自媒体进行中… \n\n没人看的朋友圈",
+        "id": "1148809412879851520",
+        "location": "小于 500m",
+        "name": "𝙸𝚊𝚗 𝚆.",
+        "pinned_tweet_id": "2023961156285579415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016495342309777408/iHc-erka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 1479,
+          "like_count": 900,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2129
+        },
+        "username": "0xIanW",
+        "verified": true
+      }
+    ]
+  }
+}

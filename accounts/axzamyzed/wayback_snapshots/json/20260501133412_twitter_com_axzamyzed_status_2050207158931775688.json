@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2050205453905269002",
+    "created_at": "2026-05-01T13:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T14:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050207158931775688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862825645824507904",
+          "start": 0,
+          "username": "ThanksuTrump"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050207158931775688",
+    "in_reply_to_user_id": "1862825645824507904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050206326341722215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThanksuTrump 钓鱼佬的鱼饵一般都更相信自己配的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2050205453905269002",
+        "created_at": "2026-05-01T13:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050207158931775688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862825645824507904",
+              "start": 0,
+              "username": "ThanksuTrump"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050207158931775688",
+        "in_reply_to_user_id": "1862825645824507904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050206326341722215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThanksuTrump 钓鱼佬的鱼饵一般都更相信自己配的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862825645824507904",
+        "conversation_id": "2050205453905269002",
+        "created_at": "2026-05-01T13:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050206326341722215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050206326341722215",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050205453905269002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 这种场面还问？水跟鱼饵啊。\n\n你看这一排少说四五十把伞，都死磕一天了。渴不？饿不？蚊子咬不咬？鱼竿线断不断？随便哪个痛点都比在那瞎琢磨钓鱼强十倍。这帮人是来过瘾的，又不是来受罪的。旁边要是有个人推着冰柜卖可乐矿泉水，再搭包蚊香鱼钩，半天的流水可能比他们坐一周钓上来的鱼都贵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2996,
+          "following_count": 913,
+          "like_count": 10378,
+          "listed_count": 10,
+          "media_count": 1170,
+          "tweet_count": 6076
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T11:47:10.000Z",
+        "description": "蓝v互关Blue V Follow Back 💯｜ 爱好寻找Alpha｜目标一万蓝v互关｜超级个体 Ai X Crypto X 美股 X Vibe Coding｜#狗狗币 10x建设者｜$STONKS 已质押｜既懂投资，又懂投机｜看得远，出手准。｜一年出手两三次足矣",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "狗狗币"
+              }
+            ]
+          }
+        },
+        "id": "1862825645824507904",
+        "location": "狗窝",
+        "name": "猫投鹰 蓝v互关(鹰哥 ⭐️社区长期主义战士) |中文狗狗币牛逼🐕🔶BNB",
+        "pinned_tweet_id": "2017818250512572562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863202481695571968/3Wtfkv14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15664,
+          "following_count": 14596,
+          "like_count": 63033,
+          "listed_count": 15,
+          "media_count": 565,
+          "tweet_count": 11430
+        },
+        "username": "ThanksuTrump",
+        "verified": true
+      }
+    ]
+  }
+}

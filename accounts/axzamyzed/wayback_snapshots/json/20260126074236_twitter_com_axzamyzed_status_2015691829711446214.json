@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015561811308028348",
+    "created_at": "2026-01-26T07:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015691829711446214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593547850637791233",
+          "start": 0,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015691829711446214",
+    "in_reply_to_user_id": "1593547850637791233",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015561811308028348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didengshengwu ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1530,
+        "media_key": "3_2015561794539163648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_i2xfJbEAAXUNI.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015561811308028348",
+        "created_at": "2026-01-26T07:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015691829711446214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015691829711446214",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015561811308028348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015561794539163648"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "2015561811308028348",
+        "created_at": "2026-01-25T23:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T00:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015561811308028348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2LlD3ddGK",
+              "end": 23,
+              "expanded_url": "https://x.com/didengshengwu/status/2015561811308028348/photo/1",
+              "media_key": "3_2015561794539163648",
+              "start": 0,
+              "url": "https://t.co/c2LlD3ddGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015561811308028348",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 111043,
+          "like_count": 954,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c2LlD3ddGK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 245,
+          "like_count": 1729,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187256,
+          "following_count": 1291,
+          "like_count": 3270,
+          "listed_count": 733,
+          "media_count": 3420,
+          "tweet_count": 6375
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

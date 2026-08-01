@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016112670211010668",
+    "created_at": "2026-01-27T12:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T13:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016122917399167338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        },
+        {
+          "end": 14,
+          "id": "1720665183188922368",
+          "start": 9,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016122917399167338",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016112670211010668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen @grok 总结一下他干了啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54542,
+        "height": 1002,
+        "media_key": "13_2016112620416180224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016112620416180224/img/-rVSyQn3f3eKVeTe.jpg",
+        "public_metrics": {
+          "view_count": 1062
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016112620416180224/vid/avc1/866x720/crFQ0lYh_JZ-7Fgf.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016112620416180224/vid/avc1/324x270/x2sRVDcO5QUsai6t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016112620416180224/pl/SjTH3fciR4RtAXyZ.m3u8?v=7f5"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016112620416180224/vid/avc1/1206x1002/vL2k5eL2n-3qPzLY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016112620416180224/vid/avc1/432x360/iambrSK2JPQddPZE.mp4"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2016112670211010668",
+        "created_at": "2026-01-27T12:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016122917399167338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            },
+            {
+              "end": 14,
+              "id": "1720665183188922368",
+              "start": 9,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016122917399167338",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016112670211010668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen @grok 总结一下他干了啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016112620416180224"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2016112670211010668",
+        "created_at": "2026-01-27T11:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016112670211010668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDzJWKq0rh",
+              "end": 58,
+              "expanded_url": "https://x.com/maoshen/status/2016112670211010668/video/1",
+              "media_key": "13_2016112620416180224",
+              "start": 35,
+              "url": "https://t.co/RDzJWKq0rh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016112670211010668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2143,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大炮这个讲话还是值得点赞👍\n\n可惜，判了18年，啥时候才能出来？🙏😂 https://t.co/RDzJWKq0rh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 326,
+          "like_count": 2003,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点，守住内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192759,
+          "following_count": 3595,
+          "like_count": 3830,
+          "listed_count": 507,
+          "media_count": 2435,
+          "tweet_count": 4300
+        },
+        "username": "maoshen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7685751,
+          "following_count": 3,
+          "like_count": 84,
+          "listed_count": 5913,
+          "media_count": 7935398,
+          "tweet_count": 95633683
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

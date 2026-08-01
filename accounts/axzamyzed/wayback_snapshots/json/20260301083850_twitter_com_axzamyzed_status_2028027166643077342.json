@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028025875544105051",
+    "created_at": "2026-03-01T08:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T09:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028027166643077342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "955057808",
+          "start": 0,
+          "username": "rover_tang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028027166643077342",
+    "in_reply_to_user_id": "955057808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028025875544105051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rover_tang 第一次见明着掺假的，别人都是内部理由，他可到好直接写脸上了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_2028025182997348352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCT-KLQagAAO-u8.jpg",
+        "width": 1400
+      },
+      {
+        "height": 722,
+        "media_key": "3_2028025795600699392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCT-t1Yb0AA6Gh6.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028025875544105051",
+        "created_at": "2026-03-01T08:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028027166643077342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "955057808",
+              "start": 0,
+              "username": "rover_tang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028027166643077342",
+        "in_reply_to_user_id": "955057808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028025875544105051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rover_tang 第一次见明着掺假的，别人都是内部理由，他可到好直接写脸上了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028025182997348352",
+            "3_2028025795600699392"
+          ]
+        },
+        "author_id": "955057808",
+        "conversation_id": "2028025875544105051",
+        "created_at": "2026-03-01T08:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028025875544105051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5T6OwBQdYB",
+              "end": 76,
+              "expanded_url": "https://x.com/rover_tang/status/2028025875544105051/photo/1",
+              "media_key": "3_2028025182997348352",
+              "start": 53,
+              "url": "https://t.co/5T6OwBQdYB"
+            },
+            {
+              "display_url": "pic.x.com/5T6OwBQdYB",
+              "end": 76,
+              "expanded_url": "https://x.com/rover_tang/status/2028025875544105051/photo/1",
+              "media_key": "3_2028025795600699392",
+              "start": 53,
+              "url": "https://t.co/5T6OwBQdYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028025875544105051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用中转站 的同学要注意了\n模型参假不是特殊情况，也不是个例，是普遍情况。\n\n这么一搞我就问利润有多少倍？ https://t.co/5T6OwBQdYB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 853,
+          "like_count": 5442,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 3019
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2012-11-18T07:58:45.000Z",
+        "description": "独立开发者 | Laravel Artisan专注小程序 | 开发兼运营 20W 日活应用 ｜ SEO新手，日进千粉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/jayin",
+                "end": 23,
+                "expanded_url": "https://github.com/jayin",
+                "start": 0,
+                "url": "https://t.co/GVZov8pQPR"
+              }
+            ]
+          }
+        },
+        "id": "955057808",
+        "location": "Earth🌍",
+        "name": "Rover路华",
+        "pinned_tweet_id": "2004748584013713715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001634024570392580/GG8bQRxi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 1035,
+          "like_count": 463,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 2683
+        },
+        "url": "https://t.co/GVZov8pQPR",
+        "username": "rover_tang",
+        "verified": true
+      }
+    ]
+  }
+}

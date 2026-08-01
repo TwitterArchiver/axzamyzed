@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2020747409996042329",
+    "created_at": "2026-02-09T10:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T11:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020814004038299959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1992927955719499776",
+          "start": 0,
+          "username": "Qiqi3971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020814004038299959",
+    "in_reply_to_user_id": "1992927955719499776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020747409996042329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiqi3971 你帖子中需要携带grok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2020747409996042329",
+        "created_at": "2026-02-09T10:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020814004038299959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1992927955719499776",
+              "start": 0,
+              "username": "Qiqi3971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020814004038299959",
+        "in_reply_to_user_id": "1992927955719499776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020747409996042329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiqi3971 你帖子中需要携带grok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992927955719499776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2020747409996042329",
+        "created_at": "2026-02-09T06:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020747409996042329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_forab/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/_forab/status/2020739094108905881",
+              "start": 8,
+              "url": "https://t.co/StLNc9Dy7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020747409996042329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 575,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020739094108905881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你点一下试试？ https://t.co/StLNc9Dy7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 592,
+          "like_count": 3441,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1901
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-24T12:07:28.000Z",
+        "description": "你最爱的淇淇姐｜联合创始人 @Btcfortheyoung | 运营 @pepchinese｜10+年资产配置经验的财务姐 | 专注年轻人BTC/PEP长期持有与风险管理 健身+理财，双修人生｜DYOR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "Btcfortheyoung"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "pepchinese"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BitcoinfortheYoung.com",
+                "end": 23,
+                "expanded_url": "http://BitcoinfortheYoung.com",
+                "start": 0,
+                "url": "https://t.co/QYqo2ZM0Rl"
+              }
+            ]
+          }
+        },
+        "id": "1992927955719499776",
+        "location": "Singapore",
+        "name": "Qiqi｜淇淇姐 🐶",
+        "pinned_tweet_id": "2019903521047605521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007325533080829952/uwifj0g8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2642,
+          "following_count": 2891,
+          "like_count": 5480,
+          "listed_count": 1,
+          "media_count": 1816,
+          "tweet_count": 4691
+        },
+        "url": "https://t.co/QYqo2ZM0Rl",
+        "username": "Qiqi3971",
+        "verified": true
+      }
+    ]
+  }
+}

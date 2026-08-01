@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2059161123518325230",
+    "created_at": "2026-05-26T10:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059227935920562366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2036479426712711168",
+          "start": 0,
+          "username": "Hotel111048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059227935920562366",
+    "in_reply_to_user_id": "2036479426712711168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059227854546895230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hotel111048 666咋还有巨人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2059161123518325230",
+        "created_at": "2026-05-26T10:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059227935920562366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2036479426712711168",
+              "start": 0,
+              "username": "Hotel111048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059227935920562366",
+        "in_reply_to_user_id": "2036479426712711168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059227854546895230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hotel111048 666咋还有巨人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036479426712711168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "description": "読売巨人軍 (Yomiuri Giants)",
+              "id": "836464357919748098",
+              "name": "読売巨人軍 (Yomiuri Giants)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "読売巨人軍 (Yomiuri Giants)",
+              "id": "836464357919748098",
+              "name": "読売巨人軍 (Yomiuri Giants)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NPB",
+              "id": "839757898951487488",
+              "name": "NPB"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235637307048210433",
+              "name": "Central League"
+            }
+          }
+        ],
+        "conversation_id": "2059161123518325230",
+        "created_at": "2026-05-26T10:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059227854546895230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059227854546895230",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059161123518325230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 防巨人用的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3490,
+          "following_count": 949,
+          "like_count": 11846,
+          "listed_count": 11,
+          "media_count": 1829,
+          "tweet_count": 7026
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-24T16:25:21.000Z",
+        "description": "时刻提醒自己：\n\n                                我是区块链天才\n\n信仰的力量是无穷的。",
+        "id": "2036479426712711168",
+        "name": "区块链天才 🐧✳️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047855209238708224/K5xyTsTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12824,
+          "following_count": 5655,
+          "like_count": 6008,
+          "listed_count": 17,
+          "media_count": 34,
+          "tweet_count": 6169
+        },
+        "username": "Hotel111048",
+        "verified": true
+      }
+    ]
+  }
+}

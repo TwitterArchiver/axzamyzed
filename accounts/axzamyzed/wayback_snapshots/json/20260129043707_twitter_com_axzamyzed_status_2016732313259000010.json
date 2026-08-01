@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016732306745282562"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2016732313259000010",
+    "created_at": "2026-01-29T04:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aDplsVMHHT",
+          "end": 32,
+          "expanded_url": "https://x.com/axzamyzed/status/2016732313259000010/photo/1",
+          "media_key": "3_2016732306745282562",
+          "start": 9,
+          "url": "https://t.co/aDplsVMHHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016732313259000010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "评论区真有敢教的 https://t.co/aDplsVMHHT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_2016732306745282562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zfWQ6bUAIJuZ0.jpg",
+        "width": 750
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 415,
+          "like_count": 2268,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

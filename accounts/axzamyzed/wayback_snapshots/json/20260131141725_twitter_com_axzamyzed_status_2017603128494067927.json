@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017561528464236624",
+    "created_at": "2026-01-31T14:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T15:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017603128494067927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828632343680294916",
+          "start": 0,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017603128494067927",
+    "in_reply_to_user_id": "1828632343680294916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017561528464236624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvya 我去爽赚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27399,
+        "height": 960,
+        "media_key": "7_2017561395878154240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017561395878154240/pu/img/byJSPTanlyWip7ow.jpg",
+        "public_metrics": {
+          "view_count": 81
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017561395878154240/pu/vid/avc1/320x426/_a0yTW1k3Y7lIrkF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017561395878154240/pu/vid/avc1/480x640/QyoKJ-t77CUtgb_5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017561395878154240/pu/vid/avc1/720x960/x3UzC2wwC3dN7KDh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017561395878154240/pu/pl/EIr4NTSm-GjM3_GG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017561528464236624",
+        "created_at": "2026-01-31T14:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017603128494067927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017603128494067927",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017561528464236624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 我去爽赚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017561395878154240"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2017561528464236624",
+        "created_at": "2026-01-31T11:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017561528464236624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kglTdPXHJp",
+              "end": 32,
+              "expanded_url": "https://x.com/jianlvya/status/2017561528464236624/video/1",
+              "media_key": "7_2017561395878154240",
+              "start": 9,
+              "url": "https://t.co/kglTdPXHJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017561528464236624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面子和里子都赢了 https://t.co/kglTdPXHJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 442,
+          "like_count": 2518,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 \n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律（私信回关）",
+        "pinned_tweet_id": "2017381656638967825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 470,
+          "like_count": 1124,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 194
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

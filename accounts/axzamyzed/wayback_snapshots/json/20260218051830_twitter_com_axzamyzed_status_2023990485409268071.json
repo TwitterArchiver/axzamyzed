@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023990472222666753",
+        "3_2023990472222687232"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2023990485409268071",
+    "created_at": "2026-02-18T05:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T06:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023990485409268071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F0JK5tpb0d",
+          "end": 116,
+          "expanded_url": "https://x.com/axzamyzed/status/2023990485409268071/photo/1",
+          "media_key": "3_2023990472222666753",
+          "start": 93,
+          "url": "https://t.co/F0JK5tpb0d"
+        },
+        {
+          "display_url": "pic.x.com/F0JK5tpb0d",
+          "end": 116,
+          "expanded_url": "https://x.com/axzamyzed/status/2023990485409268071/photo/1",
+          "media_key": "3_2023990472222687232",
+          "start": 93,
+          "url": "https://t.co/F0JK5tpb0d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023990485409268071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 642,
+            "start": 638,
+            "tag": "mtf"
+          },
+          {
+            "end": 648,
+            "start": 643,
+            "tag": "蓝V互关"
+          },
+          {
+            "end": 654,
+            "start": 649,
+            "tag": "蓝V互动"
+          },
+          {
+            "end": 660,
+            "start": 655,
+            "tag": "自我介绍"
+          }
+        ]
+      },
+      "text": "嗨～你好呀，这里是我的自我介绍～ฅ^•ω•^ฅ\n你们可以叫我翅膀（喵(=｀ω´=)）\nmtf / mtx？大概是这样啦ฅ( •̀ω•́ )ฅ\n高中在读，超级摸鱼大王(｡•̀ᴗ•́｡)✧\n鉴证类贴仅表示个人看法，不代表立场；不接受抬杠谢谢，我的互关朋友们如果看到我的评论下面有骂我的就不要点赞了，我会收到消息提醒然后点开看…(๑•̀ㅂ•́)و✧\n没关注我且我没关注你两条件均不满足我将收不到关于你的任何消息提醒（私信除外），见谅 ฅ^•ﻌ•^ฅ\n前信息竞赛生，现半 vibe coder   现阶段学习：前后端 + 代码审查( •̀ω•́ )✧\n蓝V（premium）和 mtf 会主动回关ฅ(＾・ω・＾ฅ)\n但由于 X 的神秘推送机制，有时看不见你的消息喵(｡•́︿•̀｡)\n蓝V会在认证关注者列表里逐个回；不是蓝v的或者蓝v没回到的可以评论/私信提醒一下(=ↀωↀ=)\n不太喜欢玩游戏，玩不进去，大部分游戏术语和游戏角色不认识( ฅ•́ω•̀ฅ )\n随时欢迎来聊天，或者有不高兴了可以来找我哦～我会一直陪着你哒，消息只要看到了都会回，没回可能是苦逼高中生在学习awa(≧▽≦)ฅ\n\n下面是个小群，本来是没打算建QQ群的，所以管理稍严格（主要是我QQ实名了awa）\nQQ群基本只过熟人，加群方式为私聊我你的QQ号，申请进群时验证信息写你推特id（@开头的那个），麻烦您了\ntg群聊随便进，聊什么都可以，我也不会怎么管\n\n就这样，先写到这，想到再补充，爱你们ฅ(>ω<*ฅ)\n\n#mtf #蓝V互关 #蓝V互动 #自我介绍"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗨～你好呀，这里是我的自我介绍～ฅ^•ω•^ฅ\n你们可以叫我翅膀（喵(=｀ω´=)）\nmtf / mtx？大概是这样啦ฅ( •̀ω•́ )ฅ\n高中在读，超级摸鱼大王(｡•̀ᴗ•́｡)✧ https://t.co/F0JK5tpb0d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2023990472222666753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaonGWbcAEKICn.jpg",
+        "width": 856
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023990472222687232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaonGWbwAALj7b.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023990472222666753",
+            "3_2023990472222687232"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2023990485409268071",
+        "created_at": "2026-02-18T05:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023990485409268071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0JK5tpb0d",
+              "end": 116,
+              "expanded_url": "https://x.com/axzamyzed/status/2023990485409268071/photo/1",
+              "media_key": "3_2023990472222666753",
+              "start": 93,
+              "url": "https://t.co/F0JK5tpb0d"
+            },
+            {
+              "display_url": "pic.x.com/F0JK5tpb0d",
+              "end": 116,
+              "expanded_url": "https://x.com/axzamyzed/status/2023990485409268071/photo/1",
+              "media_key": "3_2023990472222687232",
+              "start": 93,
+              "url": "https://t.co/F0JK5tpb0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023990485409268071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 642,
+                "start": 638,
+                "tag": "mtf"
+              },
+              {
+                "end": 648,
+                "start": 643,
+                "tag": "蓝V互关"
+              },
+              {
+                "end": 654,
+                "start": 649,
+                "tag": "蓝V互动"
+              },
+              {
+                "end": 660,
+                "start": 655,
+                "tag": "自我介绍"
+              }
+            ]
+          },
+          "text": "嗨～你好呀，这里是我的自我介绍～ฅ^•ω•^ฅ\n你们可以叫我翅膀（喵(=｀ω´=)）\nmtf / mtx？大概是这样啦ฅ( •̀ω•́ )ฅ\n高中在读，超级摸鱼大王(｡•̀ᴗ•́｡)✧\n鉴证类贴仅表示个人看法，不代表立场；不接受抬杠谢谢，我的互关朋友们如果看到我的评论下面有骂我的就不要点赞了，我会收到消息提醒然后点开看…(๑•̀ㅂ•́)و✧\n没关注我且我没关注你两条件均不满足我将收不到关于你的任何消息提醒（私信除外），见谅 ฅ^•ﻌ•^ฅ\n前信息竞赛生，现半 vibe coder   现阶段学习：前后端 + 代码审查( •̀ω•́ )✧\n蓝V（premium）和 mtf 会主动回关ฅ(＾・ω・＾ฅ)\n但由于 X 的神秘推送机制，有时看不见你的消息喵(｡•́︿•̀｡)\n蓝V会在认证关注者列表里逐个回；不是蓝v的或者蓝v没回到的可以评论/私信提醒一下(=ↀωↀ=)\n不太喜欢玩游戏，玩不进去，大部分游戏术语和游戏角色不认识( ฅ•́ω•̀ฅ )\n随时欢迎来聊天，或者有不高兴了可以来找我哦～我会一直陪着你哒，消息只要看到了都会回，没回可能是苦逼高中生在学习awa(≧▽≦)ฅ\n\n下面是个小群，本来是没打算建QQ群的，所以管理稍严格（主要是我QQ实名了awa）\nQQ群基本只过熟人，加群方式为私聊我你的QQ号，申请进群时验证信息写你推特id（@开头的那个），麻烦您了\ntg群聊随便进，聊什么都可以，我也不会怎么管\n\n就这样，先写到这，想到再补充，爱你们ฅ(>ω<*ฅ)\n\n#mtf #蓝V互关 #蓝V互动 #自我介绍"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗨～你好呀，这里是我的自我介绍～ฅ^•ω•^ฅ\n你们可以叫我翅膀（喵(=｀ω´=)）\nmtf / mtx？大概是这样啦ฅ( •̀ω•́ )ฅ\n高中在读，超级摸鱼大王(｡•̀ᴗ•́｡)✧ https://t.co/F0JK5tpb0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 714,
+          "like_count": 4082,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2255
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

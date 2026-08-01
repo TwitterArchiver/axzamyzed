@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2055515288511349242",
+    "created_at": "2026-05-17T02:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055845363295367391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008812080099672064",
+          "start": 0,
+          "username": "Xiaoyi_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055845363295367391",
+    "in_reply_to_user_id": "2008812080099672064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055841865975713958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyi_0324 每一个看似离谱的东西背后都有一件更离谱的事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_2055841859826855936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfRR3lbsAAhxaM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2055515288511349242",
+        "created_at": "2026-05-17T02:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055845363295367391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055845363295367391",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055841865975713958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 每一个看似离谱的东西背后都有一件更离谱的事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055841859826855936"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2055515288511349242",
+        "created_at": "2026-05-17T02:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055841865975713958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zezXcyqkdT",
+              "end": 49,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2055841865975713958/photo/1",
+              "media_key": "3_2055841859826855936",
+              "start": 26,
+              "url": "https://t.co/zezXcyqkdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055841865975713958",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055515288511349242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 我算是知道這句話為何而來了😂 https://t.co/zezXcyqkdT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3429,
+          "following_count": 935,
+          "like_count": 11422,
+          "listed_count": 10,
+          "media_count": 1582,
+          "tweet_count": 6672
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|推当QQ空间发|直fo成分回|同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|负面情绪/碎碎念移步@NiaoYou83766|⬇️匿名提问|第二人格:@Ruai_0324",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "櫻川由奈🏳️‍⚧️Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 235,
+          "like_count": 1470,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

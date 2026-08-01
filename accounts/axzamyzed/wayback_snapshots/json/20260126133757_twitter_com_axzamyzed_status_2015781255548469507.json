@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2015673516558074041",
+    "created_at": "2026-01-26T13:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015781255548469507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732724006787420160",
+          "start": 0,
+          "username": "Venti718"
+        },
+        {
+          "end": 25,
+          "id": "1102512660",
+          "start": 10,
+          "username": "LaurenceMister"
+        },
+        {
+          "end": 31,
+          "id": "1720665183188922368",
+          "start": 26,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015781255548469507",
+    "in_reply_to_user_id": "1732724006787420160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015781151420616979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Venti718 @LaurenceMister @grok 对不起错了呜呜🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2015673516558074041",
+        "created_at": "2026-01-26T13:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015781255548469507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732724006787420160",
+              "start": 0,
+              "username": "Venti718"
+            },
+            {
+              "end": 25,
+              "id": "1102512660",
+              "start": 10,
+              "username": "LaurenceMister"
+            },
+            {
+              "end": 31,
+              "id": "1720665183188922368",
+              "start": 26,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015781255548469507",
+        "in_reply_to_user_id": "1732724006787420160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015781151420616979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Venti718 @LaurenceMister @grok 对不起错了呜呜🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732724006787420160",
+        "conversation_id": "2015673516558074041",
+        "created_at": "2026-01-26T13:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015781151420616979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            },
+            {
+              "end": 26,
+              "id": "1102512660",
+              "start": 11,
+              "username": "LaurenceMister"
+            },
+            {
+              "end": 32,
+              "id": "1720665183188922368",
+              "start": 27,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015781151420616979",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015780240686235771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed @LaurenceMister @grok 我要生气了😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 271,
+          "like_count": 1837,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 963
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "高二牲/友跨/简中/繁中/English/蓝v互fo 看到马上回/Ciallo～",
+        "id": "1732724006787420160",
+        "name": "澪老师不是零老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 1400,
+          "like_count": 13203,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 3916
+        },
+        "username": "Venti718",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-19T01:56:07.000Z",
+        "description": "观察和记录｜互联网、经济、社会 说的不对，请各位批评🤗 我的YouTube：https://t.co/PT9XX0F0xV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@my_problem",
+                "end": 61,
+                "expanded_url": "https://youtube.com/@my_problem",
+                "start": 38,
+                "url": "https://t.co/PT9XX0F0xV"
+              }
+            ]
+          }
+        },
+        "id": "1102512660",
+        "location": "California, USA",
+        "name": "𝐋𝐚𝐮𝐫𝐞𝐧𝐜𝐞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1036669720122941440/XbUypgHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24853,
+          "following_count": 3005,
+          "like_count": 12509,
+          "listed_count": 142,
+          "media_count": 2291,
+          "tweet_count": 26400
+        },
+        "username": "LaurenceMister",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7672985,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5908,
+          "media_count": 7920753,
+          "tweet_count": 95236513
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

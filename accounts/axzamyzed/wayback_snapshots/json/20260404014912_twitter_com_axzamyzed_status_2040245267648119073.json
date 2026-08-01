@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2040197980989599992",
+    "created_at": "2026-04-04T01:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T02:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040245267648119073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040245267648119073",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040197980989599992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 很厉害啦，这一期大概拿到一份不错的收入哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040197968998076416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA9Pk2akAAfMlv.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040197969023307776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFA9Pk8bkAAx7HK.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2040197980989599992",
+        "created_at": "2026-04-04T01:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T02:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040245267648119073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040245267648119073",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040197980989599992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 很厉害啦，这一期大概拿到一份不错的收入哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040197968998076416",
+            "3_2040197969023307776"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2040197980989599992",
+        "created_at": "2026-04-03T22:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040197980989599992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hT7yXbWAdy",
+              "end": 160,
+              "expanded_url": "https://x.com/TOOBE775/status/2040197980989599992/photo/1",
+              "media_key": "3_2040197968998076416",
+              "start": 137,
+              "url": "https://t.co/hT7yXbWAdy"
+            },
+            {
+              "display_url": "pic.x.com/hT7yXbWAdy",
+              "end": 160,
+              "expanded_url": "https://x.com/TOOBE775/status/2040197980989599992/photo/1",
+              "media_key": "3_2040197969023307776",
+              "start": 137,
+              "url": "https://t.co/hT7yXbWAdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040197980989599992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 301,
+                "start": 294,
+                "tag": "灰度社会观察"
+              },
+              {
+                "end": 307,
+                "start": 302,
+                "tag": "流量笔记"
+              }
+            ]
+          },
+          "text": "早起打卡了兄弟们！🌅\n昨天有人私信问我： \n“灰度哥，你这号怎么这么快就起来了？\n我真没啥秘籍，也是一步步摸索出来的。\n但我可以和大家说一句大实话\n真诚才是必杀技！\n每一个回复，我都极其认真地去回，\n从来不用“呵呵”“哈哈”这种敷衍。\n如果有谁能截屏找出一句我敷衍的回复，\n 1万块钱我立马转账，绝不食言！\n一句敷衍，后面就会有无数句。\n口子不能开啊~~~\n尊重别人，才配得到别人的尊重。\n一点小看法，大家见笑了。\n我现在每天都会把数据图挂上来， \n就是想告诉兄弟们： \n即使是小账号， \n也有长成参天大树的那一天！\n希望这里成为咱们的避风港\n早上在这里充电讨论一下，\n再开始新的征程！\n#灰度社会观察 #流量笔记"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1734,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早起打卡了兄弟们！🌅\n昨天有人私信问我： \n“灰度哥，你这号怎么这么快就起来了？\n我真没啥秘籍，也是一步步摸索出来的。\n但我可以和大家说一句大实话\n真诚才是必杀技！\n每一个回复，我都极其认真地去回，\n从来不用“呵呵”“哈哈”这种敷衍。\n如果有谁能截屏找出一句我敷衍的回复， https://t.co/hT7yXbWAdy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 933,
+          "like_count": 8310,
+          "listed_count": 3,
+          "media_count": 579,
+          "tweet_count": 4995
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2039160301560709442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264,
+          "following_count": 1882,
+          "like_count": 13325,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 10785
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

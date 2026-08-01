@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2017274668651106578",
+    "created_at": "2026-01-31T09:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T10:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017529994113904936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "36659991",
+          "start": 0,
+          "username": "kenw_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017529994113904936",
+    "in_reply_to_user_id": "36659991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017274668651106578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kenw_2 产检费用都不止了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2017274668651106578",
+        "created_at": "2026-01-31T09:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017529994113904936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "36659991",
+              "start": 0,
+              "username": "kenw_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017529994113904936",
+        "in_reply_to_user_id": "36659991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017274668651106578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenw_2 产检费用都不止了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "36659991",
+        "conversation_id": "2017274668651106578",
+        "created_at": "2026-01-30T16:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017274668651106578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017274668651106578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 38469,
+          "like_count": 202,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "育儿补贴一年3600元每只，生300只就可以得到108万。关注我，给你更多理财建议。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信息竞赛退役｜mtf?mtx?｜对人温柔有耐心(=･ω･=)♡ 熟了的话会有一点粘人｜若愿与我靠近，必将真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 440,
+          "like_count": 2468,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-30T13:22:37.000Z",
+        "description": "An old friend.",
+        "id": "36659991",
+        "location": "The Earth",
+        "name": "Ken W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944368718231801856/MThgS-Qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180793,
+          "following_count": 471,
+          "like_count": 2192,
+          "listed_count": 537,
+          "media_count": 1548,
+          "tweet_count": 5298
+        },
+        "username": "kenw_2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2028131913681256908",
+    "created_at": "2026-03-02T13:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T14:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028455525357379924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "957876787479891969",
+          "start": 0,
+          "username": "senyiCS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028455525357379924",
+    "in_reply_to_user_id": "957876787479891969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028131913681256908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senyiCS 慢慢来，快就是慢，慢反而是快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2028131910241910784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVfOhOagAAOEJL.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2028131910451712003",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVfOiAb0AMLGOd.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2028131913681256908",
+        "created_at": "2026-03-02T13:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028455525357379924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "957876787479891969",
+              "start": 0,
+              "username": "senyiCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028455525357379924",
+        "in_reply_to_user_id": "957876787479891969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028131913681256908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senyiCS 慢慢来，快就是慢，慢反而是快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028131910241910784",
+            "3_2028131910451712003"
+          ]
+        },
+        "author_id": "957876787479891969",
+        "conversation_id": "2028131913681256908",
+        "created_at": "2026-03-01T15:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028131913681256908"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "蓝v关注必回"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "热门"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "互关必回"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CpESfmQddT",
+              "end": 58,
+              "expanded_url": "https://x.com/senyiCS/status/2028131913681256908/photo/1",
+              "media_key": "3_2028131910241910784",
+              "start": 35,
+              "url": "https://t.co/CpESfmQddT"
+            },
+            {
+              "display_url": "pic.x.com/CpESfmQddT",
+              "end": 58,
+              "expanded_url": "https://x.com/senyiCS/status/2028131913681256908/photo/1",
+              "media_key": "3_2028131910451712003",
+              "start": 35,
+              "url": "https://t.co/CpESfmQddT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028131913681256908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4325,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 79,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的想领老马的低保，求求了\n\n#蓝v关注必回 #热门 #互关必回 https://t.co/CpESfmQddT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 866,
+          "like_count": 5591,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 3107
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-29T07:23:17.000Z",
+        "description": "点个赞再走 好吗（互关） \n  Ⅰ 上脸书 买美股 领积分https://t.co/8DFe9UpQvK | 注册欧易，最高得100U奖励！\nhttps://t.co/nexSBdGGzm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "link.metamask.io/rewards?referr…",
+                "end": 52,
+                "expanded_url": "https://link.metamask.io/rewards?referral=A9XCC2",
+                "start": 29,
+                "url": "https://t.co/8DFe9UpQvK"
+              },
+              {
+                "display_url": "jqcpyyuxbkk.com/join/4004238",
+                "end": 94,
+                "expanded_url": "https://www.jqcpyyuxbkk.com/join/4004238",
+                "start": 71,
+                "url": "https://t.co/nexSBdGGzm"
+              }
+            ]
+          }
+        },
+        "id": "957876787479891969",
+        "name": "Wish好运CC",
+        "pinned_tweet_id": "2027000237882282033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012450910522544128/RhWCJsvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 2015,
+          "like_count": 5382,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 5447
+        },
+        "username": "senyiCS",
+        "verified": true
+      }
+    ]
+  }
+}

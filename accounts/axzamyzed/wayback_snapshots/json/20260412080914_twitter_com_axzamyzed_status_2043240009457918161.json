@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2043238255135764698",
+    "created_at": "2026-04-12T08:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043240009457918161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043240009457918161",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043238255135764698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 诶？是什么啊，感觉听到这个名字好几次了但具体是什么还不知道ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2043238255135764698",
+        "created_at": "2026-04-12T08:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043240009457918161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043240009457918161",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043238255135764698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 诶？是什么啊，感觉听到这个名字好几次了但具体是什么还不知道ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2043238255135764698",
+        "created_at": "2026-04-12T08:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043238255135764698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2043226339579175235",
+              "start": 10,
+              "url": "https://t.co/Q4Qys0bfAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043238255135764698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043226339579175235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有的，史丹利化肥哥 https://t.co/Q4Qys0bfAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 925,
+          "like_count": 8875,
+          "listed_count": 6,
+          "media_count": 718,
+          "tweet_count": 5345
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4635,
+          "following_count": 2771,
+          "like_count": 43155,
+          "listed_count": 19,
+          "media_count": 2403,
+          "tweet_count": 10569
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2034479395927449671",
+    "created_at": "2026-03-19T04:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034491026552090966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        },
+        {
+          "end": 18,
+          "id": "820440736336228352",
+          "start": 8,
+          "username": "Baidu_Inc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034491026552090966",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034479395927449671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI @Baidu_Inc 百…百度？我对这公司的唯一印象就是：怎么到2026了还没倒闭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2034479381524197376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvsN-abMAA92Kc.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2034479381524144128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvsN-aaYAADONC.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2034479381511606272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvsN-XbEAA1x9h.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2034479381515780096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvsN-YawAAbORp.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2034479395927449671",
+        "created_at": "2026-03-19T04:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034491026552090966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 18,
+              "id": "820440736336228352",
+              "start": 8,
+              "username": "Baidu_Inc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034491026552090966",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034479395927449671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI @Baidu_Inc 百…百度？我对这公司的唯一印象就是：怎么到2026了还没倒闭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034479381524197376",
+            "3_2034479381524144128",
+            "3_2034479381511606272",
+            "3_2034479381515780096"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2034479395927449671",
+        "created_at": "2026-03-19T03:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034479395927449671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "820440736336228352",
+              "start": 4,
+              "username": "Baidu_Inc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nVGIxHhT0O",
+              "end": 93,
+              "expanded_url": "https://x.com/BI3BXI/status/2034479395927449671/photo/1",
+              "media_key": "3_2034479381524197376",
+              "start": 70,
+              "url": "https://t.co/nVGIxHhT0O"
+            },
+            {
+              "display_url": "pic.x.com/nVGIxHhT0O",
+              "end": 93,
+              "expanded_url": "https://x.com/BI3BXI/status/2034479395927449671/photo/1",
+              "media_key": "3_2034479381524144128",
+              "start": 70,
+              "url": "https://t.co/nVGIxHhT0O"
+            },
+            {
+              "display_url": "pic.x.com/nVGIxHhT0O",
+              "end": 93,
+              "expanded_url": "https://x.com/BI3BXI/status/2034479395927449671/photo/1",
+              "media_key": "3_2034479381511606272",
+              "start": 70,
+              "url": "https://t.co/nVGIxHhT0O"
+            },
+            {
+              "display_url": "pic.x.com/nVGIxHhT0O",
+              "end": 93,
+              "expanded_url": "https://x.com/BI3BXI/status/2034479395927449671/photo/1",
+              "media_key": "3_2034479381515780096",
+              "start": 70,
+              "url": "https://t.co/nVGIxHhT0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034479395927449671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 92,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去了一趟@Baidu_Inc \n\n因为小铨的专业是AI/ML\n然后对AIGC这方面的东西有了一个结构性的学习\n\n我以前学的东西全是乱的…… https://t.co/nVGIxHhT0O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2033059853720236538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 909,
+          "like_count": 6866,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 4176
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "状态下行期｜在中中国人（CBC）｜挖坑＞填坑｜一个正在靠收益化来HRT的Enby🏳️‍⚧️｜活人｜Sister @Tennoujinyano｜@yqua_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 77,
+                "start": 71,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8204,
+          "following_count": 3652,
+          "like_count": 34513,
+          "listed_count": 21,
+          "media_count": 2034,
+          "tweet_count": 7549
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-15T01:21:29.000Z",
+        "description": "Baidu Inc. is a leading AI company with a strong Internet foundation. \nMedia Contact: intlcomm@baidu.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ir.baidu.com",
+                "end": 23,
+                "expanded_url": "http://ir.baidu.com",
+                "start": 0,
+                "url": "https://t.co/BmQM1LHfwD"
+              }
+            ]
+          }
+        },
+        "id": "820440736336228352",
+        "location": "Beijing, China",
+        "name": "Baidu Inc.",
+        "pinned_tweet_id": "2031731883302899839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1373867336021598212/vZ2nWy8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148558,
+          "following_count": 312,
+          "like_count": 2263,
+          "listed_count": 702,
+          "media_count": 2113,
+          "tweet_count": 3514
+        },
+        "url": "https://t.co/BmQM1LHfwD",
+        "username": "Baidu_Inc",
+        "verified": true
+      }
+    ]
+  }
+}

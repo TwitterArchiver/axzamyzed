@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2047657939377246334",
+    "created_at": "2026-04-25T00:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047828231558988208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1143875817220403200",
+          "start": 0,
+          "username": "911huangtu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047828231558988208",
+    "in_reply_to_user_id": "1143875817220403200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047827711536824415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@911huangtu 不是对自己苦吧，主要是很多的都是非必要不消费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2047657939377246334",
+        "created_at": "2026-04-25T00:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047828231558988208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1143875817220403200",
+              "start": 0,
+              "username": "911huangtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047828231558988208",
+        "in_reply_to_user_id": "1143875817220403200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047827711536824415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@911huangtu 不是对自己苦吧，主要是很多的都是非必要不消费"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1143875817220403200",
+        "conversation_id": "2047657939377246334",
+        "created_at": "2026-04-24T23:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047827711536824415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047827711536824415",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047657939377246334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 所以花钱的都是女的呗，男的干嘛要对自己那么苦呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 863,
+          "like_count": 9929,
+          "listed_count": 9,
+          "media_count": 993,
+          "tweet_count": 5820
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-26T13:37:01.000Z",
+        "description": "反差无极限",
+        "id": "1143875817220403200",
+        "name": "jam反差",
+        "pinned_tweet_id": "2046870832107172096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046873617825492992/o2Qst0ll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 3496,
+          "like_count": 2172,
+          "listed_count": 1,
+          "media_count": 1369,
+          "tweet_count": 5281
+        },
+        "username": "911huangtu",
+        "verified": true
+      }
+    ]
+  }
+}

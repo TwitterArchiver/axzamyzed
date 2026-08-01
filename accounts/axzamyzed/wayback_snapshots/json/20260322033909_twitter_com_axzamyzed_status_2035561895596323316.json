@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2035512822566948921",
+    "created_at": "2026-03-22T03:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T04:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035561895596323316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1871529139720863744",
+          "start": 0,
+          "username": "TOOBE775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035561895596323316",
+    "in_reply_to_user_id": "1871529139720863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035512822566948921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOOBE775 我前两天评论区刷怪我屏蔽了一堆这两天就把我限流了，引以为戒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035512811598790656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-YHhcaQAAnJTx.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035512811628150784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-YHhjaQAAGV2I.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2035512822566948921",
+        "created_at": "2026-03-22T03:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T04:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035561895596323316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1871529139720863744",
+              "start": 0,
+              "username": "TOOBE775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035561895596323316",
+        "in_reply_to_user_id": "1871529139720863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035512822566948921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOOBE775 我前两天评论区刷怪我屏蔽了一堆这两天就把我限流了，引以为戒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035512811598790656",
+            "3_2035512811628150784"
+          ]
+        },
+        "author_id": "1871529139720863744",
+        "conversation_id": "2035512822566948921",
+        "created_at": "2026-03-22T00:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T01:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035512822566948921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDekpEJcfn",
+              "end": 141,
+              "expanded_url": "https://x.com/TOOBE775/status/2035512822566948921/photo/1",
+              "media_key": "3_2035512811598790656",
+              "start": 118,
+              "url": "https://t.co/BDekpEJcfn"
+            },
+            {
+              "display_url": "pic.x.com/BDekpEJcfn",
+              "end": 141,
+              "expanded_url": "https://x.com/TOOBE775/status/2035512822566948921/photo/1",
+              "media_key": "3_2035512811628150784",
+              "start": 118,
+              "url": "https://t.co/BDekpEJcfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035512822566948921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 403,
+                "start": 396,
+                "tag": "灰度社会观察"
+              },
+              {
+                "end": 409,
+                "start": 404,
+                "tag": "流量翻车"
+              }
+            ]
+          },
+          "text": "如果流量不肯宠幸，你拿什么来拯救自己？🤔🤔\n\n兄弟们，这两天有喜有忧。\n喜的是自己发的推文有了很大起色，曝光量比以前强多了。\n\n忧的是那种蹭大Ｖ每天几十万流量的日子，已经不在了。\n\n那种单方面添冷屁股的日子全面结束，进入互助互爱阶段。\n\n但真的很感谢🙏几位铁粉的助推。我的每篇推文下，第一时间都能得到他们真诚的互动。\n\n当然我也尽力去回复他们，互帮互助才是社交本质。\n\n当你和铁粉互开通知📢，都能第一时间回复对方，你就知道什么叫洗刷刷，越刷越上头………\n\n每个账号都是宝贵资源，大家都别浪费了。再大的大V，也是靠小账号给的资源堆起来的。\n\n先期起号确实需要互F和蹭流量，但更要注意那些真喜欢你的粉丝。现在算法改变，蹭大V们的日子也不太好过了。大家还是把主要精力用来维护自己的小圈子吧。\n\n把你的资源给互助互爱的铁粉，换来你自己的成长。\n\n还是蹭大Ｖ流量，先换来5M门槛？\n\n你认为该怎么选？\n#灰度社会观察 #流量翻车"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果流量不肯宠幸，你拿什么来拯救自己？🤔🤔\n\n兄弟们，这两天有喜有忧。\n喜的是自己发的推文有了很大起色，曝光量比以前强多了。\n\n忧的是那种蹭大Ｖ每天几十万流量的日子，已经不在了。\n\n那种单方面添冷屁股的日子全面结束，进入互助互爱阶段。 https://t.co/BDekpEJcfn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2035188782904090938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 917,
+          "like_count": 7137,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 4365
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T12:12:43.000Z",
+        "description": "看懂人性，卻依舊被生活教育、社會毒打。\n嘴硬至今，就是想讓自己活得明白一點。\n分享人生感悟、流量心得、日常自黑\nDM開放，來聊～",
+        "id": "1871529139720863744",
+        "location": "hongkong",
+        "name": "灰度哥",
+        "pinned_tweet_id": "2034785399797870921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032643603638648832/F9MmGchy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 1723,
+          "like_count": 5086,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 5159
+        },
+        "username": "TOOBE775",
+        "verified": true
+      }
+    ]
+  }
+}

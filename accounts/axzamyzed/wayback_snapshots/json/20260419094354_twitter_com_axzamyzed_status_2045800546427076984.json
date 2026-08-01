@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2045657206058627378",
+    "created_at": "2026-04-19T09:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045800546427076984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032134219284312064",
+          "start": 0,
+          "username": "SATANHOTDOGBETA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045800546427076984",
+    "in_reply_to_user_id": "2032134219284312064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045663558579753448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SATANHOTDOGBETA 哇还有风水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2045657206058627378",
+        "created_at": "2026-04-19T09:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045800546427076984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032134219284312064",
+              "start": 0,
+              "username": "SATANHOTDOGBETA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045800546427076984",
+        "in_reply_to_user_id": "2032134219284312064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045663558579753448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SATANHOTDOGBETA 哇还有风水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032134219284312064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2045657206058627378",
+        "created_at": "2026-04-19T00:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045663558579753448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045663558579753448",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 641,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045657206058627378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 有，位置座落路衝，傳統風水視為大凶「煞氣」，主導「氣場」過強、急躁，易致居住者健康受損、財運不佳、脾氣暴躁甚至招惹血光之災。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 869,
+          "like_count": 9470,
+          "listed_count": 7,
+          "media_count": 892,
+          "tweet_count": 5640
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-12T16:39:01.000Z",
+        "description": "2026/3/12晚上X把我前帳號Bing掉，這是我新帳號。\n\n•這裡主要分享：　\n日本旅遊/漫畫/廢文/靈異/假文青文/幣圈動態　\n•​詐騙/約砲別來，已婚。　\n\n•日本/漫画/怪談/低脳な雑談/Web3/偽文学。　\n•既婚。勧誘とナンパは時間の無駄だ、その情熱を墓場まで持っていけ。",
+        "id": "2032134219284312064",
+        "location": "Taiwan",
+        "name": "SATANHOTDOG​ 地獄門口賣熱狗的貓",
+        "pinned_tweet_id": "2045726185741857207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032134518749233153/li_qdNu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 671,
+          "like_count": 1718,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 1070
+        },
+        "username": "SATANHOTDOGBETA",
+        "verified": true
+      }
+    ]
+  }
+}

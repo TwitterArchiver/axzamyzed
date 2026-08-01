@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2058770468912681189",
+    "created_at": "2026-05-25T10:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058851698245075191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058851698245075191",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058850091184931054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 我服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2058770468912681189",
+        "created_at": "2026-05-25T10:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058851698245075191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058851698245075191",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058850091184931054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 我服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989517742127652866",
+        "conversation_id": "2058770468912681189",
+        "created_at": "2026-05-25T09:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058850091184931054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058850091184931054",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058770468912681189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 出场出厂日期说是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3470,
+          "following_count": 949,
+          "like_count": 11730,
+          "listed_count": 11,
+          "media_count": 1777,
+          "tweet_count": 6941
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "2025.11 重生喵~\n一般路过 可以叫我553\n09 MTX？\n（负能量预警）\n查成分回fo\n看黄男&粉红勿扰\n逃生舱@agsg_553\n提问箱喵➡️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "agsg_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/nKx3eptIuF"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "REMEMBER MAZE",
+        "name": "AG553🏳️‍⚧️",
+        "pinned_tweet_id": "2055235631958389230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009425649296134149/7XVRu4Xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 1612,
+          "like_count": 35670,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 3205
+        },
+        "url": "https://t.co/nKx3eptIuF",
+        "username": "AGNK_553",
+        "verified": false
+      }
+    ]
+  }
+}

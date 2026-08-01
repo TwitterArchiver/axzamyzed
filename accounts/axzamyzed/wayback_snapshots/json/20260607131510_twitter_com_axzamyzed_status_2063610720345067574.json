@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2063565104390836337",
+    "created_at": "2026-06-07T13:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063610720345067574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796192059495219200",
+          "start": 0,
+          "username": "celadon000"
+        },
+        {
+          "end": 24,
+          "id": "1761282483834998784",
+          "start": 12,
+          "username": "qiancongxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063610720345067574",
+    "in_reply_to_user_id": "1796192059495219200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063605084563636337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@celadon000 @qiancongxyn 而事实上tyw今天下午发帖说自从AI水母上线后烧掉了四千万token"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2063565104390836337",
+        "created_at": "2026-06-07T13:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063610720345067574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796192059495219200",
+              "start": 0,
+              "username": "celadon000"
+            },
+            {
+              "end": 24,
+              "id": "1761282483834998784",
+              "start": 12,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063610720345067574",
+        "in_reply_to_user_id": "1796192059495219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063605084563636337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@celadon000 @qiancongxyn 而事实上tyw今天下午发帖说自从AI水母上线后烧掉了四千万token"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796192059495219200",
+        "conversation_id": "2063565104390836337",
+        "created_at": "2026-06-07T12:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063605084563636337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "qiancongxyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/grok/share/f…",
+              "end": 36,
+              "expanded_url": "https://x.com/i/grok/share/f124a7a100624da7b49099d4cc92555a",
+              "start": 13,
+              "status": 500,
+              "unwound_url": "https://x.com/i/grok/share/f124a7a100624da7b49099d4cc92555a",
+              "url": "https://t.co/hfrJCaW4GQ"
+            },
+            {
+              "description": "Join DeepSeek API platform to access our AI models, developer resources and API documentation.",
+              "display_url": "platform.deepseek.com",
+              "end": 85,
+              "expanded_url": "https://platform.deepseek.com/",
+              "images": [
+                {
+                  "height": 1012,
+                  "url": "https://pbs.twimg.com/news_img/2061172551116525568/nGFXkcDk?format=jpg&name=orig",
+                  "width": 1912
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061172551116525568/nGFXkcDk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 62,
+              "status": 200,
+              "title": "DeepSeek Platform",
+              "unwound_url": "https://platform.deepseek.com/",
+              "url": "https://t.co/MZjRlGVDCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063605084563636337",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063597597588398580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiancongxyn https://t.co/hfrJCaW4GQ\nAPI其实可以直接用DeepSeek的，比较便宜 https://t.co/MZjRlGVDCE\n按照现在那个AI 17的发帖频率，目测一天花不了几毛钱。如果你没有cs经验的话，每一步都去问ai，只要动手能力强一点应该完全可以搞定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3657,
+          "following_count": 945,
+          "like_count": 12437,
+          "listed_count": 10,
+          "media_count": 2248,
+          "tweet_count": 7544
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-30T14:49:04.000Z",
+        "description": "无证含糖🍥 | ArchLinux | 全栈 | 生产日期2008 | 前oier",
+        "id": "1796192059495219200",
+        "location": "Internet",
+        "name": "Celadon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055488818493652992/x2Be0AsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 195,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 62
+        },
+        "username": "celadon000",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban\n不阔爱不pass｜缺爱想交朋友\n\n蓝v必回fo｜友好相处｜喜欢我就关注下呗🥺\n危机联系人 @CCA8798suki\n姐姐 @huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "huihui_mikumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060573450616664245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 967,
+          "like_count": 2206,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 1684
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

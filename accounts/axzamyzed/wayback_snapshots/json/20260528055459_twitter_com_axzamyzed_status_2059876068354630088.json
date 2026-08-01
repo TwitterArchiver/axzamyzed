@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2059871520617619754",
+    "created_at": "2026-05-28T05:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059876068354630088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797120101419999232",
+          "start": 0,
+          "username": "YMKxxxxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059876068354630088",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059871520617619754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMKxxxxxxxx spaceship有个.com新用户优惠码首年3刀不到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2460,
+        "media_key": "3_2059871497477558272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYiNpoaEAACVkN.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2059871520617619754",
+        "created_at": "2026-05-28T05:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059876068354630088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059876068354630088",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059871520617619754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx spaceship有个.com新用户优惠码首年3刀不到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059871497477558272"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2059871520617619754",
+        "created_at": "2026-05-28T05:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:35:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059871163476852745",
+          "2059871520617619754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "owofox.com",
+              "end": 56,
+              "expanded_url": "http://owofox.com",
+              "start": 33,
+              "status": 200,
+              "title": "OwoFox",
+              "unwound_url": "https://owofox.com/",
+              "url": "https://t.co/BAovddp2EC"
+            },
+            {
+              "display_url": "pic.x.com/7LyYPimPn0",
+              "end": 109,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2059871520617619754/photo/1",
+              "media_key": "3_2059871497477558272",
+              "start": 86,
+              "url": "https://t.co/7LyYPimPn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059871520617619754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到了一堆好萌的.TOP域名，还都有.COM版本\n然后冲动消费买了https://t.co/BAovddp2EC，花了39.79元，续费9.98USD &gt; &lt; https://t.co/7LyYPimPn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3542,
+          "following_count": 949,
+          "like_count": 11952,
+          "listed_count": 11,
+          "media_count": 1894,
+          "tweet_count": 7108
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花、花花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "梦花 𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 654,
+          "like_count": 8544,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

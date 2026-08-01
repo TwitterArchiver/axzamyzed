@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2048916728793440749",
+    "created_at": "2026-04-28T07:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049033591506547160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "553587532",
+          "start": 0,
+          "username": "LeekPsychology"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049033591506547160",
+    "in_reply_to_user_id": "553587532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049030505979338832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeekPsychology 有一种现代诗的感觉🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2048916728793440749",
+        "created_at": "2026-04-28T07:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049033591506547160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "553587532",
+              "start": 0,
+              "username": "LeekPsychology"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049033591506547160",
+        "in_reply_to_user_id": "553587532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049030505979338832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeekPsychology 有一种现代诗的感觉🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "553587532",
+        "conversation_id": "2048916728793440749",
+        "created_at": "2026-04-28T07:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049030505979338832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049030505979338832",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "只要你的支出能被收入覆盖，\n当然可以躺平。\n别说一千万。\n很多低端散户做梦，\n也就是梦到这一步：\n\n不用上班。\n不用看老板脸色。\n不用每天证明自己还有用。\n手里有点现金流，\n日子低欲望一点，\n能吃能睡，\n不被人催着卷。\n这已经是梦中理想了。\n问题是，\n在月之国，\n躺平不是不能躺。\n是不能高调躺。\n\n你有一千万，\n自己安静过日子就行。\n别到处说。\n别发帖。\n别炫耀。\n别问网友“我能不能躺平”。\n因为你一说，\n事情就变味了。\n亲戚知道了，\n要借钱。\n朋友知道了，\n要合作。\n骗子知道了，\n要布局。\n高大知道了，\n要关心你钱哪来的。\n低端散户知道了，\n要骂你不配。\n\n说白了，\n月之国最安全的躺平方式，\n不是“有钱不干活”。\n是看起来没钱，也不怎么活跃。\n\n你真想躺，\n就别让别人知道你躺得很舒服。\n不然你想躺平，\n别人也不会让你躺着。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048916728793440749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 只要你的支出能被收入覆盖，\n当然可以躺平。\n别说一千万。\n很多低端散户做梦，\n也就是梦到这一步：\n\n不用上班。\n不用看老板脸色。\n不用每天证明自己还有用。\n手里有点现金流，\n日子低欲望一点，\n能吃能睡，\n不被人催着卷。\n这已经是梦中理想了。\n问题是，\n在月之国，\n躺平不是不能躺。\n是不能高调躺。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2822,
+          "following_count": 875,
+          "like_count": 10189,
+          "listed_count": 10,
+          "media_count": 1090,
+          "tweet_count": 5966
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2012-04-14T14:43:23.000Z",
+        "description": "冷嘲热讽只是一种姿态，反向嘲讽才是底色。散户宇宙里的低端散户们终身为了炒股劳碌奔波，在荒诞的故事里总有一款你的影子。当然如果你够疯癫，欢迎加入散户宇宙。",
+        "id": "553587532",
+        "name": "韭菜心理学",
+        "pinned_tweet_id": "2021363119277363375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015150246238572544/RbL3dJvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 1091,
+          "like_count": 428,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1459
+        },
+        "username": "LeekPsychology",
+        "verified": true
+      }
+    ]
+  }
+}

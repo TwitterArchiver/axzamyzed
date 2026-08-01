@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074073499208237056"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2073973041307287997",
+    "created_at": "2026-07-06T10:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074073511900102679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747202572061130752",
+          "start": 0,
+          "username": "dawalis112"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DgYbgu7LLr",
+          "end": 38,
+          "expanded_url": "https://x.com/axzamyzed/status/2074073511900102679/photo/1",
+          "media_key": "3_2074073499208237056",
+          "start": 15,
+          "url": "https://t.co/DgYbgu7LLr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074073511900102679",
+    "in_reply_to_user_id": "1747202572061130752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074067591342235755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dawalis112 好吃 https://t.co/DgYbgu7LLr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2074073499208237056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiW285bwAAk4AI.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074073499208237056"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2073973041307287997",
+        "created_at": "2026-07-06T10:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074073511900102679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747202572061130752",
+              "start": 0,
+              "username": "dawalis112"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgYbgu7LLr",
+              "end": 38,
+              "expanded_url": "https://x.com/axzamyzed/status/2074073511900102679/photo/1",
+              "media_key": "3_2074073499208237056",
+              "start": 15,
+              "url": "https://t.co/DgYbgu7LLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074073511900102679",
+        "in_reply_to_user_id": "1747202572061130752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074067591342235755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dawalis112 好吃 https://t.co/DgYbgu7LLr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747202572061130752",
+        "conversation_id": "2073973041307287997",
+        "created_at": "2026-07-06T09:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074067591342235755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074067591342235755",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074059753865855232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 🌚但是我找到美味了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4051,
+          "following_count": 929,
+          "like_count": 14088,
+          "listed_count": 12,
+          "media_count": 3161,
+          "tweet_count": 8794
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-16T10:22:26.000Z",
+        "description": "被 X 算法教育中 | AI 工具测试 + 互联网文化观察 | 电子流浪汉 | 每天一点真实吐槽",
+        "id": "1747202572061130752",
+        "name": "达瓦里氏",
+        "pinned_tweet_id": "2063491121360273683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859938422980534272/P7SlCHyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 1438,
+          "like_count": 3744,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 3793
+        },
+        "url": "",
+        "username": "dawalis112",
+        "verified": true
+      }
+    ]
+  }
+}

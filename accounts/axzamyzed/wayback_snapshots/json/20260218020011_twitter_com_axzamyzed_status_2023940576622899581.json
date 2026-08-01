@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2023917084321743238",
+    "created_at": "2026-02-18T02:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T03:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023940576622899581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023940576622899581",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023917084321743238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen 山东太在意这个了，所以也是考公大省，传统这东西去其糟粕取其精华还可以，这样过度搞反而是浪费时间浪费精力"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36966,
+        "height": 896,
+        "media_key": "13_2023916998087110657",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023916998087110657/img/nsV0fuTxMY_2KILJ.jpg",
+        "public_metrics": {
+          "view_count": 4078
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023916998087110657/vid/avc1/320x530/LDs5EHgBuIat4Due.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023916998087110657/vid/avc1/480x796/RsxeqK5-9hRGg481.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023916998087110657/vid/avc1/540x896/-MZtzHlHbQjR1PTf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023916998087110657/pl/inryfOTtiFNXhmeh.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2023917084321743238",
+        "created_at": "2026-02-18T02:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023940576622899581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023940576622899581",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023917084321743238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 山东太在意这个了，所以也是考公大省，传统这东西去其糟粕取其精华还可以，这样过度搞反而是浪费时间浪费精力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023916998087110657"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2023917084321743238",
+        "created_at": "2026-02-18T00:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023917084321743238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9ZpKsxCso",
+              "end": 69,
+              "expanded_url": "https://x.com/maoshen/status/2023917084321743238/video/1",
+              "media_key": "13_2023916998087110657",
+              "start": 46,
+              "url": "https://t.co/m9ZpKsxCso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023917084321743238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9360,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "山东普通家庭的年夜饭，光入座就研究了半个小时\n\n山东人对上下尊卑的重视程度，真是笑哭了😂😂 https://t.co/m9ZpKsxCso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2015811848810250491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 687,
+          "like_count": 4030,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2222
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点｜守心明理、知行合一，呵护内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199182,
+          "following_count": 6500,
+          "like_count": 4018,
+          "listed_count": 504,
+          "media_count": 2801,
+          "tweet_count": 5922
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

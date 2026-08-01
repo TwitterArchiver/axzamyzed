@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2038150337094127821",
+    "created_at": "2026-03-29T12:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T13:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038225794405699641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814348630385668096",
+          "start": 0,
+          "username": "yoo912542031144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038225794405699641",
+    "in_reply_to_user_id": "1814348630385668096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038223452453412994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoo912542031144 好像只限制的是不可降解的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2038150337094127821",
+        "created_at": "2026-03-29T12:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038225794405699641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814348630385668096",
+              "start": 0,
+              "username": "yoo912542031144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038225794405699641",
+        "in_reply_to_user_id": "1814348630385668096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038223452453412994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoo912542031144 好像只限制的是不可降解的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814348630385668096",
+        "conversation_id": "2038150337094127821",
+        "created_at": "2026-03-29T11:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038223452453412994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038223452453412994",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038150337094127821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 那海南怎么丢垃圾？纸袋吗 但是又会漏汤汤水水吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜需要回fo请私信我，麻烦了｜本体 @mxyzcdb ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2037709297564422353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 935,
+          "like_count": 7874,
+          "listed_count": 2,
+          "media_count": 517,
+          "tweet_count": 4732
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-19T17:16:47.000Z",
+        "description": "主人@qadly00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "qadly00"
+              }
+            ]
+          }
+        },
+        "id": "1814348630385668096",
+        "name": "yo o",
+        "pinned_tweet_id": "2036449941103718453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032112295388856324/OMiWwhzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 34,
+          "like_count": 2557,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 482
+        },
+        "username": "yoo912542031144",
+        "verified": false
+      }
+    ]
+  }
+}

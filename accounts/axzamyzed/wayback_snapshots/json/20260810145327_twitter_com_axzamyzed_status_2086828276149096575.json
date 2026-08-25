@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2086646126829334810",
+    "created_at": "2026-08-10T14:53:27.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086828276149096575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054587695490613248",
+          "start": 0,
+          "username": "agsg_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086828276149096575",
+    "in_reply_to_user_id": "2054587695490613248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086763977980441010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@agsg_553 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2086646126829334810",
+        "created_at": "2026-08-10T14:53:27.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086828276149096575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054587695490613248",
+              "start": 0,
+              "username": "agsg_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086828276149096575",
+        "in_reply_to_user_id": "2054587695490613248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086763977980441010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@agsg_553 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054587695490613248",
+        "conversation_id": "2086646126829334810",
+        "created_at": "2026-08-10T10:37:57.000Z",
+        "display_text_range": [
+          11,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086763977980441010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086763977980441010",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086646126829334810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 意思是这小孩家里没人有高中以上学历吗 那教成这样真是必样的👍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "is_identity_verified": true,
+        "location": "猫猫的火星基地",
+        "most_recent_tweet_id": "2086828276149096575",
+        "name": "翅翅膀喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758324617838788608/1763630424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 933,
+          "like_count": 15020,
+          "listed_count": 13,
+          "media_count": 3675,
+          "tweet_count": 9557
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:41:14.000Z",
+        "description": "AG553 they/them\n大号gban了没解除暂时不登了\nEN😋/CN😋/JP🔰\nDTM/Minecraft/音ゲー/FPV\n本体/日常:@agnk_553\n求回foQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "agnk_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/maVhPxynIr"
+              }
+            ]
+          }
+        },
+        "id": "2054587695490613248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086763977980441010",
+        "name": "AG553_Nyan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054587695490613248/1785252456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082125765622333440/uANxfXCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 145,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/maVhPxynIr",
+        "username": "agsg_553",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

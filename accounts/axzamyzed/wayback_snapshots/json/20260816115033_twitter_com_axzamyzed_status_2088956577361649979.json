@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2088900978158469556",
+    "created_at": "2026-08-16T11:50:33.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T12:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088956577361649979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840746951522095104",
+          "start": 0,
+          "username": "poor_tomato_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088956577361649979",
+    "in_reply_to_user_id": "1840746951522095104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088913475422802342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poor_tomato_qaq 可以把朋友达斯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2088900978158469556",
+        "created_at": "2026-08-16T11:50:33.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088956577361649979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1840746951522095104",
+              "start": 0,
+              "username": "poor_tomato_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088956577361649979",
+        "in_reply_to_user_id": "1840746951522095104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088913475422802342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poor_tomato_qaq 可以把朋友达斯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840746951522095104",
+        "conversation_id": "2088900978158469556",
+        "created_at": "2026-08-16T08:59:17.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088913475422802342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088913475422802342",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088900978158469556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 朋友开动脑筋了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "is_identity_verified": true,
+        "location": "猫猫的火星基地",
+        "most_recent_tweet_id": "2088956577361649979",
+        "name": "翅翅膀喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758324617838788608/1763630424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4258,
+          "following_count": 928,
+          "like_count": 15133,
+          "listed_count": 13,
+          "media_count": 3730,
+          "tweet_count": 9634
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T13:34:22.000Z",
+        "description": "@tomato11451419 的转世/北方小城的社恐/时不时发癫/富哥可以V50吗/回复会一个一个看的/友跨/画渣/isfp/不涉政/定期回fo/日常推/可以聊天/魔怔▲批/好朋友@TXTYYDZ/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "tomato11451419"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "TXTYYDZ"
+              }
+            ]
+          }
+        },
+        "id": "1840746951522095104",
+        "is_identity_verified": false,
+        "location": "番茄种植基地",
+        "most_recent_tweet_id": "2088914066165084345",
+        "name": "可憐の拖碼頭",
+        "pinned_tweet_id": "2028798272412987523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840746951522095104/1739366308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079547255720464384/4wkrt_em_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 326,
+          "like_count": 19575,
+          "listed_count": 3,
+          "media_count": 721,
+          "tweet_count": 7473
+        },
+        "url": "",
+        "username": "poor_tomato_qaq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

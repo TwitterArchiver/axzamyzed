@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088115952554803200"
+      ]
+    },
+    "author_id": "1758324617838788608",
+    "conversation_id": "2088115961111171321",
+    "created_at": "2026-08-14T04:10:15.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088115961111171321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VRt9rU7gJ3",
+          "end": 53,
+          "expanded_url": "https://x.com/axzamyzed/status/2088115961111171321/photo/1",
+          "media_key": "3_2088115952554803200",
+          "start": 30,
+          "url": "https://t.co/VRt9rU7gJ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088115961111171321",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088115952554803200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "农民工到底是以前是农民现在是工人还是说务农的同时及兼职工人 https://t.co/VRt9rU7gJ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 685,
+        "media_key": "3_2088115952554803200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp6ZUHbAAA0gI-.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088115952554803200"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2088115961111171321",
+        "created_at": "2026-08-14T04:10:15.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088115961111171321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VRt9rU7gJ3",
+              "end": 53,
+              "expanded_url": "https://x.com/axzamyzed/status/2088115961111171321/photo/1",
+              "media_key": "3_2088115952554803200",
+              "start": 30,
+              "url": "https://t.co/VRt9rU7gJ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088115961111171321",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088115952554803200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "农民工到底是以前是农民现在是工人还是说务农的同时及兼职工人 https://t.co/VRt9rU7gJ3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "is_identity_verified": true,
+        "location": "猫猫的火星基地",
+        "most_recent_tweet_id": "2088115961111171321",
+        "name": "翅翅膀喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758324617838788608/1763630424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4270,
+          "following_count": 930,
+          "like_count": 15092,
+          "listed_count": 13,
+          "media_count": 3710,
+          "tweet_count": 9603
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

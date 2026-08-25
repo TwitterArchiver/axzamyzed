@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2088866178177601548",
+    "created_at": "2026-08-16T08:12:14.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088901635724738604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088901635724738604",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088866178177601548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 所以被下架了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2088866170896318464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0ktxObAAAPnBs.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2088866178177601548",
+        "created_at": "2026-08-16T08:12:14.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088901635724738604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088901635724738604",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088866178177601548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 所以被下架了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088866170896318464"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2088866178177601548",
+        "created_at": "2026-08-16T05:51:20.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088866178177601548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBvAh9atAV",
+              "end": 46,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2088866178177601548/photo/1",
+              "media_key": "3_2088866170896318464",
+              "start": 23,
+              "url": "https://t.co/sBvAh9atAV"
+            },
+            {
+              "display_url": "x.com/snozakisakura/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/snozakisakura/status/2088850722515451911",
+              "start": 47,
+              "url": "https://t.co/k2kHDxu4vP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088866178177601548",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088866170896318464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1935,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088850722515451911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《牛来》在全中国实时电影票房中已经排行第七了 https://t.co/sBvAh9atAV https://t.co/k2kHDxu4vP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "is_identity_verified": true,
+        "location": "猫猫的火星基地",
+        "most_recent_tweet_id": "2088901635724738604",
+        "name": "翅翅膀喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758324617838788608/1763630424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4259,
+          "following_count": 928,
+          "like_count": 15130,
+          "listed_count": 13,
+          "media_count": 3730,
+          "tweet_count": 9632
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "is_identity_verified": true,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2088900786772426820",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98574,
+          "following_count": 2712,
+          "like_count": 8189,
+          "listed_count": 207,
+          "media_count": 985,
+          "tweet_count": 4964
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

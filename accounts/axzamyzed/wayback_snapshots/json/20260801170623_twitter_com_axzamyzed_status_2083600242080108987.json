@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2083433892141543508",
+    "created_at": "2026-08-01T17:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083600242080108987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828645781303447552",
+          "start": 0,
+          "username": "you173383920380"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083600242080108987",
+    "in_reply_to_user_id": "1828645781303447552",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083599943990993067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@you173383920380 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2083433892141543508",
+        "created_at": "2026-08-01T17:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083600242080108987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1828645781303447552",
+              "start": 0,
+              "username": "you173383920380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083600242080108987",
+        "in_reply_to_user_id": "1828645781303447552",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083599943990993067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@you173383920380 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828645781303447552",
+        "conversation_id": "2083433892141543508",
+        "created_at": "2026-08-01T17:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083599943990993067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083599943990993067",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083433892141543508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 这是哪个gal（关注点错误）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4208,
+          "following_count": 933,
+          "like_count": 14852,
+          "listed_count": 13,
+          "media_count": 3556,
+          "tweet_count": 9397
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T04:08:37.000Z",
+        "description": "竹取飞翔 ～ Lunatic Princess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ciallo.cc",
+                "end": 23,
+                "expanded_url": "https://ciallo.cc/",
+                "start": 0,
+                "url": "https://t.co/h8DukTpVQ5"
+              }
+            ]
+          }
+        },
+        "id": "1828645781303447552",
+        "location": "幻想鄉",
+        "name": "少抽报纸卷的烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828735329236623360/Z3tgb1CP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 57,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/h8DukTpVQ5",
+        "username": "you173383920380",
+        "verified": false
+      }
+    ]
+  }
+}

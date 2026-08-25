@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2083794365751947394",
+    "created_at": "2026-08-02T10:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083862085046616356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067847113099370496",
+          "start": 0,
+          "username": "Dakexisi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083862085046616356",
+    "in_reply_to_user_id": "2067847113099370496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083846953855775106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dakexisi 关系特别好的应该不会拒绝，但是玩多了会被骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2083794365751947394",
+        "created_at": "2026-08-02T10:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083862085046616356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067847113099370496",
+              "start": 0,
+              "username": "Dakexisi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083862085046616356",
+        "in_reply_to_user_id": "2067847113099370496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083846953855775106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dakexisi 关系特别好的应该不会拒绝，但是玩多了会被骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067847113099370496",
+        "conversation_id": "2083794365751947394",
+        "created_at": "2026-08-02T09:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083846953855775106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083846953855775106",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083794365751947394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 我想要一个这样的朋友，他们都不接我的梗🙈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4221,
+          "following_count": 934,
+          "like_count": 14877,
+          "listed_count": 13,
+          "media_count": 3566,
+          "tweet_count": 9416
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-19T05:50:08.000Z",
+        "description": "找点乐子",
+        "id": "2067847113099370496",
+        "name": "Maybe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067862190565281792/-UFrgfbI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 171,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "Dakexisi",
+        "verified": false
+      }
+    ]
+  }
+}

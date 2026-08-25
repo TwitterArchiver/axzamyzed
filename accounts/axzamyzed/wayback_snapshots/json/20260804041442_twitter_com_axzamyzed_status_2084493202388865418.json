@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2084171401070788694",
+    "created_at": "2026-08-04T04:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084493202388865418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1623730983123156992",
+          "start": 0,
+          "username": "desanta_1110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084493202388865418",
+    "in_reply_to_user_id": "1623730983123156992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084487479688839398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@desanta_1110 还真是boss直聘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2084171401070788694",
+        "created_at": "2026-08-04T04:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084493202388865418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1623730983123156992",
+              "start": 0,
+              "username": "desanta_1110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084493202388865418",
+        "in_reply_to_user_id": "1623730983123156992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084487479688839398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@desanta_1110 还真是boss直聘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623730983123156992",
+        "conversation_id": "2084171401070788694",
+        "created_at": "2026-08-04T03:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084487479688839398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084487479688839398",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084171401070788694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 666还有boss直聘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4229,
+          "following_count": 933,
+          "like_count": 14903,
+          "listed_count": 13,
+          "media_count": 3582,
+          "tweet_count": 9437
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-09T17:10:16.000Z",
+        "description": "Mind the gap between the train and the platform.",
+        "id": "1623730983123156992",
+        "location": "Liaoning",
+        "name": "Kev.W 🇨🇳🇺🇸🇨🇦",
+        "pinned_tweet_id": "2032850385942303207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708359633902116864/xXYKdSus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 968,
+          "like_count": 13824,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 950
+        },
+        "url": "",
+        "username": "desanta_1110",
+        "verified": true
+      }
+    ]
+  }
+}

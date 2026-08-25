@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2089915749666283835",
+    "created_at": "2026-08-19T03:21:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T04:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089915749666283835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2088281025604616192",
+          "start": 3,
+          "username": "XunyuX74232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089915749666283835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089912199649378503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XunyuX74232: 关于“三黄人”领导小组第一次碰头会议的会议纪要\n\n会议时间：2026年8月19日 上午十一时\n会议地点：美团黄外卖箱改造会议室\n参会人员：\n\n· 奶龙（黄色系代表团团长，自称“黄人正统”）\n· 美团黄袋鼠（黄色系产业代表，兼会场赞助方）\n· 《…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2089915749666283835",
+        "created_at": "2026-08-19T03:21:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089915749666283835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2088281025604616192",
+              "start": 3,
+              "username": "XunyuX74232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089915749666283835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089912199649378503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XunyuX74232: 关于“三黄人”领导小组第一次碰头会议的会议纪要\n\n会议时间：2026年8月19日 上午十一时\n会议地点：美团黄外卖箱改造会议室\n参会人员：\n\n· 奶龙（黄色系代表团团长，自称“黄人正统”）\n· 美团黄袋鼠（黄色系产业代表，兼会场赞助方）\n· 《…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088281025604616192",
+        "conversation_id": "2089912199649378503",
+        "created_at": "2026-08-19T03:07:51.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089912199649378503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2089909964034936921",
+              "start": 155,
+              "url": "https://t.co/9C2fGUBW2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089912199649378503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于“三黄人”领导小组第一次碰头会议的会议纪要\n\n会议时间：2026年8月19日 上午十一时\n会议地点：美团黄外卖箱改造会议室\n参会人员：\n\n· 奶龙（黄色系代表团团长，自称“黄人正统”）\n· 美团黄袋鼠（黄色系产业代表，兼会场赞助方）\n· 《牛来》（黄色系文化代表，以“不可归类物”身份列席）\n\n会议议题：\n一、关于黄色系视觉符号在互联网生态中的话语权建设\n二、奶龙与黄袋鼠关于“谁更黄”的历史遗留问题讨论（已搁置）\n三、《牛来》是否应被纳入黄色系文化名录（投票结果为“不确定”）\n四、应对“黄人”被滥用及污名化问题的集体表态\n五、关于加强与X平台“牢马”风控系统友好沟通的可行性研究（未达成共识）\n\n会议决议：\n\n1. 奶龙获颁“黄人杰出代表”称号，黄袋鼠获颁“黄色产业模范”，《牛来》获颁“黄色系待定观察员”。\n2. 三方一致认为，黄是一种态度，不是一种分类。\n3. 下次会议择机召开，议题暂定为“如何让牢马承认我们是正规军”。\n\n会议总结：\n黄色，是阳光的颜色，是袋鼠工服的颜色，是奶龙皮肤的颜色，也是《牛来》在观众眼中映出的那一抹说不清道不明的颜色。\n三黄人，团结起来，向前进！\n\n此致\n敬礼\n\n——小黄人\n2026年8月19日"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089909964034936921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于“三黄人”领导小组第一次碰头会议的会议纪要\n\n会议时间：2026年8月19日 上午十一时\n会议地点：美团黄外卖箱改造会议室\n参会人员：\n\n· 奶龙（黄色系代表团团长，自称“黄人正统”）\n· 美团黄袋鼠（黄色系产业代表，兼会场赞助方）\n· 《牛来》（黄色系文化代表，以“不可归类物”身份列席）\n\n会议议题： https://t.co/9C2fGUBW2E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "is_identity_verified": true,
+        "location": "猫猫的火星基地",
+        "most_recent_tweet_id": "2089915749666283835",
+        "name": "翅翅膀喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758324617838788608/1763630424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4274,
+          "following_count": 927,
+          "like_count": 15213,
+          "listed_count": 13,
+          "media_count": 3766,
+          "tweet_count": 9695
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T15:11:27.000Z",
+        "description": "你好，这里是迅羽。交个朋友，如何？\n对外身份标识\n2008.01生人 | 友跨🏳️‍⚧️ | 不聊政治(吗?) | 学习公共写作 | 试图找回自己的声音(哪个?) | 戏谑但有时会过头 | 生活+评论 | 飞猪！| 互fo会考虑成分 |",
+        "id": "2088281025604616192",
+        "is_identity_verified": false,
+        "location": "猜猜看？",
+        "most_recent_tweet_id": "2089915575137079601",
+        "name": "迅羽—Xunyu",
+        "pinned_tweet_id": "2088534942905139671",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088281025604616192/1786722474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088291381316108288/vvw5gD82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 212,
+          "like_count": 1366,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 935
+        },
+        "url": "",
+        "username": "XunyuX74232",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

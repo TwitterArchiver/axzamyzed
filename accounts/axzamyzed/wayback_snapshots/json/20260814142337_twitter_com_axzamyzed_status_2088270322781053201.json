@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2088259207992947088",
+    "created_at": "2026-08-14T14:23:37.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088270322781053201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800905994186432512",
+          "start": 0,
+          "username": "Hoshino_Iroha10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088270322781053201",
+    "in_reply_to_user_id": "1800905994186432512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088264378479173825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Iroha10 这是人家本体（（g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2088259207992947088",
+        "created_at": "2026-08-14T14:23:37.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088270322781053201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800905994186432512",
+              "start": 0,
+              "username": "Hoshino_Iroha10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088270322781053201",
+        "in_reply_to_user_id": "1800905994186432512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088264378479173825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Iroha10 这是人家本体（（g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800905994186432512",
+        "conversation_id": "2088259207992947088",
+        "created_at": "2026-08-14T14:00:00.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088264378479173825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088264378479173825",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088259207992947088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 细节带头套"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "is_identity_verified": true,
+        "location": "猫猫的火星基地",
+        "most_recent_tweet_id": "2088270322781053201",
+        "name": "翅翅膀喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758324617838788608/1763630424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4265,
+          "following_count": 929,
+          "like_count": 15098,
+          "listed_count": 13,
+          "media_count": 3716,
+          "tweet_count": 9612
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-12T15:00:31.000Z",
+        "description": "学生です  跨性别友好🏳️‍⚧️ | ADHD | BMI22.8 | 数码收集癖 | 业余摄影 航拍 | 89648964 | 正體中文🇹🇼 简体中文🇨🇳 日本語🇯🇵正在学 | 不会打音游\n📬 https://t.co/PvmynagsX5\n\n✨人生、二十七で死ねるならロックンロールは僕を救った✨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoshino_iroha10",
+                "end": 121,
+                "expanded_url": "http://ngl.link/hoshino_iroha10",
+                "start": 98,
+                "url": "https://t.co/PvmynagsX5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoshino_iroha10",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoshino_iroha10",
+                "start": 0,
+                "url": "https://t.co/AQCy4BsVsT"
+              }
+            ]
+          }
+        },
+        "id": "1800905994186432512",
+        "is_identity_verified": false,
+        "location": "秦城监狱",
+        "most_recent_tweet_id": "2088270223095017811",
+        "name": "星野いろは",
+        "pinned_tweet_id": "2086681350409753061",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800905994186432512/1780323920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061063208686030848/Ab8l7idB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1316,
+          "like_count": 70409,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 3601
+        },
+        "url": "https://t.co/AQCy4BsVsT",
+        "username": "Hoshino_Iroha10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758324617838788608",
+    "conversation_id": "2086588085140430944",
+    "created_at": "2026-08-10T02:49:41.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086646135045910581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046021140997718017",
+          "start": 0,
+          "username": "Jiushiyio5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086646135045910581",
+    "in_reply_to_user_id": "2046021140997718017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086588708741063090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiushiyio5 你也给我我冷静一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2086588085140430944",
+        "created_at": "2026-08-10T02:49:41.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086646135045910581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046021140997718017",
+              "start": 0,
+              "username": "Jiushiyio5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086646135045910581",
+        "in_reply_to_user_id": "2046021140997718017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086588708741063090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiushiyio5 你也给我我冷静一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046021140997718017",
+        "conversation_id": "2086588085140430944",
+        "created_at": "2026-08-09T23:01:29.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086588708741063090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086588708741063090",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086588085140430944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 处女座"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "is_identity_verified": true,
+        "location": "猫猫的火星基地",
+        "most_recent_tweet_id": "2086646135045910581",
+        "name": "翅翅膀喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758324617838788608/1763630424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4249,
+          "following_count": 933,
+          "like_count": 15014,
+          "listed_count": 13,
+          "media_count": 3673,
+          "tweet_count": 9553
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T00:21:07.000Z",
+        "description": "🇺🇸在洛杉矶生活的哈尔滨人\n🍜认真研究兰州料理\n🤖关注AI和普通人的生活\n分享美国见闻和真实观察",
+        "id": "2046021140997718017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086644377934606402",
+        "name": "亟十一（兰州牛肉面忠实信徒）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057228670792810496/dAydrG-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 2100,
+          "like_count": 9087,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 7079
+        },
+        "url": "",
+        "username": "Jiushiyio5",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
